@@ -4,3 +4,50 @@ site_description: A fanmade wiki for Blaze Black 2 Redux
 site_author: Zero
 
 repo_url: https://github.com/SmilingZero/BlazeBlack2Redux
+
+theme:
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        primary: light-green
+        scheme: default
+        toggle:
+          icon: material/eye-outline
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: green
+        toggle:
+          icon: material/eye
+          name: Switch to light mode
+    name: material
+    features:
+      - content.tabs.link
+
+
+nav:
+- Home: index.md
+- Pokemons:
+    - Pokemon Pages:
+        - 001 - Bulbasaur: pokemons/001.md
+
+
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - toc:
+        permalink: 
+    - admonition
+    - def_list
+    - abbr
+    - footnotes
+    - pymdownx.snippets
+    - pymdownx.tabbed:
+        alternate_style: true
+
+copyright: Maintained by Zero.
+
+plugins:
+    - search:
+        lang: en
