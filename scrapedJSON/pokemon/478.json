@@ -1,0 +1,253 @@
+[
+    {
+        "Index": 477,
+        "Number": 478,
+        "Name": "Froslass",
+        "STATS": {
+            "HP": 70,
+            "ATK": 70,
+            "DEF": 70,
+            "SPA": 110,
+            "SPD": 70,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Ice",
+            "Ghost"
+        ],
+        "Ability": [
+            "Snow Cloak",
+            "Cursed Body",
+            "Cursed Body"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Ice Punch",
+            "Block",
+            "Icy Wind",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 6,
+                "Move": "Spite"
+            },
+            {
+                "Level": 9,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 12,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 15,
+                "Move": "Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Disable"
+            },
+            {
+                "Level": 21,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 24,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 27,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 30,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 33,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 36,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 40,
+                "Move": "Hex"
+            },
+            {
+                "Level": 44,
+                "Move": "Hail"
+            },
+            {
+                "Level": 48,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 52,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 56,
+                "Move": "Shadow Ball"
+            },
+            {
+                "Level": 60,
+                "Move": "Blizzard"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice",
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Rock",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "4x Weak": []
+        }
+    }
+]

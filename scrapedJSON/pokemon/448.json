@@ -1,0 +1,331 @@
+[
+    {
+        "Index": 447,
+        "Number": 448,
+        "Name": "Lucario",
+        "STATS": {
+            "HP": 70,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 115,
+            "SPD": 70,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Fighting",
+            "Steel"
+        ],
+        "Ability": [
+            "Justified",
+            "Steadfast",
+            "Inner Focus"
+        ],
+        "Tutor Moves": [
+            "Dual Chop",
+            "Low Kick",
+            "ThunderPunch",
+            "Ice Punch",
+            "Magnet Rise",
+            "Iron Defense",
+            "Fark Pulse",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Drain Punch",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Aura Sphere"
+            },
+            {
+                "Level": 1,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 1,
+                "Move": "Final Gambit"
+            },
+            {
+                "Level": 1,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 4,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 7,
+                "Move": "Follow Me"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 14,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 18,
+                "Move": "Agility"
+            },
+            {
+                "Level": 22,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 26,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 27,
+                "Move": "Bone Rush"
+            },
+            {
+                "Level": 29,
+                "Move": "Dual Chop"
+            },
+            {
+                "Level": 32,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 35,
+                "Move": "Sky Uppercut"
+            },
+            {
+                "Level": 38,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 42,
+                "Move": "Bullet Punch"
+            },
+            {
+                "Level": 46,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 50,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 54,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 58,
+                "Move": "Meteor Mash"
+            },
+            {
+                "Level": 62,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 66,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 70,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 74,
+                "Move": "High Jump Kick"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Bug",
+                "Rock"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": []
+        }
+    }
+]

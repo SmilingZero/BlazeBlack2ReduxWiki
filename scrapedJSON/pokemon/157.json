@@ -1,0 +1,319 @@
+[
+    {
+        "Index": 156,
+        "Number": 157,
+        "Name": "Typhlosion",
+        "STATS": {
+            "HP": 78,
+            "ATK": 84,
+            "DEF": 78,
+            "SPA": 110,
+            "SPD": 85,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Flash Fire",
+            "Blaze",
+            "Flash Fire"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Blast Burn",
+            "Covet",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Earth Power",
+            "Snore",
+            "Heat Wave",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 14,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 16,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 20,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 22,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 25,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 28,
+                "Move": "Swift"
+            },
+            {
+                "Level": 31,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 37,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 40,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 43,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 46,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 50,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 54,
+                "Move": "Mystical Fire"
+            },
+            {
+                "Level": 58,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 63,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 68,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 77,
+                "Move": "Eruption"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

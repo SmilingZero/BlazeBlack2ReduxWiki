@@ -1,0 +1,264 @@
+[
+    {
+        "Index": 48,
+        "Number": 49,
+        "Name": "Venomoth",
+        "STATS": {
+            "HP": 70,
+            "ATK": 55,
+            "DEF": 60,
+            "SPA": 100,
+            "SPD": 75,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Wonder Skin",
+            "Tinted Lens",
+            "Shield Dust"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Zen Headbutt",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 1,
+                "Move": "Twister"
+            },
+            {
+                "Level": 1,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 5,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 8,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 11,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 14,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 16,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 16,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 16,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 18,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 23,
+                "Move": "Disable"
+            },
+            {
+                "Level": 26,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 29,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 31,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 34,
+                "Move": "Skill Swap"
+            },
+            {
+                "Level": 38,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 42,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 46,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 50,
+                "Move": "Quiver Dance"
+            },
+            {
+                "Level": 54,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 58,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

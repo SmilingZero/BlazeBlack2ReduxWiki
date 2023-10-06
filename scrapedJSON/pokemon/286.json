@@ -1,0 +1,307 @@
+[
+    {
+        "Index": 285,
+        "Number": 286,
+        "Name": "Breloom",
+        "STATS": {
+            "HP": 60,
+            "ATK": 130,
+            "DEF": 80,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Grass",
+            "Fighting"
+        ],
+        "Ability": [
+            "Technician",
+            "Poison Heal",
+            "Technician"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "ThunderPunch",
+            "Superpower",
+            "Iron Tail",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Drain Punch",
+            "Worry Seed",
+            "Helping Hand",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Dynamic Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 4,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 8,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 10,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 12,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 14,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 19,
+                "Move": "Counter"
+            },
+            {
+                "Level": 21,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 24,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 27,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 27,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 27,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 30,
+                "Move": "Sky Uppercut"
+            },
+            {
+                "Level": 34,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 38,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 42,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 46,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 50,
+                "Move": "Force Palm"
+            },
+            {
+                "Level": 54,
+                "Move": "Spore"
+            },
+            {
+                "Level": 58,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 62,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 66,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Flying"
+            ]
+        }
+    }
+]

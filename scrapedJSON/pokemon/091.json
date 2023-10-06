@@ -1,0 +1,210 @@
+[
+    {
+        "Index": 90,
+        "Number": 91,
+        "Name": "Cloyster",
+        "STATS": {
+            "HP": 50,
+            "ATK": 95,
+            "DEF": 180,
+            "SPA": 85,
+            "SPD": 45,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Water",
+            "Ice"
+        ],
+        "Ability": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Defense",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 1,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 1,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 1,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 19,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 31,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 40,
+                "Move": "Razor Shell"
+            },
+            {
+                "Level": 50,
+                "Move": "Twineedle"
+            },
+            {
+                "Level": 58,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 63,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 69,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 74,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 78,
+                "Move": "Shell Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [
+            "Pearl"
+        ],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Ice"
+            ],
+            "0.5x Resist": [
+                "Water"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

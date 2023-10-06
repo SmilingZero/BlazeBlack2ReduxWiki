@@ -1,0 +1,283 @@
+[
+    {
+        "Index": 24,
+        "Number": 25,
+        "Name": "Pikachu",
+        "STATS": {
+            "HP": 40,
+            "ATK": 65,
+            "DEF": 30,
+            "SPA": 65,
+            "SPD": 40,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Static",
+            "Lightningrod",
+            "Lightningrod"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "ThunderPunch",
+            "Magnet Rise",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 1,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 3,
+                "Move": "Charge"
+            },
+            {
+                "Level": 6,
+                "Move": "Sing"
+            },
+            {
+                "Level": 8,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 12,
+                "Move": "Spark"
+            },
+            {
+                "Level": 14,
+                "Move": "Wish"
+            },
+            {
+                "Level": 16,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 18,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 21,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 24,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 27,
+                "Move": "Iron Tail"
+            },
+            {
+                "Level": 30,
+                "Move": "Agility"
+            },
+            {
+                "Level": 34,
+                "Move": "Thunderbolt"
+            },
+            {
+                "Level": 38,
+                "Move": "Teeter Dance"
+            },
+            {
+                "Level": 42,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 46,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 50,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 54,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 58,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 58,
+                "Move": "Meteor Mash"
+            },
+            {
+                "Level": 58,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 62,
+                "Move": "Volt Tackle"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Raichu",
+                "Method": "Use Thunderstone"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        }
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "Index": 183,
+        "Number": 184,
+        "Name": "Azumarill",
+        "STATS": {
+            "HP": 100,
+            "ATK": 50,
+            "DEF": 80,
+            "SPA": 80,
+            "SPD": 80,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Water",
+            "Fairy"
+        ],
+        "Ability": [
+            "Huge Power",
+            "Thick Fat",
+            "Sap Sipper"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Bounce",
+            "Ice Punch",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Curse"
+            },
+            {
+                "Level": 1,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 3,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 6,
+                "Move": "Sing"
+            },
+            {
+                "Level": 8,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 12,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 14,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 18,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 21,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 21,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 25,
+                "Move": "Covet"
+            },
+            {
+                "Level": 29,
+                "Move": "Soak"
+            },
+            {
+                "Level": 33,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 37,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 41,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 45,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 49,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 53,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 57,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 61,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 65,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Poison"
+            ],
+            "4x Weak": []
+        }
+    }
+]

@@ -1,0 +1,330 @@
+[
+    {
+        "Index": 54,
+        "Number": 55,
+        "Name": "Golduck",
+        "STATS": {
+            "HP": 80,
+            "ATK": 82,
+            "DEF": 78,
+            "SPA": 95,
+            "SPD": 80,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Water",
+            "Psychic"
+        ],
+        "Ability": [
+            "Cloud Nine",
+            "Swift Swim",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Low Kick",
+            "Ice Punch",
+            "Icy Wind",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Worry Seed",
+            "Wonder Room",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 6,
+                "Move": "Disable"
+            },
+            {
+                "Level": 8,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 12,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 14,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 18,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 20,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Soak"
+            },
+            {
+                "Level": 24,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 25,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 27,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 29,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 31,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 34,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 37,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 40,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 44,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 48,
+                "Move": "Wave Crash"
+            },
+            {
+                "Level": 52,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 56,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Psychic",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        }
+    }
+]

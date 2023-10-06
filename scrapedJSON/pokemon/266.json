@@ -1,0 +1,76 @@
+[
+    {
+        "Index": 265,
+        "Number": 266,
+        "Name": "Silcoon",
+        "STATS": {
+            "HP": 50,
+            "ATK": 35,
+            "DEF": 55,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Shell Armor",
+            "Shed Skin",
+            "Shed Skin"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Electroweb"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 7,
+                "Move": "Iron Defense"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Beautifly",
+                "Method": "Level 10"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "Index": 196,
+        "Number": 197,
+        "Name": "Umbreon",
+        "STATS": {
+            "HP": 95,
+            "ATK": 65,
+            "DEF": 110,
+            "SPA": 60,
+            "SPD": 130,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Synchronize",
+            "Poison Touch",
+            "Inner Focus"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Foul Play",
+            "Last Resort",
+            "Fark Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heal Bell",
+            "Spite",
+            "Helping Hand",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Night Daze"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Sing"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 1,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 5,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 7,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Swift"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Covet"
+            },
+            {
+                "Level": 24,
+                "Move": "Snarl"
+            },
+            {
+                "Level": 28,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 32,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 36,
+                "Move": "Payback"
+            },
+            {
+                "Level": 40,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 45,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 50,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 55,
+                "Move": "Wish"
+            },
+            {
+                "Level": 60,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 65,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        }
+    }
+]

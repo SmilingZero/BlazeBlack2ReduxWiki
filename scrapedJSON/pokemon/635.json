@@ -1,0 +1,332 @@
+[
+    {
+        "Index": 634,
+        "Number": 635,
+        "Name": "Hydreigon",
+        "STATS": {
+            "HP": 92,
+            "ATK": 105,
+            "DEF": 90,
+            "SPA": 125,
+            "SPD": 90,
+            "SPE": 98
+        },
+        "TYPE": [
+            "Dark",
+            "Dragon"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Signal Beam",
+            "Uproar",
+            "Earth Power",
+            "Superpower",
+            "Aqua Tail",
+            "Fark Pulse",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Roost",
+            "Spite",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 1,
+                "Move": "Iron Tail"
+            },
+            {
+                "Level": 1,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 1,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 1,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 1,
+                "Move": "Stealth Rock"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 12,
+                "Move": "Roar"
+            },
+            {
+                "Level": 16,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 20,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 24,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 28,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 32,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 36,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 40,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 44,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 48,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 54,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 57,
+                "Move": "Head Smash"
+            },
+            {
+                "Level": 58,
+                "Move": "Tri Attack"
+            },
+            {
+                "Level": 62,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 66,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 70,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 70,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Dragon"
+            ],
+            "4x Weak": [
+                "Fairy"
+            ]
+        }
+    }
+]

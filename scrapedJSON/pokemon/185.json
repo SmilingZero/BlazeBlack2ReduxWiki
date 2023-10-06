@@ -1,0 +1,287 @@
+[
+    {
+        "Index": 184,
+        "Number": 185,
+        "Name": "Sudowoodo",
+        "STATS": {
+            "HP": 90,
+            "ATK": 115,
+            "DEF": 125,
+            "SPA": 30,
+            "SPD": 75,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Rock Head",
+            "Rattled"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Earth Power",
+            "Foul Play",
+            "Snore",
+            "Role Play",
+            "After You",
+            "Helping Hand",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Wood Hammer"
+            },
+            {
+                "Level": 1,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 1,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 4,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 7,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 13,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 16,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 19,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 22,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 25,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 26,
+                "Move": "Fire Punch"
+            },
+            {
+                "Level": 26,
+                "Move": "Ice Punch"
+            },
+            {
+                "Level": 26,
+                "Move": "Thunder Punch"
+            },
+            {
+                "Level": 29,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 32,
+                "Move": "Counter"
+            },
+            {
+                "Level": 36,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 40,
+                "Move": "Stealth Rock"
+            },
+            {
+                "Level": 44,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 48,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 52,
+                "Move": "Head Smash"
+            },
+            {
+                "Level": 56,
+                "Move": "Curse"
+            },
+            {
+                "Level": 60,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 64,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": []
+        }
+    }
+]

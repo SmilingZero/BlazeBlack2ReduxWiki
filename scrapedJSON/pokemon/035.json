@@ -1,0 +1,361 @@
+[
+    {
+        "Index": 34,
+        "Number": 35,
+        "Name": "Clefairy",
+        "STATS": {
+            "HP": 70,
+            "ATK": 45,
+            "DEF": 48,
+            "SPA": 60,
+            "SPD": 65,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Fairy"
+        ],
+        "Ability": [
+            "Cute Charm",
+            "Magic Guard",
+            "Friend Guard"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Bounce",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Gravity",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Heal Bell",
+            "Drain Punch",
+            "After You",
+            "Helping Hand",
+            "Trick",
+            "Wonder Room",
+            "Endeavor",
+            "Recycle",
+            "Snatch",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 4,
+                "Move": "Metronome"
+            },
+            {
+                "Level": 7,
+                "Move": "Sing"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 13,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 16,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 19,
+                "Move": "Follow Me"
+            },
+            {
+                "Level": 21,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 23,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 25,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 27,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 29,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 31,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 34,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 38,
+                "Move": "Dazzling Gleam"
+            },
+            {
+                "Level": 42,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 46,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 50,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 54,
+                "Move": "Wish"
+            },
+            {
+                "Level": 58,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 62,
+                "Move": "Meteor Mash"
+            },
+            {
+                "Level": 66,
+                "Move": "Lunar Dance"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Clefable",
+                "Method": "Use Moon Stone"
+            }
+        ],
+        "Items": [
+            "Leppa Berry",
+            "Comet Shard"
+        ],
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Bug",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Steel"
+            ],
+            "4x Weak": []
+        }
+    }
+]

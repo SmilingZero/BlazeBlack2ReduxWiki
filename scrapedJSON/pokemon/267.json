@@ -1,0 +1,237 @@
+[
+    {
+        "Index": 266,
+        "Number": 267,
+        "Name": "Beautifly",
+        "STATS": {
+            "HP": 60,
+            "ATK": 70,
+            "DEF": 57,
+            "SPA": 120,
+            "SPD": 58,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Rivalry",
+            "Swarm",
+            "Rivalry"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Electroweb",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 13,
+                "Move": "Gust"
+            },
+            {
+                "Level": 13,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 15,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 17,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 21,
+                "Move": "Giga Drain"
+            },
+            {
+                "Level": 25,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 29,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 33,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 37,
+                "Move": "Attract"
+            },
+            {
+                "Level": 41,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 45,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 49,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 53,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 57,
+                "Move": "Hurricane"
+            },
+            {
+                "Level": 61,
+                "Move": "Quiver Dance"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        }
+    }
+]

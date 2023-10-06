@@ -1,0 +1,327 @@
+[
+    {
+        "Index": 93,
+        "Number": 94,
+        "Name": "Gengar",
+        "STATS": {
+            "HP": 60,
+            "ATK": 65,
+            "DEF": 60,
+            "SPA": 130,
+            "SPD": 75,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Ghost",
+            "Poison"
+        ],
+        "Ability": [
+            "Levitate",
+            "Cursed Body",
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Foul Play",
+            "Icy Wind",
+            "Fark Pulse",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Pain Split",
+            "Giga Drain",
+            "Drain Punch",
+            "Spite",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 1,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 1,
+                "Move": "Trick"
+            },
+            {
+                "Level": 4,
+                "Move": "Smog"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 13,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 16,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 19,
+                "Move": "Curse"
+            },
+            {
+                "Level": 21,
+                "Move": "Poison Gas"
+            },
+            {
+                "Level": 23,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 24,
+                "Move": "Shadow Punch"
+            },
+            {
+                "Level": 24,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 26,
+                "Move": "Disable"
+            },
+            {
+                "Level": 28,
+                "Move": "Reflect Type"
+            },
+            {
+                "Level": 30,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 33,
+                "Move": "Hex"
+            },
+            {
+                "Level": 36,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 39,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 42,
+                "Move": "Haze"
+            },
+            {
+                "Level": 46,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 50,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 55,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 60,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 65,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [
+                "Poison",
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        }
+    }
+]

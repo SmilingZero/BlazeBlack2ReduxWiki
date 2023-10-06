@@ -1,0 +1,273 @@
+[
+    {
+        "Index": 291,
+        "Number": 292,
+        "Name": "Shedinja",
+        "STATS": {
+            "HP": 1,
+            "ATK": 90,
+            "DEF": 45,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Bug",
+            "Ghost"
+        ],
+        "Ability": [
+            "Wonder Guard",
+            "Wonder Guard",
+            "Wonder Guard"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Snore",
+            "Giga Drain",
+            "Spite",
+            "Trick",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 4,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 6,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 8,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 10,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 12,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 14,
+                "Move": "Gust"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 18,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 20,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 24,
+                "Move": "Trick"
+            },
+            {
+                "Level": 28,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 32,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 36,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 40,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 44,
+                "Move": "Screech"
+            },
+            {
+                "Level": 48,
+                "Move": "Slash"
+            },
+            {
+                "Level": 48,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 52,
+                "Move": "Mind Reader"
+            },
+            {
+                "Level": 56,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 60,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 64,
+                "Move": "Grudge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Poison",
+                "Ground",
+                "Bug"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        }
+    }
+]

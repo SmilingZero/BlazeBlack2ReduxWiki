@@ -1,0 +1,292 @@
+[
+    {
+        "Index": 544,
+        "Number": 545,
+        "Name": "Scolipede",
+        "STATS": {
+            "HP": 60,
+            "ATK": 100,
+            "DEF": 89,
+            "SPA": 55,
+            "SPD": 69,
+            "SPE": 112
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Speed Boost",
+            "Poison Point",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Superpower",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Endeavor",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 1,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 4,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 8,
+                "Move": "Protect"
+            },
+            {
+                "Level": 12,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 14,
+                "Move": "Screech"
+            },
+            {
+                "Level": 16,
+                "Move": "Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Coil"
+            },
+            {
+                "Level": 20,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 23,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 27,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 30,
+                "Move": "Agility"
+            },
+            {
+                "Level": 32,
+                "Move": "Twineedle"
+            },
+            {
+                "Level": 36,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 36,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 40,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 44,
+                "Move": "Poison Tail"
+            },
+            {
+                "Level": 48,
+                "Move": "Steamroller"
+            },
+            {
+                "Level": 52,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 56,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 60,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 64,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 68,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 72,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

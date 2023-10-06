@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 616,
+        "Number": 617,
+        "Name": "Accelgor",
+        "STATS": {
+            "HP": 80,
+            "ATK": 70,
+            "DEF": 40,
+            "SPA": 100,
+            "SPD": 60,
+            "SPE": 145
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Infiltrator",
+            "Unburden",
+            "Sticky Hold"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Snore",
+            "Knock Off",
+            "Giga Drain",
+            "Gastro Acid",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 1,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Protect"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 4,
+                "Move": "Acid"
+            },
+            {
+                "Level": 10,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 20,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 24,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 28,
+                "Move": "Guard Swap"
+            },
+            {
+                "Level": 32,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 39,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 39,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 42,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 45,
+                "Move": "Guard Split"
+            },
+            {
+                "Level": 48,
+                "Move": "Recover"
+            },
+            {
+                "Level": 51,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 54,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 57,
+                "Move": "Power Swap"
+            },
+            {
+                "Level": 60,
+                "Move": "Focus Blast"
+            },
+            {
+                "Level": 63,
+                "Move": "Me First"
+            },
+            {
+                "Level": 66,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

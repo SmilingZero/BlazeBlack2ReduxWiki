@@ -1,0 +1,298 @@
+[
+    {
+        "Index": 541,
+        "Number": 542,
+        "Name": "Leavanny",
+        "STATS": {
+            "HP": 75,
+            "ATK": 103,
+            "DEF": 80,
+            "SPA": 70,
+            "SPD": 80,
+            "SPE": 92
+        },
+        "TYPE": [
+            "Bug",
+            "Grass"
+        ],
+        "Ability": [
+            "Swarm",
+            "Chlorophyll",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Seed Bomb",
+            "Magic Coat",
+            "Iron Defense",
+            "Electroweb",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Heal Bell",
+            "Giga Drain",
+            "Worry Seed",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 7,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 9,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 11,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 14,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 17,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 20,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 22,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 24,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 26,
+                "Move": "Slash"
+            },
+            {
+                "Level": 26,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 29,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 32,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 36,
+                "Move": "Me First"
+            },
+            {
+                "Level": 40,
+                "Move": "Leaf Blade"
+            },
+            {
+                "Level": 44,
+                "Move": "Agility"
+            },
+            {
+                "Level": 48,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 52,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 56,
+                "Move": "Camouflage"
+            },
+            {
+                "Level": 60,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 64,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Ground"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Poison",
+                "Bug",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Fire",
+                "Flying"
+            ]
+        }
+    }
+]

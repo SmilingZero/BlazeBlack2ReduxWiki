@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 404,
+        "Number": 405,
+        "Name": "Luxray",
+        "STATS": {
+            "HP": 80,
+            "ATK": 120,
+            "DEF": 79,
+            "SPA": 95,
+            "SPD": 79,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Electric",
+            "Dark"
+        ],
+        "Ability": [
+            "Guts",
+            "Intimidate",
+            "Guts"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magnet Rise",
+            "Superpower",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 1,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 7,
+                "Move": "Howl"
+            },
+            {
+                "Level": 9,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 11,
+                "Move": "Spark"
+            },
+            {
+                "Level": 14,
+                "Move": "Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 18,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 21,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 21,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 21,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 23,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 26,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 29,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 30,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 33,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 36,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 39,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 43,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 47,
+                "Move": "Wild Charge"
+            },
+            {
+                "Level": 51,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 55,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Volt Tackle"
+            },
+            {
+                "Level": 65,
+                "Move": "Foul Play"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Rock",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Ground",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        }
+    }
+]

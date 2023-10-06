@@ -1,0 +1,281 @@
+[
+    {
+        "Index": 231,
+        "Number": 232,
+        "Name": "Donphan",
+        "STATS": {
+            "HP": 90,
+            "ATK": 120,
+            "DEF": 120,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Ground"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Sturdy",
+            "Sand Veil"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Bounce",
+            "Gunk Shot",
+            "Block",
+            "Earth Power",
+            "Iron Defense",
+            "Last Resort",
+            "Superpower",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 7,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 10,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 13,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 16,
+                "Move": "Flail"
+            },
+            {
+                "Level": 19,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 22,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 25,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 26,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 29,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 32,
+                "Move": "Steamroller"
+            },
+            {
+                "Level": 35,
+                "Move": "Charm"
+            },
+            {
+                "Level": 38,
+                "Move": "Counter"
+            },
+            {
+                "Level": 41,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 44,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 47,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 51,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 55,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 59,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 63,
+                "Move": "Head Smash"
+            },
+            {
+                "Level": 67,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 71,
+                "Move": "Headlong Rush"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "4x Weak": []
+        }
+    }
+]

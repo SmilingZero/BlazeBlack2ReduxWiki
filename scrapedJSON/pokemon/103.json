@@ -1,0 +1,226 @@
+[
+    {
+        "Index": 102,
+        "Number": 103,
+        "Name": "Exeggutor",
+        "STATS": {
+            "HP": 95,
+            "ATK": 95,
+            "DEF": 85,
+            "SPA": 125,
+            "SPD": 75,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Grass",
+            "Psychic"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Harvest",
+            "Harvest"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Low Kick",
+            "Block",
+            "Gravity",
+            "Zen Headbutt",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 1,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 35,
+                "Move": "Wood Hammer"
+            },
+            {
+                "Level": 40,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 50,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 50,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 50,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 60,
+                "Move": "Leaf Storm"
+            },
+            {
+                "Level": 70,
+                "Move": "Soft-Boiled"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        }
+    }
+]

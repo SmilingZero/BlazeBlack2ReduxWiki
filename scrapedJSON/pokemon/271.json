@@ -1,0 +1,293 @@
+[
+    {
+        "Index": 270,
+        "Number": 271,
+        "Name": "Lombre",
+        "STATS": {
+            "HP": 60,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 60,
+            "SPD": 70,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Water",
+            "Grass"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Rain Dish",
+            "Own Tempo"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Drain Punch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 6,
+                "Move": "Counter"
+            },
+            {
+                "Level": 8,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 10,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 12,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 14,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 16,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 21,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 23,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 26,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 29,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 32,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 35,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 38,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 42,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 46,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 50,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 54,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 58,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 62,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ludicolo",
+                "Method": "Use Water Stone"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Water"
+            ],
+            "0.5x Resist": [
+                "Ground",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        }
+    }
+]

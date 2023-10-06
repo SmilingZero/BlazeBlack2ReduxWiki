@@ -1,0 +1,257 @@
+[
+    {
+        "Index": 61,
+        "Number": 62,
+        "Name": "Poliwrath",
+        "STATS": {
+            "HP": 90,
+            "ATK": 105,
+            "DEF": 95,
+            "SPA": 60,
+            "SPD": 90,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Water",
+            "Fighting"
+        ],
+        "Ability": [
+            "Water Absorb",
+            "Swift Swim",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Ice Punch",
+            "Earth Power",
+            "Icy Wind",
+            "Snore",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Dual Chop"
+            },
+            {
+                "Level": 1,
+                "Move": "Lovely Kiss"
+            },
+            {
+                "Level": 1,
+                "Move": "Waterfall"
+            },
+            {
+                "Level": 1,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 15,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 25,
+                "Move": "Circle Throw"
+            },
+            {
+                "Level": 35,
+                "Move": "Dynamic Punch"
+            },
+            {
+                "Level": 40,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 45,
+                "Move": "Circle Throw"
+            },
+            {
+                "Level": 50,
+                "Move": "Storm Throw"
+            },
+            {
+                "Level": 55,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 60,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        }
+    }
+]

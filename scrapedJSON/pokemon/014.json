@@ -1,0 +1,78 @@
+[
+    {
+        "Index": 13,
+        "Number": 14,
+        "Name": "Kakuna",
+        "STATS": {
+            "HP": 45,
+            "ATK": 25,
+            "DEF": 50,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Shed Skin",
+            "Battle Armor",
+            "Shed Skin"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Electroweb"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 7,
+                "Move": "Iron Defense"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Beedrill",
+                "Method": "Level 10"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        }
+    }
+]

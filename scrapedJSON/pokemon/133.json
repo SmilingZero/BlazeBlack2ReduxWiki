@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 132,
+        "Number": 133,
+        "Name": "Eevee",
+        "STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 50,
+            "SPA": 45,
+            "SPD": 65,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Adaptability",
+            "Run Away",
+            "Anticipation"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Last Resort",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heal Bell",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Sing"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 1,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 3,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 5,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 7,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Swift"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Covet"
+            },
+            {
+                "Level": 25,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 28,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 31,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 38,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 42,
+                "Move": "Wish"
+            },
+            {
+                "Level": 46,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 50,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 54,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 58,
+                "Move": "Trump Card"
+            },
+            {
+                "Level": 62,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Leafeon",
+                "Method": "Use Leaf Stone"
+            },
+            {
+                "To": "Glaceon",
+                "Method": "Use Blue Scarf"
+            },
+            {
+                "To": "Jolteon",
+                "Method": "Use Thunderstone"
+            },
+            {
+                "To": "Vaporeon",
+                "Method": "Use Water Stone"
+            },
+            {
+                "To": "Flareon",
+                "Method": "Use Fire Stone"
+            },
+            {
+                "To": "Espeon",
+                "Method": "Use Sun Stone"
+            },
+            {
+                "To": "Umbreon",
+                "Method": "Use Moon Stone"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        }
+    }
+]

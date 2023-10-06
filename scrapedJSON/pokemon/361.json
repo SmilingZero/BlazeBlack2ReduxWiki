@@ -1,0 +1,215 @@
+[
+    {
+        "Index": 360,
+        "Number": 361,
+        "Name": "Snorunt",
+        "STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Ice"
+        ],
+        "Ability": [
+            "Inner Focus",
+            "Ice Body",
+            "Moody"
+        ],
+        "Tutor Moves": [
+            "Block",
+            "Icy Wind",
+            "Snore",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 6,
+                "Move": "Spite"
+            },
+            {
+                "Level": 6,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 12,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 15,
+                "Move": "Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Disable"
+            },
+            {
+                "Level": 21,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 24,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 27,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 30,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 33,
+                "Move": "Frost Breath"
+            },
+            {
+                "Level": 36,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 40,
+                "Move": "Hex"
+            },
+            {
+                "Level": 44,
+                "Move": "Hail"
+            },
+            {
+                "Level": 48,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 52,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 56,
+                "Move": "Blizzard"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Glalie",
+                "Method": "Use Blue Scarf"
+            },
+            {
+                "To": "Froslass",
+                "Method": "Use Dawn Stoneon female"
+            }
+        ],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        }
+    }
+]

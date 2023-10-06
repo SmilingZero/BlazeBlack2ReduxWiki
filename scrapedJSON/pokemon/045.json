@@ -1,0 +1,220 @@
+[
+    {
+        "Index": 44,
+        "Number": 45,
+        "Name": "Vileplume",
+        "STATS": {
+            "HP": 75,
+            "ATK": 80,
+            "DEF": 85,
+            "SPA": 110,
+            "SPD": 90,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Grass",
+            "Poison"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Effect Spore",
+            "Effect Spore"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Drain Punch",
+            "Gastro Acid",
+            "Worry Seed",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 1,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 1,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 1,
+                "Move": "Toxic"
+            },
+            {
+                "Level": 25,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 30,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 36,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 42,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 48,
+                "Move": "Petal Dance"
+            },
+            {
+                "Level": 58,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 68,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "4x Weak": []
+        }
+    }
+]
