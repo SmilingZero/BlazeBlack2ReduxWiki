@@ -1,3 +1,54 @@
+Sleep Talk
+- Effect -> Only usable if the user is sleeping. Randomly selects and uses one of the user's other three moves. Use of the selected move requires and costs 0 PP.
+
+Knock Off
+- Effect -> Target loses its held item. 
+
+Block
+- Effect Long -> The target cannot switch out normally. 
+
+Bind
+- Effect -> For the next 2–5 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. The user continues to use other moves during this time. If the user leaves the field, this effect ends.
+
+Nature Power 
+- Effect -> Uses another move chosen according to the terrain.
+
+Leech Seed 
+- Effect -> Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.
+
+Synthesis
+- Effect -> Heals the user for half its max HP, plus modifiers from weather.
+
+Sunny Day
+- Effect -> Changes the weather to sunshine for five turns.
+
+Light Screen 
+- Effect -> Reduces damage from special attacks by half for five turns. In double battles, the reduction is 1/3.
+
+Reflect
+- Effect -> Reduces damage from physical attacks by half for five turns. In double battles, the reduction is 1/3.
+
+Protect
+- Effect -> No moves will hit the user for the remainder of this turn. If the user is last to act this turn, this move will fail. Success rate drops by 1/2 on successive attempts.
+
+Solar Beam
+- Effect -> User charges for one turn before attacking.
+
+Rest
+- Effect -> User falls to sleep for two turns, replacing any existing non-volatile status ailments, and immediately regains all its HP.
+
+Weather Ball
+- Effect -> If a weather move is active, this move has double power, and its type becomes the type of the weather move. 
+
+Grass Knot
+- Effect -> Power increases with the target's weight in kilograms, to a maximum of 120.
+
+Substitute
+- Effect Long -> Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail. 
+
+Hidden Power
+- Effect Long -> Power and type depend upon user's IVs. Power can range from 30 to 70.
+
 Moonlight
  - Type Normal -> Fairy
 

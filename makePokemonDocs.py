@@ -17,12 +17,16 @@ listOfPokemonFiles = os.listdir(pkmnDir)
 listOfPokemonFiles.sort(key=getint)
 moveList = 'scrapedJSON/ref/moves_with_descriptions.json'
 
+pokemonLinkTextFile = 'pokemonNavLinks.txt'
 
-
-for ind, jsonFile in enumerate(listOfPokemonFiles):
+allLinkText = ''
+for ind, jsonFile in enumerate(tqdm.tqdm(listOfPokemonFiles)):
     with open(pkmnDir+jsonFile) as pkmnFile:
         pkmnInformation = json.load(pkmnFile)
-    outfilename, markdownText = pkmnWriter.getPokemonMarkdown(pkmnInformation)
+    linkText, outfilename, markdownText = pkmnWriter.getPokemonMarkdown(pkmnInformation)
     with open(docOutFolder+outfilename, mode='w') as outputMarkdown:
         outputMarkdown.write(markdownText)
-    print('stop')
+    allLinkText+=linkText
+
+with open(pokemonLinkTextFile, mode = 'w') as plFile:
+    plFile.write(allLinkText)

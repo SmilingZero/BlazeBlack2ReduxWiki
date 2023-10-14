@@ -118,10 +118,6 @@
         "Evolutions": [
             {
                 "To": "Milotic",
-                "Method": "None"
-            },
-            {
-                "To": "Milotic",
                 "Method": "Use Prism Scale"
             }
         ],

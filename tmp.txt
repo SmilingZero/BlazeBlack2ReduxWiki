@@ -1,0 +1,48 @@
+[Articuno]: pokemons/144/
+[Zapdos]: pokemons/145/
+[Moltres]: pokemons/146/
+[Mewtwo]: pokemons/150/
+[Mew]: pokemons/151/
+[Raikou]: pokemons/243/
+[Entei]: pokemons/244/
+[Suicune]: pokemons/245/
+[Lugia]: pokemons/249/
+[Ho-Oh]: pokemons/250/
+[Celebi]: pokemons/251/
+[Regirock]: pokemons/377/
+[Regice]: pokemons/378/
+[Registeel]: pokemons/379/
+[Latias]: pokemons/380/
+[Latios]: pokemons/381/
+[Kyogre]: pokemons/382/
+[Groudon]: pokemons/383/
+[Rayquaza]: pokemons/384/
+[Jirachi]: pokemons/385/
+[Deoxys - Speed]: pokemons/386/
+[Uxie]: pokemons/480/
+[Mesprit]: pokemons/481/
+[Azelf]: pokemons/482/
+[Dialga]: pokemons/483/
+[Palkia]: pokemons/484/
+[Giratina - Origin]: pokemons/487/
+[Arceus]: pokemons/493/
+[Heatran]: pokemons/485/
+[Regigigas]: pokemons/486/
+[Cresselia]: pokemons/488/
+[Darkrai]: pokemons/491/
+[Manaphy]: pokemons/490/
+[Phione]: pokemons/489/
+[Shaymin - Sky]: pokemons/492/
+[Victini]: pokemons/494/
+[Cobalion]: pokemons/638/
+[Terrakion]: pokemons/639/
+[Virizion]: pokemons/640/
+[Tornadus - Therian]: pokemons/641/
+[Thundurus - Therian]: pokemons/642/
+[Landorus - Therian]: pokemons/645/
+[Zekrom]: pokemons/644/
+[Reshiram - Incarnate]: pokemons/643/
+[Kyurem - Black]: pokemons/646/
+[Keldeo - Resolute]: pokemons/647/
+[Meloetta - Pirouette]: pokemons/648/
+[Genesect]: pokemons/649/

@@ -1,0 +1,180 @@
+| Pokémon | Old Type | New Type | Justification |
+|: --- :|: --- :|: --- :|: --- :|
+| ![][005]<br>#005 [Charmeleon] | ![][fire] | ![][fire]<br>![][dragon] | Draconic appearance, gives it useful resistances early on. |
+| ![][006]<br>#006 [Charizard] | ![][fire]<br>![][flying] | ![][fire]<br>![][dragon] | Inherited from Mega form; draconic appearance. |
+| ![][021]<br>#021 [Spearow] | ![][normal]<br>![][flying] | ![][flying] | Mono-Flying gives a defensive niche; extremely rare type combination; Normal-Flying is very common. |
+| ![][022]<br>#022 [Fearow] | ![][normal]<br>![][flying] | ![][flying] | Mono-Flying gives a defensive niche; extremely rare type combination; Normal-Flying is very common. |
+| ![][038]<br>#038 [Ninetales] | ![][fire] | ![][fire]<br>![][fairy] | Inherited from Alola form; generally quite 'mystical' in appearance. |
+| ![][055]<br>#055 [Golduck] | ![][water] | ![][water]<br>![][psychic] | Canonically uses Psychic-type moves; commonly mistaken as a Psychic type. |
+| ![][078]<br>#078 [Rapidash] | ![][fire] | ![][fire]<br>![][fairy] | Inherited from Regional form; fairy-like appearance - unicorn; unique type combo. |
+| ![][083]<br>#083 [Farfetch'd] | ![][normal]<br>![][flying] | ![][fighting]<br>![][flying] | Able to attack using leek as a weapon; gives it a niche over Normal/Flying Pokémon. |
+| ![][090]<br>#090 [Shellder] | ![][water] | ![][water]<br>![][ice] | Ice type introduced early to help break up the trend of few early Ice types. |
+| ![][154]<br>#154 [Meganium] | ![][grass] | ![][grass]<br>![][fairy] | Heavy on the flower aesthetic; heavily voted for by community. |
+| ![][164]<br>#164 [Noctowl] | ![][normal]<br>![][flying] | ![][psychic]<br>![][flying] | Canonically uses Psychic-type moves; commonly thought that it should be a Psychic type. |
+| ![][181]<br>#181 [Ampharos] | ![][electric] | ![][electric]<br>![][dragon] | Inherited from Mega form; Japanese name means "Electric dragon"; was Dragon in early G/S development. |
+| ![][200]<br>#200 [Misdreavus] | ![][ghost] | ![][ghost]<br>![][fairy] | Design inspiration from mythological creatures; mischievous nature; evolved form has a witch aesthetic. |
+| ![][209]<br>#209 [Snubull] | ![][fairy] | ![][fighting]<br>![][fairy] | Voted for by community to fix Hall of Fame crash. Naturally learns lots of Fighting type moves, Unique type combination. |
+| ![][210]<br>#210 [Grabull] | ![][fairy] | ![][fighting]<br>![][fairy] | Voted for by community to fix Hall of Fame crash. Naturally learns lots of Fighting type moves, Unique type combination. Boxer appearance. |
+| ![][216]<br>#216 [Teddiursa] | ![][normal] | ![][normal]<br>![][ground] | Inherited from Legends: Arceus evolution Ursaluna; type combination unique to Gen V games.  |
+| ![][217]<br>#217 [Ursaring] | ![][normal] | ![][normal]<br>![][ground] | Inherited from Legends: Arceus evolution Ursaluna; type combination unique to Gen V games.  |
+| ![][254]<br>#254 [Sceptile] | ![][grass] | ![][grass]<br>![][dragon] | Inherited from Mega form; commonly requested. |
+| ![][284]<br>#284 [Masquerain] | ![][bug]<br>![][flying] | ![][bug]<br>![][water] | Pre-evolution has Water type; Bug/Water is a fairly unique type combo; still looks a lot like Surskit. |
+| ![][313]<br>#313 [Volbeat] | ![][bug] | ![][bug]<br>![][electric] | Learns a lot of Electric attacks; has illumination powers; design looks fitting for Electric. |
+| ![][314]<br>#314 [Illumise] | ![][bug] | ![][bug]<br>![][fairy] | Firefly lights look similar to how other games display the Fairy-type; counterpart to Volbeat. |
+| ![][328]<br>#328 [Trapinch] | ![][ground] | ![][bug]<br>![][ground] | Based on an insect; is in the Bug Egg group; evolved forms also look very Bug-like. |
+| ![][329]<br>#329 [Vibrava] | ![][ground]<br>![][dragon] | ![][bug]<br>![][dragon] | Based on an insect; in Bug Egg group; aesthetic is very Bug-like; learns Bug-type moves; unique type combo. |
+| ![][330]<br>#330 [Flygon] | ![][ground]<br>![][dragon] | ![][bug]<br>![][dragon] | Based on an insect; in Bug Egg group; has Bug-like features; learns Bug-type moves; unique type combo. |
+| ![][333]<br>#333 [Swablu] | ![][normal]<br>![][flying] | ![][fairy]<br>![][flying] | Inherited from Altaria's Mega form; fluffy cloud appearance fits with Fairy. |
+| ![][334]<br>#334 [Altaria] | ![][dragon]<br>![][flying] | ![][dragon]<br>![][fairy] | Inherited from Mega form; fluffy cloud appearance fits with Fairy; common request by community. |
+| ![][354]<br>#354 [Banette] | ![][ghost] | ![][ghost]<br>![][normal] | Heavily requested by community. Grants powerful immunities; unique niche in the game. Was just a normal toy before it was thrown away. |
+| ![][362]<br>#362 [Glalie] | ![][ice] | ![][ice]<br>![][rock] | Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo. |
+| ![][370]<br>#370 [Luvdisc] | ![][water] | ![][water]<br>![][fairy] | Heart and love aesthetic fits with Fairy-type; makes it just a little more noticeable. |
+| ![][405]<br>#405 [Luxray] | ![][electric] | ![][electric]<br>![][dark] | Intimidating look and general dark coloured aesthetic fit with Dark-type; unique type combo. |
+| ![][428]<br>#428 [Lopunny] | ![][normal] | ![][normal]<br>![][fighting] | Inherited from Mega form; has a humanoid appearance and learns lots of Fighting-type moves naturally. |
+| ![][429]<br>#429 [Mismagius] | ![][ghost] | ![][ghost]<br>![][fairy] | Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche. |
+| ![][466]<br>#466 [Electivire] | ![][electric] | ![][electric]<br>![][fighting] | Stats are physically focused; learns lots of Fighting moves naturally; Pokédex states it uses fists. |
+| ![][476]<br>#476 [Probopass] | ![][rock]<br>![][steel] | ![][rock]<br>![][electric] | Suggested by the community and beta testers, unique type combination. Found in electric areas and learns several electric type moves naturally. |
+| ![][480]<br>#480 [Uxie] | ![][psychic] | ![][psychic]<br>![][fairy] | Likely inspired by a pixie, a mythological creature. |
+| ![][481]<br>#481 [Mesprit] | ![][psychic] | ![][psychic]<br>![][fairy] | Likely inspired by a sprite, a mythological creature. |
+| ![][482]<br>#482 [Azelf] | ![][psychic] | ![][psychic]<br>![][fairy] | Likely inspired by a pixie (possibly a gnome..?), a mythological creature. |
+| ![][496]<br>#496 [Servine] | ![][grass] | ![][grass]<br>![][dragon] | Likely inspired by a Mythical Serpent, Quetzalcoatl or a Basilisk; typing found in original Blaze Black 2. |
+| ![][497]<br>#497 [Serperior] | ![][grass] | ![][grass]<br>![][dragon] | Likely inspired by a Mythical Serpent, Quetzalcoatl or a Basilisk; typing found in original Blaze Black 2. |
+| ![][499]<br>#499 [Pignite] | ![][fire]<br>![][fighting] | ![][fire]<br>![][ground] | Likely based on a wild boar; breaks up all the Fire-Fighting starters. |
+| ![][500]<br>#500 [Emboar] | ![][fire]<br>![][fighting] | ![][fire]<br>![][ground] | Likely based on Zhu Bajie, a pig demon or a wild boar; breaks up all the Fire-Fighting starters; chest pattern based on Greek Pottery, earthy. |
+| ![][502]<br>#502 [Dewott] | ![][water] | ![][water]<br>![][fighting] | Based on armoured Japanese Samurai, warriors known for their fighting capabilities; also based on their lifespan, from Child to Military commander. Designed before L:A, but 'Unovan' form seems more fitting of Fighting than Dark all the same. |
+| ![][503]<br>#503 [Samurott] | ![][water] | ![][water]<br>![][fighting] | Based on armoured Japanese Samurai, warriors known for their fighting capabilities; also based on their lifespan, from Child to Military commander. Designed before L:A, but 'Unovan' form seems more fitting of Fighting than Dark all the same. |
+| ![][517]<br>#517 [Munna] | ![][psychic] | ![][psychic]<br>![][fairy] | Flora patterns and round shape very Fairy-like. |
+| ![][518]<br>#518 [Musharna] | ![][psychic] | ![][psychic]<br>![][fairy] | Flora patterns and round shape very Fairy-like, based on incense burner to repel bugs, Fairy resists Bug. |
+| ![][531]<br>#531 [Audino] | ![][normal] | ![][normal]<br>![][fairy] | Inherited from Mega form; possibly based on a depiction of a Fairy, with the butterfly-like ears. |
+| ![][574]<br>#574 [Gothita] | ![][psychic] | ![][psychic]<br>![][dark] | Design based on child in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics. |
+| ![][575]<br>#575 [Gothorita] | ![][psychic] | ![][psychic]<br>![][dark] | Design based on child in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics. |
+| ![][576]<br>#576 [Gothitelle] | ![][psychic] | ![][psychic]<br>![][dark] | Design based on young woman in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics. |
+| ![][584]<br>#584 [Vanilluxe] | ![][ice] | ![][ice]<br>![][fairy] | Candy design, Fairy type Pokémon in later games often have this attribute. Unique type combo. |
+| ![][614]<br>#614 [Beartic] | ![][ice] | ![][ice]<br>![][fighting] | Unique type-combo, up-right design reminiscent of many other Fighting-types. |
+
+
+[Charmeleon]: pokemons/005/ 
+ [005]: img/pokemon/5_0.png 
+[Charizard]: pokemons/006/ 
+ [006]: img/pokemon/6_0.png 
+[Spearow]: pokemons/021/ 
+ [021]: img/pokemon/21_0.png 
+[Fearow]: pokemons/022/ 
+ [022]: img/pokemon/22_0.png 
+[Ninetales]: pokemons/038/ 
+ [038]: img/pokemon/38_0.png 
+[Golduck]: pokemons/055/ 
+ [055]: img/pokemon/55_0.png 
+[Rapidash]: pokemons/078/ 
+ [078]: img/pokemon/78_0.png 
+[Farfetch'd]: pokemons/083/ 
+ [083]: img/pokemon/83_0.png 
+[Shellder]: pokemons/090/ 
+ [090]: img/pokemon/90_0.png 
+[Meganium]: pokemons/154/ 
+ [154]: img/pokemon/154_0.png 
+[Noctowl]: pokemons/164/ 
+ [164]: img/pokemon/164_0.png 
+[Ampharos]: pokemons/181/ 
+ [181]: img/pokemon/181_0.png 
+[Misdreavus]: pokemons/200/ 
+ [200]: img/pokemon/200_0.png 
+[Snubull]: pokemons/209/ 
+ [209]: img/pokemon/209_0.png 
+[Grabull]: pokemons/210/ 
+ [210]: img/pokemon/210_0.png 
+[Teddiursa]: pokemons/216/ 
+ [216]: img/pokemon/216_0.png 
+[Ursaring]: pokemons/217/ 
+ [217]: img/pokemon/217_0.png 
+[Sceptile]: pokemons/254/ 
+ [254]: img/pokemon/254_0.png 
+[Masquerain]: pokemons/284/ 
+ [284]: img/pokemon/284_0.png 
+[Volbeat]: pokemons/313/ 
+ [313]: img/pokemon/313_0.png 
+[Illumise]: pokemons/314/ 
+ [314]: img/pokemon/314_0.png 
+[Trapinch]: pokemons/328/ 
+ [328]: img/pokemon/328_0.png 
+[Vibrava]: pokemons/329/ 
+ [329]: img/pokemon/329_0.png 
+[Flygon]: pokemons/330/ 
+ [330]: img/pokemon/330_0.png 
+[Swablu]: pokemons/333/ 
+ [333]: img/pokemon/333_0.png 
+[Altaria]: pokemons/334/ 
+ [334]: img/pokemon/334_0.png 
+[Banette]: pokemons/354/ 
+ [354]: img/pokemon/354_0.png 
+[Glalie]: pokemons/362/ 
+ [362]: img/pokemon/362_0.png 
+[Luvdisc]: pokemons/370/ 
+ [370]: img/pokemon/370_0.png 
+[Luxray]: pokemons/405/ 
+ [405]: img/pokemon/405_0.png 
+[Lopunny]: pokemons/428/ 
+ [428]: img/pokemon/428_0.png 
+[Mismagius]: pokemons/429/ 
+ [429]: img/pokemon/429_0.png 
+[Electivire]: pokemons/466/ 
+ [466]: img/pokemon/466_0.png 
+[Probopass]: pokemons/476/ 
+ [476]: img/pokemon/476_0.png 
+[Uxie]: pokemons/480/ 
+ [480]: img/pokemon/480_0.png 
+[Mesprit]: pokemons/481/ 
+ [481]: img/pokemon/481_0.png 
+[Azelf]: pokemons/482/ 
+ [482]: img/pokemon/482_0.png 
+[Servine]: pokemons/496/ 
+ [496]: img/pokemon/496_0.png 
+[Serperior]: pokemons/497/ 
+ [497]: img/pokemon/497_0.png 
+[Pignite]: pokemons/499/ 
+ [499]: img/pokemon/499_0.png 
+[Emboar]: pokemons/500/ 
+ [500]: img/pokemon/500_0.png 
+[Dewott]: pokemons/502/ 
+ [502]: img/pokemon/502_0.png 
+[Samurott]: pokemons/503/ 
+ [503]: img/pokemon/503_0.png 
+[Munna]: pokemons/517/ 
+ [517]: img/pokemon/517_0.png 
+[Musharna]: pokemons/518/ 
+ [518]: img/pokemon/518_0.png 
+[Audino]: pokemons/531/ 
+ [531]: img/pokemon/531_0.png 
+[Gothita]: pokemons/574/ 
+ [574]: img/pokemon/574_0.png 
+[Gothorita]: pokemons/575/ 
+ [575]: img/pokemon/575_0.png 
+[Gothitelle]: pokemons/576/ 
+ [576]: img/pokemon/576_0.png 
+[Vanilluxe]: pokemons/584/ 
+ [584]: img/pokemon/584_0.png 
+[Beartic]: pokemons/614/ 
+ [614]: img/pokemon/614_0.png 
+[types.afphoto]: img/type/types.afphoto
+[physical]: img/type/physical.png
+[dark]: img/type/dark.png
+[fire]: img/type/fire.png
+[dragon]: img/type/dragon.png
+[electric]: img/type/electric.png
+[fairy]: img/type/fairy.png
+[damange_classes.afphoto]: img/type/damange_classes.afphoto
+[rock]: img/type/rock.png
+[ghost]: img/type/ghost.png
+[poison]: img/type/poison.png
+[flying]: img/type/flying.png
+[grass]: img/type/grass.png
+[special]: img/type/special.png
+[status]: img/type/status.png
+[ice]: img/type/ice.png
+[water]: img/type/water.png
+[ground]: img/type/ground.png
+[normal]: img/type/normal.png
+[psychic]: img/type/psychic.png
+[bug]: img/type/bug.png
+[fighting]: img/type/fighting.png
+[steel]: img/type/steel.png

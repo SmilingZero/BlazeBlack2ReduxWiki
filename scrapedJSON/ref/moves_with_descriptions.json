@@ -196,7 +196,7 @@
         "Accuracy": 85,
         "Type": "normal",
         "Damage Class": "physical",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. The user continues to use other moves during this time. If the user leaves the field, this effect ends.",
         "Priority": 0
     },
     {
@@ -726,7 +726,7 @@
         "Accuracy": 90,
         "Type": "grass",
         "Damage Class": "status",
-        "Effect": "Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.  Has no effect on grass Pok\u00e9mon.  The seed remains until the target leaves the field.\n\nThe user takes damage instead of being healed if the target has liquid ooze.\n\nrapid spin will remove this effect.\n\nThis effect is passed on by baton pass.",
+        "Effect": "Plants a seed on the target that drains 1/8 of its max HP at the end of every turn and heals the user for the amount taken.",
         "Priority": 0
     },
     {
@@ -756,7 +756,7 @@
         "Accuracy": 100,
         "Type": "grass",
         "Damage Class": "special",
-        "Effect": "User charges for one turn before attacking.\n\nDuring sunny day, the charge turn is skipped.\n\nDuring hail, rain dance, or sandstorm, power is halved.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User charges for one turn before attacking.",
         "Priority": 0
     },
     {
@@ -1126,7 +1126,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "Erects a barrier around the user's side of the field that reduces damage from special attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier.",
+        "Effect": "Reduces damage from special attacks by half for five turns. In double battles, the reduction is 1/3.",
         "Priority": 0
     },
     {
@@ -1146,7 +1146,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "Erects a barrier around the user's side of the field that reduces damage from physical attacks by half for five turns.  In double battles, the reduction is 1/3.  Critical hits are not affected by the barrier.\n\nIf the user is holding light clay, the barrier lasts for eight turns.\n\nbrick break or defog used by an opponent will destroy the barrier.",
+        "Effect": "Reduces damage from physical attacks by half for five turns. In double battles, the reduction is 1/3.",
         "Priority": 0
     },
     {
@@ -1556,7 +1556,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "User falls to sleep and immediately regains all its HP.  If the user has another major status effect, sleep will replace it.  The user will always wake up after two turns, or one turn with early bird.\n\nThis move fails if the Pok\u00e9mon cannot fall asleep due to uproar, insomnia, or vital spirit.  It also fails if the Pok\u00e9mon is at full health or is already asleep.",
+        "Effect": "User falls to sleep for two turns, replacing any existing non-volatile status ailments, and immediately regains all its HP.",
         "Priority": 0
     },
     {
@@ -1636,7 +1636,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.  If the user leaves the field, the doll will vanish.  If the user cannot pay the HP cost, this move will fail.\n\nThe doll takes damage as normal, using the user's stats and types, and will break when its HP reaches zero.  Self-inflicted damage from confusion or recoil is not absorbed.  Healing effects from opponents ignore the doll and heal the user as normal.  Moves that work based on the user's HP still do so; the doll's HP does not influence any move.\n\nThe doll will block major status effects, confusion, and flinching.  The effects of smelling salts and wake up slap do not trigger against a doll, even if the Pok\u00e9mon behind the doll has the appropriate major status effect.  Multi-turn trapping moves like wrap will hit the doll for their regular damage, but the multi-turn trapping and damage effects will not activate.\n\nMoves blocked or damage absorbed by the doll do not count as hitting the user or inflicting damage for any effects that respond to such, e.g., avalanche, counter, or a rowap berry.  magic coat still works as normal, even against moves the doll would block.  Opposing Pok\u00e9mon that damage the doll with a leech move like absorb are healed as normal.\n\nIt will also block acupressure, block, the curse effect of curse, dream eater, embargo, flatter, gastro acid, grudge, heal block, leech seed, lock on, mean look, mimic, mind reader, nightmare, pain split, psycho shift, spider web, sketch, swagger, switcheroo, trick, worry seed, and yawn.  A Pok\u00e9mon affected by yawn before summoning the doll will still fall to sleep.\n\nThe doll blocks intimidate, but all other abilities act as though the doll did not exist.  If the user has an ability that absorbs moves of a certain type for HP (such as volt absorb absorbing thunder wave), such moves will not be blocked.\n\nlife orb and berries that cause confusion still work as normal, but their respective HP loss and confusion are absorbed/blocked by the doll.\n\nThe user is still vulnerable to damage inflicted when entering or leaving the field, such as by pursuit or spikes; however, the doll will block the poison effect of toxic spikes.\n\nThe doll is passed on by baton pass.  It keeps its existing HP, but uses the replacement Pok\u00e9mon's stats and types for damage calculation.\n\nAll other effects work as normal.",
+        "Effect": "Transfers 1/4 the user's max HP into a doll that absorbs damage and causes most negative move effects to fail.",
         "Priority": 0
     },
     {
@@ -1816,7 +1816,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nlock on, mind reader, and no guard provide a (100 \u2013 accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.\n\nthunder during rain dance and blizzard during hail have a 30% chance to break through this move.\n\nThe following effects are not prevented by this move:\n\n* acupressure from an ally\n* curse's curse effect\n* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn\n* feint, which will also end this move's protection after it hits\n* imprison\n* perish song\n* shadow force\n* Moves that merely copy the user, such as transform or psych up\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "No moves will hit the user for the remainder of this turn. If the user is last to act this turn, this move will fail. Success rate drops by 1/2 on successive attempts.",
         "Priority": 4
     },
     {
@@ -2136,7 +2136,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Only usable if the user is sleeping.  Randomly selects and uses one of the user's other three moves.  Use of the selected move requires and costs 0 PP.\n\nThis move will not select assist, bide, bounce, chatter, copycat, dig, dive, fly, focus punch, me first, metronome, mirror move, shadow force, skull bash, sky attack, sky drop, sleep talk, solar beam, razor wind, or uproar.\n\nIf the selected move requires a recharge turn\u2014i.e., one of blast burn, frenzy plant, giga impact, hydro cannon, hyper beam, roar of time, or rock wrecker\u2014and the user is still sleeping next turn, then it's forced to use this move again and pay another PP for the recharge turn.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "Only usable if the user is sleeping. Randomly selects and uses one of the user's other three moves. Use of the selected move requires and costs 0 PP.",
         "Priority": 0
     },
     {
@@ -2346,7 +2346,7 @@
         "Accuracy": null,
         "Type": "grass",
         "Damage Class": "status",
-        "Effect": "Heals the user for half its max HP.\n\nDuring sunny day, the healing is increased to 2/3 max HP.\n\nDuring hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP.",
+        "Effect": "Heals the user for half its max HP, plus modifiers from weather.",
         "Priority": 0
     },
     {
@@ -2366,7 +2366,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "special",
-        "Effect": "Power and type are determined by the user's IVs.\n\nPower is given by `x * 40 / 63 + 30`.  `x` is obtained by arranging bit 1 from the IV for each of Special Defense, Special Attack, Speed, Defense, Attack, and HP in that order.  (Bit 1 is 1 if the IV is of the form `4n + 2` or `4n + 3`.  `x` is then 64 * Special Defense IV bit 1, plus 32 * Special Attack IV bit 1, etc.)\n\nPower is always between 30 and 70, inclusive.  Average power is 49.5.\n\nType is given by `y * 15 / 63`, where `y` is similar to `x` above, except constructed from bit 0.  (Bit 0 is 1 if the IV is odd.)  The result is looked up in the following table.\n\nValue | Type\n----: | --------\n    0 | fighting\n    1 | flying\n    2 | poison\n    3 | ground\n    4 | rock\n    5 | bug\n    6 | ghost\n    7 | steel\n    8 | fire\n    9 | water\n   10 | grass\n   11 | electric\n   12 | psychic\n   13 | ice\n   14 | dragon\n   15 | dark\n\nThis move thus cannot be normal.  Most other types have an equal 1/16 chance to be selected, given random IVs.  However, due to the flooring used here, bug, fighting, and grass appear 5/64 of the time, and dark only 1/64 of the time.",
+        "Effect": "Power and type depend upon user's IVs. Power can range from 30 to 70.",
         "Priority": 0
     },
     {
@@ -2406,7 +2406,7 @@
         "Accuracy": null,
         "Type": "fire",
         "Damage Class": "status",
-        "Effect": "Changes the weather to sunshine for five turns, during which fire moves inflict 50% extra damage, and water moves inflict half damage.\n\nIf the user is holding heat rock, this effect lasts for eight turns.\n\nPok\u00e9mon cannot become frozen.\n\nthunder has 50% accuracy.\n\nsolar beam skips its charge turn.\n\nmoonlight, morning sun, and synthesis heal 2/3 of the user's max HP.\n\nPok\u00e9mon with chlorophyll have doubled original Speed.\n\nPok\u00e9mon with forecast become fire.\n\nPok\u00e9mon with leaf guard are not affected by major status effects.\n\nPok\u00e9mon with flower gift change form; every Pok\u00e9mon on their side of the field have their original Attack and Special Attack increased by 50%.\n\nPok\u00e9mon with dry skin lose 1/8 max HP at the end of each turn.\n\nPok\u00e9mon with solar power have their original Special Attack raised by 50% but lose 1/8 their max HP at the end of each turn.",
+        "Effect": "Changes the weather to sunshine for five turns.",
         "Priority": 0
     },
     {
@@ -2666,7 +2666,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Uses another move chosen according to the terrain.\n\nTerrain                   | Selected move\n------------------------- | ------------------\nBuilding                  | tri attack\nCave                      | rock slide\nDeep water                | hydro pump\nDesert                    | earthquake\nGrass                     | seed bomb\nMountain                  | rock slide\nRoad                      | earthquake\nShallow water             | hydro pump\nSnow                      | blizzard\nTall grass                | seed bomb\nelectric terrain | thunderbolt\ngrassy terrain   | energy ball\nmisty terrain    | moonblast\n\nIn Pok\u00e9mon Battle Revolution:\n\nTerrain        | Selected move\n-------------- | ------------------\nCourtyard      | tri attack\nCrystal        | rock slide\nGateway        | hydro pump\nMagma          | rock slide\nMain Street    | tri attack\nNeon           | tri attack\nStargazer      | rock slide\nSunny Park     | seed bomb\nSunset         | earthquake\nWaterfall      | seed bomb\n\nThis move cannot be copied by mirror move.",
+        "Effect": "Uses another move chosen according to the terrain.",
         "Priority": 0
     },
     {
@@ -2816,7 +2816,7 @@
         "Accuracy": 100,
         "Type": "dark",
         "Damage Class": "physical",
-        "Effect": "Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item.",
+        "Effect": "Target loses its held item.",
         "Priority": 0
     },
     {
@@ -3106,7 +3106,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "special",
-        "Effect": "If a weather move is active, this move has double power, and its type becomes the type of the weather move.  shadow sky is typeless for the purposes of this move.",
+        "Effect": "If a weather move is active, this move has double power, and its type becomes the type of the weather move.",
         "Priority": 0
     },
     {
@@ -3346,7 +3346,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass.",
+        "Effect": "The target cannot switch out normally.",
         "Priority": 0
     },
     {
@@ -4466,7 +4466,7 @@
         "Accuracy": 100,
         "Type": "grass",
         "Damage Class": "special",
-        "Effect": "Power increases with the target's weight in kilograms, to a maximum of 120.\n\nTarget's weight | Power\n--------------- | ----:\nUp to 10kg      |    20\nUp to 25kg      |    40\nUp to 50kg      |    60\nUp to 100kg     |    80\nUp to 200kg     |   100\nAbove 200kg     |   120",
+        "Effect": "Power increases with the target's weight in kilograms, to a maximum of 120.",
         "Priority": 0
     },
     {

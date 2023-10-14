@@ -1,0 +1,53 @@
+Pokémon                 Old Type            New Type                Justification
+  ---                     ---                 ---                     ---
+#005 Charmeleon         Fire                Fire / Dragon           Draconic appearance, gives it useful resistances early on.
+#006 Charizard          Fire / Flying       Fire / Dragon           Inherited from Mega form; draconic appearance.
+#021 Spearow            Normal / Flying     Flying                  Mono-Flying gives a defensive niche; extremely rare type combination; Normal-Flying is very common.
+#022 Fearow             Normal / Flying     Flying                  Mono-Flying gives a defensive niche; extremely rare type combination; Normal-Flying is very common.
+#038 Ninetales          Fire                Fire / Fairy            Inherited from Alola form; generally quite 'mystical' in appearance.
+#055 Golduck            Water               Water / Psychic         Canonically uses Psychic-type moves; commonly mistaken as a Psychic type.
+#078 Rapidash           Fire                Fire / Fairy            Inherited from Regional form; fairy-like appearance - unicorn; unique type combo.
+#083 Farfetch'd         Normal / Flying     Fighting / Flying       Able to attack using leek as a weapon; gives it a niche over Normal/Flying Pokémon.
+#090 Shellder           Water               Water / Ice             Ice type introduced early to help break up the trend of few early Ice types.
+#154 Meganium           Grass               Grass / Fairy           Heavy on the flower aesthetic; heavily voted for by community.
+#164 Noctowl            Normal / Flying     Psychic / Flying        Canonically uses Psychic-type moves; commonly thought that it should be a Psychic type.
+#181 Ampharos           Electric            Electric / Dragon       Inherited from Mega form; Japanese name means "Electric dragon"; was Dragon in early G/S development.
+#200 Misdreavus         Ghost               Ghost / Fairy           Design inspiration from mythological creatures; mischievous nature; evolved form has a witch aesthetic.
+#209 Snubull            Fairy               Fighting / Fairy        Voted for by community to fix Hall of Fame crash. Naturally learns lots of Fighting type moves, Unique type combination.
+#210 Grabull            Fairy               Fighting / Fairy        Voted for by community to fix Hall of Fame crash. Naturally learns lots of Fighting type moves, Unique type combination. Boxer appearance.
+#216 Teddiursa          Normal              Normal / Ground         Inherited from Legends: Arceus evolution Ursaluna; type combination unique to Gen V games. 
+#217 Ursaring           Normal              Normal / Ground         Inherited from Legends: Arceus evolution Ursaluna; type combination unique to Gen V games. 
+#254 Sceptile           Grass               Grass / Dragon          Inherited from Mega form; commonly requested.
+#284 Masquerain         Bug / Flying        Bug / Water             Pre-evolution has Water type; Bug/Water is a fairly unique type combo; still looks a lot like Surskit.
+#313 Volbeat            Bug                 Bug / Electric          Learns a lot of Electric attacks; has illumination powers; design looks fitting for Electric.
+#314 Illumise           Bug                 Bug / Fairy             Firefly lights look similar to how other games display the Fairy-type; counterpart to Volbeat.
+#328 Trapinch           Ground              Bug / Ground            Based on an insect; is in the Bug Egg group; evolved forms also look very Bug-like.
+#329 Vibrava            Ground / Dragon     Bug / Dragon            Based on an insect; in Bug Egg group; aesthetic is very Bug-like; learns Bug-type moves; unique type combo.
+#330 Flygon             Ground / Dragon     Bug / Dragon            Based on an insect; in Bug Egg group; has Bug-like features; learns Bug-type moves; unique type combo.
+#333 Swablu             Normal / Flying     Fairy / Flying          Inherited from Altaria's Mega form; fluffy cloud appearance fits with Fairy.
+#334 Altaria            Dragon / Flying     Dragon / Fairy          Inherited from Mega form; fluffy cloud appearance fits with Fairy; common request by community.
+#354 Banette            Ghost               Ghost / Normal          Heavily requested by community. Grants powerful immunities; unique niche in the game. Was just a normal toy before it was thrown away.
+#362 Glalie             Ice                 Ice / Rock              Pokédex entries state Glalie has a body made of rock with ice on top; unique type combo.
+#370 Luvdisc            Water               Water / Fairy           Heart and love aesthetic fits with Fairy-type; makes it just a little more noticeable.
+#405 Luxray             Electric            Electric / Dark         Intimidating look and general dark coloured aesthetic fit with Dark-type; unique type combo.
+#428 Lopunny            Normal              Normal / Fighting       Inherited from Mega form; has a humanoid appearance and learns lots of Fighting-type moves naturally.
+#429 Mismagius          Ghost               Ghost / Fairy           Inspired by witches and mages from fairy tales; unique type combo; gives it a specific niche.
+#466 Electivire         Electric            Electric / Fighting     Stats are physically focused; learns lots of Fighting moves naturally; Pokédex states it uses fists.
+#476 Probopass          Rock / Steel        Rock / Electric         Suggested by the community and beta testers, unique type combination. Found in electric areas and learns several electric type moves naturally.
+#480 Uxie               Psychic             Psychic / Fairy         Likely inspired by a pixie, a mythological creature.
+#481 Mesprit            Psychic             Psychic / Fairy         Likely inspired by a sprite, a mythological creature.
+#482 Azelf              Psychic             Psychic / Fairy         Likely inspired by a pixie (possibly a gnome..?), a mythological creature.
+#496 Servine            Grass               Grass / Dragon          Likely inspired by a Mythical Serpent, Quetzalcoatl or a Basilisk; typing found in original Blaze Black 2.
+#497 Serperior          Grass               Grass / Dragon          Likely inspired by a Mythical Serpent, Quetzalcoatl or a Basilisk; typing found in original Blaze Black 2.
+#499 Pignite            Fire / Fighting     Fire / Ground           Likely based on a wild boar; breaks up all the Fire-Fighting starters.
+#500 Emboar             Fire / Fighting     Fire / Ground           Likely based on Zhu Bajie, a pig demon or a wild boar; breaks up all the Fire-Fighting starters; chest pattern based on Greek Pottery, earthy.
+#502 Dewott             Water               Water / Fighting        Based on armoured Japanese Samurai, warriors known for their fighting capabilities; also based on their lifespan, from Child to Military commander. Designed before L:A, but 'Unovan' form seems more fitting of Fighting than Dark all the same.
+#503 Samurott           Water               Water / Fighting        Based on armoured Japanese Samurai, warriors known for their fighting capabilities; also based on their lifespan, from Child to Military commander. Designed before L:A, but 'Unovan' form seems more fitting of Fighting than Dark all the same.
+#517 Munna              Psychic             Psychic / Fairy         Flora patterns and round shape very Fairy-like.
+#518 Musharna           Psychic             Psychic / Fairy         Flora patterns and round shape very Fairy-like, based on incense burner to repel bugs, Fairy resists Bug.
+#531 Audino             Normal              Normal / Fairy          Inherited from Mega form; possibly based on a depiction of a Fairy, with the butterfly-like ears.
+#574 Gothita            Psychic             Psychic / Dark          Design based on child in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics.
+#575 Gothorita          Psychic             Psychic / Dark          Design based on child in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics.
+#576 Gothitelle         Psychic             Psychic / Dark          Design based on young woman in Gothic style clothing, commonly associated with alternate culture and Dark aesthetics.
+#584 Vanilluxe          Ice                 Ice / Fairy             Candy design, Fairy type Pokémon in later games often have this attribute. Unique type combo.
+#614 Beartic            Ice                 Ice / Fighting          Unique type-combo, up-right design reminiscent of many other Fighting-types.

@@ -58,12 +58,12 @@
         "Other Form Index": [],
         "Evolutions": [
             {
-                "To": "Wormadam",
-                "Method": "Level 25"
+                "To": "Wormadam - Plant",
+                "Method": "Female, Level 25"
             },
             {
                 "To": "Mothim",
-                "Method": "Level 25"
+                "Method": "Male, Level 25"
             }
         ],
         "Items": [],
