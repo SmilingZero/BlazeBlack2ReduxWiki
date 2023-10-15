@@ -1,0 +1,487 @@
+| Pokémon | New Method | Evolution |
+|: --- :|: --- :|: --- :|
+| ![][021]<br>#021<br>[Spearow] | at Level 21. | ![][022]<br>#022<br>[Fearow] |
+| ![][023]<br>#023<br>[Ekans] | at Level 21. | ![][024]<br>#024<br>[Arbok] |
+| ![][048]<br>#048<br>[Venonat] | at Level 28. | ![][049]<br>#049<br>[Venomoth] |
+| ![][054]<br>#054<br>[Psyduck] | at Level 25. | ![][055]<br>#055<br>[Golduck] |
+| ![][061]<br>#061<br>[Poliwhirl] | ![][kingsrock]<br>King's Rock | ![][186]<br>#186<br>[Politoed] |
+| ![][064]<br>#064<br>[Kadabra] | ![][linkcable]<br>Link Cable | ![][065]<br>#065<br>[Alakazam] |
+| ![][067]<br>#067<br>[Machoke] | ![][linkcable]<br>Link Cable | ![][068]<br>#068<br>[Machamp] |
+| ![][075]<br>#075<br>[Graveler] | ![][linkcable]<br>Link Cable | ![][076]<br>#076<br>[Golem] |
+| ![][077]<br>#077<br>[Ponyta] | at Level 35. | ![][078]<br>#078<br>[Rapidash] |
+| ![][079]<br>#079<br>[Slowpoke] | at Level 33. | ![][080]<br>#080<br>[Slowbro] |
+| ![][079]<br>#079<br>[Slowpoke] | ![][kingsrock]<br>King's Rock | ![][199]<br>#199<br>[Slowking] |
+| ![][088]<br>#088<br>[Grimer] | at Level 35. | ![][089]<br>#089<br>[Muk] |
+| ![][093]<br>#093<br>[Haunter] | ![][linkcable]<br>Link Cable | ![][094]<br>#094<br>[Gengar] |
+| ![][095]<br>#095<br>[Onix] | ![][metalcoat]<br>Metal Coat | ![][208]<br>#208<br>[Steelix] |
+| ![][104]<br>#104<br>[Cubone] | at Level 27. | ![][105]<br>#105<br>[Marowak] |
+| ![][111]<br>#111<br>[Rhyhorn] | at Level 36. | ![][112]<br>#112<br>[Rhydon] |
+| ![][112]<br>#112<br>[Rhydon] | ![][protector]<br>Protector | ![][464]<br>#464<br>[Rhyperior] |
+| ![][117]<br>#117<br>[Seadra] | ![][dragonscale]<br>Dragon Scale | ![][230]<br>#230<br>[Kingdra] |
+| ![][123]<br>#123<br>[Scyther] | ![][metalcoat]<br>Metal Coat | ![][212]<br>#212<br>[Scizor] |
+| ![][125]<br>#125<br>[Electabuzz] | ![][electirizer]<br>Electirizer | ![][466]<br>#466<br>[Electivire] |
+| ![][126]<br>#126<br>[Magmar] | ![][magmarizer]<br>Magmarizer | ![][467]<br>#467<br>[Magmortar] |
+| ![][133]<br>#133<br>[Eevee] | ![][sunstone]<br>Sun Stone | ![][196]<br>#196<br>[Espeon] |
+| ![][133]<br>#133<br>[Eevee] | ![][moonstone]<br>Moon Stone | ![][197]<br>#197<br>[Umbreon] |
+| ![][133]<br>#133<br>[Eevee] | ![][leafstone]<br>Leaf Stone | ![][470]<br>#470<br>[Leafeon] |
+| ![][133]<br>#133<br>[Eevee] | ![][icestone]<br>Ice Stone | ![][471]<br>#471<br>[Glaceon] |
+| ![][137]<br>#137<br>[Porygon] | ![][upgrade]<br>Up-Grade | ![][233]<br>#233<br>[Porygon2] |
+| ![][138]<br>#138<br>[Omanyte] | at Level 30. | ![][139]<br>#139<br>[Omastar] |
+| ![][140]<br>#140<br>[Kabuto] | at Level 30. | ![][141]<br>#141<br>[Kabutops] |
+| ![][183]<br>#183<br>[Marill] | at Level 21. | ![][184]<br>#184<br>[Azumarill] |
+| ![][207]<br>#207<br>[Gligar] | ![][razorfang]<br>Razor Fang | ![][472]<br>#472<br>[Gliscor] |
+| ![][215]<br>#215<br>[Sneasel] | ![][razorclaw]<br>Razor Claw | ![][461]<br>#461<br>[Weavile] |
+| ![][218]<br>#218<br>[Slugma] | at Level 30. | ![][219]<br>#219<br>[Magcargo] |
+| ![][220]<br>#220<br>[Swinub] | at Level 29. | ![][221]<br>#221<br>[Piloswine] |
+| ![][233]<br>#233<br>[Porygon2] | ![][dubiousdisc]<br>Dubious Disc | ![][474]<br>#474<br>[Porygon-Z] |
+| ![][239]<br>#239<br>[Elekid] | at Level 29. | ![][125]<br>#125<br>[Electabuzz] |
+| ![][240]<br>#240<br>[Magby] | at Level 29. | ![][126]<br>#126<br>[Magmar] |
+| ![][285]<br>#285<br>[Shroomish] | at Level 21. | ![][286]<br>#286<br>[Breloom] |
+| ![][300]<br>#300<br>[Skitty] | at Level 25. | ![][301]<br>#301<br>[Delcatty] |
+| ![][304]<br>#304<br>[Aron] | at Level 24. | ![][305]<br>#305<br>[Lairon] |
+| ![][305]<br>#305<br>[Lairon] | at Level 40. | ![][306]<br>#306<br>[Aggron] |
+| ![][307]<br>#307<br>[Meditite] | at Level 34. | ![][308]<br>#308<br>[Medicham] |
+| ![][318]<br>#318<br>[Carvanha] | at Level 26. | ![][319]<br>#319<br>[Sharpedo] |
+| ![][328]<br>#328<br>[Trapinch] | at Level 30. | ![][329]<br>#329<br>[Vibrava] |
+| ![][329]<br>#329<br>[Vibrava] | at Level 55. | ![][330]<br>#330<br>[Flygon] |
+| ![][345]<br>#345<br>[Lileep] | at Level 30. | ![][346]<br>#346<br>[Cradily] |
+| ![][347]<br>#347<br>[Anorith] | at Level 30. | ![][348]<br>#348<br>[Armaldo] |
+| ![][349]<br>#349<br>[Feebas] | ![][prismscale]<br>Prism Scale | ![][350]<br>#350<br>[Milotic] |
+| ![][353]<br>#353<br>[Shuppet] | at Level 32. | ![][354]<br>#354<br>[Banette] |
+| ![][355]<br>#355<br>[Duskull] | at Level 32. | ![][356]<br>#356<br>[Dusclops] |
+| ![][356]<br>#356<br>[Dusclops] | ![][reapercloth]<br>Reaper Cloth | ![][477]<br>#477<br>[Dusknoir] |
+| ![][361]<br>#361<br>[Snorunt] | ![][icestone]<br>Ice Stone | ![][362]<br>#362<br>[Glalie] |
+| ![][363]<br>#363<br>[Spheal] | at Level 16. | ![][364]<br>#364<br>[Sealeo] |
+| ![][364]<br>#364<br>[Sealeo] | at Level 40. | ![][365]<br>#365<br>[Walrein] |
+| ![][366]<br>#366<br>[Clamperl] | ![][deepseatooth]<br>Deep Sea Tooth | ![][367]<br>#367<br>[Huntail] |
+| ![][366]<br>#366<br>[Clamperl] | ![][deepseascale]<br>Deep Sea Scale | ![][368]<br>#368<br>[Gorebyss] |
+| ![][406]<br>#406<br>[Budew] | Friendship At Any Time of Day | ![][315]<br>#315<br>[Roselia] |
+| ![][412]<br>#412<br>[Burmy] | at Level 25 if Burmy is female. | ![][413]<br>#413<br>[Wormadam] |
+| ![][412]<br>#412<br>[Burmy] | at Level 25 if Burmy is male. | ![][414]<br>#414<br>[Mothim] |
+| ![][420]<br>#420<br>[Cherubi] | at Level 18. | ![][421]<br>#421<br>[Cherrim] |
+| ![][431]<br>#431<br>[Glameow] | at Level 26. | ![][432]<br>#432<br>[Purugly] |
+| ![][433]<br>#433<br>[Chingling] | Level Up While Knowing Heal Bell | ![][358]<br>#358<br>[Chimecho] |
+| ![][434]<br>#434<br>[Stunky] | at Level 26. | ![][435]<br>#435<br>[Skuntank] |
+| ![][438]<br>#438<br>[Bonsly] | at Level 25. | ![][185]<br>#185<br>[Sudowoodo] |
+| ![][439]<br>#439<br>[Mime Jr.] | at Level 25. | ![][122]<br>#122<br>[Mr. Mime] |
+| ![][440]<br>#440<br>[Happiny] | at Level 30. | ![][113]<br>#113<br>[Chansey] |
+| ![][447]<br>#447<br>[Riolu] | Level Up While Knowing Aura Sphere | ![][448]<br>#448<br>[Lucario] |
+| ![][451]<br>#451<br>[Skorupi] | at Level 39. | ![][452]<br>#452<br>[Drapion] |
+| ![][453]<br>#453<br>[Croagunk] | at Level 33. | ![][454]<br>#454<br>[Toxicroak] |
+| ![][458]<br>#458<br>[Mantyke] | at Level 27 in addition to its normal evolution method. | ![][226]<br>#226<br>[Mantine] |
+| ![][525]<br>#525<br>[Boldore] | ![][linkcable]<br>Link Cable | ![][526]<br>#526<br>[Gigalith] |
+| ![][527]<br>#527<br>[Woobat] | at Level 25. | ![][528]<br>#528<br>[Swoobat] |
+| ![][533]<br>#533<br>[Gurdurr] | ![][linkcable]<br>Link Cable | ![][534]<br>#534<br>[Conkeldurr] |
+| ![][540]<br>#540<br>[Sewaddle] | at Level 21. | ![][541]<br>#541<br>[Swadloon] |
+| ![][543]<br>#543<br>[Venipede] | at Level 20. | ![][544]<br>#544<br>[Whirlipede] |
+| ![][551]<br>#551<br>[Sandile] | at Level 27. | ![][552]<br>#552<br>[Krokorok] |
+| ![][559]<br>#559<br>[Scraggy] | at Level 30. | ![][560]<br>#560<br>[Scrafty] |
+| ![][574]<br>#574<br>[Gothita] | at Level 30. | ![][575]<br>#575<br>[Gothorita] |
+| ![][577]<br>#577<br>[Solosis] | at Level 30. | ![][578]<br>#578<br>[Duosion] |
+| ![][582]<br>#582<br>[Vanillite] | at Level 29. | ![][583]<br>#583<br>[Vanillish] |
+| ![][588]<br>#588<br>[Karrablast] | ![][metalcoat]<br>Metal Coat | ![][589]<br>#589<br>[Escavalier] |
+| ![][588]<br>#588<br>[Karrablast] | by leveling up when a Shelmet is in the party. | ![][589]<br>#589<br>[Escavalier] |
+| ![][595]<br>#595<br>[Joltik] | at Level 39. | ![][596]<br>#596<br>[Galvantula] |
+| ![][599]<br>#599<br>[Klink] | at Level 30. | ![][600]<br>#600<br>[Klang] |
+| ![][602]<br>#602<br>[Tynamo] | at Level 30. | ![][603]<br>#603<br>[Eelektrik] |
+| ![][605]<br>#605<br>[Elgyem] | at Level 37. | ![][606]<br>#606<br>[Beheeyem] |
+| ![][607]<br>#607<br>[Litwick] | at Level 27. | ![][608]<br>#608<br>[Lampent] |
+| ![][616]<br>#616<br>[Shelmet] | ![][reapercloth]<br>Reaper Cloth | ![][617]<br>#617<br>[Accelgor] |
+| ![][616]<br>#616<br>[Shelmet] | by leveling up when a Karrablast is in the party. | ![][617]<br>#617<br>[Accelgor] |
+| ![][622]<br>#622<br>[Golett] | at Level 40. | ![][623]<br>#623<br>[Golurk] |
+| ![][624]<br>#624<br>[Pawniard] | at Level 40. | ![][625]<br>#625<br>[Bisharp] |
+| ![][627]<br>#627<br>[Rufflet] | at Level 40. | ![][628]<br>#628<br>[Braviary] |
+| ![][629]<br>#629<br>[Vullaby] | at Level 40. | ![][630]<br>#630<br>[Mandibuzz] |
+| ![][633]<br>#633<br>[Deino] | at Level 38. | ![][634]<br>#634<br>[Zweilous] |
+| ![][634]<br>#634<br>[Zweilous] | at Level 58. | ![][635]<br>#635<br>[Hydreigon] |
+
+
+[Spearow]: pokemons/021/ 
+ [021]: img/pokemon/21_0.png 
+[Fearow]: pokemons/022/ 
+ [022]: img/pokemon/22_0.png 
+[Ekans]: pokemons/023/ 
+ [023]: img/pokemon/23_0.png 
+[Arbok]: pokemons/024/ 
+ [024]: img/pokemon/24_0.png 
+[Venonat]: pokemons/048/ 
+ [048]: img/pokemon/48_0.png 
+[Venomoth]: pokemons/049/ 
+ [049]: img/pokemon/49_0.png 
+[Psyduck]: pokemons/054/ 
+ [054]: img/pokemon/54_0.png 
+[Golduck]: pokemons/055/ 
+ [055]: img/pokemon/55_0.png 
+[Poliwhirl]: pokemons/061/ 
+ [061]: img/pokemon/61_0.png 
+[Politoed]: pokemons/186/ 
+ [186]: img/pokemon/186_0.png 
+[kingsrock]: img/items/kings-rock.png 
+[Kadabra]: pokemons/064/ 
+ [064]: img/pokemon/64_0.png 
+[Alakazam]: pokemons/065/ 
+ [065]: img/pokemon/65_0.png 
+[linkcable]: img/items/link-cable.png 
+[Machoke]: pokemons/067/ 
+ [067]: img/pokemon/67_0.png 
+[Machamp]: pokemons/068/ 
+ [068]: img/pokemon/68_0.png 
+[linkcable]: img/items/link-cable.png 
+[Graveler]: pokemons/075/ 
+ [075]: img/pokemon/75_0.png 
+[Golem]: pokemons/076/ 
+ [076]: img/pokemon/76_0.png 
+[linkcable]: img/items/link-cable.png 
+[Ponyta]: pokemons/077/ 
+ [077]: img/pokemon/77_0.png 
+[Rapidash]: pokemons/078/ 
+ [078]: img/pokemon/78_0.png 
+[Slowpoke]: pokemons/079/ 
+ [079]: img/pokemon/79_0.png 
+[Slowbro]: pokemons/080/ 
+ [080]: img/pokemon/80_0.png 
+[Slowking]: pokemons/199/ 
+ [199]: img/pokemon/199_0.png 
+[kingsrock]: img/items/kings-rock.png 
+[Grimer]: pokemons/088/ 
+ [088]: img/pokemon/88_0.png 
+[Muk]: pokemons/089/ 
+ [089]: img/pokemon/89_0.png 
+[Haunter]: pokemons/093/ 
+ [093]: img/pokemon/93_0.png 
+[Gengar]: pokemons/094/ 
+ [094]: img/pokemon/94_0.png 
+[linkcable]: img/items/link-cable.png 
+[Onix]: pokemons/095/ 
+ [095]: img/pokemon/95_0.png 
+[Steelix]: pokemons/208/ 
+ [208]: img/pokemon/208_0.png 
+[metalcoat]: img/items/metal-coat.png 
+[Cubone]: pokemons/104/ 
+ [104]: img/pokemon/104_0.png 
+[Marowak]: pokemons/105/ 
+ [105]: img/pokemon/105_0.png 
+[Rhyhorn]: pokemons/111/ 
+ [111]: img/pokemon/111_0.png 
+[Rhydon]: pokemons/112/ 
+ [112]: img/pokemon/112_0.png 
+[Rhydon]: pokemons/112/ 
+ [112]: img/pokemon/112_0.png 
+[Rhyperior]: pokemons/464/ 
+ [464]: img/pokemon/464_0.png 
+[protector]: img/items/protector.png 
+[Seadra]: pokemons/117/ 
+ [117]: img/pokemon/117_0.png 
+[Kingdra]: pokemons/230/ 
+ [230]: img/pokemon/230_0.png 
+[dragonscale]: img/items/dragon-scale.png 
+[Scyther]: pokemons/123/ 
+ [123]: img/pokemon/123_0.png 
+[Scizor]: pokemons/212/ 
+ [212]: img/pokemon/212_0.png 
+[metalcoat]: img/items/metal-coat.png 
+[Electabuzz]: pokemons/125/ 
+ [125]: img/pokemon/125_0.png 
+[Electivire]: pokemons/466/ 
+ [466]: img/pokemon/466_0.png 
+[electirizer]: img/items/electirizer.png 
+[Magmar]: pokemons/126/ 
+ [126]: img/pokemon/126_0.png 
+[Magmortar]: pokemons/467/ 
+ [467]: img/pokemon/467_0.png 
+[magmarizer]: img/items/magmarizer.png 
+[Eevee]: pokemons/133/ 
+ [133]: img/pokemon/133_0.png 
+[Espeon]: pokemons/196/ 
+ [196]: img/pokemon/196_0.png 
+[sunstone]: img/items/sun-stone.png 
+[Umbreon]: pokemons/197/ 
+ [197]: img/pokemon/197_0.png 
+[moonstone]: img/items/moon-stone.png 
+[Leafeon]: pokemons/470/ 
+ [470]: img/pokemon/470_0.png 
+[leafstone]: img/items/leaf-stone.png 
+[Glaceon]: pokemons/471/ 
+ [471]: img/pokemon/471_0.png 
+[icestone]: img/items/ice-stone.png 
+[Porygon]: pokemons/137/ 
+ [137]: img/pokemon/137_0.png 
+[Porygon2]: pokemons/233/ 
+ [233]: img/pokemon/233_0.png 
+[upgrade]: img/items/up-grade.png 
+[Omanyte]: pokemons/138/ 
+ [138]: img/pokemon/138_0.png 
+[Omastar]: pokemons/139/ 
+ [139]: img/pokemon/139_0.png 
+[Kabuto]: pokemons/140/ 
+ [140]: img/pokemon/140_0.png 
+[Kabutops]: pokemons/141/ 
+ [141]: img/pokemon/141_0.png 
+[Marill]: pokemons/183/ 
+ [183]: img/pokemon/183_0.png 
+[Azumarill]: pokemons/184/ 
+ [184]: img/pokemon/184_0.png 
+[Gligar]: pokemons/207/ 
+ [207]: img/pokemon/207_0.png 
+[Gliscor]: pokemons/472/ 
+ [472]: img/pokemon/472_0.png 
+[razorfang]: img/items/razor-fang.png 
+[Sneasel]: pokemons/215/ 
+ [215]: img/pokemon/215_0.png 
+[Weavile]: pokemons/461/ 
+ [461]: img/pokemon/461_0.png 
+[razorclaw]: img/items/razor-claw.png 
+[Slugma]: pokemons/218/ 
+ [218]: img/pokemon/218_0.png 
+[Magcargo]: pokemons/219/ 
+ [219]: img/pokemon/219_0.png 
+[Swinub]: pokemons/220/ 
+ [220]: img/pokemon/220_0.png 
+[Piloswine]: pokemons/221/ 
+ [221]: img/pokemon/221_0.png 
+[Porygon2]: pokemons/233/ 
+ [233]: img/pokemon/233_0.png 
+[Porygon-Z]: pokemons/474/ 
+ [474]: img/pokemon/474_0.png 
+[dubiousdisc]: img/items/dubious-disc.png 
+[Elekid]: pokemons/239/ 
+ [239]: img/pokemon/239_0.png 
+[Electabuzz]: pokemons/125/ 
+ [125]: img/pokemon/125_0.png 
+[Magby]: pokemons/240/ 
+ [240]: img/pokemon/240_0.png 
+[Magmar]: pokemons/126/ 
+ [126]: img/pokemon/126_0.png 
+[Shroomish]: pokemons/285/ 
+ [285]: img/pokemon/285_0.png 
+[Breloom]: pokemons/286/ 
+ [286]: img/pokemon/286_0.png 
+[Skitty]: pokemons/300/ 
+ [300]: img/pokemon/300_0.png 
+[Delcatty]: pokemons/301/ 
+ [301]: img/pokemon/301_0.png 
+[Aron]: pokemons/304/ 
+ [304]: img/pokemon/304_0.png 
+[Lairon]: pokemons/305/ 
+ [305]: img/pokemon/305_0.png 
+[Lairon]: pokemons/305/ 
+ [305]: img/pokemon/305_0.png 
+[Aggron]: pokemons/306/ 
+ [306]: img/pokemon/306_0.png 
+[Meditite]: pokemons/307/ 
+ [307]: img/pokemon/307_0.png 
+[Medicham]: pokemons/308/ 
+ [308]: img/pokemon/308_0.png 
+[Carvanha]: pokemons/318/ 
+ [318]: img/pokemon/318_0.png 
+[Sharpedo]: pokemons/319/ 
+ [319]: img/pokemon/319_0.png 
+[Trapinch]: pokemons/328/ 
+ [328]: img/pokemon/328_0.png 
+[Vibrava]: pokemons/329/ 
+ [329]: img/pokemon/329_0.png 
+[Vibrava]: pokemons/329/ 
+ [329]: img/pokemon/329_0.png 
+[Flygon]: pokemons/330/ 
+ [330]: img/pokemon/330_0.png 
+[Lileep]: pokemons/345/ 
+ [345]: img/pokemon/345_0.png 
+[Cradily]: pokemons/346/ 
+ [346]: img/pokemon/346_0.png 
+[Anorith]: pokemons/347/ 
+ [347]: img/pokemon/347_0.png 
+[Armaldo]: pokemons/348/ 
+ [348]: img/pokemon/348_0.png 
+[Feebas]: pokemons/349/ 
+ [349]: img/pokemon/349_0.png 
+[Milotic]: pokemons/350/ 
+ [350]: img/pokemon/350_0.png 
+[prismscale]: img/items/prism-scale.png 
+[Shuppet]: pokemons/353/ 
+ [353]: img/pokemon/353_0.png 
+[Banette]: pokemons/354/ 
+ [354]: img/pokemon/354_0.png 
+[Duskull]: pokemons/355/ 
+ [355]: img/pokemon/355_0.png 
+[Dusclops]: pokemons/356/ 
+ [356]: img/pokemon/356_0.png 
+[Dusclops]: pokemons/356/ 
+ [356]: img/pokemon/356_0.png 
+[Dusknoir]: pokemons/477/ 
+ [477]: img/pokemon/477_0.png 
+[reapercloth]: img/items/reaper-cloth.png 
+[Snorunt]: pokemons/361/ 
+ [361]: img/pokemon/361_0.png 
+[Glalie]: pokemons/362/ 
+ [362]: img/pokemon/362_0.png 
+[icestone]: img/items/ice-stone.png 
+[Spheal]: pokemons/363/ 
+ [363]: img/pokemon/363_0.png 
+[Sealeo]: pokemons/364/ 
+ [364]: img/pokemon/364_0.png 
+[Sealeo]: pokemons/364/ 
+ [364]: img/pokemon/364_0.png 
+[Walrein]: pokemons/365/ 
+ [365]: img/pokemon/365_0.png 
+[Clamperl]: pokemons/366/ 
+ [366]: img/pokemon/366_0.png 
+[Huntail]: pokemons/367/ 
+ [367]: img/pokemon/367_0.png 
+[deepseatooth]: img/items/deep-sea-tooth.png 
+[Gorebyss]: pokemons/368/ 
+ [368]: img/pokemon/368_0.png 
+[deepseascale]: img/items/deep-sea-scale.png 
+[Budew]: pokemons/406/ 
+ [406]: img/pokemon/406_0.png 
+[Roselia]: pokemons/315/ 
+ [315]: img/pokemon/315_0.png 
+[Burmy]: pokemons/412/ 
+ [412]: img/pokemon/412_0.png 
+[Wormadam]: pokemons/413/ 
+ [413]: img/pokemon/413_0.png 
+[Mothim]: pokemons/414/ 
+ [414]: img/pokemon/414_0.png 
+[Cherubi]: pokemons/420/ 
+ [420]: img/pokemon/420_0.png 
+[Cherrim]: pokemons/421/ 
+ [421]: img/pokemon/421_0.png 
+[Glameow]: pokemons/431/ 
+ [431]: img/pokemon/431_0.png 
+[Purugly]: pokemons/432/ 
+ [432]: img/pokemon/432_0.png 
+[Chingling]: pokemons/433/ 
+ [433]: img/pokemon/433_0.png 
+[Chimecho]: pokemons/358/ 
+ [358]: img/pokemon/358_0.png 
+[Stunky]: pokemons/434/ 
+ [434]: img/pokemon/434_0.png 
+[Skuntank]: pokemons/435/ 
+ [435]: img/pokemon/435_0.png 
+[Bonsly]: pokemons/438/ 
+ [438]: img/pokemon/438_0.png 
+[Sudowoodo]: pokemons/185/ 
+ [185]: img/pokemon/185_0.png 
+[Mime Jr.]: pokemons/439/ 
+ [439]: img/pokemon/439_0.png 
+[Mr. Mime]: pokemons/122/ 
+ [122]: img/pokemon/122_0.png 
+[Happiny]: pokemons/440/ 
+ [440]: img/pokemon/440_0.png 
+[Chansey]: pokemons/113/ 
+ [113]: img/pokemon/113_0.png 
+[Riolu]: pokemons/447/ 
+ [447]: img/pokemon/447_0.png 
+[Lucario]: pokemons/448/ 
+ [448]: img/pokemon/448_0.png 
+[Skorupi]: pokemons/451/ 
+ [451]: img/pokemon/451_0.png 
+[Drapion]: pokemons/452/ 
+ [452]: img/pokemon/452_0.png 
+[Croagunk]: pokemons/453/ 
+ [453]: img/pokemon/453_0.png 
+[Toxicroak]: pokemons/454/ 
+ [454]: img/pokemon/454_0.png 
+[Mantyke]: pokemons/458/ 
+ [458]: img/pokemon/458_0.png 
+[Mantine]: pokemons/226/ 
+ [226]: img/pokemon/226_0.png 
+[Boldore]: pokemons/525/ 
+ [525]: img/pokemon/525_0.png 
+[Gigalith]: pokemons/526/ 
+ [526]: img/pokemon/526_0.png 
+[linkcable]: img/items/link-cable.png 
+[Woobat]: pokemons/527/ 
+ [527]: img/pokemon/527_0.png 
+[Swoobat]: pokemons/528/ 
+ [528]: img/pokemon/528_0.png 
+[Gurdurr]: pokemons/533/ 
+ [533]: img/pokemon/533_0.png 
+[Conkeldurr]: pokemons/534/ 
+ [534]: img/pokemon/534_0.png 
+[linkcable]: img/items/link-cable.png 
+[Sewaddle]: pokemons/540/ 
+ [540]: img/pokemon/540_0.png 
+[Swadloon]: pokemons/541/ 
+ [541]: img/pokemon/541_0.png 
+[Venipede]: pokemons/543/ 
+ [543]: img/pokemon/543_0.png 
+[Whirlipede]: pokemons/544/ 
+ [544]: img/pokemon/544_0.png 
+[Sandile]: pokemons/551/ 
+ [551]: img/pokemon/551_0.png 
+[Krokorok]: pokemons/552/ 
+ [552]: img/pokemon/552_0.png 
+[Scraggy]: pokemons/559/ 
+ [559]: img/pokemon/559_0.png 
+[Scrafty]: pokemons/560/ 
+ [560]: img/pokemon/560_0.png 
+[Gothita]: pokemons/574/ 
+ [574]: img/pokemon/574_0.png 
+[Gothorita]: pokemons/575/ 
+ [575]: img/pokemon/575_0.png 
+[Solosis]: pokemons/577/ 
+ [577]: img/pokemon/577_0.png 
+[Duosion]: pokemons/578/ 
+ [578]: img/pokemon/578_0.png 
+[Vanillite]: pokemons/582/ 
+ [582]: img/pokemon/582_0.png 
+[Vanillish]: pokemons/583/ 
+ [583]: img/pokemon/583_0.png 
+[Karrablast]: pokemons/588/ 
+ [588]: img/pokemon/588_0.png 
+[Escavalier]: pokemons/589/ 
+ [589]: img/pokemon/589_0.png 
+[metalcoat]: img/items/metal-coat.png 
+[Escavalier]: pokemons/589/ 
+ [589]: img/pokemon/589_0.png 
+[Joltik]: pokemons/595/ 
+ [595]: img/pokemon/595_0.png 
+[Galvantula]: pokemons/596/ 
+ [596]: img/pokemon/596_0.png 
+[Klink]: pokemons/599/ 
+ [599]: img/pokemon/599_0.png 
+[Klang]: pokemons/600/ 
+ [600]: img/pokemon/600_0.png 
+[Tynamo]: pokemons/602/ 
+ [602]: img/pokemon/602_0.png 
+[Eelektrik]: pokemons/603/ 
+ [603]: img/pokemon/603_0.png 
+[Elgyem]: pokemons/605/ 
+ [605]: img/pokemon/605_0.png 
+[Beheeyem]: pokemons/606/ 
+ [606]: img/pokemon/606_0.png 
+[Litwick]: pokemons/607/ 
+ [607]: img/pokemon/607_0.png 
+[Lampent]: pokemons/608/ 
+ [608]: img/pokemon/608_0.png 
+[Shelmet]: pokemons/616/ 
+ [616]: img/pokemon/616_0.png 
+[Accelgor]: pokemons/617/ 
+ [617]: img/pokemon/617_0.png 
+[reapercloth]: img/items/reaper-cloth.png 
+[Accelgor]: pokemons/617/ 
+ [617]: img/pokemon/617_0.png 
+[Golett]: pokemons/622/ 
+ [622]: img/pokemon/622_0.png 
+[Golurk]: pokemons/623/ 
+ [623]: img/pokemon/623_0.png 
+[Pawniard]: pokemons/624/ 
+ [624]: img/pokemon/624_0.png 
+[Bisharp]: pokemons/625/ 
+ [625]: img/pokemon/625_0.png 
+[Rufflet]: pokemons/627/ 
+ [627]: img/pokemon/627_0.png 
+[Braviary]: pokemons/628/ 
+ [628]: img/pokemon/628_0.png 
+[Vullaby]: pokemons/629/ 
+ [629]: img/pokemon/629_0.png 
+[Mandibuzz]: pokemons/630/ 
+ [630]: img/pokemon/630_0.png 
+[Deino]: pokemons/633/ 
+ [633]: img/pokemon/633_0.png 
+[Zweilous]: pokemons/634/ 
+ [634]: img/pokemon/634_0.png 
+[Zweilous]: pokemons/634/ 
+ [634]: img/pokemon/634_0.png 
+[Hydreigon]: pokemons/635/ 
+ [635]: img/pokemon/635_0.png 

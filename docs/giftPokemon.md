@@ -209,7 +209,7 @@ Level    | 30
 ## Special Encounters
 
 !!! note
-    Some of the special encounters from the base games can still be acquired. These include the version-specific bird on Route 4, Volcarona in the Relic Castle, the Crustle in Seaside Cave, and the Jellicent in Undella Bay. See the [static encounters page](https://www.serebii.net/black2white2/interact.shtml) on Serebii for more information.
+    Some of the special encounters from the base games can still be acquired. These include the version-specific bird on Route 4, the Crustle in Seaside Cave, and the Jellicent in Undella Bay. See the [static encounters page](https://www.serebii.net/black2white2/interact.shtml) on Serebii for more information.
 
 
 

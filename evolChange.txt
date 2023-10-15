@@ -1,0 +1,94 @@
+021 Spearow          Now evolves into Fearow at Level 21.
+023 Ekans            Now evolves into Arbok at Level 21.
+048 Venonat          Now evolves into Venomoth at Level 28.
+054 Psyduck          Now evolves into Golduck at Level 25.
+061 Poliwhirl        Now evolves into Politoed via the use of a King's Rock.
+064 Kadabra          Now evolves into Alakazam via the use of a Link Cable.
+067 Machoke          Now evolves into Machamp via the use of a Link Cable.
+075 Graveler         Now evolves into Golem via the use of a Link Cable.
+077 Ponyta           Now evolves into Rapidash at Level 35.
+079 Slowpoke         Now evolves into Slowbro at Level 33.
+                     Now evolves into Slowking via the use of a King's Rock.
+088 Grimer           Now evolves into Muk at Level 35.
+093 Haunter          Now evolves into Gengar via the use of a Link Cable.
+095 Onix             Now evolves into Steelix via the use of a Metal Coat.
+104 Cubone           Now evolves into Marowak at Level 27.
+111 Rhyhorn          Now evolves into Rhydon at Level 36.
+112 Rhydon           Now evolves into Rhyperior via the use of a Protector.
+117 Seadra           Now evolves into Kingdra via the use of a Dragon Scale.
+123 Scyther          Now evolves into Scizor via the use of a Metal Coat.
+125 Electabuzz       Now evolves into Electivire via the use of a Electirizer.
+126 Magmar           Now evolves into Magmortar via the use of a Magmarizer.
+133 Eevee            Now evolves into Espeon via the use of a Sun Stone.
+                     Now evolves into Umbreon via the use of a Moon Stone.
+                     Now evolves into Leafeon via the use of a Leaf Stone.
+                     Now evolves into Glaceon via the use of an Ice Stone.
+137 Porygon          Now evolves into Porygon2 via the use of an Up-Grade.
+138 Omanyte          Now evolves into Omastar at Level 30.
+140 Kabuto           Now evolves into Kabutops at Level 30.
+183 Marill           Now evolves into Azumarill at Level 21.
+207 Gligar           Now evolves into Gliscor via the use of an Razor Fang.
+215 Sneasel          Now evolves into Weavile via the use of an Razor Claw.
+218 Slugma           Now evolves into Magcargo at Level 30.
+220 Swinub           Now evolves into Piloswine at Level 29.
+233 Porygon2         Now evolves into Porygon-Z via the use of a Dubious Disc.
+239 Elekid           Now evolves into Electabuzz at Level 29.
+240 Magby            Now evolves into Magmar at Level 29.
+285 Shroomish        Now evolves into Breloom at Level 21.
+300 Skitty           Now evolves into Delcatty at Level 25.
+304 Aron             Now evolves into Lairon at Level 24.
+305 Lairon           Now evolves into Aggron at Level 40.
+307 Meditite         Now evolves into Medicham at Level 34.
+318 Carvanha         Now evolves into Sharpedo at Level 26.
+328 Trapinch         Now evolves into Vibrava at Level 30.
+329 Vibrava          Now evolves into Flygon at Level 55.
+345 Lileep           Now evolves into Cradily at Level 30.
+347 Anorith          Now evolves into Armaldo at Level 30.
+349 Feebas           Now evolves into Milotic via the use of a Prism Scale.
+353 Shuppet          Now evolves into Banette at Level 32.
+355 Duskull          Now evolves into Dusclops at Level 32.
+356 Dusclops         Now evolves into Dusknoir via the use of a Reaper Cloth.
+361 Snorunt          Now evolves into Glalie via the use of an Ice Stone.
+363 Spheal           Now evolves into Sealeo at Level 16.
+364 Sealeo           Now evolves into Walrein at Level 40.
+366 Clamperl         Now evolves into Huntail via the use of a Deep Sea Tooth.
+                     Now evolves into Gorebyss via the use of a Deep Sea Scale.
+406 Budew            Now evolves into Roselia by leveling up while at 220+ friendship at any time of day.
+412 Burmy            Now evolves into Wormadam at Level 25 if Burmy is female.
+                     Now evolves into Mothim at Level 25 if Burmy is male.
+420 Cherubi          Now evolves into Cherrim at Level 18.
+431 Glameow          Now evolves into Purugly at Level 26.
+433 Chingling        Now evolves into Chimecho by leveling up while knowing the move Heal Bell.
+434 Stunky           Now evolves into Skuntank at Level 26.
+438 Bonsly           Now evolves into Sudowoodo at Level 25.
+439 Mime Jr.         Now evolves into Mr. Mime at Level 25.
+440 Happiny          Now evolves into Chansey at Level 30.
+447 Riolu            Now evolves into Lucario by leveling up while knowing the move Aura Sphere.
+451 Skorupi          Now evolves into Drapion at Level 39.
+453 Croagunk         Now evolves into Toxicroak at Level 33.
+458 Mantyke          Now evolves into Mantine at Level 27 in addition to its normal evolution method.
+525 Boldore          Now evolves into Gigalith via the use of a Link Cable.
+527	Woobat           Now evolves into Swoobat at Level 25.
+533 Gurdurr          Now evolves into Conkeldurr via the use of a Link Cable.
+540 Sewaddle         Now evolves into Swadloon at Level 21.
+543 Venipede         Now evolves into Whirlipede at Level 20.
+551 Sandile          Now evolves into Krokorok at Level 27.
+559 Scraggy          Now evolves into Scrafty at Level 30.
+574 Gothita          Now evolves into Gothorita at Level 30.
+577 Solosis          Now evolves into Duosion at Level 30.
+582 Vanillite        Now evolves into Vanillish at Level 29.
+588 Karrablast       Now evolves into Escavalier via the use of a Metal Coat.
+                     Now evolves into Escavalier by leveling up when a Shelmet is in the party.
+595 Joltik           Now evolves into Galvantula at Level 39.
+599 Klink            Now evolves into Klang at Level 30.
+602 Tynamo           Now evolves into Eelektrik at Level 30.
+605 Elgyem           Now evolves into Beheeyem at Level 37.
+607 Litwick          Now evolves into Lampent at Level 27.
+616 Shelmet          Now evolves into Accelgor via the use of a Reaper Cloth.
+                     Now evolves into Accelgor by leveling up when a Karrablast is in the party.
+622 Golett           Now evolves into Golurk at Level 40.
+624 Pawniard         Now evolves into Bisharp at Level 40.
+627 Rufflet          Now evolves into Braviary at Level 40.
+629 Vullaby          Now evolves into Mandibuzz at Level 40.
+633 Deino            Now evolves into Zweilous at Level 38.
+634 Zweilous         Now evolves into Hydreigon at Level 58.
