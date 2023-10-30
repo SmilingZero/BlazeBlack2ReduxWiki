@@ -1,0 +1,31 @@
+The following items have been replaced for new items:
+ - Red Scarf -> Ice Stone
+ - Oval Stone -> Link Cable
+ - 'God/Grey Stone' (Unused in Vanilla) -> Old Sea Map
+
+
+The following items have had adjustments to their costs:
+ - Poké Ball     ($200 -> $50)
+ - Great Ball    ($600 -> $150)
+ - Ultra Ball    ($1200 -> $300)
+ - Heart Scale   ($100 -> $1000)
+ - Red Shard     ($200 -> $600)
+ - Blue Shard    ($200 -> $600)
+ - Yellow Shard  ($200 -> $600)
+ - Green Shard   ($200 -> $600)
+
+
+The following items now have a "Use" option like evolutionary stones:
+ - Deep Sea Scale
+ - Deep Sea Tooth
+ - Dragon Scale
+ - Dubious Disc
+ - Electirizer
+ - King's Rock
+ - Magmarizer
+ - Metal Coat
+ - Protector
+ - Reaper Cloth
+ - Up-Grade
+ - Ice Stone
+ - Link Cable

@@ -1,0 +1,1180 @@
+o-----------------------------------------------------o
+| Pokémon Blaze Black 2 and Volt White 2 Redux        |
+| Item Changes (v1.4.1)                               |
+o-----------------------------------------------------o
+
+=========================================================
+EVless Mode Information
+=========================================================
+
+In both the Complete EVless and Classic EVless versions of Redux, wild Pokémon do not carry any held items, except for the Latios, Latias and Giratina.
+ - This is to double down on removing player advantages over the A.I.!
+
+=========================================================
+Modified Items
+=========================================================
+
+The following items have been replaced for new items:
+
+ - Red Scarf -> Ice Stone
+ - Oval Stone -> Link Cable
+ - 'God/Grey Stone' (Unused in Vanilla) -> Old Sea Map
+
+
+The following items have had adjustments to their costs:
+ - Poké Ball     ($200 -> $50)
+ - Great Ball    ($600 -> $150)
+ - Ultra Ball    ($1200 -> $300)
+ - Heart Scale   ($100 -> $1000)
+ - Red Shard     ($200 -> $600)
+ - Blue Shard    ($200 -> $600)
+ - Yellow Shard  ($200 -> $600)
+ - Green Shard   ($200 -> $600)
+
+
+The following items now have a "Use" option like evolutionary stones:
+ - Deep Sea Scale
+ - Deep Sea Tooth
+ - Dragon Scale
+ - Dubious Disc
+ - Electirizer
+ - King's Rock
+ - Magmarizer
+ - Metal Coat
+ - Protector
+ - Reaper Cloth
+ - Up-Grade
+ - Ice Stone
+ - Link Cable
+
+
+=========================================================
+Pickup Table Changes
+=========================================================
+
+Various tweaks have been made to the pickup table. This is the 'loot pool' for Pokémon with the ability Pickup.
+ - All instances of Leftovers have been replaced with a Lucky Egg.
+ - All instances of a Sun Stone have been replaced with a Sticky Barb.
+ - All instances of a Moon Stone have been replaced with a Lagging Tail.
+ - All instances of a King's Rock have been replaced with a PP Max.
+These changes will only realistically effect <1% of players.
+
+
+=========================================================
+Castelia Berry Guy, Battle Subway and PWT Prizes
+=========================================================
+
+On Challenge Mode only, the BP prize vendors and the Castelia Cafe artist are all absent until the postgame.
+ - This change is to help prevent players from obtaining powerful held items like the Focus Sash and certain TMs early.
+ - Few will ever sit and grind out the required BP to legitimately acquire these items, so by removing the vendors the playing field is levelled.
+ - Furthermore, this has been commonly requested by the community!
+Upon entering the postgame, the vendors will reappear upon sighting Suicune on Route 3.
+This change will only realistically effect <5% of players.
+
+
+=========================================================
+Item Locations
+=========================================================
+
+Almost all items have been redistributed in Redux. These changes are documented below.
+
+
+~~~~~ Aspertia City ~~~~~~
+
+Pokéball x10 -> Pokéball x50
+Potion x1 -> Bike
+TM27 Return -> TM54 False Swipe
+TM53 Energy Ball
+Max Revive x2 -> Choice Scarf
+TM83 Work Up
+
+
+~~~~~ Route 19 ~~~~~ 
+
+Potion
+Oran Berry x5
+Water Stone
+Nest Ball -> TM31 Brick Break
+Expert Belt 
+
+
+~~~~~ Floccesy Town ~~~~~ 
+
+X-Speed -> Muscle Band
+Potion x1
+Potion
+
+
+~~~~~ Route 20 ~~~~~ 
+
+Parlyz Heal -> Silk Scarf
+Pokéball (Hidden)
+Pokéball
+Pecha Berry x3 -> Super Rod
+Great Ball
+Antidote -> Miracle Seed
+Dire Hit
+Heart Scale (Hidden)
+Sitrus Berry x2
+Max Revive
+Rare Candy
+Leppa Berry x2
+Big Mushroom (Hidden)
+Sticky Barb
+
+
+~~~~~ Floccesy Ranch ~~~~~ 
+
+Potion -> Soothe Bell
+Potion -> TM41 Infestation
+Pokéball -> Quick Claw
+Parlyz Heal -> Exp Share
+X-Attack -> Binding Band
+TM21 Frustration
+
+
+~~~~~ Trainer School ~~~~~ 
+
+X-Defend -> Iron Ball
+Berry Juice x2
+
+ 
+~~~~~ Virbank City ~~~~~ 
+
+Great Ball x2 -> Great Ball x15
+Burn Heal -> Focus Band
+Poke Toy -> Smoke Ball
+Antidote (Hidden) -> Lagging Tail (Hidden)
+Pokéball x5 -> Ultra Ball x3
+Rare Candy -> TM36 Sludge Bomb
+TM09 Venoshock
+
+
+~~~~~ Virbank Complex ~~~~~ 
+
+X-Accuracy -> TM94 Rock Smash
+Silk Scarf -> Wise Glasses
+Pearl (Hidden)
+TM46 Thief -> Mental Herb
+TM59 Incinerate
+TM94 Rock Smash -> TM45 Power-up Punch
+Either -> Scope Lens
+Great Ball
+Great Ball x5 -> TM47 Low Sweep
+Tiny Mushroom (Hidden)
+
+
+~~~~~ Castelia City ~~~~~ 
+
+Bicycle -> Lucky Egg
+Rare Candy
+Heart Scale -> Lucky Punch
+Destiny Knot
+Exp Share -> Dream Ball x30
+Choice between a Leaf Stone, Fire Stone or Water Stone
+Choice between a Water Stone, Thunder Stone, Fire Stone, Sun Stone, Moon Stone, Leaf Stone or Ice Stone
+Quick Ball x2 -> Quick Ball x5
+Timer Ball x5
+Scope Lens -> Float Stone
+Guard Spec -> Light Ball
+Ether -> Thick Club
+TM44 Rest
+Revive -> Up-Grade
+TM70 Flash
+Moomoo Milk x1 -> Berry Juice x3
+TM45 Power-Up Punch -> TM10 Hidden Power
+Eviolite
+Charcoal
+Amulet Coin
+Miracle Seed -> TM86 Grass Knot
+Repel -> Leftovers
+Black Glasses
+TM76 Struggle Bug -> TM81 X-Scissor
+Quick Claw -> TM88 Pluck
+Tanga Berries x2
+
+
+~~~~~ Castelia Sewers ~~~~~ 
+
+Twisted Spoon -> Toxic Orb
+X Sp.Atk -> Twisted Spoon
+Rare Bone
+Pearl -> TM84 Poison Jab
+Leftovers -> Black Sludge
+HM04 Strength
+Heart Scale
+X Sp. Def -> Flame Orb
+HP Up (Hidden)
+Poison Gem (Hidden) -> Hard Stone
+TM41 Infestation -> Metal Powder
+Max Repel (Hidden)
+Nugget (Hidden)
+Ultra Ball (Hidden)
+Black Sludge -> TM08 Bulk Up
+
+
+~~~~~ Relic Passage ~~~~~ 
+
+Escape Rope
+Escape Rope -> TM23 Smack Down
+Hard Stone
+Max Repel
+Protein -> TM85 Play Rough
+Green Shard (Hidden)
+Blue Shard (Hidden)
+Max Repel (Hidden)
+Red Shard (Hidden)
+Yellow Shard (Hidden)
+Rock Gem (Hidden) -> Hard Stone
+Ultra Ball -> TM14 Blizzard
+Rare Candy -> TM38 Fire Blast
+Rocky Helmet -> TM25 Thunder
+Big Pearl -> TM52 Focus Blast
+
+
+~~~~~ Route 4 ~~~~~ 
+
+Poke Toy
+Protein -> Life Orb
+Mystic Water -> Prism Scale
+Wide Lens
+Sitrus Berry x3 -> Sitrus Berry x5
+Red Shard (Hidden)
+Hyper Potion (Hidden)
+TM28 Dig
+Stardust
+Stardust (Hidden)
+Yellow Shard
+Grip Claw
+Green Shard
+
+
+~~~~~ Desert Resort ~~~~~ 
+
+Soft Sand
+Rawst Berry x2
+Star Piece (Hidden)
+Blue Shard -> DeepSeaTooth
+Blue Shard (Hidden)
+Ground Gem (Hidden) -> Hard Stone
+Red Shard -> TM03 Psyshock
+Red Shard (Hidden)
+Yellow Shard -> DeepSeaScale
+Super Repel (Hidden)
+Nugget -> TM78 Bulldoze
+Heart Scale
+Stardust
+Green Shard -> Sun Stone
+Max Ether
+Fire Stone (Hidden)
+
+
+~~~~~ Relic Castle ~~~~~ 
+
+Heart Scale (Hidden)
+TM39 Rock Tomb
+Sun Stone (Hidden)
+Ultra Ball -> TM01 Hone Claws
+
+
+~~~~~ Nimbasa City ~~~~~ 
+
+Sun Stone -> Ice Stone
+Macho Brace
+Red Shard x10
+Soothe Bell
+Thunderstone (Hidden)
+Revive (Hidden)
+Parlyz Heal -> Shell Bell
+TM72 Volt Switch
+TM49 Echoed Voice
+Choice Band*
+Cheri Berry x12**
+
+*Easy and Normal mode only.
+**Challenge mode only.
+
+
+~~~~~ Route 16 ~~~~~ 
+
+Heal Ball -> Dawn Stone
+TM66 Payback -> TM66 Power Gem
+TinyMushroom (Hidden)
+
+
+~~~~~ Lostlorn Forest ~~~~~ 
+
+Rare Candy -> TM22 Solarbeam
+Ultra Ball -> Leaf Stone
+Pecha Berry
+Leaf Stone (Hidden)
+TM95 Snarl
+Net Ball -> Grip Claw
+Cheri Berry
+Grass Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Route 5 ~~~~~ 
+
+Electric Guitar -> Metronome
+Hyper Potion -> TM43 Flame Charge
+HM02 Fly
+Super Repel
+Hyper Potion (Hidden)
+Cheri Berry
+
+
+~~~~~ Driftveil Drawbridge ~~~~~
+
+New: Armour Fossil and Skull Fossil.
+
+
+~~~~~ Driftveil City ~~~~~ 
+
+Expert Belt
+Heart Scale
+Ultra Ball
+Calcium -> Link Cable
+Shell Bell 
+Haban Berry
+Big Root -> Iron Ball
+Everstone
+Luxury Ball x3 -> Luxury Ball x10
+TM63 Embargo -> TM63 Brutal Swing
+Air Balloon*
+Rare Bone
+TM78 Bulldoze -> TM26 Earthquake
+Choice Specs*
+Link Cable**
+
+*Easy and Normal mode only.
+**Challenge mode only.
+
+~~~~~ PWT ~~~~~ 
+
+Ether (Hidden)
+Rocky Helmet
+Zinc (Hidden) 
+PP Up -> TM79 Frost Breath
+
+
+~~~~~ Route 6 ~~~~~ 
+
+Elixir
+Moon Stone
+TinyMushroom (Hidden)
+Ultra Ball -> SilverPowder
+Protein (Hidden)
+Shiny Stone
+Pecha Berry
+HM03 Surf
+TM56 Fling -> TM20 Tri Attack
+Heart Scale
+PP Up -> King's Rock
+Big Mushroom (Hidden)
+
+
+~~~~~ Chargestone Cave ~~~~~ 
+
+Magnet
+Full Heal
+Yellow Shard (Hidden)
+Max Repel
+Hyper Potion -> TM77 Psych Up
+Hyper Potion (Hidden)
+Nugget
+Big Nugget
+Ultra Ball (Hidden)
+Chesto Berry x2
+Carbos -> Light Clay
+Carbos (Hidden)
+Revive -> TM91 Flash Cannon
+Iron -> Cell Battery
+Escape Rope -> TM57 Charge Beam
+Thunderstone
+Metal Coat
+Electric Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Clay Tunnel ~~~~~ 
+
+Lum Berry x2
+Red Shard -> TM64 Explosion
+Blue Shard (Hidden)
+Green Shard -> Claw Fossil
+Full Heal
+Rare Bone -> Root Fossil
+Steel Gem (Hidden) -> Hard Stone
+HP Up -> Helix Fossil
+Nugget -> Dome Fossil
+Water Stone (Hidden)
+Metal Coat
+Max Revive -> Reaper Cloth
+Iron (Hidden)
+Big Nugget (Hidden)
+
+
+~~~~~ Mistralton Cave ~~~~~ 
+
+Dusk Ball -> TM82 Dragon Tail
+Yellow Shard -> Link Cable
+Super Repel (Hidden)
+Hyper Potion -> Dragon Fang
+Green Shard (Hidden)
+Ultra Ball (Hidden)
+Blue Shard -> Dragon Scale
+Escape Rope
+Full Heal (Hidden)
+TM80 Rock Slide
+Dragon Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Mistralton City ~~~~~ 
+
+Sharp Beak
+TM58 Hurricane -> Eject Button
+TM40 Aerial Ace
+Master Ball
+Max Repel
+Flying Gem (Hidden) -> Hard Stone
+Iron (Hidden)
+TM62 Acrobatics
+*Choice Scarf
+**Air Balloon x1
+
+*Easy and Normal mode only.
+**Challenge mode only.
+
+
+~~~~~ Route 7 ~~~~~ 
+
+TM81 X-Scissor -> TM89 U-Turn
+Zinc -> King's Rock
+Leaf Stone
+Elixir
+TinyMushroom (Hidden)
+Revive (Hidden)
+
+
+~~~~~ Celestial Tower ~~~~~ 
+
+Lucky Egg
+Hyper Potion -> Mental Herb
+TM61 Will-O-Wisp
+Revive -> Link Cable
+PP Up -> Odd Incense
+TM65 Shadow Claw
+Ghost Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Lentimas Town ~~~~~ 
+
+Fire Stone
+TM57 Charge Beam -> TM24 Thunderbolt
+Spell Tag -> Cleanse Tag
+
+
+~~~~~ Reversal Mountain ~~~~~ 
+
+Max Repel
+TM69 Rock Polish
+Elixir (Hidden)
+Hyper Potion
+Star Piece
+PP Up
+Revive
+Calcium (Hidden)
+TM54 False Swipe -> TM27 Return
+Nugget
+Persim Berry
+Blue Shard (Hidden)
+Green Shard (Hidden)
+Toxic Orb -> TM35 Flamethrower
+Persim Berry
+Water Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Strange House ~~~~~ 
+
+TM30 Shadow Ball -> Shed Shell
+Spell Tag
+Full Heal -> TM30 Shadow Ball
+Dusk Stone
+Lunar Wing
+Rare Candy 
+
+
+~~~~~ Undella Town ~~~~~ 
+
+New: HM05 Waterfall
+HM06 Dive -> Master Ball
+Shiny Stone (Hidden)
+Berry Juice -> TM55 Scald
+Heart Scale (Hidden)
+Pearl x2 (Hidden)
+Big Pearl (Hidden)
+
+
+~~~~~ Undella Bay ~~~~~ 
+
+Draco Plate
+Heart Scale (Hidden)
+Splash Plate
+
+
+~~~~~ Route 14 ~~~~~ 
+
+Big Pearl
+Max Potion
+Heart Scale -> Lagging Tail
+Protein (Hidden)
+Nugget
+Nugget (Hidden)
+
+
+~~~~~ Abundant Shrine ~~~~~ 
+
+Calcium (Hidden)
+Tiny Mushroom (Hidden)
+Shiny Stone
+Max Revive -> Hyper Potion
+TM92 Trick Room -> TM60 Quash
+Big Mushroom (Hidden)
+Heal Ball -> Link Cable
+PP Max (Hidden)
+Rare Candy
+
+
+~~~~~ Route 13 ~~~~~ 
+
+Blue Shard
+Max Ether
+Sitrus Berry x2
+Pearl (Hidden)
+Big Pearl (Hidden)
+Red Shard -> BrightPowder
+Zinc (Hidden)
+Max Repel
+Heart Scale (Hidden)
+Ultra Ball
+Star Piece
+TM29 Psychic
+Luxury Ball -> TM76 Bug Buzz
+Hyper Potion -> TM32 Dazzling Gleam
+Heart Scale (Hidden)
+Power Lens/Power Band -> TM48 Mystical Fire
+
+
+~~~~~ Lacunosa Town ~~~~~ 
+
+Metronome -> TM04 Calm Mind
+Full Heal -> TM56 Weather Ball
+
+
+~~~~~ Route 12 ~~~~~ 
+
+Max Repel (Hidden)
+Rare Candy (Hidden)
+Ultra Ball (Hidden)
+Yellow Shard -> Poison Barb
+PP Up
+Timer Ball
+Green Shard -> Stick
+Max Potion -> TM93 Wild Charge
+
+
+~~~~~ Village Bridge ~~~~~ 
+
+Carbos
+Rare Candy
+Big Mushroom (Hidden)
+Big Pearl -> TM19 Giga Drain
+Max Ether (Hidden)
+PP Up (Hidden)
+Ultra Ball -> Magmarizer
+Heart Scale -> Electirizer
+Sitrus Berry x5
+Blue Shard -> Black Belt
+
+
+~~~~~ Route 11 ~~~~~ 
+
+Aspear Berry x2
+Favored Mail -> Big Root
+Full Heal
+Max Potion (Hidden)
+Zinc -> TM75 Swords Dance
+HP Up (Hidden)
+Razor Fang
+
+
+~~~~~ Opelucid City ~~~~~ 
+
+New: Cover Fossil and Plume Fossil
+Float Stone -> Absorb Bulb
+Ring Target
+Smoke Ball -> Dubious Disk
+TM82 Dragon Tail -> TM02 Dragon Claw
+*Old Amber
+
+*Easy and Normal mode only.
+
+
+~~~~~ Route 9 ~~~~~ 
+
+Poke Doll -> TM87 Rock Climb
+Quick Ball
+Elixir
+Nugget
+Iron -> TM34 Sludge Wave
+Dark Gem (Hidden) -> Hard Stone
+HP Up
+
+
+~~~~~ Marine Tube ~~~~~ 
+
+TM42 Facade
+
+
+~~~~~ Humilau City ~~~~~ 
+
+Heart Scale -> Mystic Water
+Heart Scale (Hidden)
+Protein
+Shell Bell -> Sea Incense
+Pearl
+Revive -> Damp Rock
+Full Restore (Hidden)
+TM55 Scald -> TM51 Wave Crash
+TM17 Protect
+
+
+~~~~~ Plasma Frigate ~~~~~ 
+
+Revive
+TM67 Retaliate
+Magmarizer/Electirizer -> TM92 Trick Room
+Zinc
+Max Revive -> Red Card
+Max Elixir -> Eject Button
+Power Band -> Zoom Lens
+Master Ball
+
+
+~~~~~ Route 22 ~~~~~ 
+
+Carbos (Hidden)
+PP Up
+Green Shard (Hidden)
+Rare Candy
+Calcium -> Heat Rock
+Poison Barb
+Max Potion
+Red Shard
+
+
+~~~~~ Route 21 ~~~~~ 
+
+Big Pearl
+PP Up
+
+
+~~~~~ Seaside Cave ~~~~~ 
+
+TM06 Toxic
+Persim Berry x2
+Full Restore
+Blue Shard (Hidden)
+Dive Ball
+Heart Scale
+Calcium (Hidden)
+Max Repel
+Rare Candy
+
+
+~~~~~ Giant Chasm ~~~~~ 
+
+Yellow Shard
+Moon Stone (Hidden)
+Max Potion (Hidden)
+TM13 Ice Beam
+Star Piece
+Star Piece -> NeverMeltIce
+Max Repel
+Ultra Ball
+Ice Gem (Hidden) -> Hard Stone
+Max Revive x3
+Razor Claw
+Moon Stone
+TM03 Psyshock -> TM90 Substitute
+Star Piece
+PP Up
+Carbos
+Sun Stone
+
+
+~~~~~ Route 23 ~~~~~ 
+
+Heart Scale
+Max Potion -> TM50 Overheat
+Rare Candy (Hidden)
+Iron
+Star Piece (Hidden)
+Star Piece
+Sitrus Berry x2
+TM05 Roar
+Ultra Ball (Hidden)
+Repeat Ball
+HP Up
+Calcium
+Full Heal
+Yellow Shard (Hidden)
+Green Shard
+TM35 Flamethrower -> Black Belt
+PP Up (Hidden)
+TM12 Taunt
+
+
+~~~~~ Victory Road ~~~~~ 
+
+HM05 Waterfall -> Old Sea Map
+PP Up -> TM58 Hurricane
+Star Piece -> Protector
+Iron (Hidden)
+Dusk Stone (Hidden)
+TM01 Hone Claws -> TM46 Aura Sphere
+Ultra Ball x2
+Max Repel x2
+Full Restore x2
+Full Restore (Hidden)
+Escape Rope
+TM93 Wild Charge -> TM71 Stone Edge
+Max Revive
+Max Revive (Hidden)
+Red Shard (Hidden)
+PP Max -> Reaper Cloth
+Max Elixir
+Max Elixir (Hidden)
+Rare Candy 
+Rare Candy (Hidden)
+Dragon Scale
+Normal Gem (Hidden) -> Hard Stone
+Cheri Berry
+Rawst Berry
+Dragon Fang
+TM24 Thunderbolt -> HM06 Dive
+
+
+~~~~~ Tubeline Bridge ~~~~~
+
+TM43, Flame Charge -> Choice Band
+
+
+~~~~~ Route 8 ~~~~~
+
+Heat Rock
+Smooth Rock
+Icy Rock
+Nest Ball
+Big Pearl
+Max Repel (Hidden)
+Rare Candy (Hidden)
+TM36, Sludge Bomb -> Choice Scarf
+
+
+~~~~~ Moor of Icirrus ~~~~~
+
+Lum Berry x2
+TM84, Poison Jab -> Toxic Orb
+TinyMushroom  (Hidden)
+Dawn Stone (Hidden)
+Full Heal
+Big Mushroom (Hidden)
+Rare Candy
+Green Shard
+Heart Scale
+
+
+~~~~~ Route 15 ~~~~~
+
+Max Elixir
+TM26, Earthquake -> TM20, Tri Attack
+HP Up (Hidden)
+Max Potion
+Ultra Ball (Hidden)
+
+
+~~~~~ Dragonspiral Tower ~~~~~
+
+NeverMeltIce
+Old Gateau
+Carbos
+Red Shard (Hidden)
+Elixir
+Ultra Ball
+Shiny Stone
+Protein
+Adamant Orb ->
+Lustrous Orb ->
+Griseous Orb ->
+PP Max
+Max Revive
+TM02 Dragon Claw -> Choice Specs
+Comet Shard
+Comet Shard (Hidden)
+
+
+~~~~~ Pinwheel Forest ~~~~~
+
+TM22 SolarBeam -> TM51 Wave Crash
+Rare Candy (Hidden)
+Ultra Ball
+Ultra Ball (Hidden)
+Sitrus Berry x2
+Max Repel
+Max Revive
+Lum Berry x2
+Net Ball
+BalmMushroom (Hidden)
+Up-Grade
+TM86 Grass Knot -> Leaf Stone
+Green Shard (Hidden)
+Bug Gem (Hidden) -> Hard Stone
+Sun Stone
+PP Max
+Nest Ball x5
+Ultra Ball (Hidden)
+Full Heal
+Max Elixir (Hidden)
+PP Max
+Fighting Gem (Hidden) -> Hard Stone
+Nugget
+Stardust
+HP Up
+
+
+~~~~~ N's Castle ~~~~~
+
+Luxury Ball
+Protein
+TM50 Overheat -> Flame Orb
+
+
+~~~~~ Wellspring Cave ~~~~~
+
+Max Repel
+Escape Rope
+TM47 Low Sweep -> Link Cable
+TM52 Focus Blast -> Dusk Stone
+Carbos (Hidden)
+Protector
+Max Revive
+Max Revive (Hidden)
+Ultra Ball (Hidden)
+
+
+~~~~~ Twist Mountain ~~~~~
+
+Helix Fossil(s)
+Dome Fossil(s)
+Old Amber(s)
+Root Fossil(s)
+Claw Fossil(s)
+Skull Fossil(s)
+Armor Fossil(s)
+Dusk Ball
+TM71 Stone Edge -> Ice Stone
+TM91 Flash Cannon -> TM77 Psych Up
+TM90 Substitute -> Shiny Stone
+Rare Bone
+Rare Bone (Hidden)
+Full Restore
+Full Restore (Hidden)
+Dusk Stone
+Float Stone
+Red Shard
+Ultra Ball (Hidden)
+Yellow Shard (Hidden)
+Eject Button
+Rare Candy (Hidden)
+Big Nugget
+
+
+~~~~~ Route 3 ~~~~~
+
+Quick Ball
+Zinc
+Big Nugget
+Ultra Ball (Hidden)
+Ultra Ball
+Calcium
+Full Restore
+Nugget (Hidden)
+Rare Candy (Hidden)
+Rare Candy
+Dive Ball x5
+
+
+~~~~~ Striaton City ~~~~~
+
+Gracidea
+Big Pearl
+Dusk Ball x5
+Timer Ball
+Great Ball
+Up-Grade
+PP Up (Hidden)
+Full Restore (Hidden)
+Max Elixir
+Yellow Shard
+Persim Berry x3
+Big Mushroom
+
+
+~~~~~ Dreamyard ~~~~~
+
+Rare Candy
+TM85 Dream Eater -> TM85 Play Rough
+Ultra Ball
+Moon Stone
+PP Up (Hidden)
+Reaper Cloth
+HP Up
+Dawn Stone
+Iron
+Psychic Gem (Hidden) -> Hard Stone
+
+
+~~~~~ Route 2 ~~~~~
+
+Full Heal
+Repeat Ball -> Hyper Potion
+Calcium
+Dawn Stone
+PP Max (Hidden)
+Max Revive
+Max Revive (Hidden)
+Carbos
+Ultra Ball
+
+
+~~~~~ Accumula Town ~~~~~
+
+Pokéball x10
+BalmMushroom
+Grass Gem (Hidden) -> Hard Stone
+Fire Gem (Hidden) -> Hard Stone
+Water Gem (Hidden) -> Hard Stone
+Poké Doll
+Fluffy Tail
+Metronome
+Sitrus Berry
+Lum Berry
+Max Repel (Hidden)
+
+
+~~~~~ Route 1 ~~~~~
+
+Potion
+Ultra Ball (Hidden)
+Full Restore
+Lum Berry x2
+Prism Scale
+Protein (Hidden)
+
+
+~~~~~ Nuvema Town ~~~~~
+
+Zinc (Hidden)
+King's Rock
+Berry Juice
+Permit
+Oval Charm
+Shiny Charm
+Super Rod -> Sacred Ash
+
+
+~~~~~ Route 17 ~~~~~
+
+Blue Shard
+Blue Shard (Hidden)
+Dive Ball
+Pearl String
+Shoal Salt (Hidden)
+Shoal Shell (Hidden)
+
+
+~~~~~ Route 18 ~~~~~
+
+Pearl (Hidden)
+Pearl String (Hidden)
+Zinc
+Rare Candy (Hidden)
+Star Piece
+TM19 Telekinesis -> TM19 Giga Drain
+Magma Stone
+Heart Scale (Hidden)
+Iron
+PP Max
+PP Max (Hidden)
+Prism Scale (Hidden)
+
+
+=========================================================
+Modified Marts
+=========================================================
+
+Several Pokémarts now sell different items. These are listed below.
+
+
+~~~~~ Virbank City ~~~~~~
+
+Secondary Mart now sells Luxury Balls and Net Balls, as well as Aspear, Oran and Rawst Berries.
+
+
+~~~~~ Castelia City ~~~~~~
+
+Secondary Mart now sells EV decreasing berries, as well as Pecha and Chesto Berries.
+
+
+~~~~~ Driftveil City ~~~~~~
+
+Secondary Mart now sells:
+ - Red Shards
+ - Blue Shards
+ - Yellow Shards
+ - Green Shards
+ - Heart Scales
+ - Honey
+ - Figy Berries.
+ - Wiki Berries.
+ - Mago Berries.
+ - Aguav Berries.
+ - Iapapa Berries.
+
+
+~~~~~ Driftveil Market ~~~~~~
+
+Plasma Grunt now sells evolutionary stones, instead of incense.
+
+
+~~~~~ Route 9 Shopping Mall ~~~~~~
+
+Now sells:
+ - Incense Items.
+ - All evolutionary items.
+ - White, Mental and Power Herbs.
+ - PP Ups and PP Maxes.
+ - Everstones and Eviolites.
+ - TM15, Hyper Beam.
+ - TM66, Giga Impact.
+
+
+~~~~~ Humilau City ~~~~~
+
+Secondary Mart now sells Sitrus and Perism berries.
+
+
+=========================================================
+Modified TMs + Locations
+=========================================================
+
+A '*' means the location has changed from the original Black 2 and White 2.
+
+TM #    Move                            Location in Redux
+----    ----                            ----
+TM01    Hone Claws                      Relic Castle *
+TM02    Dragon Claw                     Opelucid City Gym *
+TM03    Psyshock                        Desert Resort *
+TM04    Calm Mind                       Lacunosa Town *
+TM05    Roar                            Route 23
+TM06    Toxic                           Seaside Cave
+TM07    Hail                            Mistralton City Pokémon Center
+TM08    Bulk Up                         Castelia City *
+TM09    Venoshock                       Virbank City Gym
+TM10    Hidden Power                    Castelia City *
+TM11    Sunny Day                       Mistralton City Pokémon Center
+TM12    Taunt                           Route 23
+TM13    Ice Beam                        Giant Chasm
+TM14    Blizzard                        Relic Passage *
+TM15    Hyper Beam                      Shopping Mall Nine
+TM16    Light Screen                    Nimbasa City Pokémon Center
+TM17    Protect                         Humilau City *
+TM18    Rain Dance                      Mistralton City Pokémon Center
+TM19    Telekinesis -> Giga Drain       Village Bridge *
+TM20    Safeguard -> Tri Attack         Route 6 *
+TM21    Frustration                     Floccesy Ranch
+TM22    SolarBeam                       Lostlorn Forest *
+TM23    Smack Down                      Relic Passage *
+TM24    Thunderbolt                     Lentimas Town *
+TM25    Thunder                         Relic Passage *
+TM26    Earthquake                      Driftveil City Gym *
+TM27    Return                          Reversal Mountain *
+TM28    Dig                             Route 4
+TM29    Psychic                         Route 13
+TM30    Shadow Ball                     Strange House *
+TM31    Brick Break                     Route 19 *
+TM32    Double Team -> Dazzling Gleam   Route 13 *
+TM33    Reflect                         Nimbasa City Pokémon Center
+TM34    Sludge Wave                     Route 9 *
+TM35    Flamethrower                    Reversal Mountain *
+TM36    Sludge Bomb                     Virbank City *
+TM37    Sandstorm                       Mistralton City Pokémon Center
+TM38    Fire Blast                      Relic Passage *
+TM39    Rock Tomb                       Relic Castle
+TM40    Aerial Ace                      Mistralton City
+TM41    Torment -> Infestation          Floccesy Ranch *
+TM42    Facade                          Marine Tube
+TM43    Flame Charge                    Route 5 *
+TM44    Rest                            Castelia City
+TM45    Attract -> Power-Up Punch       Virbank Complex *
+TM46    Thief -> Aura Sphere            Victory Road *
+TM47    Low Sweep                       Virbank Complex *
+TM48    Round -> Mystical Fire          Route 13 *
+TM49    Echoed Voice                    Nimbasa City
+TM50    Overheat                        Route 23 *
+TM51    Ally Switch -> Wave Crash       Humilau City Gym *
+TM52    Focus Blast                     Relic Passage *
+TM53    Energy Ball                     Aspertia City
+TM54    False Swipe                     Aspertia City *
+TM55    Scald                           Undella Town *
+TM56    Fling -> Weather Ball           Lacunosa Town *
+TM57    Charge Beam                     Lentimas Town
+TM58    Sky Drop -> Hurricane           Victory Road *
+TM59    Incinerate                      Virbank Complex *
+TM60    Quash                           Abundant Shrine *
+TM61    Will-O-Wisp                     Celestial Tower
+TM62    Acrobatics                      Mistralton City Gym
+TM63    Embargo -> Brutal Swing         Driftveil City Marketplace
+TM64    Explosion                       Clay Tunnel *
+TM65    Shadow Claw                     Celestial Tower
+TM66    Payback -> Power Gem            Route 16
+TM67    Retaliate                       Team Plasma Frigate
+TM68    Giga Impact                     Shopping Mall Nine
+TM69    Rock Polish                     Reversal Mountain
+TM70    Flash                           Castelia City
+TM71    Stone Edge                      Victory Road *
+TM72    Volt Switch                     Nimbasa City Gym
+TM73    Thunder Wave                    Nimbasa City Pokémon Center
+TM74    Gyro Ball                       Nimbasa City Pokémon Center
+TM75    Swords Dance                    Route 11 *
+TM76    Struggle Bug -> Bug Buzz        Route 13 *
+TM77    Psych Up                        Chargestone Cave *
+TM78    Bulldoze                        Desert Resort *
+TM79    Frost Breath                    PWT *
+TM80    Rock Slide                      Mistralton Cave *
+TM81    X-Scissor                       Castellia City Gym *
+TM82    Dragon Tail                     Mistralton Cave *
+TM83    Work Up                         Aspertia City Gym
+TM84    Poison Jab                      Castelia Sewers *
+TM85    Dream Eater -> Play Rough       Relic Passage *
+TM86    Grass Knot                      Castelia Gardens *
+TM87    Swagger -> Rock Climb           Route 9 *
+TM88    Pluck                           Castelia City *
+TM89    U-Turn                          Route 7 *
+TM90    Substitute                      Giants Chasm *
+TM91    Flash Cannon                    Chargestone Cave *
+TM92    Trick Room                      Plasma Frigate *
+TM93    Wild Charge                     Route 12 *
+TM94    Rock Smash                      Virbank Complex
+TM95    Snarl                           Lostlorn Forest 

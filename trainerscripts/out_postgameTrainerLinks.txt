@@ -1,0 +1,6 @@
+  - Postgame Trainers:
+    - Elite Four: postgame/elitefour.md
+    - Hugh: postgame/hugh.md
+    - Team Plasma: postgame/teamplasma.md
+    - Other Important Trainers: postgame/otherimportanttrainers.md
+    - Unovan Gym Leader Rematches: postgame/unovangymleaderrematches.md

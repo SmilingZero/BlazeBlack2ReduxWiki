@@ -1,0 +1,97 @@
+=========================================================
+Nimbasa City
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+<normal>
+●♕ LENORA:
+Stoutland [Intimidate], lv.30 @Leftovers: Strength, Wild Charge, Crunch, Play Rough
+Unfezant [Super Luck], lv.30 @Scope Lens: Air Slash, Hyper Voice, Wish, Tailwind
+Sawsbuck [Sap Sipper], lv.30 @Miracle Seed: Aerial Ace, Horn Attack, Jump Kick, Horn Leech
+</normal>
+<challenge>
+$$$
+- test String
+$$$
+●♕ LENORA AND HAWES - (2x):
+<left>
+Hawes
+Gigalith [Sand Stream], lv.31 @Wide Lens: Stealth Rock, Sandstorm, Heavy Slam, Rock Slide
+Machamp [No Guard], lv.31 @Sitrus Berry: Dynamic Punch, Bullet Punch, Ice Punch, Cross Poison
+</left>
+<right>
+Lenora
+Stoutland [Sand Rush], lv.31 @Leftovers: Strength, Wild Charge, Crunch, Play Rough
+Unfezant [Unaware], lv.31 @Normal Gem: Hyper Voice, Hurricane, Heat Wave, Tailwind
+</right>
+</challenge>
+
+○♕ SUBWAY BOSSES INGO AND EMMET - (Tag):
+<left>
+Emmet
+Eelektross [Levitate], lv.34 @Magnet: Thunderbolt, Brick Break, Protect, Thunder Wave
+Umbreon [Synchronize], lv.34 @Leftovers: Helping Hand, Foul Play, Fake Tears, Assurance
+</left>
+<right>
+Ingo
+Chandelure [Flash Fire], lv.34 @Charcoal: Heat Wave, Hex, Protect, Will-O-Wisp
+Espeon [Magic Bounce], lv.34 @Psychic Gem: Psychic, Dazzling Gleam, Power Gem, Aura Sphere
+</right>
+<partner> 
+<tepig>
+Nate or Rosa
+Servine [Contrary], lv.31 @Sitrus Berry: Body Slam, Leech Seed, Giga Drain, Mirror Coat
+Simipour [Gluttony], lv.30 @Sitrus Berry: Tickle, Aqua Tail, Acrobatics, Crunch
+</tepig>
+<oshawott>
+Nate or Rosa
+Pignite [Sheer Force], lv.31 @Sitrus Berry: Arm Thrust, High Horsepower, Take Down, Heat Crash
+Simisage [Gluttony], lv.30 @Sitrus Berry: Tickle, Seed Bomb, Acrobatics, Crunch
+</oshawott>
+<snivy>
+Nate or Rosa
+Dewott [Shell Armor], lv.31 @Sitrus Berry: Razor Shell, Aqua Jet, Dual Chop, Storm Throw
+Simisear [Gluttony], lv.30 @Sitrus Berry: Tickle, Fire Lash, Acrobatics, Crunch
+</snivy>
+</partner>
+
+~~~~~~~~~~~
+Big Stadium
+~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ FLANNERY - Hoenn Leader {Choice Band}:
+Ponyta [Flame Body], lv.34: Overheat, Attract, Solar Beam, Sunny Day
+Magcargo [Flame Body], lv.34: Overheat, Attract, Rock Slide, Sunny Day
+Camerupt [Solid Rock], lv.34: Overheat, Attract, Bulldoze, Sunny Day
+Torkoal [White Smoke], lv.35 @White Herb: Overheat, Attract, Body Slam, Sunny Day
+</normal>
+<challenge>
+○♕ FLANNERY - Hoenn Leader {Cheri Berries x12}:
+Torkoal [Drought], lv.37 @White Herb: Overheat, Earth Power, Stealth Rock, Yawn
+Magmar [Flame Body], lv.36 @White Herb: Overheat, Thunder Punch, Cross Chop, Will-O-Wisp
+Houndoom [Intimidate], lv.36 @White Herb: Overheat, Crunch, Sludge Bomb, Solar Beam
+Rotom-Heat [Levitate], lv.36 @White Herb: Overheat, Volt Switch, Sunny Day, Thunderbolt
+Camerupt [Simple], lv.36 @White Herb: Overheat, Earthquake, Growth, Flame Charge
+Magcargo [Solid Rock], lv.36 @White Herb: Overheat, Magma Storm, Power Gem, Solar Beam
+</challenge>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Elesa has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+● Plasma Grunt #359:
+Magneton [Sturdy], lv.34: Thunder Wave, Electro Ball, Flash Cannon, Bug Buzz
+Mothim [Tinted Lens], lv.34: Air Slash, Lunge, Poison Powder, Bug Buzz
+Watchog [Keen Eye], lv.34: Hypnosis, Facade, Super Fang, Zen Headbutt
+Vaporeon [Water Absorb], lv.34: Aurora Beam, Bubble Beam, Growth, Extrasensory
+Donphan [Sturdy], lv.34: Earthquake, Ice Shard, Assurance, Endeavor
+
+● Plasma Grunt #751:
+Scolipede [Speed Boost], lv.34: Poison Tail, Bug Bite, Toxic Spikes, Spikes
+Kingler [Sheer Force], lv.34: Razor Shell, High Horsepower, Agility, Knock Off
+Archen [Defeatist], lv.34: Accelerock, Dual Wingbeat, Dragon Claw, Crunch
+Swoobat [Simple], lv.34: Esper Wing, Air Cutter, Calm Mind, Stored Power

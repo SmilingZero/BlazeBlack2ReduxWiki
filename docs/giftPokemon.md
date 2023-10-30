@@ -266,39 +266,39 @@ Level    | 50
  - Rotom is found in the backroom of Shopping Mall Nine, amongst the boxes which can be used to change its form.
 
 
-[495]: img/pokemon/495_0.png
-[498]: img/pokemon/498_0.png
-[501]: img/pokemon/501_0.png
+[495]: img/animated/495.gif
+[498]: img/animated/498.gif
+[501]: img/animated/501.gif
 
 [Snivy]: pokemons/495
 [Tepig]: pokemons/498
 [Oshawott]: pokemons/501
 
-[511]: img/pokemon/511_0.png
-[513]: img/pokemon/513_0.png
-[515]: img/pokemon/515_0.png
+[511]: img/animated/511.gif
+[513]: img/animated/513.gif
+[515]: img/animated/515.gif
 
 [Pansage]: pokemons/511
 [Pansear]: pokemons/513
 [Panpour]: pokemons/515
 
-[172]: img/pokemon/172_0.png
-[173]: img/pokemon/173_0.png
-[216]: img/pokemon/216_0.png
-[218]: img/pokemon/218_0.png
-[236]: img/pokemon/236_0.png
-[238]: img/pokemon/238_0.png
-[239]: img/pokemon/239_0.png
-[240]: img/pokemon/240_0.png
-[318]: img/pokemon/318_0.png
-[363]: img/pokemon/363_0.png
-[406]: img/pokemon/406_0.png
-[517]: img/pokemon/517_0.png
-[522]: img/pokemon/522_0.png
-[582]: img/pokemon/582_0.png
-[607]: img/pokemon/607_0.png
-[605]: img/pokemon/605_0.png
-[613]: img/pokemon/613_0.png
+[172]: img/animated/172.gif
+[173]: img/animated/173.gif
+[216]: img/animated/216.gif
+[218]: img/animated/218.gif
+[236]: img/animated/236.gif
+[238]: img/animated/238.gif
+[239]: img/animated/239.gif
+[240]: img/animated/240.gif
+[318]: img/animated/318.gif
+[363]: img/animated/363.gif
+[406]: img/animated/406.gif
+[517]: img/animated/517.gif
+[522]: img/animated/522.gif
+[582]: img/animated/582.gif
+[607]: img/animated/607.gif
+[605]: img/animated/605.gif
+[613]: img/animated/613.gif
 
 [Pichu]: pokemons/172
 [Igglybuff]: pokemons/173
@@ -318,80 +318,80 @@ Level    | 50
 [Elgyem]: pokemons/605
 [Cubchoo]: pokemons/613
 
-[001]: img/pokemon/1_0.png
-[004]: img/pokemon/4_0.png
-[007]: img/pokemon/7_0.png
+[001]: img/animated/1.gif
+[004]: img/animated/4.gif
+[007]: img/animated/7.gif
 [Bulbasaur]: pokemons/001/
 [Charmander]: pokemons/004/
 [Squirtle]: pokemon/007/
 
-[307]: img/pokemon/307_0.png
+[307]: img/animated/307.gif
 [Meditite]: pokemons/307/
 
-[133]: img/pokemon/133_0.png
+[133]: img/animated/133.gif
 [Eevee]: pokemons/133/
 
-[152]: img/pokemon/152_0.png
-[155]: img/pokemon/155_0.png
-[158]: img/pokemon/158_0.png
+[152]: img/animated/152.gif
+[155]: img/animated/155.gif
+[158]: img/animated/158.gif
 [Chikorita]: pokemons/152/
 [Cyndaquil]: pokemons/155/
 [Totodile]: pokemons/158/
 
-[438]: img/pokemon/438_0.png
-[439]: img/pokemon/439_0.png
-[431]: img/pokemon/431_0.png
-[434]: img/pokemon/434_0.png
+[438]: img/animated/438.gif
+[439]: img/animated/439.gif
+[431]: img/animated/431.gif
+[434]: img/animated/434.gif
 [Bonsly]: pokemons/438/
 [MimeJr]: pokemons/439/
 [Glameow]: pokemons/431/
 [Stunky]: pokemons/434/
 
-[138]: img/pokemon/138_0.png
-[140]: img/pokemon/140_0.png
-[345]: img/pokemon/345_0.png
-[347]: img/pokemon/347_0.png
+[138]: img/animated/138.gif
+[140]: img/animated/140.gif
+[345]: img/animated/345.gif
+[347]: img/animated/347.gif
 [Omanyte]: pokemons/138/
 [Kabuto]: pokemons/140/
 [Lileep]: pokemons/345/
 [Anorith]: pokemons/347/
-[408]: img/pokemon/408_0.png
-[410]: img/pokemon/410_0.png
-[564]: img/pokemon/564_0.png
-[566]: img/pokemon/566_0.png
+[408]: img/animated/408.gif
+[410]: img/animated/410.gif
+[564]: img/animated/564.gif
+[566]: img/animated/566.gif
 [Cranidos]: pokemons/408/
 [Shieldon]: pokemons/410/
 [Tirtouga]: pokemons/564/
 [Archen]: pokemons/566/
 
-[252]: img/pokemon/252_0.png
-[255]: img/pokemon/255_0.png
-[258]: img/pokemon/258_0.png
+[252]: img/animated/252.gif
+[255]: img/animated/255.gif
+[258]: img/animated/258.gif
 [Treecko]: pokemons/252/
 [Torchic]: pokemons/255/
 [Mudkip]: pokemons/258/
 
-[387]: img/pokemon/387_0.png
-[390]: img/pokemon/390_0.png
-[393]: img/pokemon/393_0.png
+[387]: img/animated/387.gif
+[390]: img/animated/390.gif
+[393]: img/animated/393.gif
 [Turtwig]: pokemons/387/
 [Chimchar]: pokemons/390/
 [Piplup]: pokemons/393/
 
-[570]: img/pokemon/570_0.png
+[570]: img/animated/570.gif
 [Zorua]: pokemons/570/
 
-[222]: img/pokemon/222_0.png
+[222]: img/animated/222.gif
 [Corsola]: pokemons/222/
 
-[234]: img/pokemon/234_0.png
+[234]: img/animated/234.gif
 [Stantler]: pokemons/234/
 
-[637]: img/pokemon/637_0.png
+[637]: img/animated/637.gif
 [Volcarona]: pokemons/637/
 
-[131]: img/pokemon/131_0.png
+[131]: img/animated/131.gif
 [Lapras]: pokemons/131/
 
-[479]: img/pokemon/479_0.png
+[479]: img/animated/479.gif
 [Rotom]: pokemons/479/

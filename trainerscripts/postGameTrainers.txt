@@ -1,0 +1,524 @@
+=========================================================
+Elite Four
+=========================================================
+
+~~~~~~~~~~~~~~~~~~
+Shauntal
+~~~~~~~~~~~~~~~~~~
+
+<normal>
+○ SHAUNTAL - Round Two:
+Jellicent [Cursed Body], lv.86 @Choice Scarf: Water Spout, Shadow Ball, Blizzard, Trick 
+Froslass [Cursed Body], lv.86 @Focus Sash: Ice Beam, Shadow Ball, Thunderbolt, Destiny Bond
+Gengar [Levitate], lv.86 @Life Orb: Disable, Thunderbolt, Shadow Ball, Focus Blast
+Golurk [Iron Fist], lv.86 @Expert Belt: Earthquake, Shadow Punch, Thunder Punch, Ice Punch
+Sableye [Prankster], lv.86 @Leftovers: Foul Play, Recover, Will-O-Wisp, Confuse Ray
+Chandelure [Shadow Tag], lv.88 @Air Ballon: Fire Blast, Shadow Ball, Energy Ball, Psychic 
+</normal>
+<challenge>
+○ SHAUNTAL - Round Two:
+Giratina [Levitate], lv.92 @Griseous Orb: Aura Sphere, Earth Power, Dragon Claw, Substitute
+Mismagius [Infiltrator*], lv.92 @Life Orb: Moonblast, Shadow Ball, Mystical Fire, Nasty Plot
+Gengar [Levitate], lv.92 @Focus Sash: Disable, Thunderbolt, Shadow Ball, Focus Blast
+Golurk [Iron Fist], lv.92 @Rindo Berry: Earthquake, Shadow Punch, Thunder Punch, Ice Punch
+Jellicent [Water Absorb], lv.92 @Water Absorb: Scald, Hex, Will-O-Wisp, Recover
+Chandelure [Shadow Tag], lv.94 @Air Balloon: Fire Blast, Shadow Ball, Energy Ball, Psychic 
+</challenge>
+
+~~~~~~~~~~~~~~~~~~
+Grimsley
+~~~~~~~~~~~~~~~~~~
+
+<normal>
+○ GRIMSLEY - Round Two:
+Tyranitar [Sand Stream], lv.86 @Chople Berry: Dragon Dance, Stone Edge, Crunch, Earthquake
+Bisharp [Defiant], lv.88 @Focus Sash: Iron Head, Psycho Cut, X-Scissor, Sucker Punch
+Zoroark [Illusion], lv.86 @Life Orb: Night Daze, Focus Blast, Flamethrower, Extrasensory
+Liepard [Prankster], lv.86 @Normal Gem: U-Turn, Thunder Wave, Sucker Punch, Fake Out
+Scrafty [Moxie], lv.86 @Coba Berry: Dragon Dance, High Jump Kick, Sucker Punch, Stone Edge
+Krookodile [Moxie], lv.86 @Choice Scarf: Earthquake, Crunch, Thunder Fang, Fire Fang
+</normal>
+<challenge>
+○ GRIMSLEY - Round Two (2x):
+Darkrai [Bad Dreams], lv.92 @Red Card: Dark Void, Dark Pulse, Icy Wind, Focus Blast
+Bisharp [Defiant], lv.94 @Air Balloon: Sucker Punch, Leaf Blade, Iron Head, Knock Off
+Zoroark [Illusion], lv.92 @Focus Sash: Night Daze, Nasty Plot, Flamethrower, Grass Knot
+Weavile [Pressure], lv.92 @Life Orb: Low Kick, Triple Axel, Feint Attack, Ice Shard
+Hydreigon [Levitate], lv.92 @White Herb: Draco Meteor, Nasty Plot, Dark Pulse, Heat Wave
+Spiritomb [Pressure], lv.92 @Leftovers: Icy Wind, Toxic, Protect, Hex
+</challenge>
+
+
+~~~~~~~~~~~~~~~~~~
+Caitlin
+~~~~~~~~~~~~~~~~~~ 
+
+<normal>
+○ CAITLIN - Round Two:
+Gallade [Justified], lv.86 @Focus Sash: Close Combat, Shadow Sneak, Zen Headbutt, Stone Edge
+Musharna [Synchronize], lv.86 @Leftovers: Moonlight, Psychic, Shadow Ball, Charge Beam
+Reuniclus [Magic Guard], lv.86 @Life Orb: Psychic, Focus Blast, Recover, Thunder
+Gothitelle [Shadow Tag], lv.86 @Tanga Berry: Thunder Wave, Calm Mind, Psyshock, Dark Pulse
+Alakazam [Magic Guard], lv.86 @Life Orb: Psychic, Focus Blast, Shadow Ball, Energy Ball
+Metagross [Clear Body], lv.88 @Air Balloon: Meteor Mash, Earthquake, Thunder Punch, Bullet Punch
+</normal>
+<challenge>
+○ CAITLIN - Round Two (2x):
+Slowbro [Regenerator], lv.92 @Leftovers: Psyshock, Flamethrower, Focus Blast, Slack Off
+Gothitelle [Shadow Tag], lv.92 @Tanga Berry: Light Screen, Psychic, Night Daze, Trick Room
+Cresselia [Levitate], lv.92 @Mental Herb: Toxic, Trick Room, Protect, Ice Beam
+Darmanitan [Levitate], lv.92 @Life Orb: Heat Wave, Extrasensory, Focus Blast, Grass Knot
+Reuniclus [Magic Guard], lv.92 @Light Clay: Trick Room, Reflect, Focus Blast, Psyshock
+Metagross [Iron Fist*], lv.94 @Colbur Berry: Meteor Mash, Ice Punch, Zen Headbutt, Bullet Punch
+</challenge>
+
+~~~~~~~~~~~~~~~~~~
+Marshal
+~~~~~~~~~~~~~~~~~~
+
+<normal>
+○ MARSHAL - Round Two:
+Infernape [Iron Fist], lv.86 @Life Orb: Overheat, Close Combat, U-Turn, Mach Punch
+Lucario [Justified], lv.86 @Air Balloon: High Jump Kick, Extreme Speed, Dark Pulse, Ice Punch
+Throh [Mold Breaker], lv.86 @Cobat Berry: Stone Edge, Circle Throw, Payback, Earthquake
+Mienshao [Reckless], lv.86 @Focus Sash: High Jump Kick, Stone Edge, U-Turn, Fake Out
+Sawk [Sturdy], lv.86 @Salac Berry: Reversal, Stone Edge, Earthquake, Close Combat
+Conkeldurr [Iron Fist], lv.88 @Payapa Berry: Hammer Arm, Ice Punch, Payback, Stone Edge
+</normal>
+<challenge>
+○ MARSHAL - Round Two:
+Infernape [Blaze], lv.92 @Focus Sash: Stealth Rock, U-Turn, Fire Blast, Close Combat
+Scrafty [Intimidate], lv.92 @Leftovers: Knock Off, Close Combat, Thunder Punch, Poison Jab
+Lucario [Justified], lv.92 @Life Orb: Meteor Mash, Extreme Speed, Close Combat, Bullet Punch
+Mienshao [Regenerator], lv.92 @Rocky Helmet: Close Combat, Grass Knot, U-Turn, Fake Out
+Keldeo [Justified], lv.92 @Expert Belt: Secret Sword, Hydro Pump, Icy Wind, Calm Mind
+Conkeldurr [Guts], lv.94 @Payapa Berry: Drain Punch, Ice Punch, Bulk Up, Mach Punch
+</challenge>
+
+~~~~~~~~~~~~~~~~~~
+Iris
+~~~~~~~~~~~~~~~~~~
+
+<normal>
+○ CHAMPION IRIS - Round Two:
+Haxorus [Mold Breaker], lv.92 @Yache Berry: Outrage, Aqua Tail, Earthquake, Dragon Dance
+Hydreigon [Levitate], lv.90 @Life Orb: Draco Meteor, U-Turn, Fire Blast, Dark Pulse
+Dragonite [Multiscale], lv.90 @Yache Berry: Dragon Dance, Outrage, Fire Punch, Extreme Speed
+Excadrill [Mold Breaker], lv.90 @Air Balloon: Rock Slide, Swords Dance, Earthquake, X-Scissor
+Lapras [Water Absorb], lv.90 @Chople Berry: Blizzard, Thunder, Drill Run, Hydro Pump
+Serperior [Contrary], lv.90 @Focus Sash: Leaf Storm, Dragon Pulse, Aqua Tail, Mirror Coat
+</normal>
+<challenge>
+○ CHAMPION IRIS - Round Two:
+Latios [Levitate], lv.96 @Soul Dew: Dragon Pulse, Mystical Fire, Aura Sphere, Psyshock
+Aerodactyl [Rock Head], lv.96 @Life Orb: Head Smash, Brave Bird, Accelerock, Earthquake
+Dragonite [Multiscale], lv.96 @Leftovers: Dragon Dance, Dual Wingbeat, Dragon Claw, Fire Punch
+Heatran [Flash Fire], lv.96 @Air Balloon: Magma Storm, Flash Cannon, Earth Power, Flame Charge
+Serperior [Contrary], lv.96 @Focus Sash: Leaf Storm, Draco Meteor, Glare, Substitute
+Rayquaza [Air Lock], lv.98 @Life Orb: Outrage, V-Creat, Dragon Dance, Hurricane
+</challenge>
+
+=========================================================
+Hugh
+=========================================================
+
+~~~~~~~~~~~~~
+Undella Town 
+~~~~~~~~~~~~~
+
+<tepig>
+○ HUGH - Undella Town
+Swellow [Scrappy], lv.76 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.76 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.76 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Lilligant [Own Tempo], lv.76 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+Samurott [Shell Armor], lv.78 @Leftovers: Secret Sword, Hydro Pump, Megahorn, Shell Smash
+Camerupt [Simple*], lv.76 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+</tepig>
+<oshawott>
+○ HUGH - Undella Town
+Swellow [Scrappy], lv.76 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.76 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.76 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Camerupt [Simple*], lv.76 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+Serperior [Contrary], lv.78 @Leftovers: Glare, Leaf Storm, Dragon Meteor, Substitute
+Starmie [Analytic], lv.76 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+</oshawott>
+<snivy>
+○ HUGH - Undella Town
+Swellow [Scrappy], lv.76 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.76 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.76 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Starmie [Analytic], lv.76 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+Emboar [Mold Breaker*], lv.78 @Leftovers: V-Create, Sucker Punch, Wild Charge, Earthquake
+Lilligant [Own Tempo], lv.76 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+</snivy>
+
+
+~~~~~~~~~~~~~
+Driftveil City
+~~~~~~~~~~~~~
+
+
+<tepig>
+○ HUGH - Driftveil City
+Swellow [Scrappy], lv.82 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.82 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.82 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Lilligant [Own Tempo], lv.82 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+Samurott [Shell Armor], lv.84 @Leftovers: Secret Sword, Hydro Pump, Megahorn, Shell Smash
+Camerupt [Simple*], lv.82 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+</tepig>
+<oshawott>
+○ HUGH - Driftveil City
+Swellow [Scrappy], lv.82 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.82 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.82 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Camerupt [Simple*], lv.82 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+Serperior [Contrary], lv.84 @Leftovers: Glare, Leaf Storm, Dragon Meteor, Substitute
+Starmie [Analytic], lv.82 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+</oshawott>
+<snivy>
+○ HUGH - Driftveil City
+Swellow [Scrappy], lv.82 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.82 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.82 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Starmie [Analytic], lv.82 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+Emboar [Mold Breaker*], lv.84 @Leftovers: V-Create, Sucker Punch, Wild Charge, Earthquake
+Lilligant [Own Tempo], lv.82 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+</snivy>
+
+=============================
+Team Plasma
+=============================
+
+
+~~~~~~~~~~~~~~~~~~
+Plasma Frigate
+~~~~~~~~~~~~~~~~~~
+
+○ COLRESS: 
+Porygon-Z [Adaptability], lv.86 @Focus Sash: Hyper Beam, Ice Beam, Thunderbolt, Trick Room
+Rotom [Levitate], lv.86 @Leftovers: Volt Switch, Hydro Pump, Reflect, Light Screen
+Metagross [Clear Body], lv.86 @Air Balloon: Meteor Mash, Earthquake, Ice Punch, Bullet Punch
+Magnezone [Analytic], lv.86 @Air Balloon: Volt Switch, Flash Cannon, Reflect, Light Screen
+Beheeyem [Analytic], lv.86 @Colbur Berry: Psychic, Thunderbolt, Trick Room, Bug Buzz
+Klinklang [Levitate*], lv.88: Gear Grind, Shift Gear, Wild Charge, Superpower
+
+
+~~~~~~~~~~~~~~~~~~
+Icirrus City
+~~~~~~~~~~~~~~~~~~
+
+○ Shadow Triad:
+Bisharp [Defiant], lv.81 @Air Balloon: Sucker Punch, Iron Head, Swords Dance, Brick Break
+Crobat [Infiltrator], lv.81 @Flying Gem: U-Turn, Acrobatics, Cross Poison, Hypnosis
+Scizor [Technician], lv.81 @Life Orb: U-Turn, Bug Bite, Bullet Punch, Pursuit
+Flygon [Levitate], lv.81 @Life Orb: Quiver Dance, Bug Buzz, Flamethrower, Dragon Pulse
+Absol [Super Luck], lv.83 @Scope Lens: Night Slash, Megahorn, Sucker Punch, Psycho Cut
+
+○ Shadow Triad:
+Banette [Cursed Body], lv.81 @Life Orb: Destiny Bond , Shadow Claw, Will-O-Wisp, Shadow Sneak
+Bisharp [Defiant], lv.81 @Air Balloon: Sucker Punch, Iron Head, X-Scissor, Aerial Ace
+Weezing [Levitate], lv.81 @Leftovers: Destiny Bond, Sludge Bomb, Will-O-Wisp, Flamethrower
+Electrode [Aftermath], lv.81 @Light Clay: Light Screen, Thunderbolt, Hidden Power, Torment
+Accelgor [Unburden], lv.83 @Focus Sash: Bug Buzz, Focus Blast, Giga Drain, Final Gambit
+
+○ Shadow Triad:
+Bisharp [Defiant], lv.81 @Air Balloon: Sucker Punch, Iron Head, X-Scissor, Substitute
+Ninjask [Speed Boost], lv.81 @Liechi Berry: Endure, Aerial Ace, X-Scissor, Substitute
+Venomoth [Tinted Lens], lv.81 @Focus Sash: Bug Buzz, Psychic, Sleep Powder, Quiver Dance
+Weavile [Pressure], lv.81 @Razor Claw: Feint Attack, Ice Shard, Low Kick, Fake Out
+Gengar [Levitate], lv.83 @Life Orb: Shadow Ball, Thunderbolt, Focus Blast, Sludge Bomb
+
+
+=========================================================
+Other Important Trainers
+=========================================================
+
+~~~~~~~~
+Steven and Wallace
+~~~~~~~~
+
+- This fight has not yet been updated as of v1.2.0.
+- Both Steven and Wallace each use six Pokémon each, for a total of twelve Pokémon. Prepare for a brutal endgame fight!
+
+○ STEVEN:
+Metagross [Iron Fist*], lv.92 @Focus Sash: Meteor Mash, Thunder Punch, Zen Headbutt, Stealth Rock 
+Claydol [Levitate], lv.90 @Light Clay: Reflect, Light Screen, Earth Power, Psychic
+Empoleon [Defiant], lv.90 @Air Balloon: Agility, Waterfall, Flash Cannon, Grass Knot
+Aerodactyl [Rock Head], lv.90 @Focus Sash: Brave Bird, Double-Edge, ock Slide, Tailwind
+Aggron [Rock Head], lv.90 @Shuca Berry: Autotomize, Rock Slide, Heavy Slam, Head Smash
+Cradily [Suction Cups], lv.90 @Leftovers: Giga Drain, Rock Slide, Toxic, Protect
+
+○ WALLACE:
+Pelipper [Drizzle], lv.92 @Wacan Berry: Hurricane, Scald, U-Turn, Tailwind  
+Ludicolo [Swift Swim], lv.90 @Life Orb: Hydro Pump, Ice Beam, Giga Drain, Rain Dance
+Milotic [Marvel Scale], lv.90 @Leftovers: Hydro Pump, Dazzling Gleam, Recover, Icy Wind
+Gyarados [Intimidate], lv.90 @Wacan Berry: Dragon Dance, Aqua Tail, Power Whip, Crunch
+Kabutops [Swift Swim], lv.90 @Rindo Berry: Rock Slide, Waterfall, Leech Life, Knock Off
+Sharpedo [Speed Boost], lv.90 @Focus Sash: Waterfall, Crunch, Close Combat, Protect
+
+~~~~~~
+Castelia City
+~~~~~~
+
+○ Gamefreak Morimoto
+Braviary [Defiant], lv.90 @Power Herb: Fly
+Excadrill [Mold Breaker], lv.90 @Power Herb: Dig
+Alomomola [Regenerator], lv.90 @Power Herb: Dive
+Liepard [Prankster], lv.90 @Lagging Tail: Assist
+Zebstrika [Sap Sipper], lv.90 @Power Herb: Bounce
+Mew [Levitate], lv.92 @Power Herb: Dive, Dig, Fly, Bounce
+
+○ Gamefreak Nishino
+Clefable [Magic Guard], lv.90 @Leftovers: Gravity, Thunder, Blizzard, Moonblast
+Audino [Regenerator], lv.90 @Leftovers: Gravity, Moonblast, Fire Blast, Trick Room
+Wigglytuff [Huge Power*], lv.90 @Leftovers: Gravity, Thunder, Play Rough, Focus Blast
+Porygon2 [Analytic], lv.90 @Eviolite: Gravity, Thunder, Blizzard, Trick Room
+Blissey [Serene Grace], lv.90 @Chople Berry: Gravity, Soft-Boiled, Thunder, Focus Blast
+Snorlax [Thick Fat], lv.92 @Leftovers: Slack Off, Gunk Shot, Strength, Earthquake
+
+
+~~~~~~
+Nature Preserve
+~~~~~~
+
+○ HILBERT:
+Reshiram [Turboblaze], lv.100 @White Herb: Blue Flare, Draco Meteor, Earth Power, Focus Blast
+Archeops [Defeatist], lv.98 @Flying Gem: Acrobatics, Head Smash, Accelerock, Aqua Tail
+Samurott [Shell Armor], lv.98 @White Herb: Sheel Smash, Waterfall, Close Combat, Megahorn
+Zoroark [Illusion], lv.98 @Life Orb: Night Daze, Flamethrower, Focus Blast, Grass Knot
+Musharna [Telepathy], lv.98 @Leftovers: Moonblast, Psyshock, Psych Up, Shadow Ball
+Volcarona [Flame Body], lv.98 @Life Orb: Quiver Dance, Giga Drain, Fire Blast, Bug Buzz
+
+○ HILDA:
+Zekrom [Teravolt], lv.100 @Air Balloon: Bolt Strike, Outrage, Stone Edge, Dragon Dance
+Carracosta [Sturdy], lv.98 @Salac Berry: Shell Smash, Stone Edge, Waterfall, Aqua Jet
+Serperior [Contrary], lv.98 @Wide Lens: Leaf Storm, Draco Meteor, Magic Coat, Glare
+Zoroark [Illusion], lv.98 @Life Orb: Night Daze, Flamethrower, Focus Blast, Grass Knot
+Musharna [Telepathy], lv.98 @Leftovers: Moonblast, Psyshock, Psych Up, Shadow Ball
+Volcarona [Flame Body], lv.98 @Life Orb: Quiver Dance, Giga Drain, Fire Blast, Bug Buzz
+
+~~~~~~
+Striation City
+~~~~~~
+
+○ LEADER CILAN:
+Ferrothorn [Iron Barbs], lv.82 @Rocky Helmet: Power Whip, Gyro Ball, Rock Climb, Leech Seed
+Lilligant [Own Tempo], lv.82 @Wide Lense: Petal Dance, Slee Powder, Extrasensory, Quiver Dance
+Simisage [Overgrow], lv.84 @White Herb: Leaf Storm, Acrobatics, Focus Blast, Rock Slide
+
+○ LEADER CRESS:
+Azumarill [Huge Power], lv.82 @Muscle Band: Aqua Tail, Play Rough, Ice Punch, Aqua Jet
+Slowking [Regenerator], lv.82 @Leftovers: Scald, Psychic, Flamethrower, Slack Off
+Simipour [Torrent], lv.84 @White Herb: Hydro Pump, Ice Beam, Superpower, Acrobatics
+
+○ LEADER CHILI:
+Arcanine [Intimidate], lv.82 @Passho Berry: Will-O-Wisp, Flare Blitz, Extreme Speed, Wild Charge 
+Darmanitan [Sheer Force], lv.82 @Life Orb: Flare Blitz, Rock Slide, Zen Headbutt, Yawn
+Simisear [Blaze], lv.84 @White Herb: Overheat, Focus Blast, Acrobatics, Grass Knot
+
+
+~~~~~~
+Benga, Postgame
+~~~~~~
+
+○ BENGA - White Tree Hollow:
+Kyogre [Drizzle], lv.100 @Leftovers: Hydro Pump, Thunder, Ice Beam, Calm Mind
+Zekrom [Teravolt], lv.100 @Life Orb: Bolt Strike, Dragon Claw, Rock Slide, Dragon Dance
+Lugia [Multiscale], lv.100 @Leftovers: Aeroblast, Roost, Hydro Pump, Thunder
+Latios [Levitate], lv.100 @Soul Dew: Dragon Pulse, Thunder, Surf, Roost
+Volcarona [Swarm], lv.100 @Leftovers: Quiver Dance, Bug Buzz, Hurricane, Giga Drain
+
+○ BENGA - Black Skyscraper:
+Groudon [Drought], lv.100 @Leftovers: Earthquake, Dragon Tail, Stone Edge, Stealth Rock
+Reshiram [Turboblaze], lv.100 @Life Orb: Blue Flare, Draco Meteor, Earth Power, Focus Blast
+Ho-Oh [Regenerator], lv.100 @Life Orb: Flame Charge, Brave Bird, Earthquake, Roost
+Latias [Levitate], lv.100 @Soul Dew: Dragon Pulse, Psychic, Solar Beam, Mystical Fire
+Volcarona [Swarm], lv.100 @Leftovers: Quiver Dance, Fiery Dance, Bug Buzz, Morning Sun
+
+~~~~~~
+Wellspring Cave
+~~~~~~
+
+○ BLUE:
+Pidgeot [No Guard*], lv.85 @Life Orb: Hyper Voice, Hurricane, U-Turn, Heat Wave
+Arcanine [Intimidate], lv.85 @Passho Berry: Close Combat, Extreme Speed, Wild Charge, Flare Blitz
+Rhyperior [Solid Rock], lv.85 @Leftovers: Heat Crash, Heavy Slam, Stone Edge, Earthquake
+Exeggutor [Harvest], lv.85 @Sitrus Berry: Giga Drain, Psyshock, Sleep Powder, Trick Room
+Gyarados [Moxie], lv.85 @Focus Sash: Power Whip, Waterfall, Dragon Dance, Earthquake
+Machamp [No Guard], lv.85 @Fighting Gem: Dynamic Punch, Stone Edge, Thunder Punch
+
+
+~~~~~~
+Faraway Island
+~~~~~~
+
+- Levels +7(!) on Challenge Mode
+
+○ RED:
+Pikachu [Static], lv.100 @Light Ball: Volt Tackle, Surf, Extreme Speed, Iron Tail
+Alakazam [Magic Guard], lv.100 @Focus Sash: Psyshock, Nasty Plot, Aura Sphere, Energy Ball
+Snorlax [Thick Fat], lv.100 @Leftovers: Earthquake, Strength, Crunch, Slack Off
+Charizard [Defiant*], lv.100 @Sitrus Berry: Belly Drum, Dragon Claw, Fire Lash, Earthquake
+Blastoise [Shell Armor], lv.100 @White Herb: Shell Smash, Ice Beam, Aura Sphere, Surf
+Venusaur [Solar Power*], lv.100 @Black Sludge: Giga Drain, Leech Seed, Toxic, Sludge Bomb
+
+~~~~~~
+N
+~~~~~~
+
+<black>
+N - FIRST BATTLE
+Zekrom [Teravolt], lv.100 @Leftovers: Bolt Strike, Outrage, Dragon Dance, Stone Edge
+</black>
+<white>
+N - FIRST BATTLE
+Reshiram [Turboblaze], lv.100 @Leftovers: Blue Flare, Dragon Pulse, Earth Power, Psychic 
+</white>
+
+~~~~~ Spring ~~~~~ 
+
+○ N - N's Castle:
+Pelipper [Drizzle], lv.92 @Focus Sash: Scald, Hurricane, U-Turn, Knock Off
+Beartic [Swift Swim], lv.90 @Yache Berry: Close Combat, Icicle Crash, Aqua Jet, Play Rough
+Kingdra [Swift Swim], lv.90 @Life Orb: Waterfall, Yawn, Outrage, Dragon Dance
+Toxicroak [Dry Skin], lv.90 @Life Orb: Gunk Shot, Cross Chop, Sucker Punch, Ice Punch
+Gorebyss [Swift Swim], lv.90 @Life Orb: Shell Smash, Blizzard, Hydro Pump, Psychic
+Rotom [Levitate], lv.90 @Rindo Berry: Hydro Pump, Thunder, Signal Beam, Thunder Wave
+
+~~~~~ Summer ~~~~~ 
+
+○ N - N's Castle:
+Ninetales [Drought], lv.92 @Focus Sash: Heat Wave, Moonblast, Solar Beam, Hypnosis
+Venusaur [Chlorophyll], lv.90 @Life Orb: Growth, Solar Beam, Sludge Bomb, Sleep Powder
+Darmanitan [Sheer Force], lv.90 @Choice Scarf: Flare Blitz, U-Turn, Earthquake
+Salamence [Intimidate], lv.90 @Yache Berry: Fire Blast, Outrage, Dragon Dance, Earthquake
+Rotom [Levitate], lv.90 @Charti Berry: Thunderbolt, Overheat, Volt Switch, Thunder Wave
+Sawsbuck [Chlorophyll], lv.90 @Life Orb: Horn Leech, Double-Edge, Jump Kick, Megahorn
+
+~~~~~ Autumn ~~~~~
+
+○ N - N's Castle:
+Hippowdon [Sand Stream], lv.92 @Focus Sash: Earthquake, Toxic, Slack Off, Stealth Rock 
+Excadrill [Sand Rush], lv.90 @Air Balloon: Earthquake, Swords Dance, Rock Slide, Iron Head
+Gliscor [Poison Heal], lv.90 @Toxic Orb: Facade, Earthquake, Roost, Protect
+Cacturne [Sand Veil], lv.90 @Life Orb: Sucker Punch, Needle Arm, Thunder Punch, Protect
+Mandibuzz [Overcoat], lv.90 @Leftovers: Toxic, Protect, Roost, Brave Bird
+Stoutland [Sand Rush], lv.90 @Life Orb: Retaliate, Return, Crunch, Wild Charge
+
+~~~~~ December ~~~~~
+
+○ N - N's Castle:
+Abomasnow [Snow Warning], lv.92 @Occa Berry: Blizzard, Seed Bomb, Earthquake, Ice Shard
+Walrein [Ice Body], lv.90 @Leftovers: Blizzard, Toxic, Surf, Protect
+Rotom [Levitate], lv.90 @Leftovers: Blizzard, Thunderbolt, Protect, Confuse Ray
+Vanilluxe [Snow Warning], lv.90 @Life Orb: Blizzard, Autotomize, Flash Cannon, Hyper Voice
+Mamoswine [Snow Cloak], lv.90 @Leftovers: Earthquake, Ice Shard, Icicle Crash, Stone Edge
+Jynx [Trace*], lv.90 @Quick Claw: Psycho Boost, Blizzard, Psyshock, Focus Blast
+
+
+=========================================================
+Unovan Gym Leader Rematches
+=========================================================
+
+~~~~~~~~
+Cheren, Postgame
+~~~~~~~~
+
+- Cheren gets some minor level bonuses on account of beating the Elite Four in the first game.
+
+○ LEADER CHEREN - Nacrene City:
+Cinccino [Skill Link], lv.85 @Wide Lens: Aqua Tail, Tail Slap, Rock Blast, Bullet Seed
+Porygon-Z [Download], lv.85 @Life Orb: Tri Attack, Ice Beam, Thunderbolt, Nasty Plot
+Dodrio [Early Bird], lv.85 @Focus Sash: Brave Bird, Endeavor, Jump Kick, Quick Attack
+Snorlax [Thick Fat], lv.85 @Leftovers: Heavy Slam, Slack Off, Stength, Crunch
+Exploud [Scrappy], lv.85 @Life Orb: Boomburst, Surf, Fire Blast, Extrasensory
+Stoutland [Intimidate], lv.87 @Chople Berry: Strength, Thunder Wave, Crunch, Ice Fang
+
+
+~~~~~~~~
+Roxie, Postgame
+~~~~~~~~
+
+○ LEADER ROXIE - Nacrene City:
+Weezing [Levitate], lv.83 @Black Sludge: Sludge Bomb, Toxic Spikes, Flamethrower, Thunderbolt
+Toxicroak [Dry Skin], lv.83 @Life Orb: Drain Punch, Gunk Shot, Sucker Punch, Ice Punch
+Garbodor [Aftermath], lv.83 @Payapa Berry: Gunk Shot, Rock Blast, Payback, Seed Bomb
+Nidoqueen [Sheer Force], lv.83 @Life Orb: Sludge Wave, Earth Power, Ice Beam, Thunderbolt
+Crobat [Infiltrator], lv.83 @Flying Gem: Acrobatics, X-Scissor, Tailwind, Hypnosis
+Scolipede [Speed Boost], lv.85 @Focus Sash: Megahorn, Earthquake, Poison Tail, Swords Dance
+
+~~~~~~~~
+Burgh, Postgame
+~~~~~~~~
+
+○ LEADER BURGH - Nacrene City:
+Crustle [Sturdy], lv.83 @White Herb: Shell Smash, X-Scissor, Stone Edge, Earthquake
+Masquerain [Intimidate], lv.83 @Wise Glasses: Quiver Dance, Hydro Pump, Hurricane, Bug Buzz
+Scizor [Technician], lv.83 @Life Orb: Bullet Punch, Bug Bite, Night Slash, Superpower
+Yanmega [Speed Boost], lv.83 @Life Orb: Bug Buzz, Air Slash, Hypnosis, Giga Drain
+Heracross [Skill Link*], lv.83 @Metronome: Pin Missile, Arm Thrust, Rock Blast, Swords Dance
+Leavanny [Swarm], lv.85 @Focus Sash: Leaf Blade, X-Scissor, Aerial Ace, Swords Dance
+
+~~~~~~~~
+Elesa, Postgame
+~~~~~~~~ 
+
+○ LEADER ELESA - Nacrene City:
+Emolga [Static], lv.83 @Flying Gem: Electro Ball, Acrobatics, Thunder Wave, U-Turn
+Ampharos [Static], lv.83 @Air Balloon: Thunderbolt, Dragon Pulse, Signal Beam, Focus Blast
+Galvantula [Compound Eyes], lv.83 @Life Orb: Thunder, Energy Ball, Bug Buzz, Volt Switch
+Electivire [Motor Drive], lv.83 @Expert Belt: Wild Charge, Close Combat, Ice Punch, Volt Switch
+Eelektross [Levitate], lv.83 @Expert Belt: Discharge, Flamethrower, Grass Knot, Aqua Tail
+Zebstrika [Sap Sipper], lv.85 @Focus Sash: Wild Charge, Flare Blitz, High Horsepower, Volt Switch
+
+~~~~~~~~
+Clay, Postgame
+~~~~~~~~
+
+○ LEADER CLAY - Nacrene City:
+Hippowdon [Sand Stream], lv.83 @Passho Berry: Earthquake, Stealth Rock, Ice Fang, Thunder Fang
+Mamoswine [Thick Fat], lv.83 @Metronome: Earthquake, Icicle Crash, Stone Edge, Ice Shard
+Seismitoad [Water Absorb], lv.83 @Rindo Berry: Hydro Pump, Earthquake, Ice Punch, Power Whip
+Krookodile [Moxie], lv.83 @Chople Berry: Earthquake, Sucker Punch, Aqua Tail, Stone Edge
+Golurk [Iron Fist], lv.83 @Expert Belt: Earthquake, Shadow Punch, Thunder Punch, Ice Punch
+Excadrill [Sand Rush], lv.85 @Life Orb: Swords Dance, Earthquake, Rock Slide, Iron Head
+
+~~~~~~~~
+Skyla, Postgame
+~~~~~~~~
+
+○ LEADER SKYLA - Nacrene City:
+Swanna [Friend Guard*], lv.85 @Life Orb: Scald, Hurricane, Ice Beam, Roost
+Drifblim [Unburden], lv.83 @Petaya Berry: Hurricane, Shadow Ball, Thunderbolt, Substitute
+Sigilyph [Magic Guard], lv.83 @Life Orb: Hurricane, Psyshock, Ice Beam, Heat Wave
+Togekiss [Serene Grace], lv.83 @Life Orb: Moonblast, Air Slash, Heat Wave, Roost
+Archeops [Defeatist], lv.83 @Flying Gem: Acrobatics, Earthquake, Stone Edge, U-Turn
+Staraptor [Reckless], lv.83 @Life Orb: Brave Bird, Double-Edge, Close Combat, U-Turn
+
+~~~~~~~~
+Drayden, Postgame
+~~~~~~~~
+
+○ LEADER DRAYDEN - Nacrene City:
+Flygon [Levitate], lv.87 @Life Orb: Quiver Dance, Bug Buzz, Dragon Pulse, Fire Blast
+Druddigon [Sheer Force], lv.87 @Life Orb: Outrage, Fire Punch, Thunder Punch, Sucker Punch
+Salamence [Moxie], lv.87 @Yache Berry: Dragon Dance, Earthquake, Dual Wingbeat, Outrage
+Hydreigon [Levitate], lv.87 @White Herb: Draco Meteor, Nasty Plot, Dark Pulse, Flash Cannon
+Garchomp [Rough Skin], lv.87 @Rocky Helmet: Outrage, Earthquake, Swords Dance, Fire Fang
+Haxorus [Mold Breaker], lv.89 @Focus Sash: Outrage, Earthquake, Cross Poison, Dragon Dance
+
+
+~~~~~~~~
+Marlon, Postgame
+~~~~~~~~
+
+○ LEADER MARLON - Nacrene City:
+Politoed [Drizzle], lv.83 @Wacan Berry: Scald, Ice Beam, Focus Blast, Hypnosis
+Kingdra [Swift Swim], lv.83 @Life Orb: Draco Meteor, Waterfall, Dragon Dance, Outrage
+Cloyster [Skill Link], lv.83 @Focus Sash: Shell Smash, Icicle Spear, Rock Blast, Razor Shell 
+Floatzel [Swift Swim], lv.83 @Life Orb: Aqua Tail, Ice Punch, Low Kick, Crunch
+Ludicolo [Swift Swim], lv.83 @Life Orb: Hydro Pump, Ice Beam, Giga Drain, Focus Blast
+Jellicent [Cursed Body], lv.85 @Rindo Berry: Hydro Pump, Shadow Ball, Blizzard, Recover

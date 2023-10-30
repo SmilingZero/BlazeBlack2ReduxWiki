@@ -1,0 +1,3485 @@
+=============================================================
+Route 20
+=============================================================
+
+ - Levels -1 on Easy mode, +1 on Challenge mode.
+
+● Youngster Terrell:      
+Patrat [Analytic], lv.6: Foresight, Bide, Tackle, Leer
+Zigzagoon [Pickup], lv.6: Tackle, Tail Whip, Sand Attack
+
+● Lass Isabel:
+Purrloin [Prankster], lv.5: Growl, Scratch, Sand Attack, Pursuit
+Pidgey [Big Pecks], lv.5: Tackle, Sand Attack, Gust
+Sunkern [Chlorophyll], lv.5: Absorb, Ingrain, Leech Seed, Pound
+
+● Youngster Petey: 
+Spearow [Sniper], lv.5: Growl, Leer, Peck, Astonish
+Lillipup [Vital Spirit], lv.5: Leer, Mud-Slap, Tackle, Lick
+Hoothoot [Tinted Lens], lv.5: Foresight, Growl, Peck, Tackle
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Cheren has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+● Hiker Jerome:
+Roggenrola [Sturdy], lv.12: Headbutt, Sand Attack, Curse, Smack Down
+Riolu [Prankster], lv.12: Counter, Quick Attack, Vacuum Wave, Howl
+Wooper [Water Absorb], lv.13: Acid Spray, Water Gun, Mud Shot, Double Kick
+Drilbur [Mold Breaker], lv.12: Fury Cutter, Scratch, Fury Swipes, Rapid Spin
+
+● Preschooler♂ Albert:
+Nidoran♂ [Poison Point], lv.13: Peck, Double Kick, Fury Attack, Poison Fang  
+Cubone [Battle Armor], lv.13: Headbutt, Focus Energy, Rock Tomb, Bone Club  
+Sewaddle [Swarm], lv.13: Struggle Bug, Electroweb, Razor Leaf, Bug Bite
+
+● Preschooler♀ Lin:
+Nidoran♀ [Poison Point], lv.13: Peck, Double Kick, Fury Attack, Poison Fang  
+Spheal [Thick Fat], lv.13: Powder Snow, Water Pulse, Whirlpool, Super Fang  
+Venipede [Poison Point], lv.13: Bug Bite, Rollout, Protect, Poison Fang  
+
+● Twins Lia and Lily (2x):
+Bonsly [Sturdy], lv.13: Rock Throw, Headbutt, Faint Attack  
+Mime Jr. [Technician], lv.13: Confusion, Tickle, Disarming Voice  
+Lombre [Swift Swim], lv.14: Fake Out, Water Pulse, Mega Drain  
+Nuzleaf [Pickpocket], lv.14: Razor Leaf, Payback, Quick Attack  
+
+● Nursery Aide Kimya:
+Dunsparce [Serene Grace], lv.14: Screech, Rollout, Spite, Bite
+Machop [No Guard], lv.14: Counter, Karate Chop, Meditate, Leer  
+Munna [Analytic], lv.14: Swift, Hypnosis, Confusion, Disarming Voice  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Roxie has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+● Plasma Grunt #763:           
+Yamask [Mummy], lv.17: Hex, Will-O-Wisp, Haze, Destiny Bond 
+Zubat [Inner Focus], lv.17: Pluck, Poison Fang, Leech Life, Bite
+Mawile [Intimidate], lv.17: Rock Tomb, Covet, Thunder Fang, Metal Claw  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Surf and Waterfall are obtained, in Autumn:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+○ Ranger♂ Leaf - {Sitrus Berry}: 
+Sawsbuck [Sap Sipper], lv.40: Horn Leech, Lunge, Charm, Take Down 
+Tropius [Chlorophyll], lv.40: Nature Power, Air Slash, Dragon Dance, Leaf Tornado  
+
+○ Ranger♀ Malory - {Leppa Berry}:
+Exeggutor [Chlorophyll], lv.40: Hypnosis, Leech Seed, Explosion, Extrasensory  
+
+○ Ranger♂ Bret - {Leppa Berry}: 
+Amoonguss [Effect Spore], lv.40: Spore, Sludge Bomb, Giga Drain, Ingrain 
+
+○ Ranger♀ Naoko - {Sitrus Berry}:
+Arcanine [Flash Fire], lv.40: Extreme Speed, Raging Fury, Scorching Sands, Thunder Fang  
+Stoutland [Intimidate], lv.40: Ice Fang, Thunder Fang, Fire Fang, Double-Edge 
+
+
+=========================================================
+Floccesy Ranch
+=========================================================
+
+ - Levels -1 on Easy mode, +1 on Challenge mode.
+ 
+
+<snivy>
+●♕ Hugh:
+Tepig [Sheer Force], lv.10 @Oran Berry: Tackle, Tail Whip, Ember, Smog
+Pansage [Overgrow], lv.19: Tickle, Scratch, Lick, Vine Whip
+Taillow [Early Bird], lv.8: Peck, Growl, Focus Energy, Quick Attack
+</snivy>
+<tepig>
+●♕ Hugh:
+Oshawott [Shell Armor], lv.10 @Oran Berry: Tackle, Tail Whip, Water Gun, Aqua Jet
+Pansear [Blaze], lv.9: Tickle, Scratch, Lick, Incinerate
+Taillow [Early Bird], lv.8: Peck, Growl, Focus Energy, Quick Attack
+</tepig>
+<oshawott>
+●♕ Hugh:
+Snivy [Contrary], lv.10 @Oran Berry: Wrap, Leer, Vine Whip, Twister
+Panpour [Torrent], lv.9: Tickle, Scratch, Lick, Water Gun
+Taillow [Early Bird], lv.8: Peck, Growl, Focus Energy, Quick Attack
+</oshawott>
+
+○ Lass Molly: 
+Mareep [Static], lv.7: Thunder Shock, Cotton Spore, Swift, Growl
+Azurill [Thick Fat], lv.7: Water Gun, Sing, Defense Curl, Tail Whip
+Pidove [Super Luck], lv.7: Quick Attack, Gust, Growl, Leer
+
+● Janitor Orville:
+Bidoof [Simple], lv.8: Rollout, Tackle, Covet, Defense Curl
+Houndour [Intimidate], lv.8: Ember, Howl, Leer, Lick
+Slakoth [Truant], lv.8: Scratch, Amnesia, Mud-Slap, Pursuit
+
+● Youngster Kenny:
+Psyduck [Swift Swim], lv.8: Water Gun, Clear Smog, Disable, Confusion
+Poochyena [Rattled], lv.8: Mud-Slap, Bite, Howl, Sand Attack
+Ponyta [Flame Body], lv.8: Ember, Tail Whip, Tackle, Quick Attack
+
+● Plasma Grunt #884 - (2x) [Challenge Mode]:
+Growlithe [Intimidate], lv.11: Ember, Snarl, Helping Hand, Morning Sun
+Mienfoo [Regenerator], lv.11: Fake Out, Payback, Vital Throw, Grass Knot
+Axew [Mold Breaker], lv.11: Endure, Rock Tomb, Taunt, Payback
+Joltik [Compound Eyes], lv.11: Screech, Shock Wave, Struggle Bug, Spider Web
+
+
+=========================================================
+Floccesy Town
+=========================================================
+
+ - When you follow Alder inside, you will face two school kids back to back (you are healed in between fights). The trainers you fight will differ depending on the starter you chose.
+ - Levels -1 on Easy mode, +1 on Challenge mode.
+
+
+<snivy>
+● School Kid Seymour:
+Panpour [Gluttony], lv.11: Water Pulse, Tickle, Lick, Taunt   
+Oshawott [Shell Armor], lv.11: Aqua Jet, Tail Whip, Water Gun, Tackle  
+Mudkip [Torrent], lv.11: Tackle, Growl, Mud-slap, Water Gun
+</snivy>
+<tepig>
+● School Kid Seymour:
+Pansage [Gluttony], lv.11: Tickle, Lick, Growth, Magical Leaf  
+Snivy [Contrary], lv.11: Pursuit, Vine Whip, Twister, Leer  
+Treecko [Overgrow], lv.11: Pound, Leer, Quick Attack, Absorb 
+</tepig>
+<oshawott>
+● School Kid Seymour:
+Pansear [Gluttony], lv.11: Tickle, Lick, Yawn, Incinerate  
+Tepig [Sheer Force], lv.11: Ember, Smog, Defense Curl, Tackle  
+Torchic [Quick Feet], lv.11: Ember, Growl, Sand Attack, Scratch  
+</oshawott>
+
+
+<snivy>
+● School Kid Cassie:
+Pansear [Gluttony], lv.11: Tickle, Lick, Yawn, Incinerate  
+Tepig [Sheer Force], lv.11: Ember, Smog, Defense Curl, Tackle  
+Torchic [Quick Feet], lv.11: Ember, Growl, Sand Attack, Scratch
+</snivy>
+<tepig>
+● School Kid Cassie:
+Panpour [Gluttony], lv.11: Water Pulse, Tickle, Lick, Taunt   
+Oshawott [Shell Armor], lv.11: Aqua Jet, Tail Whip, Water Gun, Tackle  
+Mudkip [Torrent], lv.11: Tackle, Growl, Mud-slap, Water Gun
+</tepig>
+<oshawott>
+● School Kid Cassie:
+Pansage [Gluttony], lv.11: Tickle, Lick, Growth, Magical Leaf  
+Snivy [Contrary], lv.11: Pursuit, Vine Whip, Twister, Leer  
+Treecko [Overgrow], lv.11: Pound, Leer, Quick Attack, Absorb  
+</oshawott>
+
+=========================================================
+Aspertia City - Trainer School and Cheren's Gym
+=========================================================
+
+
+~~~~~~~~~~~~~~
+Trainer School:
+~~~~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ ROXANNE - Hoenn Leader {Berry Juice}:
+Geodude [Sturdy], lv.10: Rock Tomb, Sandstorm, Tackle, Stealth Rock
+Nosepass [Sand Force], lv.11: Rock Tomb, Tackle
+</normal>
+<challenge>
+○♕ ROXANNE - Hoenn Leader {Berry Juice x2}:
+Anorith [Battle Armor], lv.11 @Metronome: Rock Tomb, Metal Claw, Bug Bite, Knock Off
+Lileep [Suction Cups], lv.11 @Absorb Bulb: Rock Tomb, Grass Knot, Brine, Ingrain
+Nosepass [Magnet Pull], lv.13 @Chesto Berry: Rock Tomb, Rock Smash, Shock Wave, Rest
+Archen [Defeatist], lv.11 @Cell Battery: Rock Tomb, Wing Attack, Bite, Dragon Breath
+</challenge>
+
+~~~~~~~~~~~~
+Cheren's Gym:
+~~~~~~~~~~~~
+
+ - Levels -1 on Easy mode, +1 on Challenge mode.
+
+● Youngster Pedro:
+Rattata [Hustle], lv.10: Quick Attack, Bite, Screech, Focus Energy
+Sentret [Hustle], lv.10: Fury Swipes, Quick Attack, Pursuit
+Whismur [Scrappy], lv.10: Uproar, Fake Tears, Disarming Voice
+
+● Lass Serena:
+Pidove [Super Luck], lv.10: Air Cutter, Quick Attack, Swift, Mud Slap 
+Teddiursa [Quick Feet], lv.10: Headbutt, Metal Claw, Lick, Fury Swipes
+Eevee [Adaptability], lv.10: Quick Attack, Swift, Tackle
+
+<normal>
+●♛ LEADER CHEREN - {TM83 Work Up}:
+Minccino [Technician], lv.11: Work Up, Echoed Voice, Thief, Attract
+Pidove [Super Luck], lv.11 @Cell Battery: Work Up, Air Cutter, Echoed Voice, Quick Attack
+Lillipup [Vital Spirit], lv.13 @Oran Berry: Work Up, Bite, Tackle, Reversal
+Munchlax [Pickup], lv.11 @Eviolite: Work Up, Flail
+</normal>
+<challenge>
+●♛ LEADER CHEREN - {TM83 Work Up}: 
+Porygon [Trace], lv.13 @Enigma Berry: Work Up, Confusion, Thunder Shock, Swift
+Lillipup [Vital Spirit], lv.13 @Muscle Band: Work Up, Pursuit, Retaliate, Thunder Fang
+Doduo [Early Bird], lv.13 @Silk Scarf: Work Up, Peck, Quick Attack, Rage
+Aipom [Skill Link], lv.13 @Water Gem: Work Up, Double Hit, Fake Out, Water Pulse
+Deerling [Sap Sipper], lv.13 @Occa Berry: Work Up, Double Kick, Tackle, Leech Seed
+Munchlax [Thick Fat], lv.14 @Oran Berry: Work Up, Tackle, Pursuit, Rock Tomb
+</challenge>
+
+=========================================================
+Virbank Complex
+=========================================================
+
+ - Levels -1 on Easy mode, +1 on Challenge mode.
+
+○ Youngster Masahiro:
+Lillipup [Pickup], lv.15: Retaliate, Bite, Work Up, Lick
+Charmander [Blaze], lv.15: Dragon Breath, Metal Claw, Ember, Bite
+Pikachu [Lightningrod], lv.15: Quick Attack, Shock Wave, Thunder Wave, Charm
+
+○ Worker Mitchell:
+Magnemite [Sturdy], lv.15: Thunder Wave, Electroball, Mirror Shot
+Electrike [Intimidate], lv.15: Bite, Spark, Snarl
+Elekid [Vital Spirit], lv.16: Shock Wave, Quick Attack, Low Kick
+
+○ Worker Nathan:
+Grimer [Stench], lv.15: Mud Bomb, Disable, Sludge
+Ekans [Intimidate], lv.15: Poison Fang, Coil, Glare
+Koffing [Levitate], lv.16: Clear Smog, Assurance, Psybeam
+
+○ Worker Isaac:
+Growlithe [Intimidate], lv.15: Fire Fang, Agility, Bite, Double Kick
+Slugma [Flame Body], lv.15: Flame Burst, Ancient Power, Clear Smog
+Magby [Flame Body], lv.16: Fire Spin, Clear Smog, Faint Attack
+
+○ Youngster Waylon:
+Mankey [Defiant], lv.15: Pursuit, Low Kick, Covet, Karate Chop
+Shinx [Intimidate], lv.15: Spark, Bite, Howl, Helping Hand
+Shellos [Storm Drain], lv.15: Whirlpool, Mud Shot, Water Pulse, Yawn
+Spinarak [Sniper], lv.15: Twineedle, Night Shade, Shadow Sneak, Poison Fang
+
+○ Lass Daya:
+Woobat [Simple], lv.15: Confusion, Air Cutter, Super Fang, Tailwind
+Vulpix [Drought], lv.15: Hypnosis, Fire Spin, Hex, Spite
+Cherubi [Chlorophyll], lv.15: Growth, Magical Leaf, Nature Power
+
+
+=========================================================
+Virbank City and Roxie's Gym
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ BRAWLY - Hoenn Leader {Meditite Egg}:
+Machop [Steadfast*], lv.17: Bulk Up, Karate Chop, Low Kick, Seismic Toss
+Meditite [Pure Power], lv.17: @Light Clay: Bulk Up, Focus Punch, Reflect, Light Screen
+Makuhita [Thick Fat], lv.18: @Sitrus Berry: Bulk Up, Arm Thrust, Vital Throw, Reversal
+</normal>
+<challenge>
+○♕ BRAWLY - Hoenn Leader {Meditite Egg}:
+Monferno [Blaze], lv.19 @Focus Sash: Stealth Rock, Fire Lash, Rock Tomb, Double Kick
+Meditite [Pure Power], lv.19 @Coba Berry: Thunder Punch, Rock Smash, Psycho Cut, Bullet Punch
+Machop [No Guard], lv.19 @Cheri Berry: Bulk Up, Dynamic Punch, Rock Slide, Bullet Punch
+Sawk [Sturdy], lv.19 @Salac Berry: Reversal, Rock Tomb, Dual Chop, Payback
+Makuhita [Sheer Force], lv.20 @Berry Juice: Bulk Up, Revenge, Fire Punch, Ice Punch
+</challenge>
+
+~~~~~~~~~~~~
+Roxie's Gym:
+~~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+● Roughneck Nicky (Drummer): 
+Zubat [Inner Focus], lv.16: Wing Attack, Poison Fang, Swift, Confuse Ray
+Budew [Poison Point], lv.16: Leech Seed, Mega Drain, Extrasensory, Sludge
+Nidorino [Poison Point], lv.16: Peck, Focus Energy, Double Kick, Poison Fang
+
+● Guitarist Billy Jo:
+Stunky [Aftermath], lv.16: Flame Burst, Screech, Bite, Smokescreen
+Seviper [Shed Skin], lv.16: Glare, Screech, Sucker Punch, Poison Tail
+Nidorina [Poison Point], lv.16: Peck, Focus Energy, Double Kick, Poison Fang
+
+<normal>
+●♛ LEADER ROXIE - {TM09 Venoshock}:
+Trubbish [Aftermath], lv.18 @Eviolite: Venoshock, Toxic Spikes, Acid Spray, Explosion
+Koffing [Levitate], lv.18 @Chesto Berry: Venoshock, Haze, Psybeam, Incinerate
+Croagunk [Dry Skin], lv.18 @Oran Berry: Venoshock, Nasty Plot, Vacuum Wave, Fake Out
+Whirlipede [Swarm], lv.20 @Sitrus Berry: Venoshock, Bug Bite, Toxic, Agility
+</normal>
+<challenge>
+●♛ LEADER ROXIE - {TM09 Venoshock}:
+Trubbish [Aftermath], lv.20 @Focus Sash: Clear Smog, Toxic Spikes, Drain Punch, Explosion
+Koffing [Levitate], lv.20 @Eviolite: Venoshock, Poison Gas, Psybeam, Lava Plume
+Ivysaur [Solar Power*], lv.20 @Black Sludge: Venoshock, Protect, Leech Seed, Mega Drain
+Qwilfish [Intimidate], lv.20 @Muscle Band: Venoshock, Aqua Jet, Reversal, Pin Missile
+Gastly [Levitate], lv.20 @Life Orb: Venoshock, Hex, Mega Drain, Torment
+Whirlipede [Speed Boost], lv.21 @Eviolite: Venoshock, Steamroller, Endeavor, Protect
+</challenge>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After defeating Roxie, Virbank City:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+ - After the Plasma Grunt #690, fight grunt on Route 20: Yamask/Zubat/Mawile; for details search Route 20.
+
+● Plasma Grunt #690 - (2x):
+Emolga [Motor Drive], lv.18: Nuzzle, Light Screen, Air Cutter, Spark
+Carvanha [Speed Boost], lv.18: Protect, Poison Fang, Assurance, Aqua Jet
+Butterfree [Compound Eyes], lv.18: Poison Powder, Gust, Confusion, Silver Wind
+Beedrill [Swarm], lv.18: Twineedle, Venoshock, Fury Attack, Assurance
+
+<normal>
+●♕ BRYCEN - {NeverMeltIce}:
+Spheal [Snow Warning], lv.18 @Eviolite: Brine, Icy Wind, Bulldoze, Yawn
+Swinub [Thick Fat], lv.18 @Berry Juice: Bulldoze, Avalanche, Rock Tomb, Hail
+Vanillite [Ice Body], lv.18 @Life Orb: Icy Wind, Disarming Voice, Mirror Shot, Water Pulse
+Cubchoo [Rattled], lv.20 @Focus Sash: Ice Shard, Bulldoze, Avalanche, Play Rough
+</normal>
+<challenge>
+●♕ BRYCEN - {NeverMeltIce}:
+Snover [Snow Warning], lv.21 @Occa Berry: Bullet Seed, Ice Shard, Water Pulse, Icy Wind
+Cryogonal [Levitate], lv.23 @NeverMeltIce: Confuse Ray, Night Slash, Avalanche, Scary Face
+Smoochum [Dry Skin], lv.21 @Focus Sash: Powder Snow, Confusion, Nasty Plot, Fake Out
+Shellder [Skill Link], lv.21 @Mystic Water: Icicle Spear, Rock Blast, Water Pulse, Shell Smash
+</challenge>
+
+=========================================================
+Route 4 - Castelia Side
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Pokémon Breeder♀ Irene:
+Togepi [Serene Grace], lv.23: Charm, Follow me, Safeguard
+Happiny [Natural Cure], lv.23: Refresh, Helping Hand, Gravity
+
+○ Fisherman Hubert:
+Basculin [Reckless], lv.19: Tackle, Flail, Aqua Jet, Bite
+Remoraid [Hustle], lv.19: Aurora Beam, Bullet Seed, Rock Blast, Psybeam
+Tentacool [Clear Body], lv.19: Water Pulse, Mega Drain, Rapid Spin, Toxic Spikes
+Seel [Hydration], lv.19: Water Gun, Bubble Beam, Disable, Peck
+
+○ Fisherman Andrew:
+Basculin [Reckless], lv.19: Tackle, Flail, Aqua Jet, Bite
+Corphish [Hyper Cutter], lv.19: Bubble Beam, Metal Claw, Knock Off, Ancient Power
+Frillish [Water Absorb], lv.19: Poison Sting, Water Pulse, Soak
+Squirtle [Torrent], lv.19: Water Pulse, Aqua Jet, Yawn, Rapid Spin
+
+<black>
+○ Policeman Braven:
+Meowth [Unnerve], lv.20: Pay Day, Screech, Spite, Bite
+Sandile [Intimidate], lv.20: Mud Shot, Spite, Torment, Bite
+Dwebble [Shell Armor], lv.20: Faint Attack, Bug Bite, Smack Down, Withdraw
+Darumaka [Hustle], lv.20: Facade, Uproar, Fire Fang
+</black>
+<white>
+○ Backpacker Clifford:
+Meowth [Unnerve], lv.20: Pay Day, Screech, Spite, Bite
+Sandile [Intimidate], lv.20: Mud Shot, Spite, Torment, Bite
+Dwebble [Shell Armor], lv.20: Faint Attack, Bug Bite, Smack Down, Withdraw
+Darumaka [Hustle], lv.20: Facade, Uproar, Fire Fang
+</white>
+
+=========================================================
+Relic Passage - Castelia Side
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Scientist♀ Lumina: 
+Gloom [Stench], lv.24: Sludge, Mega Drain, Mud Bomb, Sleep Powder
+Octillery [Sniper], lv.24: Octazooka, Aurora Beam, Psybeam, Mud Shot
+Corsola [Regenerator], lv.24: Bubble Beam, Ancient Power, Brine, Ingrain
+Simisear [Blaze], lv.24: Flame Charge, Fire Punch, Disarming Voice, Bite
+
+○ Scientist♂ Terrance: 
+Pansage [Overgrow], lv.24: Leech Seed, Seed Bomb, Disarming Voice, Bite
+Panpour [Torrent], lv.24: Brine, Scald, Disarming Voice, Bite
+Pansear [Blaze], lv.24: Flame Charge, Fire Punch, Disarming Voice, Bite
+Simipour [Torrent], lv.24: Brine, Scald, Disarming Voice, Bite
+
+○ Backpacker Kendall: 
+Gabite [Rough Skin], lv.24: Bulldoze, Metal Claw, Breaking Swipe, Take Down
+Poliwhirl [Water Absorb], lv.24: Wake-Up Slap, Bubble Beam, Hypnosis, Mud Shot
+Gurdurr [Sheer Force], lv.24: Payback, Counter, Force Palm, Rock Throw
+Simisage [Overgrow], lv.24: Leech Seed, Seed Bomb, Disarming Voice, Bite
+
+
+=========================================================
+Castelia City - Various + Burgh's Gym
+=========================================================
+=========================================================
+Castelia City - Battle Company
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+~~~~~ 47F ~~~~~
+
+○ Clerk♂ Clemens: 
+Arbok [Intimidate], lv.23: Poison Fang, Glare, Coil, Mud Bomb
+Kadabra [Synchronize], lv.23: Confusion, Disable, Shock Wave
+Croconaw [Sheer Force], lv.23: Aqua Jet, Ice Fang, Metal Claw, Bite
+Heracross [Moxie], lv.23: Bug Bite, Revenge, Aerial Ace, Horn Attack
+
+○ Clerk♂ Warren:
+Metang [Clear Body], lv.23: Metal Claw, Pursuit, Headbutt, Bullet Punch
+Sudowoodo [Sturdy], lv.23: Rock Tomb, Faint Attack, Tickle, Curse
+Skiploom [Prankster], lv.23: Acrobatics, Sleep Powder, Mega Drain, Confusion
+Mightyena [Intimidate], lv.23: Assurance, Fire Fang, Ice Fang, Thunder Fang
+
+○ Clerk♂ Gilligan: 
+Togetic [Screne Grace], lv.23: Disarming Voice, Magical Leaf, Ancient Power, Stored Power
+Sandslash [Rough Skin], lv.23: Dig, Accelerock, Metal Claw, Fury Cutter
+Vigoroth [Sheer Force], lv.23: Headbutt, Tickle, Covet, Uproar
+Ledian [Iron Fist], lv.23: Mach Punch, Aerial Ace, Bug Bite, Psybeam
+
+○ Clerk♀ Britney:
+Aerodactyl [Pressure], lv.23: Ancient Power, Wing Attack, Scary Face, Bite
+Watchog [Analytic], lv.23: Retaliate, Revenge, Crunch, Hypnosis
+Roselia [Poison Point], lv.23: Mega Drain, Venoshock, Leech Seed, Stun Spore
+Quilava [Flash Fire], lv.23: Flame Wheel, Double Kick, Raging Fury, Quick Attack
+
+~~~~~ 55F ~~~~~ 
+
+○ School Kid Neil: 
+Swellow [Scrappy], lv.23: Wing Attack, Quick Attack, Twister, Pursuit
+Onix [Sturdy], lv.23: Rock Blast, Iron Tail, Bulldoze, Coil
+Quagsire [Water Absorb], lv.23: Bulldoze, Double Kick, Water Pulse, Curse
+Mr. Mime [Filter], lv.23: Draining Kiss, Psybeam, Fake Out, Hypnosis
+
+
+=========================================================
+Castelia Sewers
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Janitor Felix: 
+Stunfisk [Static], lv.22: Mud Bomb, Charge, Spark, Spite
+Cinccino [Skill Link], lv.22: Double Slap, Tickle
+
+○ Worker Zack: 
+Ferroseed [Iron Barbs], lv.21: Rollout, Pin Missile, Payback
+Pawniard [Inner Focus], lv.21: Snarl, Metal Claw, Low Kick
+Joltik [Compoundeyes], lv.21: Nuzzle, Pursuit, Pin Missile, Agility
+
+○ Scientist♀ Caroline:
+Porygon [Download], lv.21: Spark, Charge Beam, Signal Beam, Confusion
+Noctowl [Tinted Lens], lv.21: Stored Power, Hypnosis, Uproar, Night Shade
+Musharna [Analytic], lv.21: Magic Coat, Future Sight, Disarming Voice, Hypnosis
+
+○ Worker Scott: 
+Voltorb [Soundproof], lv.22: Spark, Sonic Boom, Charge Beam, Thunder Wave
+Raichu [Static], lv.22: Quick Attack, Wish, Electro Ball
+
+○ Doctor Heath: 
+Chikorita [Serene Grace], lv.21: Magical Leaf, Reflect, Light Screen, Refresh
+Solosis [Magic Guard], lv.21: Psywave, Magic Coat, Charm, Rollout
+Swadloon [Overcoat], lv.21: Bug Bite, Synthesis, Protect, String Shot
+
+● Plasma Grunts #342, #356 - (Tag):
+<left>
+Plasma Grunt #342
+Ariados [Sniper], lv.23: Twineedle, Poison Fang, Shadow Sneak, Sucker Punch
+Golbat [Inner Focus], lv.23: Confuse Ray, Bite, Air Cutter, Leech Life
+Farfetch'd [Defeatist], lv.23: Aerial Ace, Slash, Night Slash, Revenge
+</left>
+<right>
+Plasma Grunts #356
+Skorupi [Sniper], lv.23: X-Scissor, Accupressure, Knock Off, Toxic
+Raticate [Guts], lv.23: Hyper Fang, Sucker Punch, Flame Wheel, Quick Attack
+Granbull [Intimidate], lv.23: Covet, Bulk Up, Payback, Double Kick
+</right>
+<partner>
+<tepig>
+Hugh
+Dewott [Shell Armor], lv.24: Slash, Revenge, Razor Shell, Fury Cutter
+Swellow [Guts], lv.24: Facade, Quick Attack, Wing Attack, Steel Wing
+Simisear [Gluttony], lv.24: Tickle, Flame Burst, Bite, Disarming Voice
+</tepig>
+<oshawott>
+Hugh
+Servine [Contrary], lv.24: Dragon Breath, Leaf Tornado, Leech Seed, Glare
+Swellow [Guts], lv.24: Facade, Quick Attack, Wing Attack, Steel Wing
+Simipour [Torrent], lv.24: Tickle, Scald, Bite, Disarming Voice
+</oshawott>
+<snivy>
+Hugh
+Pignite [Sheer Force], lv.24: Body Slam, Mud Bomb, Flame Charge, Rock Tomb
+Swellow [Guts], lv.24: Facade, Quick Attack, Wing Attack, Steel Wing
+Simisage [Overgrow], lv.24: Tickle, Seed Bomb, Disarming Voice, Bite
+</snivy>
+</partner>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accessible after Surf is obtained:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+○ Scientist♂ Clarke: 
+Magnemite [Sturdy], lv.44: Flash Cannon, Discharge, Light Screen, Thunderbolt
+Magneton [Analytic], lv.44: Tri Attack, Flash Cannon, Discharge, Light Screen
+Magnezone [Analytic], lv.45: Tri Attack, Flash Cannon, Discharge, Light Screen
+
+○ Janitor Brady: 
+Azumarill [Huge Power], lv.45: Soak, Aqua Tail, Future Sight, Body Slam
+Cinccino [Skill Link], lv.45: Tail Slap, Tickle, Wake-Up Slap, Sing
+
+
+=========================================================
+Liberty Garden
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+ - Victini's Guardian will only battle the player on Challenge mode, before Burgh is defeated. If he is not fought before Burgh, after you have defeated Burgh he will not let you pass into the Lighthouse! He will disappear in the Postgame after the player travels to Striaton City, so Victini can be later accessed (this is also true of the other two difficulties, if he hasn't already been interacted with). 
+
+Victini Guardian - (2x):
+Loudred [Scrappy], lv.27 @Eviolite: Boomburst, Water Pulse, Chatter, Icy Wind
+Bouffalant [Soundproof], lv.27 @Muscle Band: Head Charge, Wild Charge, Revenge, Zen Headbutt
+Musharna [Telepathy], lv.27 @Sitrus Berry: Dazzling Gleam, Charge Beam, Psybeam, Calm Mind
+Shedinja [Wonder Guard], lv.27 @Focus Sash: Shadow Sneak, Ally Switch, Will-O-Wisp, Aerial Ace
+Bellossom [Cloud Nine*], lv.27 @Leftovers: Fiery Dance, Leaf Tornado, Mud Bomb, Stun Spore
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GAMEFREAK Offices - Main Story:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Gamefreak Nishino: 
+Snorlax [Thick Fat], lv.26 @Leftovers: Body Slam, Heavy Slam, Amnesia, Yawn
+
+○ Gamefreak Morimoto: 
+Blitzle [Lightningrod], lv.24 @Electric Gem: Wild Charge, Flame Charge, High Horsepower, Signal Beam 
+Swoobat [Simple], lv.24 @Flying Gem: Acrobatics, Calm Mind, Stored Power, Charge Beam 
+Liepard [Prankster], lv.24 @Dark Gem: Fake Out, Thunder Wave, Night Slash, Assist
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GAMEFREAK Offices - Postgame:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Gamefreak Nishino: 
+Braviary [Defiant], lv.90 @Power Herb: Fly
+Excadrill [Mold Breaker], lv.90 @Power Herb: Dig
+Alomomola [Regenerator], lv.90 @Power Herb: Dive
+Liepard [Prankster], lv.90 @Lagging Tail: Assist
+Zebstrika [Sap Sipper], lv.90 @Power Herb: Bounce
+Mew [Synchronize], lv.92 @Power Herb: Dive, Dig, Fly, Bounce
+
+○ Gamefreak Morimoto: 
+Clefable [Magic Guard], lv.90 @Leftovers: Gravity, Thunder, Blizzard, Moonblast
+Audino [Regenerator], lv.90 @Leftovers: Gravity, Moonblast, Fire Blast, Trick Room
+Wigglytuff [Huge Power*], lv.90 @Leftovers: Gravity, Thunder, Play Rough, Focus Blast
+Porygon2 [Trace], lv.90 @Eviolite: Gravity, Thunder, Blizzard, Trick Room
+Blissey [Serene Grace], lv.90 @Leftovers: Gravity, Soft-Boiled, Thunder, Focus Blast
+Snorlax [Thick Fat], lv.92 @Leftovers: Slack Off, Gunk Shot, Strength, Earthquake
+
+~~~~~~~~~~~
+Café Sonata
+~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ WATTSON - Hoenn Leader {Tanga Berry x2}:
+Voltorb [Soundproof], lv.25: Rollout, Spark, Self-Destruct, Shock Wave
+Electrike [Static], lv.25: Quick Attack, Thunder Wave, Shock Wave, Howl
+Magneton [Magnet Pull], lv.25: Supersonic, Shock Wave, Thunder Wave, Sonic Boom
+Manectric [Intimidate*], lv.26 @Sitrus Berry: Quick Attack, Thunder Wave, Shock Wave, Howl
+</normal>
+<challenge>
+○♕ WATTSON - Hoenn Leader {Tanga Berry x2}:
+Jolteon [Volt Absorb], lv.27 @Shuca Berry: Volt Switch, Grass Knot, Double Kick, Shadow Ball
+Rotom-Frost [Levitate], lv.27 @Lagging Tail: Volt Switch, Blizzard, Hex, Trick
+Magneton [Sturdy], lv.27 @Eviolite: Volt Switch, Flash Cannon, Bug Buzz, Tri Attack
+Electabuzz [Static], lv.27 @Life Orb: Volt Switch, Psychic, Brick Break, Dual Chop
+Manectric [Intimidate*], lv.28 @Air Balloon: Volt Switch, Ice Fang, Flame Burst, Quick Attack
+Volbeat [Tinted Lens*], lv.27 @Charti Berry: Volt Switch, Bug Buzz, Mystical Fire, Water Pulse
+</challenge>
+
+~~~~~~~~~~~
+Burgh's Gym
+~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode for the main gym puzzle. No level shift based on difficulty in Burgh's room, levels for Burgh himself are as stated.
+
+● Harlequin Clarence:
+Combee [Honey Gather], lv.24: Bug Buzz, Gust, Struggle Bug
+Burmy [Shed Skin], lv.24: Protect, Tackle, Bug Bite, Electroweb
+Pinsir [Moxie], lv.24: Bug Bite, Brick Break, Double Hit, Quick Attack
+
+● Harlequin Jack:
+Shelmet [Overcoat], lv.24: Struggle Bug, Yawn, Mud Slap, Pursuit
+Karrablast [No Guard], lv.24: Horn Attack, Acid Spray, Bug Bite, Pursuit
+Beautifly [Swarm], lv.24: Air Cutter, Silver Wind, Stun Spore, Mega Drain
+Dustox [Compoundeyes], lv.24: Silver Wind, Sludge, Poison Powder, Confusion
+
+● Harlequin Gary:
+Paras [Effect Spore], lv.23: Bullet Seed, Fury Cutter, Spore, Leech Life
+Yanma [Speed Boost], lv.23: Struggle Bug, Ominous Wind, Air Cutter, Detect
+Butterfree [Compoundeyes], lv.23: Sleep Powder, Air Cutter, Silver Wind, Confusion
+Beedrill [Adaptability], lv.23: Twineedle, Assurance, Poison Sting
+Mothim [Tinted Lens], lv.23: Gust, Lunge, Air Cutter, Psybeam
+
+○ Harlequin Anders: 
+Dwebble [Sturdy], lv.24: Rock Tomb, Faint Attack, Spikes, Bug Bite
+Parasect [Effect Spore], lv.24: Bullet Seed, Spore, Bug Bite, Metal Claw
+Durant [Hustle], lv.24: Bug Bite, Bite, Metal Claw
+
+<normal>
+●♛ LEADER BURGH - {TM81 X-Scissor}:
+Dwebble [Sturdy], lv.25 @Eviolite: X-Scissor, Stealth Rock, Rock Slide, Spikes
+Larvesta [Flame Body], lv.25 @Muscle Band: Flame Charge, Leech Life, Will-O-Wisp, U-Turn
+Masquerain [Intimidate*], lv.25 @Charti Berry: Air Cutter, Mud Shot, Psybeam, Struggle Bug
+Parasect [Dry Skin], lv.25 @Focus Sash: X-Scissor, Spore, Seed Bomb, Counter
+Leavanny [Swarm], lv.27 @Life Orb: X-Scissor, Leaf Blade, Swords Dance, Aerial Ace
+</normal>
+<challenge>
+●♛ LEADER BURGH - (2x) {TM81 X-Scissor}:
+Mothim [Tinted Lens], lv.28 @Metronome: Bug Buzz, Electroweb, Air Cutter, Psybeam
+Masquerain [Intimidate*], lv.28 @Bug Gem: Soak, Bubble Beam, Struggle Bug, Mud Shot
+Escavalier [Shell Armor], lv.28 @Occa Berry: Twineedle, Razor Shell, Metal Burst, Endure
+Vespiquen [Intimidate*], lv.28 @Lum Berry: Attack Order, Air Slash, Power Gem, Revenge
+Heracross [Moxie], lv.28 @Cell Battery: Brick Break, Fury Cutter, Helping Hand, Rock Tomb
+Leavanny [Swarm], lv.29 @Focus Sash: X-Scissor, Leaf Blade, Swords Dance, Aerial Ace
+</challenge>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Accessible after Surf is obtained:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+ - All trainers are fought back to back!
+
+○ Roughneck Ricky: 
+Beedrill [Adaptability], lv.50: Megahorn, Drill Run, Gunk Shot, Toxic Spikes
+Drapion [Sniper], lv.50: Cross Poison, Night Slash, Focus Energy, Storm Throw
+Zoroark [Illusion], lv.50: Night Daze, Flamethrower, Extrasensory, Lunge
+Escavalier [No Guard], lv.50: Razor Shell, Megahorn, Close Combat, Iron Head
+Azumarill [Huge Power], lv.50: Aqua Jet, Play Rough, Aqua Tail, Ice Punch
+
+○ Dancer JeanPaul - (2x):
+Gardevoir [Synchronize], lv.50: Thunderbolt, Psychic, Ice Beam, Dazzling Gleam
+Slaking [Truant], lv.50: Giga Impact, Rock Slide, Sucker Punch, Lunge
+Darmanitan [Sheer Force], lv.50: Flare Blitz, Superpower, Zen Headbutt, Rock Slide
+Gastrodon [Storm Drain], lv.50: Earth Power, Scald, Sludge Bomb, Icy Wind
+
+○ Guitarist Tina - (3x):
+Blastoise [Shell Armor*], lv.50 @White Herb: Shell Smash, Flash Cannon, Dark Pulse, Water Pledge
+Charizard [Defiant*], lv.50 @Air Balloon: Fire Pledge, Dragon Pulse, Dual Wingbeat, Fire Lash
+Venusaur [Solar Power*], lv.50 @Black Sludge: Grass Pledge, Sludge Wave, Earth Power, Sleep Powder
+Meganium [Serene Grace*], lv.50 @Light Clay: Dazzling Gleam, Giga Drain, Reflect, Light Screen
+Typhlosion [Flash Fire], lv.50 @Choice Scarf: Eruption
+Feraligatr [Sheer Force], lv.50 @Life Orb: Aqua Tail, Dragon Dance, Crunch, Ice Fang
+
+
+=========================================================
+Route 4 - Post-Burgh
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+●♕ COLRESS: 
+Magnemite [Sturdy], lv.26 @Air Balloon: Volt Switch, Flash Cannon, Thunder Wave, Signal Beam
+Rotom-Fan [Motor Drive*], lv.26 @Wise Glasses: Signal Beam, Air Slash, Dark Pulse, Thunderbolt
+Klink [Levitate], lv.26 @Life Orb: Autotomize, Gear Grind, Wild Charge, Flame Wheel
+Metang [Clear Body], lv.26 @Occa Berry: Bullet Punch, Rock Tomb, Zen Headbutt, Bulldoze
+Porygon2 [Trace], lv.28 @Eviolite: Recover, Tri Attack, Charge Beam, Psyshock
+
+<black>
+○ Policeman Braven:
+Meowth [Technician], lv.25: Pay Day, Screech, Spite, Bite
+Sandile [Intimidate], lv.25: Mud Shot, Spite, Torment, Bite
+Dwebble [Sturdy], lv.25: Faint Attack, Bug Bite, Smack Down, Withdraw
+Darumaka [Hustle], lv.25: Facade, Fire Punch, Uproar
+$$$
+○ Policeman Dell:
+Riolu [Prankster], lv.25: Bite, Metal Claw, Force Palm
+Herdier [Intimidate], lv.25: Pursuit, Retaliate, Take Down, Crunch
+$$$
+● Hooligans Rob and Sal - (2x):
+Zangoose [Toxic Boost], lv.26: Revenge, Slash, Night Slash, Disable
+Seviper [Shed Skin], lv.26: Sucker Punch, Slash, Night Slash, Glare
+Rufflet [Sheer Force], lv.26: Aerial Ace, Tailwind, Scary Face, Crush Claw
+Vullaby [Overcoat], lv.26: Pluck, Snarl, Block, Iron Defense
+$$$
+● Policeman Neagle: 
+Arcanine [Intimidate], lv.25: Extreme Speed, Play Rough, Thunder Fang, Flame Burst
+Wigglytuff [Huge Power], lv.25: Draining Kiss, Metronome, Body Slam, Disable
+Drowzee [Bad Dreams], lv.25: Hypnosis, Nightmare, Dream Eater
+$$$
+○ Roughneck Joey: 
+Arbok [Intimidate], lv.25: Poison Fang, Coil, Scary Face, Lunge
+Houndour [Flash Fire], lv.25: Ice Fang, Thunder Fang, Poison Fang, Snarl
+Mightyena [Moxie], lv.25: Thunder Fang, Poison Fang, Assurance, Scary Face
+$$$
+● Roughneck Silvester: 
+Croagunk [Poison Touch], lv.25: Mud Bomb, Faint Attack, Bullet Punch, Super Fang
+Houndoom [Intimidate], lv.25: Flame Burst, Thunder Fang, Poison Fang, Snarl
+$$$
+● Biker Stanley: 
+Mankey [Defiant], lv.25: Karate Chop, Acupressure, Bulldoze, Assurance
+Parasect [Dry Skin], lv.25: Spore, Struggle Bug, Psybeam, Seed Bomb
+$$$
+○ Youngster Sinclair: 
+Sandshrew [Rough Skin], lv.25: Scorching Sand, Metal Claw, Bulldoze, Accelerock
+Skitty [Normalise], lv.25: Fury Swipes, Fake Out, Wish, Covet
+Sunflora [Drought], lv.25: Leaf Tornado, Morning Sun, Leech Seed, Endeavor
+</black>
+<white>
+○ Backpacker Clifford:
+Meowth [Technician], lv.25: Pay Day, Screech, Spite, Bite
+Sandile [Intimidate], lv.25: Mud Shot, Spite, Torment, Bite
+Dwebble [Sturdy], lv.25: Faint Attack, Bug Bite, Smack Down, Withdraw
+Darumaka [Hustle], lv.25: Facade, Fire Punch, Uproar
+$$$
+● Twins Tara and Val - (2x): 
+Cottonee [Prankster], lv.26: Stun Spore, Mega Drain, Leech Seed, Tickle
+Petilil [Own Tempo], lv.26: Sleep Powder, Mega Drain, Leech Seed, Extrasensory
+Zangoose [Toxic Boost], lv.26: Revenge, Slash, Night Slash, Disable
+Seviper [Shed Skin], lv.26: Sucker Punch, Slash, Night Slash, Glare
+$$$
+● Rich Boy Keenan: 
+Linoone [Pickup], lv.25: Tail Slap, Pursuit, Tickle, Pin Missile
+Luxio [Intimidate], lv.25: Thunder Fang, Bite, Ice Fang, Quick Attack
+Drowzee [Bad Breams], lv.25: Hypnosis, Nightmare, Dream Eater
+$$$
+○ Lady Lina:
+Liepard [Unburden], lv.25: Fake Out, Faint Attack, Torment, Trick
+Servine [Contrary], lv.25: Dragon Breath, Leaf Tornado, Dragon Rage, Leech Seed
+Delcatty [Wonder Skin], lv.25: Fake Out, Slash, Wish, Sing
+$$$
+○ Backpacker Rachel: 
+Vullaby [Overcoat], lv.25: Wing Attack, Tailwind, Iron Defense, Payback
+Rufflet [Sheer Force], lv.25: Aerial Ace, Esper Wing, Hone Claws, Slash 
+Maractus [Water Absorb], lv.25: Giga Drain, Pin Missile, Sucker Punch, Leech Seed
+$$$
+● Pokéfan♀ Sachiko: 
+Miltank [Scrappy], lv.25: Stomp, Milk Drink, Rollout, Wake-Up Slap
+Shuckle [Sturdy], lv.25: Power Trick, Rock Throw, Bug Bite, Knock Off
+$$$
+○ Pokéfan♂ Norbert:
+Bellsprout [Gluttony], lv.25: Seed Bomb, Nature Power, Acid Spray, Bullet Seed
+Murkrow [Super Luck], lv.25: Assurance, Wing Attack, Night Shade, Screech
+Misdreavus [Infiltrator*], lv.25: Disarming Voice, Psybeam, Night Shade, Pain Split
+$$$
+● Backpacker Roland: 
+Togetic [Super Luck], lv.26: Air Cutter, Future Sight, Metronome, Draining Kiss
+Vileplume [Thick Fat*], lv.26: Sludge, Nature Power, Sleep Powder, Ingrain
+</white>
+
+=========================================================
+Desert Resort
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+ 
+○ Nurse Mariah: 
+Alomomola [Regenerator], lv.27: Water Pulse, Aqua Jet, Aqua Ring, Pain Split
+Bayleef [Screne Grace*], lv.27: Mega Drain, Ancient Power, Light Screen, Reflect
+Chansey [Screne Grace], lv.27: Counter, Soft-Boiled, Uproar, Seismic Toss
+
+○ Ranger♀ Anja - {Rawst Berry}:
+Teddiursa [Pickup], lv.27: Fury Cutter, Bulldoze, Slash, Night Slash
+Ponyta [Flame Body], lv.27: Double Kick, Charm, Flame Charge, Double Hit
+Quilava [Flash Fire], lv.27: Reversal, Raging Fury, Rollout, Defense Curl
+
+○ Ranger♂ Jaden - {Rawst Berry}: 
+Phanpy [Pickup], lv.27: Headbutt, Rollout, Take Down, Defense Curl
+Exeggcute [Harvest], lv.27: Uproar, Confusion, Bullet Seed, Leech Seed
+Donphan [Sturdy], lv.27: Bulldoze, Endeavor, Ice Shard, Steamroller
+
+○ Psychic Tommy: 
+Girafarig [Sap Sipper], lv.28: Psyshield Bash, Double Hit, Double Kick, Agility
+
+○ Psychic Future: 
+Chingling [Levitate], lv.27: Stored Power, Zen Headbutt, Heal Bell, Hypnosis
+Baltoy [Levitate], lv.27: Psybeam, Ancient Power, Psyshield Bash, Scorching Sands
+Chimecho [Levitate], lv.27: Stored Power, Future Sight, Yawn, Cosmic Power
+
+○ Backpacker Walt: 
+Tympole [Water Abosrb], lv.27: Echoed Voice, Mud Shot, Bubble Beam, Mist
+Barboach [Simple*], lv.27: Dragon Dance, Bulldoze, Spark, Headbutt
+
+○ Backpacker Clara: 
+Cubchoo [Rattled], lv.27: Brine, Icy Wind, Aqua Jet, Charm
+Swinub [Snow Cloak], lv.27: Ice Shard, Icicle Spear, Bulldoze, Knock Off
+Delibird [Technician], lv.27: Icy Wind, Quick Attack, Crabhammer, Ice Shard
+
+○ Backpacker Sam: 
+Chimchar [Iron Fist], lv.27: Flame Wheel, Double Kick, Fire Spin, Covet
+Machop [Steadfast*], lv.27: Tickle, Bullet Punch, Vital Throw, Helping Hand
+Buneary [Limber], lv.27: Jump Kick, Fake Out, Baton Pass, Dizzy Punch
+
+○ Backpacker Tami: 
+Tirtouga [Sturdy], lv.27: Rock Slide, Razor Shell, Crunch, Aqua Jet
+Archen [Defeatist], lv.27: Pluck, Rock Tomb, Dragon Breath, Quick Attack
+
+
+=========================================================
+Relic Castle
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+~~~~~ 1F ~~~~~ 
+
+○ Psychic Perry: 
+Natu [Magic Bounce], lv.27: Wish, Air Cutter, Ominous Wind, Future Sight
+Gastly [Levitate], lv.27: Clear Smog, Ominous Wind, Disable, Hypnosis
+Xatu [Magic Bounce], lv.27: Air Cutter, Ominous Wind, Future Sight, Miracle Eye
+
+~~~~~ B1F ~~~~~
+
+○ Psychic Dua:
+Ralts [Trace], lv.27: Magical Leaf, Draining Kiss, Hypnosis, Confusion
+Elgyem [Analytic], lv.27: Trick Room, Stored Power, Pain Split, Psybeam
+Kirlia [Trace], lv.27: Magic Leaf, Draining Kiss, Shock Wave, Hypnosis
+
+○ Psychic Low:
+Spoink [Thick Fat], lv.28: Mirror Coat, Mirror Coat, Amnesia, Future Sight
+Kadabra [Synchronize], lv.28: Shock Wave, Psybeam, Recover, Nasty Plot
+
+
+=========================================================
+Nimbasa City
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+<normal>
+●♕ LENORA:
+Stoutland [Intimidate], lv.30 @Leftovers: Strength, Wild Charge, Crunch, Play Rough
+Unfezant [Super Luck], lv.30 @Scope Lens: Air Slash, Hyper Voice, Wish, Tailwind
+Sawsbuck [Sap Sipper], lv.30 @Miracle Seed: Aerial Ace, Horn Attack, Jump Kick, Horn Leech
+</normal>
+<challenge>
+●♕ LENORA AND HAWES - (2x):
+<left>
+Hawes
+Gigalith [Sand Stream], lv.31 @Wide Lens: Stealth Rock, Sandstorm, Heavy Slam, Rock Slide
+Machamp [No Guard], lv.31 @Sitrus Berry: Dynamic Punch, Bullet Punch, Ice Punch, Cross Poison
+</left>
+<right>
+Lenora
+Stoutland [Sand Rush], lv.31 @Leftovers: Strength, Wild Charge, Crunch, Play Rough
+Unfezant [Unaware], lv.31 @Normal Gem: Hyper Voice, Hurricane, Heat Wave, Tailwind
+</right>
+</challenge>
+
+○♕ SUBWAY BOSSES INGO AND EMMET - (Tag):
+<left>
+Emmet
+Eelektross [Levitate], lv.34 @Magnet: Thunderbolt, Brick Break, Protect, Thunder Wave
+Umbreon [Synchronize], lv.34 @Leftovers: Helping Hand, Foul Play, Fake Tears, Assurance
+</left>
+<right>
+Ingo
+Chandelure [Flash Fire], lv.34 @Charcoal: Heat Wave, Hex, Protect, Will-O-Wisp
+Espeon [Magic Bounce], lv.34 @Psychic Gem: Psychic, Dazzling Gleam, Power Gem, Aura Sphere
+</right>
+<partner> 
+<tepig>
+Nate or Rosa
+Servine [Contrary], lv.31 @Sitrus Berry: Body Slam, Leech Seed, Giga Drain, Mirror Coat
+Simipour [Gluttony], lv.30 @Sitrus Berry: Tickle, Aqua Tail, Acrobatics, Crunch
+</tepig>
+<oshawott>
+Nate or Rosa
+Pignite [Sheer Force], lv.31 @Sitrus Berry: Arm Thrust, High Horsepower, Take Down, Heat Crash
+Simisage [Gluttony], lv.30 @Sitrus Berry: Tickle, Seed Bomb, Acrobatics, Crunch
+</oshawott>
+<snivy>
+Nate or Rosa
+Dewott [Shell Armor], lv.31 @Sitrus Berry: Razor Shell, Aqua Jet, Dual Chop, Storm Throw
+Simisear [Gluttony], lv.30 @Sitrus Berry: Tickle, Fire Lash, Acrobatics, Crunch
+</snivy>
+</partner>
+
+~~~~~~~~~~~
+Big Stadium
+~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ FLANNERY - Hoenn Leader {Choice Band}:
+Ponyta [Flame Body], lv.34: Overheat, Attract, Solar Beam, Sunny Day
+Magcargo [Flame Body], lv.34: Overheat, Attract, Rock Slide, Sunny Day
+Camerupt [Solid Rock], lv.34: Overheat, Attract, Bulldoze, Sunny Day
+Torkoal [White Smoke], lv.35 @White Herb: Overheat, Attract, Body Slam, Sunny Day
+</normal>
+<challenge>
+○♕ FLANNERY - Hoenn Leader {Cheri Berries x12}:
+Torkoal [Drought], lv.37 @White Herb: Overheat, Earth Power, Stealth Rock, Yawn
+Magmar [Flame Body], lv.36 @White Herb: Overheat, Thunder Punch, Cross Chop, Will-O-Wisp
+Houndoom [Intimidate], lv.36 @White Herb: Overheat, Crunch, Sludge Bomb, Solar Beam
+Rotom-Heat [Levitate], lv.36 @White Herb: Overheat, Volt Switch, Sunny Day, Thunderbolt
+Camerupt [Simple], lv.36 @White Herb: Overheat, Earthquake, Growth, Flame Charge
+Magcargo [Solid Rock], lv.36 @White Herb: Overheat, Magma Storm, Power Gem, Solar Beam
+</challenge>
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Elesa has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+● Plasma Grunt #359:
+Magneton [Sturdy], lv.34: Thunder Wave, Electro Ball, Flash Cannon, Bug Buzz
+Mothim [Tinted Lens], lv.34: Air Slash, Lunge, Poison Powder, Bug Buzz
+Watchog [Keen Eye], lv.34: Hypnosis, Facade, Super Fang, Zen Headbutt
+Vaporeon [Water Absorb], lv.34: Aurora Beam, Bubble Beam, Growth, Extrasensory
+Donphan [Sturdy], lv.34: Earthquake, Ice Shard, Assurance, Endeavor
+
+● Plasma Grunt #751:
+Scolipede [Speed Boost], lv.34: Poison Tail, Bug Bite, Toxic Spikes, Spikes
+Kingler [Sheer Force], lv.34: Razor Shell, High Horsepower, Agility, Knock Off
+Archen [Defeatist], lv.34: Accelerock, Dual Wingbeat, Dragon Claw, Crunch
+Swoobat [Simple], lv.34: Esper Wing, Air Cutter, Calm Mind, Stored Power
+
+
+=========================================================
+Route 16
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Depot Agent Hank: 
+Graveler [Sturdy], lv.30: Bulldoze, Accelerock, Sucker Punch, Seismic Toss
+Dugtrio [Arena Trap], lv.30: Sucker Punch, Bulldoze, Rock Slide, Magnitude
+Pupitar [Shed Skin], lv.30: Chip Away, Payback, Rock Slide, Bulldoze
+
+○ Backpacker Ivan: 
+Piplup [Torrent], lv.30: Yawn, Bubble Beam, Aqua Ring, Fury Attack
+Watchog [Analytic], lv.30: Hyper Fang, Retaliate, Detect, Hypnosis
+Prinplup [Torrent], lv.30: Yawn, Bubble Beam, Aqua Ring, Fury Attack
+Skiploom [Prankster], lv.30: Acrobatics, Confusion, Leech Seed, Aromatherapy
+
+○ Backpacker Blossom: 
+Persian [Unnerve], lv.31: Slash, Night Slash, Power Gem, Charm
+Drifloon [Aftermath], lv.31: Minimize, Hex, Ominous Wind, Air Cutter
+
+○ Cyclist Hector: 
+Aipom [Technician], lv.30: Fury Swipes, Covet, Quick Attack, Screech
+Treecko [Overgrow], lv.30: Double Kick, Mega Drain, Assurance, Dragon Tail
+Doduo [Early Bird], lv.30: Quick Attack, Double Hit, Jump Kick, Endeavor
+Ambipom [Technician], lv.30: Fury Swipes, Covet, Quick Attack, Screech
+
+○ Backers Stu and Art - (2x): 
+Illumise [Prankster], lv.31: Helping Hand, Moonblast, Thunder Wave, Charm
+Volbeat [Tinted Lens], lv.31: Tail Glow, Charge Beam, Signal Beam, Protect
+Grovyle [Overgrow], lv.31: Giga Drain, Acrobatics, Detect, Endeavor
+Marshtomp [Torrent], lv.31: Muddy Water, Rock Slide, Mud Shot, Work Up
+
+○ Cyclist Krissa: 
+Torchic [Blaze], lv.30: Quick Attack, Incinerate, Detect, Counter
+Ducklett [Friend Guard], lv.30: Water Pulse, Air Cutter, Aqua Jet, Aqua Ring
+Farfetch'd [Defeatist*], lv.30: Fury Cutter, Aerial Ace, Feather Dance, Revenge
+Munchlax [Thick Fat], lv.30: Curse, Chip Away, Whirlwind, Gastro Acid
+
+
+=========================================================
+Lostlorn Forest
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Pokémon Breeder♂ Galen: 
+Bonsly [Rock Head], lv.33: Mimic, Curse, Block
+Audino [Healer], lv.33: Double Slap, Heal Pulse, Covet, Take Down
+
+○ Ranger♂ Forrest - {Cheri Berry}: 
+Jynx [Trace], lv.33: Lovely Kiss, Frost Breath, Psybeam, Water Pulse
+Heracross [Moxie], lv.33: Bug Bite, Revenge, Slash, Night Slash
+Fearow [Intimidate], lv.33: Drill Peck, Take Down, Feather Dance, Focus Energy
+Sudowoodo [Sturdy], lv.33: Headbutt, Faint Attack, Counter, Rock Slide
+
+○ Ranger♀ Serenity - {Pecha Berry}:
+Raticate [Hustle], lv.33: Hone Claws, Hyper Fang, Fire Fang, Ice Fang
+Pinsir [Moxie], lv.33: Vital Throw, Double Hit, Brick Break, X-Scissor
+Mudkip [Torrent], lv.33: Rock Throw, Aqua Tail, Avalanche, Curse
+Togetic [Serene Grace], lv.33: Metronome, Mirror Move, Disarming Voice, Ancient Power
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Surf and Waterfall are obtained:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+○ Veteran Murphy:
+Pinsir [Moxie], lv.50: X-Scissor, Close Combat, Stone Edge, Earthquake
+Heracross [Skill Link], lv.50: Aerial Ace, Brick Break, Rock Blast, Megahorn
+Scizor [Technician], lv.50: U-Turn, Bullet Punch, Superpower, Pursuit
+Yanmega [Speed Boost], lv.50: Bug Buzz, Air Slash, Ancient Power, Protect
+Volcarona [Swarm], lv.50: Fire Blast, Psychic, Silver Wind, Giga Drain
+
+
+=========================================================
+Route 5
+=========================================================
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Artist Horton: 
+Mime Jr. [Soundproof], lv.30: Mimic, Light Screen, Reflect, Psyshock
+Smeargle [Own Tempo], lv.30: Spore, Quiver Dance, Baton Pass, Confuse Ray
+Jigglypuff [Cute Charm], lv.30: Disable, Play Rough, Body Slam, Charm
+Cherrim [Flower Gift], lv.30: Morning Sun, Sunny Day, Growth, Petal Dance
+
+○ Baker Jenn: 
+Combee [Honey Gather], lv.30: Gust, Bug Bite, Struggle Bug, Bug Buzz
+Miltank [Thick Fat], lv.30: Dizzy Punch, Stomp, Wake-Up Slap, Heart Stamp
+Tauros [Intimidate], lv.30: Smart Strike, Take Down, Assurance, Quick Attack
+
+○ Backers Ava and Aya - (2x): 
+Plusle [Plus], lv.30: Electro Ball, Nuzzle, Psychic, Quick Attack
+Minun [Minus], lv.30: Electro Ball, Nuzzle, Flash Cannon, Quick Attack
+Charmeleon [Blaze], lv.30: Flame Burst, Dragon Breath, Metal Claw, Scary Face
+Wartortle [Shell Armor], lv.30: Aqua Tail, Rapid Spin, Aqua Ring, Avalanche
+
+○ Dancer Brian: 
+Bellossom [Cloud Nine*], lv.31: Leaf Tornado, Quiver Dance, Sleep Powder
+Kirlia [Trace], lv.31: Hypnosis, Magical Leaf, Draining Kiss, Psychic
+Ludicolo [Swift Swim], lv.31: Drain Punch, Thunder Punch, Ice Punch, Fire Punch
+
+○ Ranger Lois - {Cheri Berry}: 
+Magmar [Vital Spirit], lv.33: Lava Plume, Will-O-Wisp, Mach Punch, Confuse Ray
+Scyther [Swarm], lv.33: Night Slash, Slash, Wing Attack, X-Scissor
+Swellow [Guts], lv.33: Aerial Ace, Steel Wing, Pursuit, Quick Attack
+Mr. Mime [Technician], lv.33: Fake Out, Confusion, Disarming Voice, Magical Leaf
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Elesa has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+●♕ CHARLES - (3x):  
+Accelgor [Infiltrator], lv.37 @Charti Berry: Bug Buzz, Final Gambit, Giga Drain, Sludge Bomb
+Sigilyph [Tinted Lens], lv.37 @TwistedSpoon: Air Cutter, Esper Wing, Icy Wind, Heat Wave
+Krokorok [Intimidate], lv.37 @Rocky Helmet: Foul Play, High Horsepower, Rock Slide, Thunder Fang
+Druddigon [Sheer Force], lv.37 @Life Orb: Dragon Rush, Thunder Punch, Rock Climb, Glare
+Bouffalant [Reckless], lv.37 @Sitrus Berry: Head Charge, Wild Charge, Megahorn, High Horsepower
+Crustle [Sturdy], lv.37 @Custap Berry: Rock Slide, Accelerock, Shell Smash, X-Scissor
+
+
+=========================================================
+Amusement Park and Elesa's Gym
+=========================================================
+
+~~~~~~~~~~~~~~
+Amusement Park:
+~~~~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+● Rich Boy Rolan:       
+Pichu [Lightningrod], lv.31: Fake Out, Tickle, Shock Wave, Nuzzle
+Blitzle [Sap Sipper], lv.31: Flame Charge, Double Kick, Stomp, Discharge
+Tynamo [Levitate], lv.31: Shock Wave, Tackle, Nuzzle, Magnet Rise
+
+● Rich Girl Colette:
+Plusle [Lightningrod], lv.31: Nuzzle, Quick Attack, Electro Ball, Fake Tears
+Minun [Volt Absorb], lv.31: Nuzzle, Electro Ball, Fake Tears, Quick Attack
+Pachirisu [Volt Absorb], lv.31: Covet, Swift, Discharge, Fake Tears
+
+~~~~~~~~~~~
+Elesa's Gym
+~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+● Beauty Nikola: 
+Pikachu [Lightningrod], lv.33 @Light Ball: Iron Tail, Icicle Crash, Extreme Speed, Thunderbolt
+Luxray [Intimidate], lv.33: Crunch, Thunder Fang, Ice Fang, Fire Fang
+Emolga [Motor Drive], lv.33: Nuzzle, Electro Ball, Acrobatics, Signal Beam
+
+● Beauty Fleming: 
+Rotom-Frost [Levitate], lv.33: Blizzard, Discharge, Ominous Wind, Will-O-Wisp
+Manectric [Intimidate], lv.33: Discharge, Flame Burst, Psychic Fangs, Ice Fang
+Flaaffy [Static], lv.33: Power Gem, Thunder Wave, Charge Beam, Cotton Guard
+
+● Beauty Ampère: 
+Magneton [Sturdy], lv.34: Tri Attack, Flash Cannon, Charge Beam, Thunder Wave
+Electrode [Aftermath], lv.34: Boomburst, Electro Ball, Aura Sphere, Energy Ball
+Stunfisk [Static], lv.34: Discharge, Mud Shot, Revenge, Muddy Water
+Jolteon [Volt Absorb], lv.34: Electro Ball, Nuzzle, Pin Missile, Quick Attack
+
+<normal>
+●♛ LEADER ELESA - {TM72 Volt Switch}:
+Emolga [Static], lv.35 @Flying Gem: Volt Switch, Acrobatics, U-Turn, Light Screen
+Ampharos [Static], lv.35 @Shuca Berry: Volt Switch, Power Gem, Dragon Pulse, Focus Blast
+Lanturn [Water Absorb], lv.35 @Air Balloon: Volt Switch, Hydro Pump, Thunder Wave, Signal Beam
+Electabuzz [Static], lv.35 @Life Orb: Volt Switch, Ice Punch, Psychic, Cross Chop
+Zebstrika [Sap Sipper], lv.36 @White Herb: Volt Switch, Overheat, Bounce, Quick Attack
+</normal>
+<challenge>
+●♛ LEADER ELESA - (3x) {TM72 Volt Switch}:
+Emolga [Motor Drive], lv.37 @Focus Sash: Air Slash, Discharge, Energy Ball, Tailwind
+Lanturn [Volt Absorb], lv.37 @Rindo Berry: Muddy Water, Icy Wind, Discharge, Tail Glow
+Electivire [Motor Drive], lv.37 @Shuca Berry: Discharge, Close Combat, Rock Slide, Ice Punch
+Raichu [Lightning Rod], lv.37 @Air Balloon: Grass Knot, Extreme Speed, Thunderbolt, Icicle Crash
+Stunfisk [Lightning Rod], lv.37 @Sitrus Berry: Muddy Water, Discharge, Earth Power, Sludge Bomb
+Zebstrika [Motor Drive], lv.38 @Life Orb: Wild Charge, Flare Blitz, High Horsepower, Lunge
+</challenge>
+
+=========================================================
+Driftveil City
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+●♕ ROOD:
+Bouffalant [Reckless], lv.41 @Chople Berry: Head Charge, Zen Headbutt, Wild Charge, Close Combat
+Zoroark [Illusion], lv.41 @Focus Sash: Extrasensory, Grass Knot, Sucker Punch, U-Turn
+Swoobat [Simple], lv.41 @Sitrus Berry: Nasty Plot, Stored Power, Air Slash, Giga Drain
+Stoutland [Intimidate], lv.41 @Life Orb: Strength, Fire Fang, Ice Fang, Thunder Fang
+Chandelure [Flash Fire], lv.41 @Passho Berry: Energy Ball, Shadow Ball, Mystical Fire, Dark Pulse
+
+<normal>
+○♕ NORMAN - Hoenn Leader {Choice Specs}:
+Vigoroth [Vital Spirit], lv.41: Facade, Slash, Encore, Faint Attack
+Chansey [Natural Cure], lv.41 @Leftovers: Hyper Voice, Sing, Skill Swap, Focus Punch
+Linoone [Pick Up], lv.41 @Sitrus Berry: Facade, Belly Drum, Slash, Rock Smash
+Slaking [Truant], lv.42 @Sitrus Berry: Facade, Flamethrower, Thunderbolt, Shadow Ball
+</normal>
+<challenge>
+○♕ NORMAN - Hoenn Leader {Sitrus Berries x5, Micle Berry x2}:
+Exploud [Scrappy], lv.43 @Chople Berry: Boomburst, Surf, Extrasensory, Flamethrower
+Tauros [Sheer Force], lv.43 @Life Orb: Rock Climb, Close Combat, Strength, Zen Headbutt
+Banette [Cursed Body], lv.43 @Colbur Berry: Crush Claw, Gunk Shot, Shadow Claw, Shadow Sneak
+Zangoose [Toxic Boost], lv.43 @Toxic Orb: Facade, Close Combat, Night Slash, Protect
+Slaking [Truant], lv.44 @Normal Gem: Giga Impact, Earthquake, Hammer Arm, Ice Punch
+Linoone [Gluttony], lv.43 @Sitrus Berry: Extreme Speed, Belly Drum, Shadow Claw, Seed Bomb
+</challenge>
+
+○ Heartbreaker Charles - (3x): 
+Accelgor [Infiltrator], lv.41 @Focus Sash: U-Turn, Extreme Speed, Energy Ball, Focus Blast
+Sigilyph [Tinted Lens], lv.41 @Life Orb: Air Cutter, Esper Wing, Icy Wind, Heat Wave
+Krookodile [Intimidate], lv.41 @Chople Berry: High Horsepower, Crunch, Ice Fang, Rock Slide
+Archeops [Defeatist], lv.41 @Flying Gem: Acrobatics, Rock Slide, Lunge, Crunch
+Carracosta [Study], lv.41 @White Herb: Shell Smash, Razor Shell, Aqua Jet, Body Slam
+Basculin [Adaptability], lv.41 @Wacan Berry: Waterfall, Aqua Jet, Psychic Fangs, Head Smash
+
+
+=========================================================
+Route 6
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+○ Pokémon Breeder April: 
+Deerling [Screne Grace], lv.35: Synthesis, Aromatherapy
+Chansey [Natural Cure], lv.35: Bestow, Heal Pulse, Helping Hand
+Grotle [Rock Head], lv.35: Amnesia, Withdraw, Growth
+
+● Parasol Lady Nicole: 
+Castform [Forecast], lv.35: Sunny Day, Hail, Rain Dance, Weather Ball
+Weepinbell [Chlorophyll], lv.35: Razor Leaf, Weather Ball, Sleep Powder, Acid
+Alomomola [Hydration], lv.35: Waterfall, Rain Dance, Wish, Attract
+Gloom [Stench], lv.35: Sludge Bomb, Sleep Powder, Stun Spore, Poison Powder
+
+○ School Kid♀ Mara: 
+Shelmet [Shell Armor], lv.35: Acid Amor, Struggle Bug, Guard Swap, Body Slam
+Karrablast [No Guard], lv.35: Acid Spray, Bug Bite, Faint Attack, Iron Defense
+Joltik [Compoundeyes], lv.35: Electro Ball, Electroweb, Struggle Bug, Disable
+Foongus [Effect Spore], lv.35: Mega Drain, Faint Attack, Gastro Acid, Clear Smog
+Octillery [Sniper], lv.35: Psybeam, Octazooka, Mud Shot, Signal Beam
+
+● Scientist♂ Jacques: 
+Ditto [Imposter], lv.37: Transform
+Ditto [Imposter], lv.37 @Choice Scarf: Transform
+
+● Scientist♀ Marissa: 
+Ditto [Imposter], lv.37: Transform
+Ditto [Imposter], lv.37 @Choice Scarf: Transform
+
+● School Kid♂ Alvin: 
+Yanma [Speed Boost], lv.35: Air Cutter, Wing Attack, Ominous Wind, Ancient Power
+Tangela [Leaf Guard], lv.35: Pain Split, Bullet Seed, Synthesis, Wake-Up Slap
+Quagsire [Water Absorb], lv.35: Counter, Amnesia, Yawn, Aqua Tail
+
+○ Parasol Lady Tihana:
+Poliwag [Swift Swim], lv.36: Hypnosis, Surf, Ice Beam
+Poliwhirl [Swift Swim], lv.36: Hypnosis, Surf, Ice Beam
+Politoed [Water Absorb], lv.36: Hypnosis, Scald, Ice Beam
+
+● Ranger♂ Richard - {Pecha Berry}:
+Starmie [Regenerator], lv.36: Bubble Beam, Aurora Beam, Psybeam, Confuse Ray
+Sealeo [Thick Fat], lv.36: Aurora Beam, Brine, Slack Off, Whirlpool
+Magcargo [Solid Rock], lv.36: Lava Plume, Ancient Power, Recover, Clear Smog
+Escavalier [Shell Armor], lv.36: Smart Strike, Razor Shell, Bug Bite, Revenge
+Ampharos [Static], lv.36: Discharge, Power Gem, Signal Beam, Dragon Breath
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Clay has been defeated and the Plasma Frigate has been cleared:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+<tepig>
+●♕ Hugh:
+Swellow [Scrappy], lv.46 @Metronome: Boomburst, Quick Attack, Hurricane, U-Turn
+Eelektrik [Levitate], lv.46 @Leftovers: Wild Charge, Aqua Tail, Giga Drain, Drain Punch
+Flygon [Levitate], lv.47 @Life Orb: Scorching Sands, Dragon Claw, Lunge, Dragon Dance
+Lilligant [Own Tempo], lv.46 @Focus Sash: Petal Dance, Extrasensory, Sleep Powder, Quiver Dance
+Samurott [Shell Armor], lv.47 @Leftovers: Air Slash, Waterfall, Megahorn, Close Combat
+</tepig>
+<oshawott>
+●♕ Hugh:
+Swellow [Scrappy], lv.46 @Metronome: Boomburst, Quick Attack, Hurricane, U-Turn
+Eelektrik [Levitate], lv.46 @Leftovers: Wild Charge, Aqua Tail, Giga Drain, Drain Punch
+Flygon [Levitate], lv.47 @Life Orb: Scorching Sands, Dragon Claw, Lunge, Dragon Dance
+Camerupt [Simple], lv.46 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+Serperior [Contrary], lv.47 @Leftovers: Glare, Leaf Blade, Dragon Pulse, Aqua Tail
+</oshawott>
+<snivy>
+●♕ Hugh:
+Swellow [Scrappy], lv.46 @Metronome: Boomburst, Quick Attack, Hurricane, U-Turn
+Eelektrik [Levitate], lv.46 @Leftovers: Wild Charge, Aqua Tail, Giga Drain, Drain Punch
+Flygon [Levitate], lv.47 @Life Orb: Scorching Sands, Dragon Claw, Lunge, Dragon Dance
+Starmie [Regenerator], lv.46 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+Emboar [Mold Breaker], lv.47 @Leftovers: Body Slam, Flame Charge, Earthquake, Cross Chop
+</snivy>
+
+
+=========================================================
+Clay Tunnel
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+~~~~~ Driftveil Side Entrance ~~~~~
+
+○ Hiker Teppei: 
+Aron [Filter], lv.37: Metal Burst, Autotomize, Smack Down, Take Down
+Mawile [Huge Power], lv.37: Zen Headbutt, Poison Fang, Psychic Fangs, Thunder Fang
+Sableye [Prankster], lv.37: Octazooka, Shadow Claw, Pain Split, Faint Attack
+Golbat [Inner Focus], lv.37: Mean Look, Faint Attack, Air Cutter, Haze
+
+○ Worker Morgann:
+Maractus [Water Absorb], lv.38: Spikes, Seed Bomb, Pin Missile, Scald
+Dugtrio [Arena Trap], lv.38: Bulldoze, Reversal, Slash, Night Slash
+
+~~~~~ Mistralton Cave Entrance ~~~~~
+
+○ Hiker Manuel: 
+Swoobat [Simple], lv.38: Psychic Fangs, Calm Mind, Dual Wingbeat, Uproar
+Golem [Sturdy], lv.38: Rock Blast, Steamroller, Stealth Rock, Accelerock
+Torkoal [Shell Armor], lv.38: Scorching Sands, Lava Plume, Eruption, Protect
+
+○ Worker Herman: 
+Qwilfish [Intimidate], lv.38: Aqua Tail, Poison Jab, Aqua Jet, Reversal
+Hitmonchan [Iron Fist], lv.38: Bullet Punch, Rock Tomb, Drain Punch, Sucker Punch
+Chatot [Soundproof], lv.38: Uproar, Agility, Night Shade, Chatter
+
+○ Worker Paul: 
+Lapras [Water Absorb], lv.38: Ice Beam, Brine, Ice Shard, Dragon Pulse
+Lopunny [Scrappy*], lv.38: Dizzy Punch, Jump Kick, Fake Out, Quick Attack
+Camerupt [Solid Rock], lv.38: Bulldoze, Lava Plume, Take Down, Yawn
+
+~~~~~ Twist Mountain and Underground Ruins Entrance ~~~~~
+
+○ Worker Leo: 
+Nosepass [Sturdy], lv.38: Lock-On, Sandstorm, Zap Cannon, Magnitude
+Lairon [Filter], lv.39: Rock Tomb, Metal Burst, Body Slam, Rock Tomb
+Probopass [Sturdy], lv.38: Power Gem, Discharge, Thunder Wave, Pain Split
+
+○ Ranger♂ Maxwell - {Lum Berry}: 
+Steelix [Sturdy], lv.39: Stealth Rock, Iron Tail, Dragon Tail, Screech
+Vileplume [Thick Fat*], lv.39: Moonblast, Toxic, Earth Power, Giga Drain
+Milotic [Marvel Scale], lv.39: Aqua Ring, Brine, Recover, Dragon Tail
+Scizor [Technician], lv.39: Bullet Punch, Bug Bite, Pursuit, Crabhammer
+
+○ Ranger♀ Katie - {Lum Berry}: 
+Fraxure [Mold Breaker], lv.39: Dragon Dance, Breaking Swipe, Slash, Night Slash
+Kingler [Sheer Force], lv.39: Razor Shell, Night Slash, Fury Cutter, Agility
+Galvantula [Compoundeyes], lv.39: Electro Ball, Mega Drain, Nuzzle, Struggle Bug
+Jumpluff [Prankster], lv.39: Leech Seed, Sleep Powder, Leaf Tornado, Air Cutter
+
+○ Worker Brand:
+Forretress [Sturdy], lv.38: Spikes, Toxic Spikes, Gyro Ball, Pin Missile
+Onix [Weak Armor], lv.38: Dragon Dance, Rock Slide, High Horsepower, Thunder Fang
+Sunflora [Solar Power], lv.38: Leaf Tornado, GrassWhistle, Earth Power, Morning Sun
+
+
+=========================================================
+Clay's Gym
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+ - So as not to spoil the gym puzzle for those who enjoy figuring it out, Trainers are not correctly marked as mandatory here! (Except Clay ;))
+
+○ Worker Noel:
+Baltoy [Levitate], lv.40: Extrasensory, Stealth Rock, Bulldoze, Grass Knot
+Sandshrew [Rough Skin], lv.40: Headlong Rush, Accelerock, Brick Break, Shadow Claw
+Geodude [Sturdy], lv.40: Rock Slide, Bulldoze, Fire Punch, Explosion
+Diglett [Arena Trap], lv.40: Earthquake, Aerial Ace, Shadow Claw, Final Gambit
+Cubone [Battle Armor], lv.40 @Thick Club: Bonemerang, Rock Slide, Fire Punch, Thunder Punch
+
+○ Worker Tavarius:
+Marshtomp [Anticipation], lv.40: Earthquake, Ice Beam, Sludge Wave, Scald
+Piloswine [Thick Fat], lv.40: Icicle Crash, Ice Shard, Rock Slide, Headlong Rush
+Quagsire [Water Absorb], lv.40: Bulldoze, Aqua Tail, Focus Blast, Recover
+Gligar [Hyper Cutter], lv.40: Acrobatics, X-Scissor, Bulldoze, Rock Slide
+
+○ Worker Niel:
+Whiscash [Simple], lv.40: Earthquake, Dragon Dance, Rock Slide, Wave Crash
+Camerupt [Simple], lv.40: Lava Plume, Rock Polish, Headlong Rush, Rock Slide
+Hippopotas [Sand Stream], lv.40: Earthquake, Crunch, Rock Smash, Slack Off
+Krokorok [Intimidate], lv.40: Crunch, Bulldoze, Low Sweep, Fire Fang
+
+○ Worker Maynard:
+Gliscor [Poison Heal], lv.41 @Toxic Orb: Acrobatics, Bulldoze, Fire Fang, Ice Fang
+
+○ Worker Pasqual:
+Nidoking [Sheer Force], lv.41: Thunderbolt, Ice Beam, Sludge Wave, Earth Power
+Nidoqueen [Sheer Force], lv.41: Earth Power, Sludge Wave, Shadow Ball, Flamethrower
+
+○ Worker Friedrich:
+Marowak [Battle Armor], lv.40 @Thick Club: Bonomerang, Stone Edge, Knock Off, Perish Song
+Golem [Sturdy], lv.40: Bulldoze, Accelerock, Steamroller, Fire Punch
+Onix [Sturdy], lv.40: Bulldoze, Heavy Slam, Head Smash, Dragon Dance
+Steelix [Sheer Force], lv.40: Bulldoze, Heavy Slam, Rock Slide, Coil
+
+○ Worker Tibor:
+Golett [Iron Fist], lv.40: Bulldoze, Shadow Sneak, Shadow Punch, Ice Punch
+Vibrava [Levitate], lv.40: Draco Meteor, Bulldoze, Rock Slide, Signal Beam
+Gastrodon [Storm Drain], lv.40: Sludge Wave, Ice Beam, Muddy Water, Recover
+
+<normal>
+●♛ LEADER CLAY - {TM26 Earthquake}:
+Nidoqueen [Poison Point], lv.41 @Smooth Rock: Scorching Sands, Sandstorm, Toxic, Stealth Rock
+Seismitoad [Water Absorb], lv.41 @Rindo Berry: Earthquake, Sandstorm, Hydro Pump, Ice Punch
+Nidoking [Sheer Force], lv.41 @Life Orb: Earthquake, Sludge Bomb, Ice Beam, Thunderbolt
+Claydol [Levitate], lv.41 @Absorb Bulb: Earth Power, Sandstorm, Ice Beam, Psychic 
+Excadrill [Sand Rush], lv.43 @Chople Berry: Earthquake, Swords Dance, Iron Head, X-Scissor
+Krookodile [Intimidate], lv.41 @Leftovers: Earthquake, Sandstorm, Crunch, Rock Slide
+</normal>
+<challenge>
+$$$
+ - Permanent Sandstorm is established before the fight, like Crasher Wake's Gym in Renegade Platinum.
+$$$
+●♛ LEADER CLAY - {TM26 Earthquake}:
+Seismitoad [Water Absorb], lv.44 @Rindo Berry: Rock Slide, Hydro Pump, Power Whip, Ice Punch
+Mamoswine [Thick Fat], lv.44 @Passho Berry: Ice Shard, Endeavor, Earthquake, Icicle Crash
+Torterra [Rock Head], lv.44 @White Herb: Shell Smash, Wood Hammer, Head Smash, Earthquake
+Garchomp [Rough Skin], lv.44 @Yache Berry: Earthquake, Dragon Claw, Brick Break, Extreme Speed
+Nidoking [Sheer Force], lv.44 @Life Orb: Earth Power, Sludge Wave, Ice Beam, Thunderbolt
+Excadrill [Sand Rush], lv.45 @Air Balloon: Earthquake, Swords Dance, Rock Slide, X-Scissor
+</challenge>
+
+=========================================================
+Plasma Frigate - First Visit
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+● Plasma Grunt #372:
+Lampent [Infiltrator], lv.40: Will-O-Wisp, Flame Burst, Hex, Dark Pulse
+Breloom [Technician], lv.40: Mach Punch, Rock Tomb, Seed Bomb, Spore
+Vanillish [Ice Body], lv.40: Frost Breath, Autotomize, Icy Wind, Ice Shard
+Omastar [Shell Armor], lv.40: Accelerock, Brine, Power Gem, Shell Smash
+
+● Plasma Grunt #373:
+Liepard [Unburden], lv.40: Thunder Wave, Night Slash, Play Rough, Slash
+Glalie [Levitate], lv.40: Ice Shard, Icicle Crash, Rock Climb, Crunch
+Rotom-Base [Levitate], lv.40: Shadow Ball, Thunderbolt, Dark Pulse, Nasty Plot
+Bastiodon [Sturdy], lv.40: Metal Burst, Rock Blast, Body Slam, Protect
+
+● Plasma Grunts #375 and #374 - (Tag): 
+<left>
+Plasma Grunt #375
+Floatzel [Water Veil], lv.40: Aqua Jet, Aqua Tail, Icy Wind, Brick Break
+Muk [Stench], lv.40: Poison Jab, Shadow Sneak, Disable, Rock Slide
+Throh [Guts], lv.40: Storm Throw, Knock Off, Zen Headbutt, Rock Tomb
+</left>
+<right>
+Plasma Grunt #374
+Metang [Clear Body], lv.40: Zen Headbutt, Bullet Punch, Power-Up Punch, Iron Head
+Sneasel [Pickpocket], lv.40: Faint Attack, Low Kick, Ice Shard, Fake Out
+Sawk [Sturdy], lv.40: Dual Chop, Brick Break, Lunge, Knock Off
+</right>
+<partner>
+Cheren
+Stoutland [Intimidate], lv.40 @Sitrus Berry: Strength, Wild Charge, Crunch, Aerial Ace
+Snorlax [Thick Fat], lv.39 @Sitrus Berry: Strength, Crunch, Curse, Rock Slide
+Cinccino [Skill Link], lv.39 @Sitrus Berry: Tail Slap, Bullet Seed, Rock Blast, Aqua Tail
+</partner>
+
+
+● Plasma Grunts #377 and #376 - (Tag):  
+<left>
+Plasma Grunt
+Garbodor [Stench], lv.40: Toxic Spikes, Sludge Bomb, Stockpile, Pain Split
+Mightyena [Intimidate], lv.40: Play Rough, Ice Fang, Crunch, Sucker Punch
+Weezing [Levitate], lv.40: Haze, Gunk Shot, Will-O-Wisp, Incinerate
+</left>
+<right>
+Plasma Grunt
+Krokorok [Intimidate], lv.40: Crunch, High Horsepower, Dragon Tail, Fire Fang
+Seviper [Shed Skin], lv.40: Poison Tail, Coil, Night Slash, Glare
+Victreebel [Chlorophyll], lv.40: Leaf Tornado, Sucker Punch, Toxic, Sludge Bomb
+</right>
+<partner>
+<tepig>
+Hugh
+Samurott [Shell Armor], lv.40: Air Slash, Razor Shell, Megahorn, Revenge
+Lilligant [Own Tempo], lv.39: Giga Drain, Stun Spore, Extrasensory, Quiver Dance
+Vibrava [Levitate], lv.39: Signal Beam, Earth Power, Rock Slide, Dragon Breath
+</tepig>
+<oshawott>
+Hugh
+Serperior [Contrary], lv.40: Glare, Leech Seed, Leaf Blade, Brutal Swing
+Camerupt [Simple], lv.39: Flamethrower, Rock Polish, Earth Power, Rock Slide
+Vibrava [Levitate], lv.39: Signal Beam, Earth Power, Rock Slide, Dragon Breath
+</oshawott>
+<snivy>
+Hugh
+Emboar [Mold Breaker*], lv.40: Body Slam, Heat Crash, High Horsepower, Flame Charge
+Starmie [Regenerator], lv.39: Bubble Beam, Psyshock, Signal Beam, Calm Mind
+Vibrava [Levitate], lv.39: Signal Beam, Earth Power, Rock Slide, Dragon Breath
+</snivy>
+</partner>
+
+
+
+=========================================================
+Chargestone Cave
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+~~~~~ 1F ~~~~~
+
+○ Guitarist Anna: 
+Koffing [Levitate], lv.37: Sludge, Lava Plume, Psybeam, Spite
+Electrode [Static], lv.37: Volt Switch, Electro Ball, Sucker Punch, Signal Beam
+Nidoqueen [Sheer Force], lv.37: Play Rough, Scorching Sands, Chip Away, Poison Tail
+
+○ Scientist Ronald: 
+Trubbish [Aftermath], lv.38: Rock Blast, Stockpile, Swallow, Cross Poison
+Stantler [Intimidate], lv.38: Psyshield Bash, Role Play, Detect, Body Slam
+Larvesta [Flame Body], lv.38: Flame Charge, Leech Life, Flame Wheel, Screech
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After the PWT and Plasma Frigate have been cleared:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+● Ace Trainer Corky - (3x): 
+Galvantula [Compoundeyes], lv.41: Electroweb, Thunder, Bug Buzz, Nuzzle
+Vaporeon [Water Absorb], lv.41: Aurora Beam, Wish, Extrasensory, Muddy Water
+Sawsbuck [Sap Sipper], lv.41: Horn Leech, Double-Edge, Jump Kick, Megahorn
+
+○ Ranger♂ Louis - {Chesto Berry}:
+Tropius [Chlorophyll], lv.41: Dragon Dance, Breaking Swipe, Nature Power, Leaf Blade
+Heatmor [Mold Breaker*], lv.41: Fire Lash, Scorching Sands, Sucker Punch, Hone Claws
+
+● Ace Trainer Mary: 
+Jumpluff [Prankster*], lv.42: Sleep Powder, Leech Seed, U-Turn, Air Slash
+Quagsire [Water Absorb], lv.42: Aqua Tail, Earthquake, Recover, Curse
+Gardevoir [Trace], lv.42: Dazzling Gleam, Calm Mind, Shadow Ball, Energy Ball
+Flareon [Flash Fire], lv.42: Flare Blitz, Last Resort
+
+● Hiker Otto: 
+Klang [Levitate*], lv.42: Gear Grind, Spark, Shift Gear, Flame Wheel
+Hariyama [Thick Fat], lv.42: Revenge, Belly Drum, Bullet Punch, Knock Off
+Tentacruel [Clear Body], lv.42: Sludge Bomb, Giga Drain, Brine, Bubble Beam
+Wobbuffet [Shadow Tag], lv.42: Counter, Mirror Coat, Destiny Bond
+
+~~~~~ B1F ~~~~~
+
+● Doctor Kit:
+Audino [Healer], lv.41: Draining Kiss, Icy Wind, Wish, Thunderbolt
+Leavanny [Chlorophyll], lv.41: Lunge, Psychic Fangs, Leaf Blade, Night Slash
+Blissey [Serene Grace], lv.41: Toxic, Psychic, Seismic Toss, Soft-Boiled
+Slowbro [Own Tempo], lv.41: Nasty Plot, Scald, Psychic, Focus Blast
+
+● Ranger♀ Briana - {Chesto Berry}:
+Ferrothorn [Iron Barbs], lv.41: Power Whip, Pin Missile, Stealth Rock, Bulldoze
+Lumineon [Storm Drain], lv.41: Hydro Pump, Psychic, Tailwind, U-Turn
+Rapidash [Flame Body], lv.41: High Horsepower, Megahorn, Hypnosis, Blaze Kick
+Grumpig [Own Tempo], lv.41: Psystrike, Confuse Ray, Power Gem, Tri Attack
+
+● Scientist♀ Lumi:
+Granbull [Intimidate], lv.41: Drain Punch, Ice Fang, Thunder Fang, Play Rough
+Masquerain [Intimidate], lv.41: Quiver Dance, Bug Buzz, Ominous Wind, Bubble Beam
+Forretress [Sturdy], lv.41: Counter, Gyro Ball, Explosion, Protect
+Dragonair [Marvel Scale], lv.41: Extreme Speed, Dragon Rush, Body Slam, Coil
+
+~~~~~ B2F ~~~~~
+
+○ Guitarist Beverly: 
+Ferroseed [Iron Barbs], lv.41: Assurance, Metal Claw, Leech Seed, Spikes
+Electabuzz [Static], lv.41: Dual Chop, Thunder Punch, Cross Chop, Psychic
+
+○ Hiker Jeremy: 
+Hypno [Bad Dreams], lv.41: Sing, Drain Punch, Psycho Cut, Disable
+Machamp [Guts], lv.41: Scary Face, Mach Punch, Double-Edge, Drain Punch
+
+○ Ace Trainer Vicki - (3x): 
+Emboar [Mold Breaker], lv.43: Fire Pledge, High Horsepower, Hammer Arm, Flame Charge
+Samurott [Shell Armor], lv.43: Water Pledge, Razor Shell, Dual Chop, Rock Smash
+Serperior [Contrary], lv.43: Grass Pledge, Dragon Breath, Giga Drain, Leech Seed
+
+○ Ace Trainer Shaye: 
+Rampardos [Mold Breaker], lv.41: Accelerock, Raging Fury, Head Smash, Rock Polish
+Cloyster [Shell Armor], lv.41: Razor Shell, Toxic Spikes, Smart Strike, Spikes
+Noctowl [Insomnia], lv.41: Whirlwind, Extrasensory, Air Slash, Agility
+Cacturne [Water Absorb], lv.41: Needle Arm, Sucker Punch, Pin Missile, Drain Punch
+
+
+=========================================================
+Relic Passage - Driftveil Side
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+~~~~~ Exit to the PWT ~~~~~ 
+
+○ Hiker Keith: 
+Aron [Sturdy], lv.40: Metal Burst, Take Down, Body Slam, Curse
+Lairon [Filter], lv.40: Metal Burst, Rock Slide, Body Slam, Curse
+
+○ Backpacker Eileen: 
+Larvitar [Hustle], lv.42: Chip Away, Withdraw, Curse, Assurance
+Trapinch [Sheer Force], lv.42: Gust, Bug Bite, Dig, High Horsepower
+Pupitar [Shed Skin], lv.42: Iron Defense, Protect, Curse, Assurance
+
+○ Backpacker Randall: 
+Gible [Rough Skin], lv.42: Scary Face, Dual Chop, Rock Slide, Scorching Sands
+Raticate [Hustle], lv.42: Hyper Fang, Take Down, Flame Wheel, Zen Headbutt
+Gabite [Rough Skin], lv.42: Bulldoze, Slash, Dual Chop, Rock Slide
+
+~~~~~ Middle Room ~~~~~
+
+○ Hiker Tobias: 
+Rhyhorn [Rock Head], lv.42: Crunch, Take Down, Ice Fang, Thunder Fang
+Boldore [Sturdy], lv.42: Rock Blast, Take Down, Sandstorm, Heavy Slam
+Gurdurr [Iron Fist], lv.42: Revenge, Reversal, Rock Slide, Scary Face
+
+○ Psychic Tully: 
+Drifloon [Unburden], lv.42: Explosion, Amnesia, Air Slash, Hypnosis
+Sableye [Prankster], lv.42: Metal Burst, Shadow Claw, Trick, Confuse Ray
+Duosion [Magic Guard], lv.42: Imprison, Helping Hand, Night Shade, Wonder Room
+
+○ Backpacker Annie: 
+Monferno [Blaze], lv.43: Focus Punch, Substitute, Mach Punch, Flamethrower
+Nosepass [Sturdy], lv.43: Charge Beam, Sandstorm, Pain Split, Power Gem
+
+○ Psychic Ena: 
+Yamask [Mummy], lv.41: Ominous Wind, Curse, Toxic Spikes, Hex
+Haunter [Levitate], lv.41: Sucker Punch, Sludge, Ominous Wind, Hex
+Gothorita [Shadow Tag], lv.41: Fake Out, Fake Tears, Psyshock, Faint Attack
+Duskull [Levitate], lv.41: Ominous Wind, Shadow Sneak, Faint Attack, Pain Split
+Shuppet [Cursed Body], lv.41: Hex, Embargo, Sucker Punch, Slash
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relic Passage Backroom - TM Protectors:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - Levels -2 on Easy mode, +2 on Challenge mode.
+
+○ Trainer Melody (2x):  
+Electrode [Soundproof], lv.70 @White Herb: Boomburst, Overheat, Energy Ball, Thunderbolt
+Exploud [Soundproof], lv.70 @Normal Gem: Boomburst, Shadow Ball, Extrasensory, Focus Blast
+Drifblim [Unburden], lv.70 @Sitrus Berry: Tailwind, Acrobatics, Shadow Ball, Hypnosis
+Wigglytuff [Huge Power], lv.70 @Sitrus Berry: Boomburst, Play Rough, Fake Tears, Thunder Wave
+Chatot [Soundproof], lv.70 @Life Orb: Boomburst, Chatter, Ominous Wind, U-Turn
+Jellicent [Cursed Body], lv.70 @Kasib Berry: Soak, Scald, Hex, Will-O-Wisp
+
+○ Trainer Nikola:
+Rotom-Mow [Levitate], lv.70 @Light Clay: Leaf Storm, Volt Switch, Light Screen, Reflect
+Rotom-Heat [Levitate], lv.70 @White Herb: Overheat, Volt Switch, Will-O-Wisp, Hex
+Rotom-Wash [Levitate], lv.70 @Rindo Berry: Hydro Pump, Volt Switch, Pain Split, Signal Beam
+
+
+=========================================================
+Mistralton Cave
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+~~~~~ 1F ~~~~~
+
+○ Hiker Shelby: 
+Unown [Levitate], lv.41: Hidden Power
+Unown [Levitate], lv.41: Hidden Power
+Unown [Levitate], lv.41: Hidden Power
+
+○ Hiker Jebediah:
+Vespiquen [Intimidate*], lv.42: Attack Order, Defend Order, Heal Order, Cross Poison
+Lileep [Storm Drain], lv.42: Mud Shot, Gastro Acid, Smack Down, Giga Drain
+Crustle [Shell Armor], lv.42: Night Slash, Rock Polish, Rock Blast, X-Scissor
+
+~~~~~ 2F ~~~~~
+
+○ Ace Trainer Geoff: 
+Axew [Rivalry], lv.42: Slash, Night Slash, Breaking Swipe, Focus Energy
+Shelgon [Rock Head], lv.42: Zen Headbutt, DragonBreath, Take Down, Flamethrower
+Fraxure [Mold Breaker], lv.42: Slash, Night Slash, Breaking Swipe, Swords Dance
+
+○ Ace Trainer Belle: 
+Deino [Hustle], lv.42: Body Slam, Scary Face, Screech, Dragon Pulse
+Gabite [Rough Skin], lv.42: Slash, Bulldoze, Dual Chop, Rock Slide
+Zweilous [Hustle], lv.42: Dragon Rush, Zen Headbutt, Head Smash, Body Slam
+
+
+=========================================================
+Route 7
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+○ Pokémon Breeder♂ Marcus: 
+Chimecho [Levitate], lv.46: Entrainment, Synchronoise, Heal Bell, Safeguard
+Chansey [Natural Cure], lv.46: Gravity, Growl, Bestow, Dream Eater
+Kangaskhan [Early Bird], lv.46: Tail Whip, Focus Energy, Helping Hand, Leer
+
+○ Youngster Cody: 
+Stoutland [Intimidate], lv.44: Psychic Fangs, Thunder Fang, Take Down, Reversal
+Houndoom [Intimidate], lv.44: Raging Fury, Flame Burst, Sucker Punch, Super Fang
+Arcanine [Intimidate], lv.44: Scorching Sands, Raging Fury, Thunder Fang, Agility
+
+● Lass Flo - (3x):  
+Archeops [Defeatist], lv.44: Rock Slide, Sky Drop, Steel Wing, Dragon Breath
+Unfezant [Unaware*], lv.44: Hypnosis, Tailwind, Hyper Voice, Air Slash
+Mamoswine [Thick Fat], lv.44: Bulldoze, Avalanche, Ice Shard, Body Slam
+
+● Nursery Aide Hollie: 
+Cryogonal [Levitate], lv.46: Frost Breath, Ancient Power, Acid Armor, Ice Shard
+Chimecho [Levitate], lv.46: Energy Ball, Future Sight, Yawn, Trick Room
+Ampharos [Static*], lv.46: Dragon Breath, Discharge, Power Gem, Energy Ball
+Ursaring [Guts], lv.46: Belly Drum, Take Down, Night Slash, Fury Cutter
+
+○ Preschooler♂ Greg: 
+Sentret [Quick Feet], lv.46: Focus Punch, Sucker Punch, Reversal, Amnesia
+Hoothoot [Insomnia], lv.46: Synchronoise, Agility, Moonblast, Tailwind
+Mareep [Static], lv.46: Discharge, Flash, Seismic Toss, Heal Bell
+
+○ Preschooler♀ Chrissy: 
+Wynaut [Telepathy], lv.46: Destiny Bond, Safeguard, Mirror Coat, Counter
+Bidoof [Simple], lv.46: Take Down, Aqua Tail, Crunch, Amnesia
+Mantyke [Water Absorb], lv.46: Mirror Coat, Take Down, Bounce, Tailwind
+
+● Twins Sola and Ana: 
+Whimsicott [Prankster], lv.48 @Eject Button: Moonblast, Tailwind, Sleep Powder, Energy Ball
+Azumarill [Huge Power], lv.48 @Sitrus Berry: Belly Drum, Aqua Jet, Play Rough, Knock Off
+Clefable [Magic Guard], lv.48 @Leftovers: Follow Me, Soft-Boiled, Moonblast, Icy Wind
+Granbull [Intimidate], lv.48 @Muscle Band: Drain Punch, Play Rough, Ice Punch, Wild Charge
+Mawile [Huge Power], lv.48 @Focus Sash: Iron Head, Sucker Punch, Play Rough, Fire Fang
+Rapidash [Flame Body], lv.48 @Wide Lens: Blaze Kick, High Horsepower, Megahorn, Smart Strike
+
+○ Harlequin Pat: 
+Gurdurr [Iron Fist], lv.45: Rock Slide, Mach Punch, Hammer Arm, Scary Face
+Quagsire [Water Absorb], lv.45: Counter, Body Slam, Muddy Water, Curse
+Slowbro [Regenerator], lv.45: Psych Up, Bubble Beam, Psyshock, Withdraw
+
+○ Harlequin Ian: 
+Staravia [Reckless], lv.45: Sky Attack, Take Down, Detect, Tailwind
+Pidgeotto [Tangled Feet], lv.45: Air Slash, Hyper Voice, Mirror Move, Steel Wing
+Venomoth [Tinted Lens], lv.45: Silver Wind, Morning Sun, Skill Swap, Signal Beam
+
+
+=========================================================
+Celestial Tower
+=========================================================
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+~~~~~ 2F ~~~~~
+
+○ Psychic Joyce: 
+Litwick [Flash Fire], lv.44: Acid Armor, Curse, Pain Split, Inferno
+Espeon [Magic Bounce], lv.44: Aura Sphere, Extrasensory, Yawn, Mystical Fire
+Grumpig [Thick Fat], lv.44: Bounce, Focus Punch, Extrasensory, Simple Beam
+
+○ School Kid Alberta: 
+Elgyem [Synchronize], lv.44: Moonblast, Wonder Room, Psyshock, Trick
+Vanillite [Ice Body], lv.44: Acid Armor, Autotomize, Mirror Coat, Frost Breath
+Roselia [Poison Point], lv.44: Ingrain, Sludge, Synthesis, Petal Dance
+
+○ Pokéfan Jude: 
+Poliwhirl [Swift Swim], lv.44: Haze, Focus Punch, Endeavor, Helping Hand
+Mr. Mime [Technician], lv.44: Hypnosis, Nasty Plot, Confusion, Disarming Voice
+Poliwrath [Swift Swim], lv.44: Drain Punch, Circle Throw, Waterfall, Body Slam
+
+~~~~~ 3F ~~~~~
+
+○ Pokéfan Georgia:
+Cubchoo [Rattled], lv.44: Yawn, Ice Fang, Rest, Play Rough
+Vanillish [Weak Armor], lv.44: Acid Armor, Autotomize, Mirror Coat, Frost Breath
+Beartic [Sheer Force], lv.44: Rock Smash, Icicle Crash, Ice Shard, Play Rough
+
+○ Psychic Micki:
+Bronzor [Heatproof], lv.44: Safeguard, Hex, Future Sight, Payback
+Misdreavus [Infiltrator*], lv.44: Curse, Hex, Draining Kiss, Grudge
+Dusclops [Pressure], lv.44: Shadow Sneak, Faint Attack, Shadow Punch, Skill Swap
+Banette [Cursed Body], lv.44: Trick, Shadow Claw, Sucker Punch, "Grab"
+Bronzong [Levitate], lv.44: Safeguard, Block, Hex, Future Sight
+
+○ Psychic Bryce:
+Reuniclus [Magic Guard], lv.45: Night Shade, Calm Mind, Stored Power, Future Sight
+
+○ Nurse Dixie:
+Alomomola [Regenerator], lv.45: Toxic, Protect, Wish, Brine
+Togekiss [Serene Grace], lv.45: Ominous Wind, Magic Leaf, Extrasensory, Draining Kiss
+Audino [Regenerator], lv.45: Moonblast, Hyper Voice, Wish, Protect
+
+~~~~~ 4F ~~~~~
+
+○ Socialite Grace: 
+Chatot [Soundproof], lv.45: Uproar, Chatter, Ominous Wind, Nasty Plot
+Roserade [Natural Cure], lv.45: Aromatherapy, Sludge, Giga Drain, Leech Seed
+
+○ Gentleman Daniel: 
+Jolteon [Volt Absorb], lv.45: Pin Missile, Electro Ball, Nuzzle, Extrasensory
+Gallade [Hyper Cutter*], lv.45: Shadow Sneak, Leaf Blade, Sacred Sword, Slash
+
+○ Psychic Sarah:
+Gothitelle [Shadow Tag], lv.45: Hypnosis, Substitute, Dark Pulse, Future Sight
+
+
+=========================================================
+Twist Mountain - Mistralton Side
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+ - Colress will show off Plasma technology with his new creations! Some creative liberty has been taken in regards to the moves these creations have learned. For details on stats and typing, see this page: https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9star_Studios_opponents#List_of_opponents
+
+
+<normal>
+●♛ COLRESS:
+F-00 [Volt Absorb], lv.52 @Chople Berry: Strength, Iron Head, Thunderbolt, Agility
+MT [Analytic], lv.52 @Leftovers: Iron Tail, Stone Edge, Crunch, Ice Punch
+</normal>
+<challenge>
+●♛ COLRESS:
+MT [Analytic], lv.53 @Red Card: Iron Head, Stealth Rock, Whirlwind, Aqua Tail
+UFO [Magic Bounce], lv.53 @Leftovers: Volt Switch, Psychic, Aeroblast, Recover
+F-00 [Volt Absorb], lv.53 @Chople Berry: U-Turn, Extreme Speed, Thunder Wave, Needle Arm
+MT2 [Flash Fire], lv.53 @Air Balloon: Shift Gear, Meteor Mash, Earthquake, Wild Charge
+</challenge>
+
+=========================================================
+Mistralton City
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ JUAN - Hoenn Leader {Choice Scarf}:
+Luvdisc [Swift Swim], lv.50: Water Pulse, Attract, Lovely Kiss, Moonblast
+Whiscash [Hydration], lv.50 @Damp Rock: Rain Dance, Waterfall, Amnesia, Earthquake
+Kingdra [Swift Swim], lv.50 @Chesto Berry: Hydro Pump, Ice Beam, Rain Dance, Rest
+Walrein [Thick Fat], lv.50: Encore, Body Slam, Aurora Beam, Water Pulse
+Crawdaunt [Adaptability], lv.51: Crabhammer, Dragon Dance, Crunch, Aqua Jet
+</normal>
+<challenge>
+$$$
+ - Permanent Rain is established before the fight, like Crasher Wake's Gym in Renegade Platinum.
+$$$
+○♕ JUAN - Hoenn Leader (2x) {Air Balloon}:
+Swampert [Torrent], lv.53 @Rindo Berry: Hammer Arm, Rock Slide, Waterfall, High Horsepower
+Slowking [Regenerator], lv.53 @Lum Berry: Ice Beam, Muddy Water, Psychic, Trick Room
+Pelipper [Drizzle], lv.53 @Flying Gem: Hurricane, Hydro Pump, Ice Beam, U-Turn
+Starmie [Analytic], lv.53 @Wacan Berry: Hydro Pump, Ice Beam, Thunder, Trick Room
+Crawdaunt [Adaptability], lv.54 @Life Orb: Aqua Jet, Crunch, Crabhammer, Close Combat
+Azumarill [Huge Power], lv.53 @Sitrus Berry: Aqua Jet, Ice Punch, Belly Drum, Play Rough
+</challenge>
+
+
+~~~~~~~~~~~
+Skyla's Gym
+~~~~~~~~~~~
+
+ - Levels -3 on Easy mode, +3 on Challenge mode.
+
+● Pilot Flynn: 
+Dodrio [Anger Point], lv.48: Brave Bird, Double-Edge, Quick Attack, Drill Run
+Honchkrow [Moxie], lv.48: Brave Bird, Sucker Punch, Psychic, Heat Wave
+Altaria [Cloud Nine], lv.48: Dragon Claw, Play Rough, Earthquake, Dragon Dance
+Pidgeot [No Guard], lv.48: Hurricane, U-Turn, Hyper Voice, Heat Wave
+
+○ Pilot Winslow: 
+Sigilyph [Tinted Lens], lv.48: Air Slash, Esper Wing, Ice Beam, Tailwind
+Tropius [Solar Power], lv.48: Leaf Blade, Sword Dance, Dual Wingbeat, Earthquake
+Farfetch'd [Defeatist], lv.48 @Flying Gem: Close Combat, Leaf Blade, Acrobatics, Night Slash
+Drifblim [Flare Boost], lv.48 @Flame Orb: Shadow Ball, Air Slash, Thunderbolt, Destiny Bond
+
+○ Pilot Elron: 
+Jumpluff [Prankster], lv.48 @Flying Gem: Acrobatics, Giga Drain, Sleep Powder, U-Turn
+Crobat [Infiltrator], lv.48: Cross Poison, Brave Bird, Super Fang, Heat Wave
+Xatu [Magic Bounce], lv.48: Esper Wing, Grass Knot, Shadow Ball, Air Slash
+Mantine [Water Absorb], lv.48: Air Slash, Hydro Pump, Ice Beam, Psybeam
+Braviary [Defiant], lv.48: Brave Bird, Superpower, Retaliate, Rock Slide
+
+● Pilot Ewing: 
+Noctowl [Tinted Lens], lv.48: Hypnosis, Esper Wing, Heat Wave, Hyper Voice
+Aerodactyl [Rock Head], lv.48: Head Smash, Brave Bird, Earthquake, Aqua Tail
+Staraptor [Reckless], lv.48: Close Combat, Double-Edge, Brave Bird, U-Turn
+Togekiss [Serene Grace], lv.48: Aura Sphere, Air Slash, Moonblast, Thunder Wave
+
+● Pilot Chase: 
+Skarmory [Sturdy], lv.49: Steel Wing, X-Scissor, Rock Slide, Brave Bird
+Unfezant [Super Luck], lv.49: Air Slash, Hyper Voice, Heat Wave, Roost
+Mandibuzz [Overcoat], lv.49: Nasty Plot, Dark Pulse, Air Slash, Heat Wave
+Fearow [Intimidate], lv.49: Drill Peck, Double-Edge, Drill Run, Quick Attack
+Pelipper [Rain Dish], lv.49: Surf, Shock Wave, Hurricane, Ice Beam
+
+<normal>
+●♛ LEADER SKYLA - {TM62 Acrobatics}:
+Skarmory [Sturdy], lv.51 @Leftovers: Brave Bird, Spikes, Steel Wing, Stealth Rock
+Gliscor [Hyper Cutter], lv.51 @Flying Gem: Acrobatics, Stone Edge, Ice Fang, Earthquake
+Togekiss [Serene Grace], lv.51 @Life Orb: Hurricane, Moonblast, Fire Blast, Wish
+Drifblim [Flare Boost], lv.51 @Flame Orb: Hurricane, Shadow Ball, Thunderbolt, Destiny Bond
+Swanna [Big Pecks], lv.52 @Wacan Berry: Air Slash, Scald, Ice Beam, Attract
+Archeops [Defeatist], lv.51 @Sitrus Berry: Acrobatics, Head Smash, Heat Wave, Earthquake
+</normal>
+<challenge>
+●♛ LEADER SKYLA - (3x) {TM62 Acrobatics}:
+Jumpluff [Prankster*], lv.54 @Flying Gem: Hurricane, Sleep Powder, Tailwind, Giga Drain
+Gliscor [Poison Heal], lv.54 @Toxic Orb: Earthquake, Rock Slide, Ice Fang, Thunder Fang
+Pidgeot [No Guard*], lv.54 @Normal Gem: Hyper Voice, Heat Wave, Hurricane, Protect
+Aerodactyl [Rock Head], lv.54 @Focus Sash: Head Smash, Brave Bird, Earthquake, Tailwind
+Togekiss [Serene Grace], lv.54 @Wacan Berry: Heat Wave, Dazzling Gleam, Hurricane, Protect
+Swanna [Friend Guard*], lv.55 @Life Orb: Hurricane, Hydro Pump, Icy Wind, Protect
+</challenge>
+
+
+=========================================================
+Reversal Mountain
+=========================================================
+
+~~~~~~~~~~~~~~
+Outside Region
+~~~~~~~~~~~~~~
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Cyclist♂ Jeremiah:            
+Tauros [Sheer Force], lv.49: High Horsepower, Body Slam, Quick Attack, Zen Headbutt
+Zebstrika [Motor Drive], lv.49: Wild Charge, Flame Charge, Quick Attack, Lunge
+Rapidash [Flame Body], lv.49: Blaze Kick, Smart Strike, Megahorn, Play Rough
+
+○ Cyclist♀ Adelaide:          
+Electrode [Static], lv.50: Overheat, Aura Sphere, Energy Ball, Discharge
+Roserade [Natural Cure], lv.50: Extrasensory, Leaf Storm, Sleep Power, Sludge Bomb
+
+~~~~~~~~~~~~~
+Inside Region
+~~~~~~~~~~~~~
+
+~~~~~ Entrance ~~~~~
+
+ - In Redux, Bianca will challenge you to a battle in the entrance room to Reversal Mountain! When she follows you around Reversal Mountain afterwards, she'll use her Normal Mode team, regardless of difficulty.
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+●♕ BIANCA:
+Musharna [Telepathy], lv.51: Psychic, Energy ball, Dazzling Gleam, Shadow Ball
+Persian [Technician], lv.51: Swift, Water Pulse, Thunderbolt, Hypnosis
+Mienshao [Reckless], lv.51: Drain Punch, Fake Out, Rock Slide, Acrobatics 
+</normal>
+<challenge>
+●♕ BIANCA - (2x):
+Mienshao [Regenerator], lv.56 @Focus Sash: Close Combat, Fake Out, Rock Slide, U-Turn
+Musharna [Synchronize], lv.56 @Light Clay: Psyshock, Dazzling Gleam, Reflect, Light Screen
+Haxorus [Mold Breaker], lv.56 @Dragon Gem: Dragon Claw, Cross Poison, Dragon Dance, Close Combat
+Serperior [Contrary], lv.56 @Sitrus Berry: Leaf Storm, Glare, Dragon Pulse, Leech Seed
+Samurott [Shell Armor], lv.56 @Life Orb: Swords Dance, Aqua Jet, Megahorn, Wave Crash
+Emboar [Mold Breaker], lv.56 @Fire Gem: Flare Blitz, Wild Charge, Head Smash, High Horsepower
+</challenge>
+
+~~~~~ MAIN AREA ~~~~~ 
+
+ - In all TAG battles, Bianca will partner with you, using her Easy and Normal mode team, regardless of difficulty.
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+
+●  Hiker Jared and Backpacker Kumiko - (2x):
+<left>
+Hiker Jared
+Wormadam-Sandy [Rough Skin*], lv.51: Rock Blast, Zen Headbutt, Bug Bite, Sucker Punch
+Wormadam-Plant [Shield Dust*], lv.51: Electroweb, Leaf Storm, Bug Buzz, Rage Powder
+Wormadam-Trash [Wonder Skin*], lv.51: Ally Switch, Electroweb, Metal Burst, Protect
+Metagross [Iron Fist*], lv.51: Agility, Meteor Mash, Hammer Arm, Bullet Punch
+</left>
+<right>
+Backpacker Kumiko
+Cacturne [Water Absorb], lv.51: Needle Arm, Sucker Punch, Destiny Bond, Spikes
+Hypno [Bad Dreams*], lv.51: Hypnosis, Dream Eater, Nightmare, Future Sight
+Gyarados [Moxie], lv.51 @Power Herb: Dragon Dance, Raging Fury, Waterfall, Bounce
+</right>
+
+● Ace Trainer Ray and Ace Trainer Cora - (2x):
+<left>
+Ace Trainer Ray
+Froslass [Cursed Body], lv.51: Shadow Ball, Frost Breath, Will-O-Wisp, Destiny Bond
+Archeops [Defeatist], lv.51: Rock Slide, Acrobatics, Lunge, Endeavor
+Galvantula [Compound Eyes], lv.51: Thunder, Giga Drain, Cross Poison, Bug Buzz
+</left>
+<right>
+Ace Trainer Cora
+Bronzong [Levitate], lv.51: Psyshield Bash, Future Sight, Gyro Ball, Stealth Rock
+Drifblim [Aftermath], lv.51: Hex, Will-O-Wisp, Extrasensory, Air Cutter
+Aggron [Filter*], lv.51: Headlong Rush, Heavy Slam, Rock Polish, Dragon Rush
+</right>
+
+● Black Belt Corey - (3x): 
+Throh [Guts], lv.50: Storm Throw, Circle Throw, Rock Slide, Payback
+Infernape [Iron Fist], lv.50: Heat Wave, Vacuum Wave, Fire Lash, Grass Knot
+Sawk [Sturdy], lv.50: Reversal, Blaze Kick, Lunge, Poison Jab
+
+● Backpacker Kiyo and Hiker Markus - (2x):
+<left> 
+Backpacker Kiyo
+Drapion [Sniper], lv.51: Cross Poison, Storm Throw, Leech Life, Night Slash
+Darmanitan [Sheer Force], lv.51: Flare Blitz, Lunge, Zen Headbutt, Rock Slide
+Rhydon [Lightningrod], lv.51: High Horsepower, Rock Slide, Megahorn, Thunder Fang
+</left>
+<right> 
+Hiker Markus
+Meganium [Serene Grace*], lv.51: Dazzling Gleam, Earth Power, Giga Drain, Grass Whistle
+Butterfree [Compound Eyes], lv.51: Sleep Powder, Hurricane, Bug Buzz, Giga Drain
+Dewgong [Thick Fat], lv.51: Ice Shard, Icicle Crash, Waterfall, Encore
+</right>
+
+● Ranger♀ Eliza - {Persim Berry}: 
+Dusclops [Pressure], lv.50: Curse, Protect, Will-O-Wisp, Hex
+Golduck [Cloud Nine], lv.50: Power Gem, Hydro Pump, Psychic, Aura Sphere
+Porygon-Z [Adaptability], lv.50: Hyper Beam, Agility, Ice Beam, Thunderbolt
+
+● Battle Girl Chan - (3x):  
+Toxicroak [Poison Touch], lv.50: Poison Jab, Close Combat, Bullet Punch, Fake Out
+Electivire [Motor Drive], lv.50: Volt Switch, Close Combat, Ice Punch, Follow Me
+Lopunny [Scrappy*], lv.50: High Horsepower, Blaze Kick, Close Combat, Strength
+
+● Doctor Derek - (3x): 
+Blissey [Serene Grace], lv.52: Ice Beam, Thunderbolt, Hyper Voice, Dazzling Gleam
+Gothitelle [Shadow Tag], lv.52: Night Daze, Thunderbolt, Psychic, Fake Out
+Staraptor [Reckless], lv.52: Double-Edge, Close Combat, Quick Attack, Brave Bird
+Alakazam [Magic Guard], lv.52: Aura Sphere, Nasty Plot, Psyshock, Energy Ball
+
+~~~~~ B1F ~~~~~ 
+
+○ Ranger♂ Lewis - {Persim Berry}: 
+Furret [Hustle*], lv.54: Extreme Speed, Play Rough, Shadow Claw, Flame Wheel
+Stantler [Intimidate], lv.54: Hypnosis, Aura Sphere, Psyshield Bash, Lunge
+Vileplume [Thick Fat*], lv.54: Earth Power, Giga Drain, Moonblast, Toxic
+
+
+=========================================================
+Strange House
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Backpacker Boone: 
+Numel [Simple*], lv.49: Take Down, Yawn, Heavy Slam, Flamethrower
+Xatu [Magic Bounce], lv.49: Psychic, Air Slash, Foul Play, Pain Split
+Camerupt [Solid Rock], lv.49: Stockpile, Flame Charge, Heavy Slam, Yawn
+
+○ Psychic Lynette: 
+Froslass [Cursed Body], lv.49: Ominous Wind, Icy Wind, Hex, Hail
+Gardevoir [Trace], lv.49: Healing Wish, Disable, Future Sight, Mean Look
+Mismagius [Infiltrator*], lv.49: Spite, Ominous Wind, Hypnosis, Magical Leaf
+
+
+=========================================================
+Undella Town
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+
+<tepig>
+●♕ Hugh:
+Swellow [Scrappy], lv.54 @Normal Gem: Boomburst, Quick Attack, Hurricane, Heat Wave
+Eelektross [Levitate], lv.54 @Leftovers: Wild Charge, Aqua Tail, Coil, Drain Punch
+Flygon [Levitate], lv.54 @Life Orb: Earthquake, Dragon Claw, Lunge, Dragon Dance
+Lilligant [Own Tempo], lv.54 @Focus Sash: Petal Dance, Sleep Powder, Quiver Dance, Extrasensory
+Samurott [Shell Armor], lv.54 @Leftovers: Air Slash, Waterfall, Megahorn, Close Combat
+Camerupt [Simple], lv.54 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+</tepig>
+<oshawott>
+●♕ Hugh:
+Swellow [Scrappy], lv.54 @Normal Gem: Boomburst, Quick Attack, Hurricane, Heat Wave
+Eelektross [Levitate], lv.54 @Leftovers: Wild Charge, Aqua Tail, Coil, Drain Punch
+Flygon [Levitate], lv.54 @Life Orb: Earthquake, Dragon Claw, Lunge, Dragon Dance
+Camerupt [Simple], lv.54 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+Serperior [Contrary], lv.54 @Leftovers: Glare, Leaf Blade, Dragon Pulse, Aqua Tail
+Starmie [Regenerator], lv.54 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+</oshawott>
+<snivy>
+●♕ Hugh:
+Swellow [Scrappy], lv.54 @Normal Gem: Boomburst, Quick Attack, Hurricane, Heat Wave
+Eelektross [Levitate], lv.54 @Leftovers: Wild Charge, Aqua Tail, Coil, Drain Punch
+Flygon [Levitate], lv.54 @Life Orb: Earthquake, Dragon Claw, Lunge, Dragon Dance
+Starmie [Regenerator], lv.54 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+Emboar [Mold Breaker], lv.54 @Leftovers: Wild Charge, Flame Charge, Earthquake, Cross Chop
+Lilligant [Own Tempo], lv.54 @Focus Sash: Petal Dance, Sleep Powder, Quiver Dance, Extrasensory
+</snivy>
+
+=========================================================
+Undella Bay
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Swimmer♂ Bart: 
+Basculin [Adaptability], lv.49: Agility, Final Gambit, Aqua Tail, Revenge
+Gastrodon [Storm Drain], lv.49: Counter, Mirror Coat, Mud Bomb, Brine
+Golduck [Cloud Nine], lv.49: Worry Seed, Amnesia, Cross Chop, Waterfall
+
+○ Swimmer♂ Matt:
+Mantyke [Water Abosrb], lv.48: Mirror Coat, Bounce, Tailwind, Take Down
+Spheal [Thick Fat], lv.48: Body Slam, Icy Wind, Crunch, Block
+Seel [Thick Fat], lv.48: Aqua Jet, Aqua Ring, Icicle Spear, Smart Strike
+Wingull [Rain Dish], lv.48: Brine, Agility, Air Slash, Tailwind
+Croconaw [Torrent], lv.48: Hone Claws, Aqua Tail, Fake Tears, Hydro Pump
+
+○ Swimmer♀ Mitzi:
+Clamperl [Shell Armor], lv.48: Iron Defense, Rain Dance, Muddy Water, Confuse Ray
+Huntail [Swift Swim], lv.48: Coil, Sucker Punch, Aqua Tail, Rain Dance
+Gorebyss [Swift Swim], lv.48: Rain Dance, Draining Kiss, Baton Pass, Muddy Water
+Relicanth [Sturdy], lv.48: Zen Headbutt, Take Down, Rock Blast, Aqua Tail
+
+○ Swimmer♂ Tim:
+Wailmer [Pressure], lv.48: Brine, Bounce, Body Slam, Aqua Ring
+Lombre [Rain Dish], lv.48: Energy Ball, Muddy Water, Focus Punch, Body Slam
+Krabby [Sheer Force], lv.48: Haze, Amnesia, Hammer Arm, Crabhammer
+Wartortle [Torrent], lv.48: Fake Out, Muddy Water, Seismic Toss, Aqua Ring
+
+○ Ace Trainer Summer:
+Gyarados [Intimidate], lv.50: Thunderbolt, Ice Beam, Hurricane, Hydro Pump
+Milotic [Marvel Scale], lv.50: Hypnosis, Aqua Tail, Breaking Swipe, Coil
+
+○ Swimmer♀ Arissa:
+Lumineon [Storm Drain], lv.49: Silver Wind, Quiver Dance, Brine, Aurora Beam
+Kingdra [Sniper], lv.49: Aurora Beam, Octazooka, Signal Beam, Clear Smog
+Wailord [Pressure], lv.49: Brine, Bounce, Body Slam, Amnesia
+
+
+=========================================================
+Route 14
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Socialite Marian: 
+Lopunny [Scrappy*], lv.50: Dizzy Punch, Bounce, Mach Punch, Triple Axel
+Solrock [Levitate], lv.50: Flare Blitz, Iron Head, Morning Sun, Psyshield Bash
+Mandibuzz [Weak Armor], lv.50: Dark Pulse, Bone Rush, Nasty Plot, Air Slash
+
+○ Gentleman Sheldon:
+Noctowl [Tinted Lens], lv.50: Psychic, Air Slash, Hyper Voice, Synchronoise
+Lunatone [Levitate], lv.50: Power Gem, Moonblast, Earth Power, Moonlight
+Braviary [Sheer Force], lv.50: Superpower, Crush Claw, Dual Wingbeat, Quick Attack
+
+○ Battle Girl Glinda: 
+Conkeldurr [Guts], lv.51: Rock Slide, Ice Punch, Drain Punch, Mach Punch
+Scrafty [Intimidate], lv.51: Dragon Dance, Drain Punch, Assurance, Zen Headbutt
+
+○ Ace Trainer Junko - (3x): 
+Gligar [Hyper Cutter], lv.51: Acrobatics, Pin Missile, Poison Tail, Night Slash
+Beedrill [Adaptability], lv.51: Cross Poison, X-Scissor, Raging Fury, Drill Peck
+Dusclops [Pressure], lv.51: Shadow Punch, Faint Attack, Shadow Sneak, Leech Life
+
+○ Black Belt Jay:
+Ursaring [Quick Feet], lv.50: Crunch, Close Combat, Bulldoze, Take Down
+Gigalith [Sturdy], lv.50: Heavy Slam, Sandstorm, Explosion, Stone Edge
+Machamp [Guts], lv.50: Double-Edge, Heavy Slam, Drain Punch, Cross Chop
+
+○ Backpacker Reece:
+Electivire [Motor Drive], lv.50: Psychic, Cross Chop, Focus Punch, Discharge
+Pinsir [Mold Breaker], lv.50: Storm Throw, Close Combat, Lunge, Swords Dance
+Drapion [Battle Armor], lv.50: Poison Tail, Crunch, Storm Throw, Night Slash
+
+○ Ace Trainer Kipp:
+Manectric [Intimidate*], lv.51: Flame Burst, Crunch, Wild Charge, Electro Ball
+Staraptor [Reckless], lv.51: Final Gambit, Agility, Tailwind, Sky Attack
+Tangrowth [Regenerator], lv.51: Ingrain, Giga Drain, Wring Out, Block
+
+○ Fisherman Sid: 
+Staryu [Natural Cure], lv.50: Wonder Room, Reflect Type, Psycho Cut, Cosmic Power
+Qwilfish [Intimidate], lv.50: Aqua Tail, Take Down, Acupressure, Payback
+Luvdisc [Swift Swim], lv.50: Moonblast, Aqua Ring, Bounce, Safeguard
+Seadra [Poison Point], lv.50: Aurora Beam, Clear Smog, Muddy Water, Bounce
+Feebas [Swift Swim], lv.50: Splash, Tackle, Flail, Water Pulse
+
+
+=========================================================
+Adundant Shrine
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Youngster Wes: 
+Roserade [Poison Point], lv.51: Extrasensory, Sleep Powder, Leaf Storm, Spikes
+Gengar [Levitate], lv.51 @Micle Berry: Zap Cannon, Sludge Wave, Giga Drain, Shadow Ball
+Crobat [Inner Focus], lv.51: Zen Headbutt, Brave Bird, Hypnosis, Leech Life
+Skuntank [Aftermath], lv.51: Explosion, Sucker Punch, Gunk Shot, Flamethrower
+
+○ Twins Rae and Ula - (2x): 
+Arcanine [Intimidate], lv.51: Close Combat, Flare Blitz, Extreme Speed, Crunch
+Ninetales [Drought], lv.51: Energy Ball, Extrasensory, Heat Wave, Dazzling Gleam
+Emboar [Mold Breaker], lv.51: Heat Crash, Zen Headbutt, High Horsepower, Sucker Punch
+Typhlosion [Flash Fire], lv.51: Scorching Sands, Lava Plume, Extrasensory
+
+○ Lass Lurleen: 
+Musharna [Analytic*], lv.51: Moonblast, Stored Power, Calm Mind, Yawn
+Illumise [Tinted Lens], lv.51: Quiver Dance, Bug Buzz, Moonblast, Mystical Fire
+Mismagius [Infiltrator*], lv.51: Draining Kiss, Hex, Nasty Plot, Hypnosis
+Vanilluxe [Snow Warning], lv.51: Dazzling Gleam, Power Gem, Frost Breath, Autotomize
+
+○ Youngster Jaye: 
+Escavalier [No Guard], lv.51: Razor Shell, Night Slash, Megahorn, Smart Strike
+Galvantula [Unnerve], lv.51: Night Slash, Lunge, Cross Poison, Discharge
+Scolipede [Poison Point], lv.51: Poison Tail, Steamroller, Swords Dance, Protect
+Accelgor [Unburden], lv.51: Leech Life, Extreme Speed, Energy Ball, Acrobatics
+
+
+=========================================================
+Route 13
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Black Belt Wesley: 
+Golem [Sturdy], lv.51: Earthquake, Sucker Punch, Accelerock, Stone Edge
+Poliwrath [Water Absorb], lv.51: Storm Throw, High Horsepower, Waterfall, Lovely Kiss
+Hitmonlee [Reckless], lv.51: Jump Kick, Sucker Punch, Lunge, Blaze Kick
+Hitmonchan [Iron Fist], lv.51: Bullet Punch, Drain Punch, Fake Out, Thunder Punch
+
+● Battle Girl Alize:  
+Farfetch'd [Defeatist*], lv.51: Acrobatics, Close Combat, Leaf Blade, Night Slash
+Scrafty [Moxie], lv.51: Drain Punch, Dragon Dance, Zen Headbutt, Crunch
+
+● Ace Trainer Miguel:                                    
+Infernape [Iron Fist], lv.51: Thunder Punch, Vacuum Wave, Nasty Plot, Flamethrower
+Swampert [Torrent], lv.51: Muddy Water, Ice Punch, Seismic Toss, High Horsepower
+Jolteon [Volt Absorb], lv.51: Extrasensory, Grass Knot, Discharge, Hyper Voice
+Blissey [Screne Grace], lv.51: Seismic Toss, Counter, Soft-Boiled, Thunder Wave
+
+○ Fisherman Leroy:
+Magikarp [Swift Swim], lv.52: Tackle, Flail, Dragon Rage, Hydro Pump
+Carvanha [Speed Boost], lv.52: Psychic Fangs, Skull Bash, Crunch, Waterfall
+Shellder [Shell Armor], lv.52: Razor Shell, Take Down, Avalanche, Twineedle
+Buizel [Water Veil], lv.52: Tail Slap, Lunge, Agility, Waterfall
+Corphish [Adaptability], lv.52: Body Slam, Aqua Jet, Crunch, Dragon Dance
+Krabby [Sheer Force], lv.52: Hammer Arm, Crabhammer, Amnesia, High Horsepower
+
+○ Fisherman Vince: 
+Floatzel [Water Veil], lv.51: Ice Fang, Tail Slap, Lunge, Waterfall
+Blastoise [Torrent], lv.51: Muddy Water, Seismic Toss, Fake Out, Zen Headbutt
+Jellicent [Cursed Body], lv.51: Hex, Giga Drain, Will-O-Wisp, Brine
+
+○ Parasol Lady Laura: 
+Castform [Forecast], lv.51: Sunny Day, Blizzard, Fire Blast, Hydro Pump
+Froslass [Cursed Body], lv.51: Destiny Bond, Weather Ball, Shadow Ball, Blizzard
+Cherrim [Flower Gift], lv.51: Sunny Day, Weather Ball, Giga Drain, Draining Kiss
+Venusaur [Solar Power*], lv.51: Giga Drain, Growth, Sludge Bomb, Earthquake
+Armaldo [Swift Swim], lv.51: Rain Dance, Rock Tomb, X-Scissor, Cross Poison
+
+○ Fisherman Damon: 
+Phione [Hydration], lv.53: Rain Dance, Hydro Pump, Moonblast, Signal Beam
+
+○ Fisherman Jones: 
+Vaporeon [Water Absorb], lv.52: Extrasensory, Muddy Water, Acid Armor, Wish
+Starmie [Natural Cure], lv.52: Bubble Beam, Psychic, Zap Cannon, Agility
+Empoleon [Defiant], lv.52: Steel Wing, Dual Wingbeat, Megahorn, Aqua Jet
+
+● Ranger♀ Dianne - (3x) {Sitrus Berry}:
+Exeggutor [Chlorophyll], lv.53: Sleep Powder, Extrasensory, Protect, Giga Drain
+Sunflora [Drought*], lv.53: Heat Wave, Growth, Earth Power, Leaf Tornado
+Shiftry [Chlorophyll], lv.53: Heat Wave, Icy Wind, Protect, Leaf Blade
+Bellossom [Chlorophyll], lv.53: Moonblast, Sleep Powder, Fiery Dance, Giga Drain
+Sawsbuck [Chlorophyll], lv.53: Megahorn, High Horsepower, Horn Leech, Double-Edge
+
+○ Ranger♂ Daryl - (Rot) {Sitrus Berry}:
+Jumpluff [Prankster*], lv.53: Sleep Powder, Giga Drain, Air Slash, Leech Seed
+Luxray [Guts], lv.53: Volt Tackle, Crunch, Ice Fang, Fire Fang
+Probopass [Sturdy], lv.53: Tri Attack, Power Gem, Discharge, Earth Power
+Simipour [Torrent], lv.53: Acrobatics, Glare, Water Pledge, Future Sight
+Larvesta [Flame Body], lv.53: Leech Life, Zen Headbutt, Raging Fury, Flame Charge
+
+○ Ace Trainer Angi:
+Lampent [Flash Fire], lv.52 @Micle Berry: Clear Smog, Inferno, Pain Split, Shadow Ball
+Honchkrow [Moxie], lv.52: Tailwind, Drill Peck, Night Slash, Sucker Punch
+Raticate [Guts], lv.52: Sucker Punch, Reversal, Double-Edge, Scary Face
+Vespiquen [Intimidate*], lv.52: Air Slash, Ominous Wind, Attack Order, Cross Poison
+
+
+=========================================================
+Lacunosa Town
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+●♕ ZINZOLIN and Plasma Grunt #705 - (Tag):
+<left> 
+ZINZOLIN
+Cryogonal [Levitate], lv.54 @Focus Sash: Blizzard, Hail, Dazzling Gleam, Explosion
+Walrein [Ice Body], lv.54 @Leftovers: Brine, Protect, Substitute, Toxic
+Weavile [Pressure], lv.56 @Life Orb: Night Slash, Ice Punch, Fake Out, Low Kick
+</left>
+<right> 
+Plasma Grunt #705
+Swalot [Liquid Ooze], lv.54: Acid Spray, Toxic, Stockpile, Destiny Bond
+Delibird [Technician], lv.54: Icy Wind, Frost Breath, Acrobatics, Tailwind
+</right>
+<partner>
+<tepig>
+Hugh
+Samurott [Shell Armor], lv.52: Air Slash, Waterfall, Megahorn, Superpower
+Eelektross [Levitate], lv.51: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.51: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+</tepig>
+<oshawott>
+Hugh
+Serperior [Contrary], lv.52: Glare, Leaf Blade, Dragon Pulse, Aqua Tail
+Eelektross [Levitate], lv.51: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.51: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+</oshawott>
+<snivy>
+Hugh
+Emboar [Reckless], lv.52: Body Slam, Heat Crash, High Horsepower, Hammer Arm
+Eelektross [Levitate], lv.51: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.51: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+</snivy>
+</partner>
+
+
+
+=========================================================
+Route 12
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+○ Battle Girl Azra:
+Mienfoo [Reckless], lv.53: Aura Sphere, Jump Kick, Bounce, Blaze Kick
+Piloswine [Thick Fat], lv.53: Avalanche, Roar, Take Down, Earthquake
+Pidgeot [No Guard*], lv.53: Hyper Voice, Detect, Air Slash, Steel Wing
+Vileplume [Thick Fat*], lv.53: Moonblast, Petal Dance, Stun Spore, Sleep Powder
+
+○ Black Belt Jeriel:
+Blaziken [Reckless*], lv.53: Blaze Kick, Close Combat, Scorching Sands, Agility
+Darmanitan [Sheer Force], lv.53: Zen Headbutt, Lunge, Rollout, Flare Blitz
+Heracross [Moxie], lv.53: Take Down, Fury Cutter, Close Combat, Megahorn
+Medicham [Pure Power], lv.53: Reversal, Psycho Cut, Drain Punch, Acupressure
+
+○ Backers Cleo and Rio: 
+Solrock [Levitate], lv.53: Iron Head, Zen Headbutt, Rock Slide, Morning Sun
+Lunatone [Levitate], lv.53: Earth Power, Ally Switch, Future Sight, Night Daze
+Sandslash [Rough Skin], lv.53: Pin Missile, Drill Run, Crush Claw, Rapid Spin
+Cloyster [Skill Link], lv.53: Protect, Aurora Beam, Spikes, Smart Strike
+
+<normal>
+●♕ BENGA:
+Garchomp [Rough Skin], lv.55 @Rocky Helmet: Stealth Rock, Breaking Swipe, Roar, Stealth Rock
+Metagross [Iron Fist*], lv.55 @Focus Sash: Bullet Punch, Agility, Meteor Mash, Zen Headbutt
+Emboar [Mold Breaker*], lv.55 @Passho Berry: Flame Charge, Earthquake, Sucker Punch, Wild Charge
+Conkeldurr [Guts], lv.56 @Flame Orb: Focus Punch, Substitute, Mach Punch, Payback
+</normal>
+<challenge>
+●♕ BENGA:
+Metagross [Iron Fist*], lv.61 @Focus Sash: Stealth Rock, Bullet Punch, Ice Punch, Fire Punch
+Garchomp [Rough Skin], lv.61 @Wide Lens: Swords Dance, Earthquake, Dragon Claw, Stone Edge
+Emboar [Mold Breaker*], lv.61 @Passho Berry: V-create, Earthquake, Sucker Punch, Wild Charge
+Gyarados [Moxie], lv.61 @Wacan Berry: Dragon Dance, Stone Edge, Waterfall, Power Whip
+Conkeldurr [Guts], lv.61 @Flame Orb: Drain Punch, Mach Punch, Knock Off, Facade
+Volcarona [Flame Body], lv.62 @Lum Berry: Quiver Dance, Fiery Dance, Bug Buzz, Giga Drain
+</challenge>
+
+=========================================================
+Village Bridge
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+ - * (player can choose which one to fight in order to advance) 
+
+○ Smasher Lizzy: 
+Victreebel [Gluttony], lv.54: Synthesis, Leaf Tornado, Sludge Bomb, Growth
+Togekiss [Super Luck], lv.54: Ominous Wind, Twister, Hurricane, Moonblast
+Mr. Mime [Filter], lv.54: Nasty Plot, Magical Leaf, Psychic, Dazzling Gleam
+
+○ Smasher Amy: 
+Lilligant [Own Tempo], lv.54: Petal Dance, Extrasensory, Stun Spore, Quiver Dance
+Swellow [Guts], lv.54: Superpower, Reversal, Endeavor, Double-Edge
+Azumarill [Huge Power], lv.54: Aqua Tail, Superpower, Bounce, Belly Drum
+
+●* Youngster Karl:
+Beedrill [Adaptability], lv.54: Drill Peck, Cross Poison, Raging Fury, Megahorn
+Venomoth [Tinted Lens], lv.54: Signal Beam, Sludge Bomb, Morning Sun, Quiver Dance
+Butterfree [Compoundeyes], lv.54: Hurricane, Sleep Powder, Psychic, Bug Buzz
+Pinsir [Moxie], lv.54: Sword Dance, Lunge, Megahorn, Close Combat
+
+●* Gentleman Stonewall - (2x):
+Rotom-Heat [Levitate], lv.56 @White Herb: Discharge, Overheat, Will-O-Wisp, Hex
+Gliscor [Poison Heal], lv.56 @Toxic Orb: Earthquake, Sword Dance, Ice Fang, Knock Off
+Lucario [Justified*], lv.56 @Air Balloon: Meteor Mash, Close Combat, Blaze Kick, Bullet Punch
+Gyarados [Intimidate], lv.56 @Lum Berry: Aqua Tail, Dragon Dance, Earthquake, Power Whip
+Gengar [Levitate], lv.56 @Life Orb: Sludge Bomb, Substitute, Thunderbolt, Shadow Ball
+Breloom [Technician], lv.56 @Expert Belt: Rock Tomb, Protect, Force Palm, Bullet Seed
+
+
+○ Fisherman Dean:
+Totodile [Torrent], lv.54: Hydro Pump, Crunch, Fake Tears, Aqua Tail
+Croconaw [Sheer Force], lv.54: Hydro Pump, Crunch, Fake Tears, Dragon Rush
+Feraligatr [Sheer Force], lv.54: Waterfall, Crunch, Dragon Dance, Raging Fury
+
+○ Artist Gough:
+Smeargle [Moody], lv.54: Spore, Shell Smash, Ingrain, Baton Pass
+Simisear [Blaze], lv.54: Fire Blast, Acrobatics, Gunk Shot, Superpower
+Simipour [Torrent], lv.54: Hydro Pump, Acrobatics, Shadow Claw, Icy Wind
+Simisage [Gluttony], lv.54: Leaf Storm, Acrobatics, Knock Off, Iron Tail
+
+○ Hoopster Nicolas - (3x):
+Electabuzz [Static], lv.54: Psychic, Follow Me, Thunder Wave, Wild Charge
+Magmortar [Flame Body], lv.55: Sludge Bomb, Fire Blast, Scorching Sands, Mach Punch
+Electabuzz [Static], lv.54: Psychic, Follow Me, Thunder Wave, Wild Charge
+
+○ Hoopster Derrick - (3x):
+Magmar [Flame Body], lv.54: Will-O-Wisp, Scorching Sands, Follow Me, Fire Punch
+Electivire [Vital Spirit], lv.55: Psychic, Cross Chop, Dual Chop, Wild Charge
+Magmar [Flame Body], lv.54: Will-O-Wisp, Scorching Sands, Follow Me, Fire Punch
+
+○ Baker Chris:
+Heatmor [Mold Breaker*], lv.54 @Sitrus Berry: Hone Claws, Fire Lash, Cross Chop, Sucker Punch
+Chansey [Natural Cure], lv.54 @Sitrus Berry: Double-Edge, Aromatherapy, Counter, Healing Wish
+Cherrim [Flower Gift], lv.54 @Sitrus Berry: Energy Ball, Grass Whistle, Draining Kiss, Aromatherapy
+
+
+=========================================================
+Route 11
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Pokémon Breeder♀ Magnolia: 
+Emolga [Motor Drive], lv.55: Agility, Tickle, Tailwind, Helping Hand
+Noctowl [Insomnia], lv.55: Agility, Nasty Plot, Tailwind, Mean Look
+Blissey [Serene Grace], lv.55: Charm, Aromatherapy, Heal Bell, Healing Wish
+
+● Ranger♂ Crofton - {Aspear Berry}:  
+Zebstrika [Motor Drive], lv.55: Wild Charge, High Horsepower, Flare Blitz, Lunge
+Meganium [Serene Grace*], lv.55: Draining Kiss, Giga Drain, Leech Seed, Synthesis
+Mawile [Huge Power], lv.55: Iron Head, Sucker Punch, Play Rough, Focus Punch
+Fearow [Intimidate*], lv.55: Drill Peck, Shadow Claw, Cut, Steel Wing
+Dodrio [Anger Point*], lv.55: Lunge, Jump Kick, Rock Climb, Double Hit
+
+● Ranger♀ Thalia - {Aspear Berry}: 
+Tropius [Solar Power], lv.55: Body Slam, Dragon Pulse, Leech Seed, Leaf Blade
+Wigglytuff [Huge Power*], lv.55: Thunderbolt, Ice Beam, Hyper Voice, Play Rough
+Gliscor [Poison Heal], lv.55 @Toxic Orb: Acrobatics, Fling, Sky Uppercut, Earthquake
+
+
+=========================================================
+Opelucid City
+=========================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rotation House/Triple House (Black 2/White 2 respectively):
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ WINONA - Hoenn Leader {Old Amber}:
+Ninjask [Speed Boost], lv.58 @Focus Sash: Swords Dance, Baton Pass, Protect, X-Scissor
+Altaria [Cloud Nine], lv.59 @Leftovers: Brave Bird, Dragon Dance, Outrage, Play Rough
+Swellow [Guts], lv.58 @Life Orb: Protect, Brave Bird, Quick Attack, Facade
+Noctowl [Wacan Berry], lv.58 @Colbur Berry: Hurricane, Esper Wing, Moonblast, Nasty Plot
+Skarmory [Weak Armor], lv.58 @Wacan Berry: Brave Bird, Rock Slide, Steel Wing, Swords Dance
+Tropius [Harvest], lv.58 @Sitrus Berries: Earthquake, Leaf Blade, Dual Wingbeat, Dragon Dance
+</normal>
+<challenge>
+$$$
+ - Permanent Rain is established before the fight, like Crasher Wake's Gym in Renegade Platinum.
+$$$
+○♕ WINONA - Hoenn Leader (2x) {Allows access to Rotom in the Department Store}:
+Dragonite [Multiscale], lv.62 @Flying Gem: Hurricane, Earthquake, Thunder, Icy Wind
+Mantine [Swift Swim], lv.62 @Wacan Berry: Hydro Pump, Hurricane, Confuse Ray, Tailwind
+Rotom-Fan [Motor Drive], lv.62 @Electric Gem: Thunder, Electroweb, Air Slash, Rain Dance
+Pelipper [Drizzle], lv.62 @Sitrus Berry: Hydro Pump, Hurricane, Soak, Ice Beam
+Altaria [Natural Cure], lv.63 @Life Orb: Brave Bird, Earthquake, Play Rough, Dragon Dance
+Drifblim [Flare Boost], lv.62 @Flame Orb: Protect, Hurricane, Thunder, Shadow Ball
+</challenge>
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+After Drayden has been defeated:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Plasma Grunt #585:
+Watchog [Analytic], lv.58: Super Fang, Double-Edge, Hypnosis, Crunch
+Garbodor [Aftermath], lv.58: Pain Split, Poison Jab, Payback, Double-Edge
+Muk [Poison Touch], lv.58: Gunk Shot, Acid Armor, Shadow Punch, Mean Look
+Glalie [Levitate*], lv.58: Hail, Ice Shard, Icicle Crash, Headlong Rush
+
+● Plasma Grunt #586:
+Amoonguss [Effect Spore], lv.58: Body Slam, Spore, Sludge Bomb, Foul Play
+Cacturne [Water Absorb], lv.58: Needle Arm, Scorching Sands, Foul Play, Sucker Punch
+Drapion [Sniper], lv.58: Thunder Fang, Night Slash, Leech Life, Cross Poison
+
+● Plasma Grunt #587:
+Metang [Iron Fist*], lv.59: Agility, Meteor Mash, Gravity, Hyper Beam
+Zweilous [Hustle], lv.59: Dragon Rush, Hyper Voice, Raging Fury, Head Smash
+
+●♕ ZINZOLIN:
+Abomasnow [Snow Warning], lv.59 @Life Orb: Wood Hammer, Blizzard, Focus Blast, Thunder Punch
+Cryogonal [Levitate], lv.59 @Light Clay: Blizzard, Reflect, Light Screen, Explosion
+Walrein [Ice Body], lv.59 @Leftovers: Surf, Protect, Substitute, Toxic
+Weavile [Pressure], lv.60 @Focus Sash: Night Slash, Ice Punch, Fake Out, Ice Shard
+Drifblim [Unburden], lv.59 @Flying Gem: Acrobatics, Shadow Ball, Thunderbolt, Destiny Bond
+
+● Shadow Triad - First Battle:
+Bisharp [Defiant], lv.59 @Air Balloon: Sucker Punch, Iron Head, X-Scissor, Night Slash
+Crobat [Inner Focus], lv.59 @Flying Gem: U-Turn, Acrobatics, Cross Poison, Hypnosis
+Scyther [Technician], lv.59 @Focus Sash: U-Turn, Dual Wingbeat, Quick Attack, Bug Bite
+Absol [Super Luck], lv.60 @Scope Lens: Play Rough, Megahorn, Sucker Punch, Psycho Cut
+
+
+=========================================================
+Route 9
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Roughneck Chance:
+Scrafty [Intimidate], lv.56: Assurance, Crunch, High Jump Kick, Zen Headbutt
+Arbok [Intimidate], lv.56: Ice Fang, Thunder Fang, Coil, Poison Tail
+Weezing [Levitate], lv.56: Sludge Bomb, Lava Plume, Destiny Bond, Psybeam
+Muk [Poison Touch], lv.56: Gunk Shot, Acid Armor, Shadow Punch, Payback
+
+○ Biker Zeke: 
+Pawniard [Defiant], lv.56: Fury Cutter, Psycho Cut, Metal Burst, Sucker Punch
+Houndoom [Flash Fire], lv.56: Inferno, Dark Pulse, Foul Play, Destiny Bond
+Bisharp [Defiant], lv.56: Iron Defense, Psycho Cut, Sucker Punch, Night Slash
+Bibarel [Simple], lv.56: Aqua Jet, Double-Edge, Sword Dance, Quick Attack
+
+○ Roughneck Reese:
+Skuntank [Aftermath], lv.55: Sucker Punch, Play Rough, Flamethrower, Toxic
+Ariados [Sniper], lv.55: Foul Play, Cross Poison, Leech Life, Agility
+Shedinja [Wonder Guard], lv.55: Swords Dance, Sucker Punch, Lunge, Shadow Claw
+Sharpedo [Speed Boost], lv.55: Psychic Fangs, Crunch, Skull Bash, Waterfall
+Lampent [Flash Fire], lv.55: Inferno, Shadow Ball, Pain Split, Will-O-Wisp
+
+○ Biker Phillip:
+Shiftry [Rattled*], lv.56: Nasty Plot, Leaf Tornado, Heat Wave, Icy Wind
+Honchkrow [Super Luck], lv.56: Sucker Punch, Astonish, Night Slash, Drill Peck
+Liepard [Unburden], lv.56: Play Rough, Fake Out, Foul Play, Sucker Punch
+
+○ Hooligans Jim and Cas:
+Krookodile [Intimidate], lv.57: Thunder Fang, High Horsepower, Crunch, Close Combat
+Mandibuzz [Overcoat], lv.57: Foul Play, Brave Bird, Snarl, Tailwind
+Dusknoir [Iron Fist*], lv.57: Leech Life, Shadow Punch, Drain Punch, Ice Punch
+Banette [Cursed Body], lv.57: Slash, Shadow Claw, Raging Fury, Destiny Bond
+
+○ Waitress Olwen:
+Grumpig [Thick Fat], lv.56: Psychic, Future Sight, Bounce, Trick
+Butterfree [Tinted Lens], lv.56: Psychic, Bug Buzz, Air Slash, Quiver Dance
+Delcatty [Wonder Skin], lv.56: Double-Edge, Sucker Punch, Wish, Encore
+
+○ Waiter Lou:
+Poliwrath [Water Absorb], lv.56: Body Slam, Circle Throw, Waterfall, Storm Throw
+Ledian [Rattled], lv.56: Knock Off, Lunge, Smart Strike, Baton Pass
+Persian [Technician], lv.56: Power Gem, Fake Out, Double-Edge, Play Rough
+
+
+=========================================================
+Drayden's Gym
+=========================================================
+
+ - Not all the gym trainers are mandatory to progress, you can pick a side on each level as you progress to Drayden.
+ - No level shift based on difficulty, levels are as stated.
+
+● Veteran Lucius: 
+Fraxure [Mold Breaker], lv.57 @Eviolite: Outrage, Dragon Dance, Cross Poison, Shadow Claw
+Zweilous [Hustle], lv.57 @Eviolite: Zen Headbutt, Dragon Rush, Head Smash, Crunch
+Servine [Contrary], lv.57 @Eviolite: Draco Meteor, Glare, Power Whip, Leech Seed
+Vibrava [Levitate], lv.57 @Eviolite: Bug Buzz, Dragon Pulse, Earth Power, Hyper Voice
+
+● Veteran Rhona:
+Altaria [Natural Cure], lv.57 @Red Card: Dragon Dance, Play Rough, Dual Wingbeat, Dragon Rush
+Dragonair [Shed Skin], lv.57 @Eviolite: Thunder Wave, Aqua Tail, Dragon Pulse, Extreme Speed
+Dragonite [Multiscale], lv.57 @Yache Berry: Fire Punch, Dragon Dance, Ice Punch, Outrage
+
+● Veteran Jerry:   
+Druddigon [Sheer Force], lv.57 @Dragon Fang: Dragon Rush, Fire Punch, Thunder Punch, Poison Tail
+Kingdra [Swift Swim], lv.57 @Dragon Gem: Draco Meteor, Waterfall, Outrage, Rain Dance
+Ampharos [Static], lv.57 @Shuca Berry: Dragon Pulse, Tail Glow, Thunderbolt, Flash Cannon
+
+● Veteran Denae - (Rot):
+Bagon [Rock Head], lv.58 @Eviolite: Hydro Pump, Zen Headbutt, Outrage, Protect
+Salamence [Moxie], lv.58 @Yache Berry: Dual Wingbeat, Outrage, Earthquake, Dragon Dance
+Shelgon [Rock Head], lv.58 @Eviolite: Fire Blast, Protect, Dragon Rush, Zen Headbutt
+
+● Veteran Ron - (3x):
+Gible [Rough Skin], lv.58 @Eviolite: Breaking Swipe, Sandstorm, Rock Slide, Shadow Claw
+Garchomp [Rough Skin], lv.58 @Wide Lens: Dragon Rush, Poison Jab, Stone Edge, Extreme Speed
+Gabite [Rough Skin], lv.58 @Eviolite: Breaking Swipe, Stone Edge, Raging Fury, Iron Head
+
+<normal>
+●♛ LEADER DRAYDEN - {TM02 Dragon Claw}:
+Druddigon [Sheer Force], lv.59 @Life Orb: Thunder Punch, Superpower, Sucker Punch, Dragon Rush
+Charizard [Blaze], lv.59 @Charti Berry: Belly Drum, Flamethrower, Earthquake, Outrage
+Flygon [Levitate], lv.59 @White Herb: Earthquake, Bug Buzz, Fire Blast, Draco Meteor
+Altaria [Cloud Nine], lv.59 @Leftovers: Dragon Claw, Fire Blast, Play Rough, Cotton Guard
+Haxorus [Mold Breaker], lv.61 @Dragon Gem: Outrage, Earthquake, Aqua Tail, Iron Tail
+Salamence [Intimidate], lv.59 @Wide Lens: Hydro Pump, Fire Blast, Outrage, Iron Tail
+</normal>
+<challenge>
+●♛ LEADER DRAYDEN - (2x) {TM02 Dragon Claw}:
+Charizard [Defiant*], lv.63 @Sitrus Berry: Shadow Claw, Fire Lash, Dragon Claw, Rock Slide
+Latias [Levitate], lv.63 @Lum Berry: Aura Sphere, Thunderbolt, Tailwind, Dragon Pulse
+Haxorus [Mold Breaker], lv.64 @Haban Berry: Outrage, Swords Dance, Close Combat, Cross Poison
+Flygon [Levitate], lv.63 @Life Orb: Quiver Dance, Dragon Pulse, High Horsepower, Giga Drain
+Salamence [Intimidate], lv.63 @Yache Berry: Dragon Claw, Flamethrower, Dragon Dance, Dual Wingbeat
+Sceptile [Unburden], lv.63 @Focus Sash: Dragon Claw, Leaf Blade, Acrobatics, Drain Punch
+</challenge>
+
+=========================================================
+Seaside Cave
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+~~~~~ 1F ~~~~~
+ 
+● Black Belt Rocky: 
+Roggenrola [Sturdy], lv.57 @Hard Stone: Stone Edge, Stealth Rock, Explosion
+Roggenrola [Sturdy], lv.57 @Hard Stone: Stone Edge, Explosion
+Roggenrola [Sturdy], lv.57 @Hard Stone: Stone Edge, Explosion
+Boldore [Sturdy], lv.58 @Hard Stone: Stone Edge, Earthquake, Explosion
+Gigalith [Sturdy], lv.59 @Hard Stone: Stone Edge, Earthquake, Heavy Slam, Explosion
+
+○ Ranger♂ Johan - {Persim Berry}:
+Steelix [Sheer Force], lv.60: Ice Fang, Thunder Fang, Earthquake, Heavy Slam
+Aggron [Rock Head], lv.60: Avalanche, Stone Edge, Dragon Rush, Heavy Slam
+Empoleon [Defiant], lv.60: Dual Wingbeat, Waterfall, Steel Wing, Roost
+
+○ Battle Girl Tia:
+Toxicroak [Poison Touch], lv.60: Cross Poison, Gunk Shot, Close Combat, Bullet Punch
+Throh [Mold Breaker], lv.60: Headlong Rush, Zen Headbutt, Storm Throw, Payback
+
+● Ranger♀ Mikiko - {Persim Berry}:
+Gallade [Hyper Cutter*], lv.60: Shadow Sneak, Sacred Sword, Psycho Cut, Triple Axel
+Sceptile [Overgrow], lv.60: Leech Seed, Synthesis, Leaf Blade, Breaking Swipe
+Flygon [Levitate], lv.60: Boomburst, Dragon Pulse, Bug Buzz, Scorching Sands
+
+○ Black Belt Drago:
+Onix [Rock Head], lv.62: Ice Fang, Thunder Fang, Double-Edge, Head Smash
+Primeape [Defiant], lv.62: Outrage, Raging Fury, Beat Up, Close Combat
+
+~~~~~ B1F ~~~~~
+
+○ Battle Girl Maki: 
+Mienshao [Regenerator], lv.61: Grass Knot, Hyper Beam, Aura Sphere, Calm Mind
+
+○ Black Belt Rich:
+Breloom [Technician], lv.60: Bullet Seed, Force Palm, Mach Punch, Rock Tomb
+Sawk [Sturdy], lv.60: Reversal, Blaze Kick, Stone Edge, Zen Headbutt
+
+
+=========================================================
+Route 21
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+○ Doctor Braid: 
+Wigglytuff [Huge Power*], lv.61: Play Rough, Boomburst, Flamethrower, Drain Punch
+Snorlax [Thick Fat], lv.61: High Horsepower, Crunch, Body Slam, Zen Headbutt
+
+○ Fisherman Kenzo:
+Tirtouga [Sturdy], lv.58: Hydro Pump, Rock Slide, Shell Smash, Aqua Jet
+Frillish [Cursed Body], lv.58: Destiny Bond, Giga Drain, Hydro Pump, Water Spout
+Golduck [Cloud Nine], lv.58: Cross Chop, Aqua Jet, Hydro Pump, Psychic
+Palpitoad [Water Absorb], lv.58: Earth Power, Muddy Water, Hydro Pump, Refresh
+Corsola [Natural Cure], lv.58: Icicle Spear, Ingrain, Bubble Beam, Rock Blast
+
+○ Swimmer Kyle:
+Sharpedo [Speed Boost], lv.60: Waterfall, Psychic Fangs, Agility, Crunch
+Quagsire [Water Absorb], lv.60: Ancient Power, Recover, Muddy Water, Counter
+
+● Black Belt Kenneth:
+Hitmontop [Intimidate], lv.60: Close Combat, Fake Out, Triple Axel, Sucker Punch
+Hitmonlee [Reckless], lv.60: Bullet Punch, Blaze Kick, Lunge, High Jump Kick
+Hitmonchan [Iron Fist], lv.60: Mach Punch, Drain Punch, Ice Punch, Thunder Punch
+
+○ Swimmer Kaoru:
+Luvdisc [Hydration], lv.60: Hydro Pump, Draining Kiss, Lovely Kiss, Moonblast
+Seaking [Lightningrod], lv.60: Waterfall, Smart Strike, Aqua Jet, Megahorn
+
+● Swimmer Harold:
+Prinplup [Torrent], lv.60: Hydro Pump, Roost, Yawn, Icy Wind
+Octillery [Sniper], lv.60: Flamethrower, Water Spout, Gunk Shot, Seed Bomb
+Blastoise [Shell Armor*], lv.60: Seismic Toss, Zen Headbutt, Fake Out, Hydro Pump
+
+○ Swimmer Desiree:
+Wailmer [Pressure], lv.60: Hydro Pump, Soak, Body Slam, Bounce
+Wailord [Pressure], lv.60: Hydro Pump, Soak, Body Slam, Bounce
+
+
+=========================================================
+Route 22
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Ace Trainer Shel: 
+Vaporeon [Water Absorb], lv.60: Ice Beam, Extrasensory, Hydro Pump, Tri Attack
+Jolteon [Volt Absorb], lv.60: Extrasensory, Discharge, Signal Beam, Grass Knot
+Flareon [Flash Fire], lv.60: Play Rough, Flare Blitz, Wild Charge, Rock Slide
+
+● Backpacker Myra: 
+Ivysaur [Overgrow], lv.60: Giga Drain, Power Whip, Earth Power, Sleep Powder
+Charmeleon [Blaze], lv.60: Fire Lash, Acrobatics, Dragon Rush, Heat Crash
+Wartortle [Torrent], lv.60: Zen Headbutt, Hydro Pump, Avalanche, Fake Out
+
+○ Hiker Justin:
+Cranidos [Sheer Force], lv.60: Hammer Arm, Raging Fury, Headlong Rush, Head Smash
+Lileep [Storm Drain], lv.60: Wring Out, Recover, Giga Drain, Brine
+Armaldo [Battle Armor], lv.60: Lunge, Aqua Jet, Cross Poison, Stone Edge
+Cradily [Storm Drain], lv.60: Infestation, Recover, Leech Seed, Ingrain
+
+○ Pokémon Breeder♀ Addison:    
+Dunsparce [Serene Grace], lv.60: Coil, Agility, Curse, Defense Curl
+Blissey [Serene Grace], lv.60: Counter, Aromatherapy, Heal Bell, Healing Wish
+Milotic [Marvel Scale], lv.60: Safeguard, Captivate, Coil, Haze
+
+○ Backpacker Lowell:
+Grovyle [Overgrow], lv.60: Double Kick, Leaf Blade, Night Slash, Swords Dance
+Combusken [Blaze], lv.60: Blaze Kick, Close Combat, Quick Attack, Scorching Sand
+Marshtomp [Torrent], lv.60: Avalanche, Seismic Toss, High Horsepower, Aqua Tail
+
+○ Ace Trainer Lucca:   
+Crobat [Inner Focus], lv.60: Leech Life, Brave Bird, Hypnosis, Cross Poison
+Leavanny [Chlorophyll], lv.60: Agility, Lunge, Leaf Blade, Psychic Fangs
+Ludicolo [Swift Swim], lv.60: Zen Headbutt, Muddy Water, Energy Ball, Hyper Voice
+Lucario [Justified], lv.60: Dragon Pulse, Bullet Punch, Blaze Kick, Close Combat
+
+
+=========================================================
+Humilau City and Marlon's Gym
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+<normal>
+○♕ TATE AND LIZA  - (2x) {TM17 Protect}:
+<left> 
+Liza
+Reuniclus [Magic Guard], lv.62: Trick Room, Psychic, Focus Blast, Energy Ball
+Lunatone [Levitate], lv.63 @Sitrus Berry: Cosmic Power, Stored Power, Power Gem, Night Daze
+</left>
+<right>
+Tate
+Gothitelle [Frisk], lv.62: Fake Out, Ally Switch, Night Daze, Psyshock
+Solrock [Levitate], lv.63 @Sitrus Berry: Psyshield Bash, Helping Hand, Rock Slide, Hypnosis
+</right>
+</normal>
+<challenge>
+○♕ TATE AND LIZA  - (2x) {TM17 Protect}:
+<left> 
+Liza
+Mr. Mime [Filter], lv.66 @Lum Berry: Trick Room, Dazzling Gleam, Baton Pass, Aura Sphere
+Lunatone [Levitate], lv.67 @Rock Gem: Psychic, Ice Beam, Earth Power, Power Gem
+Exeggutor [Harvest], lv.66 @Sitrus Berry: Trick Room, Sleep Powder, Giga Drain, Sludge Bomb
+Jynx [Trace], lv.66 @Focus Sash: Aura Sphere, Psyshock, Ice Beam, Draining Kiss
+</left>
+<right> 
+Tate
+Claydol [Levitate], lv.66 @Kasib Berry: Scorching Sands, Extrasensory, Shadow Ball, Ice Beam
+Solrock [Levitate], lv.67 @Flying Gem: Rock Slide, Acrobatics, Psyshield Bash, Flare Blitz
+Medicham [Pure Power], lv.66 @Life Orb: High Jump Kick, Zen Headbutt, Ice Punch, Bullet Punch
+Beheeyem [Analytic], lv.66 @Colbur Berry: Mystic Fire, Trick Room, Thunderbolt, Psychic
+</right>
+</challenge>
+
+~~~~~~~~~~~~~
+Marlon's Gym:
+~~~~~~~~~~~~~
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Ace Trainer Doyle:  
+Lanturn [Water Absorb], lv.61: Hydro Pump, Thunderbolt, Ice Beam, Thunder Wave
+Empoleon [Defiant], lv.61: Wave Crash, Agility, Megahorn, Smart Strike
+Kabutops [Battle Armor], lv.61: Aqua Jet, Swords Dance, Stone Edge, X-Scissor
+
+● Ace Trainer Melina: 
+Azumarill [Huge Power], lv.61: Aqua Tail, Play Rough, Ice Punch, Aqua Jet
+Poliwrath [Water Absorb], lv.61: Wave Crash, Focus Punch, Substitute, Hypnosis
+Walrein [Thick Fat], lv.61: Surf, Ice Beam, Earthquake, Rain Dance
+Milotic [Marvel Scale], lv.61: Scald, Ice Beam, Recover, Confuse Ray
+
+○ Ace Trainer Santino:
+Huntail [Swift Swim], lv.61: Waterfall, Crunch, Shell Smash, Baton Pass
+Slowking [Regenerator], lv.61: Psychic, Surf, Flamethrower, Slack Off
+Kingdra [Sniper], lv.61: Draco Meteor, Scald, Outrage, Dragon Dance
+
+○ Ace Trainer Jeanne:
+Mantine [Water Absorb], lv.61 @Damp Rock: Hydro Pump, Air Slash, Confuse Ray, Rain Dance
+Ludicolo [Swift Swim], lv.61 @Damp Rock: Giga Drain, Surf, Ice Beam, Rain Dance
+Whiscash [Simple], lv.61: Earthquake, Wave Crash, Ice Beam, Dragon Dance
+Simipour [Torrent], lv.61: Rock Slide, Acrobatics, Hydro Pump, Ice Beam
+
+● Ace Trainer Enzio: 
+Octillery [Mold Breaker], lv.61: Octazooka, Seed Bomb, Flamethrower, Gunk Shot
+Floatzel [Swift Swim], lv.61: Crunch, Aqua Tail, Aqua Jet, Ice Fang
+Tentacruel [Clear Body], lv.61: Poison Jab, Hydro Pump, Ice Beam, Toxic
+Gyarados [Moxie], lv.61: Earthquake, Ice Fang, Waterfall, Dragon Dance
+Omastar [Shell Armor], lv.61: Hydro Pump, Ice Beam, Earth Power, Shell Smash
+
+● Ace Trainer Sable: 
+Gorebyss [Swift Swim], lv.61: Shell Smash, Baton Pass, Surf, Psychic
+Slowbro [Regenerator], lv.61: Surf, Psyshock, Flamethrower, Slack Off
+Vaporeon [Water Absorb], lv.61: Scald, Ice Beam, Wish, Protect
+Relicanth [Rock Head], lv.61: Head Smash, Wave Crash, Zen Headbutt, Bounce
+
+<normal>
+●♛ LEADER MARLON - {TM51 Wave Crash}:
+Politoed [Drizzle], lv.63 @Focus Sash: Scald, Hypnosis, Blizzard, Perish Song
+Tentacruel [Rain Dish], lv.63 @Black Sludge: Scald, Sludge Wave, Ice Beam, Mirror Coat
+Ludicolo [Rain Dish], lv.63 @Leftovers: Scald, Leech Seed, Ice Beam, Giga Drain
+Carracosta [Sturdy], lv.63 @Custap Berry: Wave Crash, Shell Smash, Stone Edge, Ice Beam
+Jellicent [Cursed Body], lv.64 @Sitrus Berry: Scald, Shadow Ball, Ice Beam, Recover
+Bibarel [Simple], lv.63 @Chople Berry: Wave Crash, Strength, Aqua Jet, Swords Dance
+</normal>
+<challenge>
+$$$
+ - Permanent Rain is established before the fight, like Crasher Wake's Gym in Renegade Platinum.
+$$$
+●♛ LEADER MARLON - (2x) {TM51 Wave Crash}:
+Poliwrath [Swift Swim], lv.67 @Cell Battery: Lovely Kiss, Poison Jab, High Horsepower, Close Combat
+Ludicolo [Swift Swim], lv.67 @Life Orb: Hydro Pump, Giga Drain, Ice Beam, Focus Blast
+Kabutops [Swift Swim], lv.67 @Focus Sash: Rock Slide, Waterfall, Leech Life, Aqua Jet
+Pelipper [Drizzle], lv.67 @Wacan Berry: Hurricane, U-Turn, Muddy Water, Icy Wind
+Starmie [Analytic], lv.67 @Rindo Berry: Thunder, Hydro Pump, Psychic, Ice Beam
+Kingdra [Swift Swim], lv.68 @Water Gem: Muddy Water, Dragon Pulse, Hurricane, Flash Cannon
+</challenge>
+
+=========================================================
+Plasma Frigate - Second Visit
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Plasma Grunt #500: 
+Masquerain [Intimidate], lv.61: Bug Buzz, Quiver Dance, Hydro Pump, Icy Wind
+Rhyperior [Solid Rock], lv.61: Rock Wrecker, Megahorn, Dragon Rush, Earthquake
+Dusknoir [Iron Fist*], lv.61: Shadow Punch, Shadow Sneak, Thunder Punch, Ice Punch
+Beartic [Sheer Force], lv.61: Icicle Crash, Close Combat, Ice Shard, Earthquake
+Rapidash [Flame Body], lv.61: Flare Blitz, High Horsepower, Play Rough, Low Sweep
+
+● Plasma Grunts #798 and #799 - (Tag):
+<left> 
+Plasma Grunt #798
+Luxray [Guts], lv.61: Crunch, Wild Charge, Ice Fang, Sucker Punch
+Chatot [Tangled Feet], lv.61: Hyper Voice, Hurricane, Nasty Plot, Agility
+Electrode [Static], lv.61: Thunder, Magnet Rise, Thunder Wave, Light Screen
+</left>
+<right> 
+Plasma Grunts #799
+Hariyama [Thick Fat], lv.61: Fake Out, Rock Slide, Knock Off, Close Combat
+Steelix [Sheer Force], lv.61: Iron Tail, High Horsepower, Thunder Fang, Dragon Dance
+Accelgor [Infiltrator], lv.61: Energy Ball, Focus Blast, Bug Buzz, Extreme Speed
+</right>
+<partner>
+<tepig>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Samurott [Water Veil], lv.63: Air Slash, Waterfall, Megahorn, Superpower
+</tepig>
+<oshawott>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Serperior [Contrary], lv.63: Glare, Giga Drain, Dragon Pulse, Aqua Tail
+</oshawott>
+<snivy>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Emboar [Reckless], lv.63: Body Slam, Heat Crash, High Horsepower, Hammer Arm
+</snivy>
+</partner>
+
+
+~~~~~~~~~~~
+Below Deck:
+~~~~~~~~~~~
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+~~~~~ Main Corridor ~~~~~
+
+○ Plasma Grunt #801: 
+Drapion [Sniper], lv.63: Storm Throw, Cross Poison, Night Slash, Focus Energy
+Shiftry [Rattled*], lv.63: Leaf Storm, Sucker Punch, Icy Wind, Air Slash
+Skarmory [Sturdy], lv.63: Drill Peck, Steel Wing, Counter, Pursuit
+
+○ Plasma Grunt #800: 
+Scizor [Technician], lv.63: Bullet Punch, Crabhammer, Bug Bite, Close Combat
+Houndoom [Flash Fire], lv.63: Dark Pulse, Sucker Punch, Flamethrower, Sludge Bomb
+Feraligatr [Sheer Force], lv.63: Dragon Dance, Wave Crash, Avalanche, Rock Slide
+
+~~~~~ Left-hand Rooms ~~~~~
+
+○ Plasma Grunt #436/451: 
+Bisharp [Defiant], lv.62: Night Slash, Sucker Punch, Psycho Cut, Leaf Blade
+Vileplume [Thick Fat*], lv.62: Sludge Bomb, Sleep Powder, Moonblast, Giga Drain
+Tyranitar [Battle Armor*], lv.62: Thunderbolt, Ice Beam, Rock Polish, Dark Pulse
+
+○ Plasma Grunt #427/442: 
+Skuntank [Aftermath], lv.63: Explosion, Gunk Shot, Sucker Punch, Toxic
+
+○ Plasma Grunt #426/441: 
+Muk [Poison Touch], lv.62: Gunk Shot, Shadow Punch, Pursuit, Haze
+Raticate [Hustle], lv.62: Double-Edge, Reversal, Quick Attack, Sucker Punch
+
+○ Plasma Grunt #440: 
+Scrafty [Intimidate], lv.62: Assurance, Zen Headbutt, Drain Punch, Ice Punch
+Liepard [Prankster], lv.62: Foul Play, Thunder Wave, Fake Out, Night Slash
+
+~~~~~ Right-hand Rooms ~~~~~
+
+○ Plasma Grunt #428/443: 
+Weezing [Levitate], lv.63: Explosion, Destiny Bond, Lava Plume, Sludge Bomb
+
+○ Plasma Grunt #437/452: 
+Sneasel [Inner Focus], lv.62: Ice Shard, Night Slash, Icicle Crash, Focus Punch
+Zweilous [Hustle], lv.62: Dragon Rush, Hyper Voice, Zen Headbutt, Head Smash
+Druddigon [Rough Skin], lv.62: Iron Head, Sucker Punch, Dragon Tail, Aqua Tail
+
+○ Plasma Grunt #429/444 
+Krookodile [Intimidate], lv.62: Thunder Fang, Raging Fury, Crunch, High Horsepower
+Magnezone [Sturdy], lv.62: Thunderbolt, Flash Cannon, Signal Beam, Tri Attack
+
+~~~~~ Kyurem's Containment Room ~~~~~
+
+●♕ ZINZOLIN (and Plasma Grunt #797), Plasma Frigate 1st Match -  (Tag):
+<left>
+ZINZOLIN
+Walrein [Ice Body], lv.63 @Leftovers: Blizzard, Brine, Encore, Toxic
+Drifblim [Unburden], lv.63 @Flying Gem: Acrobatics, Shadow Ball, Thunderbolt, Hypnosis
+Weavile [Pressure], lv.64 @Life Orb: Knock Off, Icicle Crash, Ice Shard, Low Kick
+</left>
+<right>
+Plasma Grunt #797
+Qwilfish [Intimidate], lv.62 @Icy Rock: Hail, Aqua Jet, Poison Jab, Spikes
+Golem [Sturdy], lv.62 @Rock Gem: Rock Slide, Accelerock, Thunder Punch, Steamroller
+Carnivine [Levitate], lv.62 @Focus Sash: Power Whip, Rage Powder, Sleep Powder, Knock Off
+</right>
+<partner>
+<tepig>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Samurott [Water Veil], lv.63: Air Slash, Waterfall, Megahorn, Superpower
+</tepig>
+<oshawott>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Serperior [Contrary], lv.63: Glare, Giga Drain, Dragon Pulse, Aqua Tail
+</oshawott>
+<snivy>
+Hugh
+Eelektross [Levitate], lv.62: Wild Charge, Aqua Tail, Drain Punch, Giga Drain
+Flygon [Levitate], lv.62: Earth Power, Dragon Pulse, Bug Buzz, Rock Slide
+Emboar [Reckless], lv.63: Body Slam, Heat Crash, High Horsepower, Hammer Arm
+</snivy>
+</partner>
+
+=========================================================
+Giant Chasm and Plasma Frigate - Third Visit
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Plasma Grunt #724: 
+Metagross [Clear Body], lv.62: Meteor Mash, Agility, Ice Punch, Earthquake
+Yanmega [Speed Boost], lv.62: Bug Buzz, Air Slash, Detect, Giga Drain
+Farfetch'd [Defeatist], lv.62: Close Combat, Acrobatics, Leaf Blade, Poison Jab
+Girafarig [Sap Sipper], lv.62: High Horsepower, Double-Edge, Psyshield Bash, Foul Play
+
+● Plasma Grunts #807 and #809 - (Tag):
+<left>
+Plasma Grunt #807
+Gliscor [Poison Heal], lv.64 @Toxic Orb: Protect, Guillotine, Rock Climb, Tailwind
+Machamp [No Guard], lv.64 @Leftovers: Protect, Cross Poison, Drain Punch, Bullet Punch
+Cryogonal [Levitate], lv.64 @Wide Lens: Protect, Sheer Cold, Icy Wind, Flash Cannon
+</left>
+<right>
+Plasma Grunt #809
+Escavalier [No Guard], lv.64 @Occa Berry: Protect, Megahorn, Iron Head, Razor Shell 
+Dugtrio [Sand Force], lv.64 @Wide Lens: Protect, Fissure, High Horsepower, Stone Edge
+Pidgeot [No Guard], lv.64 @Charcoal: Protect, Air Slash, Heat Wave, Hyper Voice
+</right>
+
+~~~~~~~~~~~~
+Pipe Section
+~~~~~~~~~~~~
+
+~~~~~ High-ground ~~~~~
+
+○ Plasma Grunt #430/445:
+Amoonguss [Effect Spore], lv.62: Body Slam, Giga Drain, Sludge Bomb, Foul Play
+Toxicroak [Poison Touch], lv.62: Cross Poison, Bullet Punch, Close Combat, Acupressure
+Persian [Technician], lv.62: Play Rough, Fake Out, Double-Edge, Power Gem
+
+○ Plasma Grunt #431/446:
+Dodrio [Anger Point*], lv.62: High Jump Kick, Double-Edge, Brave Bird, Quick Attack
+Dewgong [Thick Fat], lv.62: Avalanche, Ice Shard, Perish Song, Waterfall
+
+○ Plasma Grunt #810:
+Tentacruel [Clear Body], lv.62: Swords Dance, Cross Poison, Waterfall, Knock Off
+Glalie [Levitate], lv.62: Rock Polish, Head Smash, Icicle Crash, Ice Shard
+
+○ Plasma Grunt #808:
+Parasect [Effect Spore], lv.62: Spore, Leech Life, Seed Bomb, Leech Seed
+Rhydon [Rock Head], lv.62: Earthquake, Rock Wrecker, Megahorn, Ice Fang
+
+○ Doctor Julius:
+Clefable [Magic Guard], lv.64: Draining Kiss, Seismic Toss, Toxic, Soft-Boiled
+Snorlax [Thick Fat], lv.64: Heat Crash, Body Slam, High Horsepower, Curse
+Alomomola [Regenerator], lv.64: Scald, Protect, Wish, Toxic
+
+~~~~~ Low-ground ~~~~~
+
+○ Plasma Grunt #432/447: 
+Durant [Heatproof*], lv.62: Iron Head, Rock Climb, Lunge, Thunder Fang
+Heatmor [Mold Breaker*], lv.62: Fire Lash, Night Slash, Cross Chop, Sucker Punch
+
+● Plasma Plasma Grunt #439/454: 
+Sharpedo [Speed Boost], lv.62: Ice Beam, Protect, Hydro Pump, Dark Pulse
+Purugly [Defiant], lv.62: Fake Out, Body Slam, Knock Off, Play Rough
+
+○ Plasma Grunt #434/449:          
+Zangoose [Immunity], lv.62: Double-Edge, Close Combat, Belly Drum, Quick Attack
+Seviper [Shed Skin], lv.62: Coil, Poison Tail, Crunch, Lunge
+
+○ Plasma Grunt #435/450: 
+Drapion [Sniper], lv.63: Cross Poison, Night Slash, X-Scissor, Storm Throw
+
+○ Plasma Grunt #438/453: 
+Kadabra [Magic Guard], lv.62: Psyshock, Dazzling Gleam, Shadow Ball, Energy Ball
+Haunter [Levitate*], lv.62: Shadow Ball, Sludge Wave, Energy Ball, Thunderbolt
+
+~~~~~ Past the Laser Barrier ~~~~~ 
+
+●♕ ZINZOLIN - Plasma Frigate 2nd Match (2x):  
+Vanilluxe [Snow Warning], lv.65 @Focus Sash: Dazzling Gleam, Blizzard, Power Gem, Flash Cannon
+Cryogonal [Levitate], lv.65 @Light Clay: Blizzard, Reflect, Light Screen, Hail
+Froslass [Snow Cloak], lv.65 @Ice Gem: Blizzard, Hex, Will-O-Wisp, Destiny Bond
+Mamoswine [Snow Cloak], lv.65 @Zoom Lens: Icicle Crash, Stone Edge, High Horsepower, Ice Shard
+Walrein [Ice Body], lv.65 @Leftovers: Blizzard, Bubble Beam, Toxic, Substitute
+Weavile [Pressure], lv.66 @Life Orb: Night Slash, Triple Axel, Fake Out, Low Kick
+
+●♕ COLRESS - Plasma Frigate:
+Beheeyem [Analytic], lv.65 @Colbur Berry: Bug Buzz, Mystical Fire, Psychic, Destiny Bond
+Rotom-Wash [Levitate], lv.65 @Focus Sash: Volt Switch, Will-O-Wisp, Hydro Pump, Thunderbolt
+Magnezone [Sturdy], lv.65 @Air Balloon: Volt Switch, Bug Buzz, Thunderbolt, Flash Cannon
+Metagross [Iron Fist*], lv.65 @Occa Berry: Meteor Mash, Shift Gear, Ice Punch, Zen Headbutt
+Porygon-Z [Adaptability], lv.65 @Custap Berry: Nasty Plot, Thunderbolt, Hyper Beam, Ice Beam
+Klinklang [Levitate*], lv.66 @Life Orb: Gear Grind, Shift Gear, Wild Charge, High Horsepower
+
+~~~~~ Frigate Control Room ~~~~~
+
+● Shadow Triad - (2x):
+Bisharp [Defiant], lv.65 @Focus Sash: Sucker Punch, Metal Burst, Beat Up, Brick Break
+Crobat [Infiltrator], lv.65 @Flying Gem: Nasty Plot, Sludge Bomb, Heat Wave, Air Slash
+Scizor [Technician], lv.65 @Occa Berry: Crabhammer, Bug Bite, Bullet Punch, Close Combat
+Absol [Super Luck], lv.66 @Scope Lens: Play Rough, Megahorn, Sucker Punch, Psycho Cut
+Feraligatr [Sheer Force], lv.66 @Life Orb: Waterfall, Crunch, Ice Fang, Aqua Jet
+
+● Shadow Triad - (3x):
+Bisharp [Defiant], lv.65 @Air Balloon: Sucker Punch, Iron Head, Substitute, Aerial Ace
+Banette [Cursed Body], lv.65 @Focus Sash: Destiny Bond, Shadow Claw, Crush Claw, Shadow Sneak
+Weezing [Levitate], lv.65 @Leftovers: Destiny Bond, Gunk Shot, Will-O-Wisp, Pain Split
+Accelgor [Unburden], lv.66 @Bug Gem: Bug Buzz, Focus Blast, Giga Drain, Final Gambit
+Liepard [Prankster], lv.65 @BrightPowder: Quash, Sucker Punch, Psycho Cut, Seed Bomb
+
+● Shadow Triad - (Rot):  
+Bisharp [Defiant], lv.65 @Wide Lens: Sucker Punch, Iron Head, Stone Edge, Swords Dance
+Ninjask [Speed Boost], lv.65 @Liechi Berry: Swords Dance, Extreme Speed, Leech Life, Substitute
+Venomoth [Tinted Lens], lv.65 @Focus Sash: Bug Buzz, Sludge Bomb, Sleep Powder, Quiver Dance
+Gengar [Levitate], lv.66 @Life Orb: Shadow Ball, Aura Sphere, Sludge Wave, Hypnosis
+Basculin [Adaptability], lv.65 @Water Gem: Wave Crash, Aqua Jet, Psychic Fangs, Head Smash
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Giant Chasm, Back Caverns
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<black>
+● Black Kyurem:
+Kyurem-Black [Teravolt], lv.70 @Power Herb: Freeze Shock, Dragon Dance, Fusion Bolt, Icicle Crash
+</black>
+<white>
+● White Kyurem:
+Kyurem-White [Teravolt], lv.70 @Power Herb: Esper Wing, Fusion Flare, Ice Beam, Ice Burn
+</white>
+
+●♕ GHETSIS:
+Cofagrigus [Mummy], lv.67 @Leftovers: Will-O-Wisp, Protect, Trick Room, Hex
+Eelektross [Levitate], lv.67 @Leftovers: Wild Charge, Drain Punch, Aqua Tail, Coil
+Gyarados [Moxie], lv.67 @Lum Berry: Dragon Dance, Waterfall, Earthquake, Ice Fang
+Machamp [No Guard], lv.67 @Coba Berry: Dynamic Punch, Stone Edge, Thunder Punch, Cross Poison
+Genesect [Download], lv.68 @Focus Sash: Bug Buzz, Iron Head, Thunderbolt, Ice Beam
+Hydreigon [Levitate], lv.67 @Life Orb: Dragon Pulse, Nasty Plot, Dark Pulse, Flash Cannon
+
+
+=========================================================
+Route 23
+=========================================================
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Battle Girl Brenda:
+Hariyama [Guts], lv.65: Fake Out, Close Combat, Bullet Punch, Ice Punch
+Mienshao [Reckless], lv.65: Fake Out, High Jump Kick, Blaze Kick, Lunge
+Lucario [Justified], lv.65: Dragon Pulse, Aura Sphere, Vacuum Wave, Psychic
+
+● Ace Trainer Grant:
+Yanmega [Speed Boost], lv.66: Air Slash, Bug Buzz, Psychic, Giga Drain
+Lapras [Water Absorb], lv.66: Ice Beam, Thunderbolt, Perish Song, Whirlpool
+
+● Hiker Don:
+Probopass [Sturdy], lv.65: Thunderbolt, Power Gem, Magnet Rise, Earth Power
+Mamoswine [Thick Fat], lv.65: Icicle Crash, Ice Shard, Earthquake, Endeavor
+Clefable [Unaware], lv.65: Moonblast, Moonlight, Cosmic Power, Thunder Wave
+Parasect [Effect Spore], lv.65: Spore, Cross Poison, Leech Life, Seed Bomb
+
+● Ace Trainer Juliet:
+Galvantula [Compoundeyes], lv.65: Discharge, Energy Ball, Bug Buzz, Sucker Punch
+Torterra [Rock Head], lv.65: Crunch, Wood Hammer, Head Smash, Shell Smash
+Houndoom [Flash Fire], lv.65: Counter, Dark Pulse, Fire Blast, Crunch
+Golduck [Cloud Nine], lv.65: Psychic, Hydro Pump, Signal Beam, Power Gem
+
+○ Black Belt Luke:
+Throh [Guts], lv.66: Ice Punch, Thunder Punch, Earthquake, Storm Throw
+Sawk [Sturdy], lv.66: Counter, Reversal, Rock Tomb, Bulldoze
+
+○ Ranger♂ Steve - {Sitrus Berry}:
+Rapidash [Flame Body], lv.65: Flare Blitz, High Horsepower, Smart Strike, Megahorn
+Exeggutor [Chlorophyll], lv.65: Extrasensory, Giga Drain, Sleep Powder, Sludge Bomb
+Reuniclus [Magic Guard], lv.65: Psyshock, Pain Split, Energy Ball, Focus Blast
+
+● Ranger♀ Lena - {Sitrus Berry}:
+Floatzel [Water Veil], lv.66: Lunge, Aqua Tail, Ice Fang, Aqua Jet
+Togekiss [Serene Grace], lv.66: Thunder Wave, Air Slash, Aura Sphere, Moonblast
+
+○ Ace Trainer Tom:
+Feraligatr [Sheer Force], lv.66: Psychic Fangs, Wave Crash, Crunch, Dragon Dance
+Delcatty [Normalize], lv.66: Fake Out, Sucker Punch, Double-Edge, Hyper Voice
+Escavalier [Shell Armor], lv.66: Megahorn, Iron Head, Razor Shell, Drill Run
+Arcanine [Intimidate], lv.66: Wild Charge, Flare Blitz, Extreme Speed, Close Combat
+
+○ Black Belt Benjamin:
+Scrafty [Moxie], lv.67: Close Combat, Crunch, Head Smash, Fake Out
+Kabutops [Swift Swim], lv.67: Leech Life, Aqua Jet, Waterfall, Stone Edge
+
+○ Hiker Doug - (3x):
+Golem [Sturdy], lv.66: Steamroller, Accelerock, Stone Edge, Earthquake
+Tyranitar [Sand Stream], lv.66: Rock Wrecker, Hydro Pump, Crunch, Thunderbolt
+Sandslash [Sand Rush], lv.66: Headlong Rush, Leech Life, Accelerock, Night Slash
+Aggron [Filter], lv.66: Heavy Slam, Megahorn, Rock Slide, Avalanche
+
+○ Ace Trainer Miki:
+Hypno [Bad Dreams], lv.67: Aura Sphere, Hypnosis, Dream Eater, Nightmare
+Mismagius [Levitate], lv.67: Mystical Fire, Shadow Ball, Thunderbolt, Moonblast
+Leafeon [Super Luck], lv.67: Leaf Blade, X-Scissor, Psycho Cut, Night Slash
+
+○ Battle Girl Tiffany:
+Darmanitan [Sheer Force], lv.67: Zen Headbutt, Flare Blitz, Lunge
+Machamp [Guts], lv.67: Close Combat, High Horsepower, Heavy Slam, Dual Chop
+
+
+=========================================================
+Victory Road
+=========================================================
+
+ - The path through Victory Road differs depending on game version. Thus, Victory Road is laid out here segment by segment.
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+~~~~~~~~~~~
+Ruined Area
+~~~~~~~~~~~
+
+- *Trainer can be skipped depending on game version.
+
+●* Psychic Al: 
+Banette [Cursed Body], lv.68: Slash, Shadow Sneak, Substitute, Shadow Claw
+Medicham [Pure Power], lv.68: High Jump Kick, Ice Punch, Fake Out, Zen Headbutt
+Slowbro [Regenerator], lv.68: Surf, Flamethrower, Psychic, Slack Off
+Sigilyph [Tinted Lens], lv.68: Air Slash, Heat Wave, Esper Wing, Energy Ball
+
+●* Psychic Alia:  
+Musharna [Analytic], lv.68: Psychic, Moonblast, Energy Ball, Yawn
+Gothitelle [Shadow Tag], lv.68: Thunder Wave, Psyshock, Night Daze, Signal Beam
+Bronzong [Levitate], lv.68: Psychic, Earthquake, Gyro Ball, Confuse Ray
+Chimecho [Levitate], lv.68: Psyshock, Signal Beam, Icy Wind, Hyper Voice
+
+●* Ace Trainer Jamie:
+Claydol [Levitate], lv.69: Earth Power, Ice Beam, Psychic, Charge Beam
+Shedinja [Wonder Guard], lv.69: Sword Dance, Lunge, Shadow Sneak, Protect
+Drifblim [Aftermath], lv.69: Shadow Ball, Destiny Bond, Thunderbolt, Icy Wind
+Jellicent [Cursed Body], lv.69: Scald, Will-O-Wisp, Energy Ball, Hex
+
+●* Ace Trainer Billy: 
+Golurk [No Guard], lv.69: Shadow Force, Close Combat, Heat Crash, Earthquake
+Xatu [Magic Bounce], lv.69: Giga Drain, Esper Wing, Air Slash, Heat Wave
+Dusknoir [Iron Fist], lv.69: Shadow Punch, Drain Punch, Fire Punch, Thunder Punch
+Rotom-Mow [Levitate], lv.69: Leaf Storm, Thunderbolt, Shadow Ball, Will-O-Wisp
+
+○ Veteran Claude and Cecile - (2x)
+<left>
+Veteran Claude
+Mandibuzz [Overcoat], lv.70: Toxic, Roost, Brave Bird, U-Turn
+Archeops [Defeatist], lv.70: Acrobatics, Earth Power, U-Turn, Stone Edge
+Toxicroak [Poison Touch], lv.70: Cross Chop, Poison Jab, Ice Punch, Thunder Punch
+Cinccino [Cute Charm], lv.70: Bullet Seed, Rock Blast, Tail Slap, Triple Axel
+</left>
+<right>
+Veteran Cecile
+Braviary [Defiant], lv.70: Crush Claw, U-Turn, Brave Bird, Rock Slide
+Carracosta [Solid Rock], lv.70: Aqua Tail, Aqua Jet, Stone Edge, Shell Smash
+Absol [Super Luck], lv.70: Megahorn, Psycho Cut, Sucker Punch, Close Combat
+Tentacruel [Clear Body], lv.70: Sludge Bomb, Hydro Pump, Giga Drain, Ice Beam
+</right>
+
+~~~~~~~~~~~~
+Shaded Grove 
+~~~~~~~~~~~~
+
+ - Trainer layout varies between game version here. Ace trainers Beckett and Shelly are absent on Black 2 and instead found in the Lower Mountainside. Conversely, Ace trainers Beckett and Shelly are fought here on White 2 and are absent from the Lower Mountainside.
+ 
+<black>
+● Ace Trainer Chandra: 
+Swampert [Anticipation], lv.70: Earthquake, Waterfall, Ice Punch, Endeavor
+Crustle [Sturdy], lv.70: Shell Smash, X-Scissor, Stone Edge, Earthquake
+Roserade [Poison Point], lv.70: Giga Drain, Sleep Powder, Shadow Ball, Sludge Bomb
+Emolga [Static], lv.70: Thunderbolt, Acrobatics, Signal Beam, U-Turn
+</black>
+<white>
+● Ace Trainer Shelly:  
+Salamence [Moxie], lv.70: Dragon Claw, Flamethrower, Dual Wingbeat, Dragon Dance
+Gardevoir [Trace], lv.70: Psychic, Moonblast, Thunderbolt, Ice Beam
+$$$
+● Ace Trainer Beckett: 
+Garchomp [Rough Skin], lv.70: Dragon Claw, Earthquake, Poison Jab, Fire Fang
+Gyarados [Moxie], lv.70: Wave Crash, Earthquake, Power Whip, Dragon Dance
+</white>
+
+~~~~~~~~~~~~~~~~~~
+Lower Mountainside
+~~~~~~~~~~~~~~~~~~
+
+<black>
+● Ace Trainer Shelly:  
+Salamence [Moxie], lv.70: Dragon Claw, Flamethrower, Dual Wingbeat, Dragon Dance
+Gardevoir [Trace], lv.70: Psychic, Moonblast, Thunderbolt, Ice Beam
+$$$
+●Ace Trainer Beckett: 
+Garchomp [Rough Skin], lv.70: Dragon Claw, Earthquake, Poison Jab, Fire Fang
+Gyarados [Moxie], lv.70: Wave Crash, Earthquake, Power Whip, Dragon Dance
+</black>
+<white>
+● Ace Trainer Chandra: 
+Swampert [Anticipation], lv.70: Earthquake, Waterfall, Ice Punch, Endeavor
+Crustle [Sturdy], lv.70: Shell Smash, X-Scissor, Stone Edge, Earthquake
+Roserade [Poison Point], lv.70: Giga Drain, Sleep Powder, Shadow Ball, Sludge Bomb
+Emolga [Static], lv.70: Thunderbolt, Acrobatics, Signal Beam, U-Turn
+</white>
+
+● Veteran Cathy:
+Lopunny [Scrappy], lv.69: Ice Punch, Close Combat, Fake Out, Strength
+Crobat [Inner Focus], lv.69: Brave Bird, Heat Wave, Cross Poison, U-Turn
+Manectric [Intimidate], lv.69: Volt Switch, Flamethrower, Ice Fang, Nuzzle
+Whimsicott [Prankster], lv.69: Moonblast, Giga Drain, U-Turn, Toxic
+
+○ Doctor Logan: 
+Clefable [Unaware], lv.69: Moonblast, Seismic Toss, Soft-Boiled, Cosmic Power
+Jumpluff [Prankster], lv.69: Leech Seed, Sleep Powder, Hurricane, U-Turn
+Blissey [Serene Grace], lv.69: Thunderbolt, Ice Beam, Hyper Voice, Calm Mind
+
+○ Backpacker Mae:
+Sawsbuck [Sap Sipper], lv.69: Megahorn, Horn Leech, Strength, Wild Charge
+Aggron [Rock Head], lv.69: Earthquake, Heavy Slam, Head Smash, Rock Polish
+Pidgeot [No Guard], lv.69: Hurricane, Heat Wave, Hyper Voice, Ominous Wind
+
+○ Ace Trainer Pierce:
+Breloom [Technician], lv.70: Mach Punch, Bullet Seed, Spore, Focus Punch
+Snorlax [Thick Fat], lv.70: Hydro Pump, High Horsepower, Strength, Crunch
+Crawdaunt [Adaptability], lv.70: Crunch, Aqua Jet, Crabhammer, Dragon Dance
+Ampharos [Overcoat], lv.70: Tail Glow, Thunderbolt, Dragon Pulse, Flash Cannon
+
+~~~~~~~~~~~~~~~~~~
+Connecting Caves I
+~~~~~~~~~~~~~~~~~~
+
+● Veteran Abraham: 
+Dragonite [Multiscale], lv.70: Extreme Speed, Dual Wingbeat, Outrage, Thunderbolt
+Milotic [Marvel Scale], lv.70: Scald, Recover, Ice Beam, Dragon Tail
+Blastoise [Shell Armor], lv.70: Shell Smash, Hydro Pump, Aura Sphere, Flash Cannon
+Donphan [Sturdy], lv.70: Earthquake, Ice Shard, Endeavor, Seed Bomb
+Slaking [Truant], lv.70: Giga Impact, Play Rough, Yawn, Gunk Shot
+Infernape [Blaze], lv.70: Close Combat, Flare Blitz, Thunder Punch, Grass Knot
+
+● Ace Trainer Shanta and Webster - (2x):  
+<left>
+Ace Trainer Shanta
+Gengar [Levitate], lv.71: Shadow Ball, Thunderbolt, Aura Sphere, Sludge Bomb
+Magmortar [Flame Body], lv.71: Magma Storm, Scorching Sands, Aura Sphere, Thunderbolt
+Electivire [Motor Drive], lv.71: Close Combat, Wild Charge, Ice Punch, Rock Slide
+Druddigon [Sheer Force], lv.71: Fire Punch, Rock Climb, Sucker Punch, Dragon Rush
+</left>
+<right>
+Ace Trainer Webster
+Heatmor [Mold Breaker], lv.71: Fire Lash, Giga Drain, Low Kick, Thunder Punch
+Tauros [Sheer Force], lv.71: Close Combat, Strength, Megahorn, High Horsepower
+Durant [Heatproof], lv.71: Crunch, Iron Head, Rock Slide, Lunge
+Granbull [Intimidate], lv.71: Play Rough, Close Combat, Ice Punch, Thunder Punch
+</right>
+
+○ Ranger♂ Eddie - {Cheri Berry}:
+Klinklang [Levitate], lv.70: Shift Gear, Superpower, Gear Grind, Wild Charge
+Gallade [Hyper Cutter*], lv.70: Ice Punch, Close Combat, Zen Headbutt, Leaf Blade
+Zebstrika [Motor Drive], lv.70: Wild Charge, Lunge, High Horsepower, Flame Charge
+
+○ Ranger♀ Elle - {Rawst Berry}: 
+Beartic [Snow Cloak], lv.70: Icicle Crash, Ice Shard, Stone Edge, Superpower
+Exploud [Scrappy], lv.70: Boomburst, Fire Blast, Surf, Chatter
+Staraptor [Reckless], lv.70: Brave Bird, Double Edge, Retaliate, Close Combat
+
+~~~~~~~~~~~~~~~~~~
+Upper Mountainside
+~~~~~~~~~~~~~~~~~~
+
+○ Black Belt Martell:  
+Pinsir [Mold Breaker], lv.70 @Bug Gem: Megahorn, Close Combat, Earthquake, Quick Attack
+Conkeldurr [Iron Fist], lv.70 @Fighting Gem: Payback, Mach Punch, Drain Punch, Stone Edge
+Heracross [Skill Link], lv.70 @Rock Gem: Pin Missile, Rock Blast, Bullet Seed, Arm Thrust
+
+○ Battle Girl Chalina:  
+Hitmonlee [Unburden], lv.70 @Focus Sash: Reversal, Earthquake, Blaze Kick, Stone Edge
+Hitmonchan [Iron Fist], lv.70 @Expert Belt: Close Combat, Mach Punch, Ice Punch, Thunder Punch
+Hitmontop [Technician], lv.70 @Life Orb: Mach Punch, Close Combat, Bullet Seed, Triple Axel
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Weather Trainers and Lance
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+<text>
+After advancing through Victory Road, the player will encounter Lance - Champion of the Kanto and Johto regions - training a small group of trainers.
+$$$
+ - Players on Easy Mode can choose if they want to fight the first two trainers. The rest of the trainers and Lance will not fight the player.
+ - Players on Normal Mode will battle the first two trainers. They can then choose to battle the other two trainers. Again, Lance will not fight the player.
+ - Players on Challenge Mode will battle all four trainers and Lance. However, the player will do so in a gauntlet. 
+    - The Hail and Sun trainers are fought back-to-back. The player is healed between battles. Then the Rain and Sand trainers are fought back-to-back. The player is healed between battles. Finally, Lance can be fought.
+	- Prepare for a brutal challenge which will push you to your absolute limits, against all Gen V weather has to throw at you!
+$$$
+Upon witnessing the initial cutscene, the difficulty of the gauntlet is set. Thus, you should pick your difficulty before you get here!
+$$$
+ - You cannot change this later!
+</text>
+
+ - Mandatory nature of these fights depends on your chosen difficulty.
+
+ - Levels -4 on Easy mode, +4 on Challenge mode.
+
+● Hail Trainer Caroll: 
+Abomasnow [Snow Warning], lv.72 @Occa Berry: Blizzard, Ice Shard, Focus Blast, Wood Hammer
+Reuniclus [Magic Guard], lv.72 @Leftovers: Psychic, Energy Ball, Shadow Ball, Focus Blast
+Weavile [Pressure], lv.72 @Focus Sash: Icicle Crash, Aerial Ace, Night Slash, Ice Shard
+Vanilluxe [Snow Warning], lv.72 @Life Orb: Blizzard, Power Gem, Extrasensory, Dazzling Gleam
+Cloyster [Skill Link], lv.72 @White Herb: Shell Smash, Icicle Spear, Rock Blast, Hydro Pump
+Jynx [Trace*], lv.72 @Ice Gem: Blizzard, Lovely Kiss, Aura Sphere, Psyshock
+
+● Sun Trainer Elmer:
+Torkoal [Drought], lv.72 @Red Card: Stealth Rock, Yawn, Solar Beam, Lava Plume
+Darmanitan [Sheer Force], lv.72 @Fire Gem: Flare Blitz, Lunge, Earthquake, Rock Slide
+Venusaur [Chlorophyll], lv.72 @Life Orb: Giga Drain, Growth, Weather Ball, Earth Power
+Ninetales [Drought], lv.72 @Eject Button: Moonblast, Solar Beam, Flamethrower, Power Gem
+Volcarona [Flame Body], lv.72 @Focus Sash: Quiver Dance, Fiery Dance, Bug Buzz, Giga Drain
+Victreebel [Chlorophyll], lv.72 @Occa Berry: Growth, Solar Beam, Weather Ball, Sludge Bomb
+
+● Rain Trainer Porta:
+Pelipper [Drizzle], lv.72 @Wacan Berry: Scald, Hurricane, U-Turn, Ice Beam
+Seismitoad [Swift Swim], lv.72 @Rindo Berry: Earthquake, Drain Punch, Sludge Wave, Ice Punch
+Electrode [Aftermath], lv.72 @Air Balloon: Thunder, Aura Sphere, Energy Ball, Bug Buzz
+Politoed [Drizzle], lv.72 @Zoom Lens: Hypnosis, Hydro Pump, Psychic, Focus Blast
+Scizor [Technician], lv.72 @Leftovers: Crabhammer, Bullet Punch, Psycho Cut, U-Turn
+Kingdra [Swift Swim], lv.72 @Life Orb: Hydro Pump, Hurricane, Dragon Pulse, Ice Beam
+
+● Sand Trainer Sterling:
+Hippowdon [Sand Stream], lv.72 @Passho Berry: Earthquake, Stealth Rock, Ice Fang, Stone Edge
+Garchomp [Rough Skin], lv.72 @Yache Berry: Dragon Claw, Earthquake, Flamethrower, Brick Break
+Excadrill [Sand Rush], lv.72 @Air Balloon: Earthquake, Iron Head, Swords Dance, X-Scissor
+Tyranitar [Sand Stream], lv.72 @Chople Berry: Rock Polish, Stone Edge, Crunch, Aerial Ace
+Clefable [Magic Guard], lv.72 @Leftovers: Mystical Fire, Draining Kiss, Grass Knot, Power Gem
+Nidoking [Sheer Force], lv.72 @Life Orb: Thunderbolt, Ice Beam, Sludge Wave, Earth Power
+
+●♕ LANCE - [Challenge mode]:
+Aerodactyl [Rock Head], lv.76 @Focus Sash: Stealth Rock, Brave Bird, Head Smash, Rock Smash
+Charizard [Defiant*], lv.76 @Life Orb: Fire Lash, Dragon Dance, Iron Tail, Dragon Claw
+Gyarados [Moxie], lv.76 @Charti Berry: Dragon Dance, Waterfall, Stone Edge, Avalanche
+Salamence [Moxie], lv.76 @Wide Lens: Outrage, Dual Wingbeat, Flamethrower, Hydro Pump
+Haxorus [Mold Breaker], lv.76 @Red Card: Dragon Dance, Dragon Rush, Close Combat, Iron Tail
+Dragonite [Multiscale], lv.76 @Yache Berry: Agility, Dual Wingbeat, Extreme Speed, Outrage
+
+~~~~~~~~~~~~~~~~~~~
+Connecting Caves II
+~~~~~~~~~~~~~~~~~~~
+
+○ Veteran Hugo: 
+Starmie [Regenerator], lv.70: Psyshock, Thunderbolt, Hydro Pump, Ice Beam
+Arcanine [Intimidate], lv.70: Flare Blitz, Wild Charge, Extreme Speed, Close Combat
+Snorlax [Thick Fat], lv.70: Strength, Crunch, Earthquake, Fire Blast
+Hydreigon [Levitate], lv.70: Dark Pulse, Dragon Pulse, Hydro Pump, Tri Attack
+Machamp [No Guard], lv.70: Dynamic Punch, Fire Punch, Ice Punch, Bullet Punch
+Flygon [Levitate], lv.70: Earth Power, Lunge, Bug Buzz, Quiver Dance
+
+~~~~~~~~~~~~~~~~~~~~
+Connecting Caves III
+~~~~~~~~~~~~~~~~~~~~
+
+<tepig>
+●♕ Hugh
+Swellow [Scrappy], lv.71 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.71 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.71 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Lilligant [Own Tempo], lv.71 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+Samurott [Shell Armor], lv.73 @Leftovers: Close Combat, Hydro Pump, Megahorn, Shell Smash
+Camerupt [Simple], lv.71 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+</tepig>
+<oshawott>
+●♕ Hugh
+Swellow [Scrappy], lv.71 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.71 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.71 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Camerupt [Simple], lv.71 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
+Serperior [Contrary], lv.73 @Leftovers: Glare, Leaf Storm, Dragon Pulse, Substitute
+Starmie [Regenerator], lv.71 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+</oshawott>
+<snivy>
+●♕ Hugh
+Swellow [Scrappy], lv.71 @Normal Gem: Boomburst, U-Turn, Hurricane, Heat Wave
+Eelektross [Levitate], lv.71 @Leftovers: Wild Charge, Aqua Tail, Drain Punch, Coil
+Flygon [Levitate], lv.71 @Focus Sash: Dragon Pulse, Bug Buzz, Quiver Dance, Flamethrower
+Starmie [Regenerator], lv.71 @Red Card: Scald, Psyshock, Signal Beam, Tri Attack
+Emboar [Mold Breaker], lv.73 @Leftovers: V-Create, Sucker Punch, Wild Charge, Earthquake
+Lilligant [Own Tempo], lv.71 @Focus Sash: Petal Dance, Fiery Dance, Sleep Powder, Quiver Dance
+</snivy>
+
+=========================================================
+The Pokémon League
+=========================================================
+
+ - No level shift based on difficulty, levels are as stated.
+
+
+<normal>
+●♛ SHAUNTAL
+Jellicent [Water Absorb], lv.72 @Leftovers: Scald, Icy Wind, Shadow Ball, Recover
+Drifblim [Flare Boost], lv.72 @Flame Orb: Shadow Ball, Protect, Thunder, Psychic
+Cofagrigus [Mummy], lv.72 @Leftovers: Shadow Ball, Attract, Disable, Toxic
+Golurk [Iron Fist], lv.72 @Expert Belt: Shadow Punch, Earthquake, Thunder Punch, Ice Punch
+Sableye [Prankster], lv.72 @Lagging Tail: Trick, Recover, Will-O-Wisp, Foul Play
+Chandelure [Shadow Tag], lv.74 @White Herb: Overheat, Shadow Ball, Psychic, Energy Ball
+</normal>
+<challenge>
+●♛ SHAUNTAL - (3x):
+Sableye [Prankster], lv.77 @Lagging Tail: Trick, Quash, Will-O-Wisp, Shadow Claw
+Gengar [Levitate], lv.77 @Life Orb: Shadow Ball, Sludge Bomb, Aura Sphere, Energy Ball
+Mismagius [Levitate], lv.77 @Focus Sash: Mystical Fire, Shadow Ball, Dazzling Gleam, Nasty Plot
+Golurk [Iron Fist], lv.77 @Rindo Berry: Shadow Punch, Shadow Sneak, High Horsepower, Ice Punch
+Jellicent [Water Absorb], lv.77 @Leftovers: Scald, Icy Wind, Shadow Ball, Recover
+Chandelure [Shadow Tag], lv.78 @Air Balloon: Heat Wave, Shadow Ball, Substitute, Energy Ball
+</challenge>
+
+<normal>
+●♛ GRIMSLEY
+Liepard [Prankster], lv.72 @Normal Gem: Fake Out, Thunder Wave, Sucker Punch, U-Turn
+Honchkrow [Moxie], lv.72 @Life Orb: Sucker Punch, Brave Bird, Roost, Heat Wave
+Krookodile [Intimidate], lv.72 @Leftovers: Earthquake, Crunch, Superpower, Stone Edge
+Scrafty [Moxie], lv.72 @Focus Sash: Dragon Dance, High Jump Kick, Sucker Punch, Ice Punch
+Houndoom [Intimidate*], lv.72 @Focus Sash: Overheat, Thunder Fang, Sucker Punch, Dark Pulse
+Bisharp [Defiant], lv.74 @Air Balloon: Iron Head, Brick Break, X-Scissor, Sucker Punch
+</normal>
+<challenge>
+●♛ GRIMSLEY
+Krookodile [Intimidate], lv.78 @Leftovers: Earthquake, Knock Off, Stealth Rock, Close Combat
+Tyranitar [Battle Armor], lv.77 @Chople Berry: Dragon Dance, Crunch, Stone Edge, Ice Punch
+Honchkrow [Moxie], lv.77 @Custap Berry: Night Slash, Brave Bird, Superpower, Heat Wave
+Sharpedo [Speed Boost], lv.77 @Focus Sash: Crunch, Waterfall, Close Combat, Protect
+Zoroark [Illusion], lv.77 @Life Orb: Night Daze, Flamethrower, Nasty Plot, Sludge Bomb
+Drapion [Sniper], lv.77 @Scope Lens: Storm Throw, Cross Poison, Night Slash, Swords Dance
+</challenge>
+
+<normal>
+●♛ CAITLIN:
+Beheeyem [Analytic], lv.72 @Focus Sash: Trick Room, Psycho Boost, Thunderbolt, Shadow Ball
+Musharna [Synchronize], lv.72 @Leftovers: Trick Room, Psyshock, Shadow Ball, Moonblast
+Reuniclus [Magic Guard], lv.72 @Life Orb: Thunderbolt, Psychic, Energy Ball, Focus Blast
+Gothitelle [Shadow Tag], lv.72 @Tanga Berry: Trick Room, Psychic, Night Daze, Thunderbolt
+Slowbro [Regenerator], lv.72 @Red Card: Trick Room, Surf, Slack Off, Fire Blast
+Metagross [Iron Fist*], lv.74 @Air Balloon: Meteor Mash, Earthquake, Zen Headbutt, Bullet Punch
+</normal>
+<challenge>
+●♛ CAITLIN - (2x):
+Musharna [Synchronize], lv.77 @Leftovers: Trick Room, Psyshock, Dazzling Gleam, Shadow Ball
+Slowbro [Regenerator], lv.77 @Eject Button: Psychic, Ice Beam, Fire Blast, Scald
+Gallade [Justified], lv.77 @Life Orb: Psycho Cut, Close Combat, Ice Punch, Shadow Sneak
+Darmanitan-Zen [Sheer Force], lv.78 @Life Orb: Heat Wave, Psychic, Grass Knot, Focus Blast
+Xatu [Magic Bounce], lv.77 @Focus Sash: Aura Sphere, Giga Drain, Heat Wave, Air Slash
+Metagross [Iron Fist], lv.77 @Air Balloon: Meteor Mash, Rock Slide, Trick Room, Bullet Punch
+</challenge>
+
+<normal>
+●♛ MARSHAL:
+Throh [Mold Breaker], lv.72 @Leftovers: Stone Edge, Circle Throw, Payback, Bulldoze
+Lucario [Justified], lv.72 @Life Orb: High Jump Kick, Ice Punch, Bullet Punch, Dark Pulse
+Sawk [Sturdy], lv.72 @Muscle Band: Close Combat, Stone Edge, Earthquake, Poison Jab
+Mienshao [Reckless], lv.72 @Flying Gem: High Jump Kick, Acrobatics, Stone Edge, Fake Out
+Medicham [Pure Power], lv.72 @Focus Sash: High Jump Kick, Zen Headbutt, Thunder Punch, Ice Punch
+Conkeldurr [Iron Fist], lv.74 @Leftovers: Drain Punch, Stone Edge, Payback, Mach Punch
+</normal>
+<challenge>
+●♛ MARSHAL - (2x):
+Hitmontop [Intimidate], lv.77 @Sitrus Berry: Ice Punch, Rock Slide, Fake Out, Close Combat
+Infernape [Blaze], lv.77 @Focus Sash: Heat Wave, Thunder Punch, Poison Jab, Close Combat
+Breloom [Technician], lv.77 @Coba Berry: Spore, Mach Punch, Bullet Seed, Rock Tomb
+Toxicroak [Poison Touch], lv.77 @Salac Berry: Icy Wind, Poison Jab, Drain Punch, Bullet Punch
+Lucario [Justified], lv.77 @Air Balloon: Close Combat, Ice Punch, Bullet Punch, Rock Slide
+Conkeldurr [Guts], lv.78 @Flame Orb: Poison Jab, Drain Punch, Rock Slide, Mach Punch
+</challenge>
+
+<normal>
+●♛ CHAMPION IRIS:
+Dragonite [Multiscale], lv.73 @Leftovers: Dragon Dance, Dual Wingbeat, Dragon Claw, Fire Punch
+Feraligatr [Sheer Force], lv.73 @Life Orb: Dragon Dance, Waterfall, Crunch, Ice Punch
+Hydreigon [Levitate], lv.73 @White Herb: Draco Meteor, Flash Cannon, Focus Blast, Dark Pulse
+Archeops [Defeatist], lv.73 @Flying Gem: Acrobatics, Stone Edge, Earthquake, U-Turn
+Serperior [Contrary], lv.73 @Light Clay: Leaf Storm, Dragon Pulse, Reflect, Light Screen
+Haxorus [Mold Breaker], lv.75 @Focus Sash: Outrage, Aqua Tail, Earthquake, Dragon Dance
+</normal>
+<challenge>
+●♛ CHAMPION IRIS:
+Serperior [Contrary], lv.78 @Yache Berry: Leaf Storm, Draco Meteor, Substitute, Glare
+Dragonite [Multiscale], lv.78 @Leftovers: Dragon Dance, Dual Wingbeat, Dragon Claw, Fire Punch
+Empoleon [Torrent], lv.78 @Shuca Berry: Agility, Ice Beam, Flash Cannon, Hydro Pump
+Alakazam [Magic Guard], lv.78 @Focus Sash: Psyshock, Nasty Plot, Energy Ball, Aura Sphere 
+Togekiss [Serene Grace], lv.78 @Sitrus Berry: Moonblast, Air Slash, Thunder Wave, Aura Sphere
+Latios [Levitate], lv.79 @Life Orb: Dragon Pulse, Aura Sphere, Mystical Fire, Esper Wing
+</challenge>

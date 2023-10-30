@@ -1,0 +1,56 @@
+  - Trainers By Area:
+    - Route 20: trainers/route20.md
+    - Floccesy Ranch: trainers/floccesyranch.md
+    - Floccesy Town: trainers/floccesytown.md
+    - Aspertia City - Trainer School and Cheren's Gym: trainers/aspertiacitytrainerschoolandcherensgym.md
+    - Virbank Complex: trainers/virbankcomplex.md
+    - Virbank City and Roxie's Gym: trainers/virbankcityandroxiesgym.md
+    - Route 4 - Pre-Burgh/Castelia Side: trainers/route4preburghcasteliaside.md
+    - Castelia City - Battle Company: trainers/casteliacitybattlecompany.md
+    - Castelia Sewers: trainers/casteliasewers.md
+    - Liberty Garden: trainers/libertygarden.md
+    - Relic Passage - Castelia Side: trainers/relicpassagecasteliaside.md
+    - Castelia City - Various + Burgh's Gym: trainers/casteliacityvariousburghsgym.md
+    - Route 4 - Post-Burgh: trainers/route4postburgh.md
+    - Desert Resort: trainers/desertresort.md
+    - Relic Castle: trainers/reliccastle.md
+    - Nimbasa City: trainers/nimbasacity.md
+    - Route 16: trainers/route16.md
+    - Lostlorn Forest: trainers/lostlornforest.md
+    - Route 5: trainers/route5.md
+    - Amusement Park and Elesa's Gym: trainers/amusementparkandelesasgym.md
+    - Driftveil City: trainers/driftveilcity.md
+    - Route 6: trainers/route6.md
+    - Clay Tunnel: trainers/claytunnel.md
+    - Clay's Gym: trainers/claysgym.md
+    - Plasma Frigate - First Visit: trainers/plasmafrigatefirstvisit.md
+    - Chargestone Cave: trainers/chargestonecave.md
+    - Relic Passage - Driftveil Side: trainers/relicpassagedriftveilside.md
+    - Mistralton Cave: trainers/mistraltoncave.md
+    - Route 7: trainers/route7.md
+    - Celestial Tower: trainers/celestialtower.md
+    - Twist Mountain - Mistralton Side: trainers/twistmountainmistraltonside.md
+    - Mistralton City: trainers/mistraltoncity.md
+    - Reversal Mountain: trainers/reversalmountain.md
+    - Strange House: trainers/strangehouse.md
+    - Undella Town: trainers/undellatown.md
+    - Undella Bay: trainers/undellabay.md
+    - Route 14: trainers/route14.md
+    - Adundant Shrine: trainers/adundantshrine.md
+    - Route 13: trainers/route13.md
+    - Lacunosa Town: trainers/lacunosatown.md
+    - Route 12: trainers/route12.md
+    - Village Bridge: trainers/villagebridge.md
+    - Route 11: trainers/route11.md
+    - Opelucid City: trainers/opelucidcity.md
+    - Route 9: trainers/route9.md
+    - Drayden's Gym: trainers/draydensgym.md
+    - Seaside Cave: trainers/seasidecave.md
+    - Route 21: trainers/route21.md
+    - Route 22: trainers/route22.md
+    - Humilau City and Marlon's Gym: trainers/humilaucityandmarlonsgym.md
+    - Plasma Frigate - Second Visit: trainers/plasmafrigatesecondvisit.md
+    - Giant Chasm and Plasma Frigate - Third Visit: trainers/giantchasmandplasmafrigatethirdvisit.md
+    - Route 23: trainers/route23.md
+    - Victory Road: trainers/victoryroad.md
+    - The Pokémon League: trainers/thepokémonleague.md

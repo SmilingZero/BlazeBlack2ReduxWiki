@@ -6,6 +6,7 @@ import csv
 import re
 import pokemonDocWriter as pkmnWriter
 
+
 def getint(name):
     basename = name.partition('.')
     return int(basename[0])

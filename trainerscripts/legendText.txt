@@ -1,0 +1,13 @@
+=== "Show Legend"
+    | __Legend__ | &nbsp; |
+    | --- | --- |
+    | :exclamation: | A mandatory trainer which needs to be fought in order to complete the game. |
+    | :grey_exclamation: | A trainer which does not need to be fought in order to complete the game. |
+    | :two:  | Double Battle | 
+    |  :three:  | Triple Battle |
+    | :arrows_counterclockwise:  | Rotation Battle |
+    | :handshake: | Tag Battles |
+    | :warning: | Highlights trainers that commonly constitute a level-cap, for greater visibility when scrolling though this document. |
+
+=== "Hide Legend"
+&nbsp;

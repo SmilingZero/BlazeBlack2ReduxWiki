@@ -134,7 +134,7 @@
                     "Level": "14-15",
                     "Spawn Percent": 10.0
                 },
-                "Shellos-W": {
+                "Shellos-West": {
                     "Level": "14-15",
                     "Spawn Percent": 5.0
                 },
@@ -162,7 +162,7 @@
                     "Level": "40",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "40",
                     "Spawn Percent": 30.0
                 },
@@ -509,15 +509,15 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Shellos-W": {
+                    "Shellos-West": {
                         "Level": "25-35",
                         "Spawn Percent": 70.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "25-35",
                         "Spawn Percent": 30.0
                     },
-                    "Gastrodon-W": {
+                    "Gastrodon-West": {
                         "Level": "25-35",
                         "Spawn Percent": 10.0
                     }
@@ -557,11 +557,11 @@
                     }
                 },
                 "Surf, Dark Spot": {
-                    "Shellos-W": {
+                    "Shellos-West": {
                         "Level": "25-35",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "25-35",
                         "Spawn Percent": 30.0
                     }
@@ -660,7 +660,7 @@
                     "Level": "40-46",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "40-46",
                     "Spawn Percent": 30.0
                 },
@@ -802,7 +802,7 @@
                     "Level": "40-46",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "40-46",
                     "Spawn Percent": 30.0
                 }
@@ -970,7 +970,7 @@
                     "Level": "40-46",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "40-46",
                     "Spawn Percent": 30.0
                 },
@@ -998,7 +998,7 @@
                     "Level": "40-46",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "40-46",
                     "Spawn Percent": 30.0
                 },
@@ -1969,7 +1969,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "60-70",
                         "Spawn Percent": 70.0
                     },
@@ -1987,7 +1987,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 70.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     }
@@ -1997,7 +1997,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     }
@@ -2007,7 +2007,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 65.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     }
@@ -2071,7 +2071,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     },
@@ -2085,7 +2085,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 70.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     }
@@ -2133,7 +2133,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     },
@@ -2147,7 +2147,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 70.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     }
@@ -2832,11 +2832,11 @@
                     "Level": "??",
                     "Spawn Percent": 3.75
                 },
-                "Shellos-E": {
+                "Shellos-East": {
                     "Level": "??",
                     "Spawn Percent": 3.75
                 },
-                "Shellos-W": {
+                "Shellos-West": {
                     "Level": "??",
                     "Spawn Percent": 3.75
                 },
@@ -2956,11 +2956,11 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Shellos-E": {
+                "Shellos-East": {
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
-                "Gastrodon-E": {
+                "Gastrodon-East": {
                     "Level": "55-65",
                     "Spawn Percent": 5.0
                 },
@@ -2974,7 +2974,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
@@ -3052,7 +3052,7 @@
                 }
             },
             "Surf, Dark Spot": {
-                "Shellos-E": {
+                "Shellos-East": {
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
@@ -3060,7 +3060,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
-                "Gastrodon-E": {
+                "Gastrodon-East": {
                     "Level": "55-65",
                     "Spawn Percent": 10.0
                 }
@@ -3070,7 +3070,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
@@ -3276,7 +3276,7 @@
                 }
             },
             "Fish, Normal": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "05",
                     "Spawn Percent": 90.0
                 },
@@ -3300,7 +3300,7 @@
                 }
             },
             "Fish, Dark Spot": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "05-15",
                     "Spawn Percent": 70.0
                 },
@@ -3368,7 +3368,7 @@
                 }
             },
             "Surf, Normal": {
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "40-46",
                     "Spawn Percent": 70.0
                 },
@@ -3426,7 +3426,7 @@
                     "Level": "40-46",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "40-46",
                     "Spawn Percent": 30.0
                 }
@@ -3443,7 +3443,7 @@
             }
         },
         "Route 20": {
-            "Spring": {
+            "Spring, Autumn": {
                 "Grass, Normal": {
                     "Pidove": {
                         "Level": "05-07",
@@ -3519,7 +3519,7 @@
                     }
                 },
                 "Fish, Normal": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -3589,7 +3589,7 @@
                     }
                 },
                 "Fish, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -3675,7 +3675,7 @@
                     }
                 },
                 "Fish, Normal": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -3745,163 +3745,7 @@
                     }
                 },
                 "Fish, Dark Spot": {
-                    "Basculin-B": {
-                        "Level": "05-15",
-                        "Spawn Percent": 60.0
-                    },
-                    "Dratini": {
-                        "Level": "05-15",
-                        "Spawn Percent": 40.0
-                    }
-                }
-            },
-            "Autumn": {
-                "Grass, Normal": {
-                    "Pidove": {
-                        "Level": "05-07",
-                        "Spawn Percent": 20.0
-                    },
-                    "Sewaddle": {
-                        "Level": "05-07",
-                        "Spawn Percent": 20.0
-                    },
-                    "Cubone": {
-                        "Level": "05-07",
-                        "Spawn Percent": 10.0
-                    },
-                    "Lotad": {
-                        "Level": "05-07",
-                        "Spawn Percent": 10.0
-                    },
-                    "Seedot": {
-                        "Level": "05-07",
-                        "Spawn Percent": 10.0
-                    },
-                    "Bellsprout": {
-                        "Level": "05-07",
-                        "Spawn Percent": 10.0
-                    },
-                    "Ralts": {
-                        "Level": "05-07",
-                        "Spawn Percent": 5.0
-                    },
-                    "Shroomish": {
-                        "Level": "05-07",
-                        "Spawn Percent": 5.0
-                    },
-                    "Mankey": {
-                        "Level": "05-07",
-                        "Spawn Percent": 4.0
-                    },
-                    "Bagon": {
-                        "Level": "05-07",
-                        "Spawn Percent": 4.0
-                    },
-                    "Meowth": {
-                        "Level": "05-07",
-                        "Spawn Percent": 2.0
-                    }
-                },
-                "Grass, Shaking Spots": {
-                    "Audino": {
-                        "Level": "06",
-                        "Spawn Percent": 10.0
-                    },
-                    "Dunsparce": {
-                        "Level": "05",
-                        "Spawn Percent": 10.0
-                    }
-                },
-                "Surf, Normal": {
-                    "Azurill": {
-                        "Level": "05-35",
-                        "Spawn Percent": 65.0
-                    },
-                    "Surskit": {
-                        "Level": "05-35",
-                        "Spawn Percent": 30.0
-                    },
-                    "Dratini": {
-                        "Level": "05-35",
-                        "Spawn Percent": 5.0
-                    },
-                    "Dragonair": {
-                        "Level": "35-45",
-                        "Spawn Percent": 5.0
-                    }
-                },
-                "Fish, Normal": {
-                    "Basculin-B": {
-                        "Level": "05-15",
-                        "Spawn Percent": 60.0
-                    },
-                    "Dratini": {
-                        "Level": "05-15",
-                        "Spawn Percent": 40.0
-                    }
-                },
-                "Grass, Doubles": {
-                    "Sunkern": {
-                        "Level": "11-14",
-                        "Spawn Percent": 20.0
-                    },
-                    "Venipede": {
-                        "Level": "11-14",
-                        "Spawn Percent": 20.0
-                    },
-                    "Wurmple": {
-                        "Level": "11-14",
-                        "Spawn Percent": 10.0
-                    },
-                    "Caterpie": {
-                        "Level": "11-14",
-                        "Spawn Percent": 10.0
-                    },
-                    "Weedle": {
-                        "Level": "11-14",
-                        "Spawn Percent": 10.0
-                    },
-                    "Sewaddle": {
-                        "Level": "11-14",
-                        "Spawn Percent": 10.0
-                    },
-                    "Bonsly": {
-                        "Level": "11-14",
-                        "Spawn Percent": 5.0
-                    },
-                    "Mime Jr.": {
-                        "Level": "11-14",
-                        "Spawn Percent": 5.0
-                    },
-                    "Shroomish": {
-                        "Level": "11-14",
-                        "Spawn Percent": 4.0
-                    },
-                    "Budew": {
-                        "Level": "11-14",
-                        "Spawn Percent": 4.0
-                    },
-                    "Bagon": {
-                        "Level": "11-14",
-                        "Spawn Percent": 2.0
-                    }
-                },
-                "Surf, Dark Spot": {
-                    "Surskit": {
-                        "Level": "30-40",
-                        "Spawn Percent": 60.0
-                    },
-                    "Marill": {
-                        "Level": "30-40",
-                        "Spawn Percent": 30.0
-                    },
-                    "Dratini": {
-                        "Level": "30-40",
-                        "Spawn Percent": 5.0
-                    }
-                },
-                "Fish, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -3987,7 +3831,7 @@
                     }
                 },
                 "Fish, Normal": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -4057,7 +3901,7 @@
                     }
                 },
                 "Fish, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "05-15",
                         "Spawn Percent": 60.0
                     },
@@ -4078,7 +3922,7 @@
                     "Level": "50-55",
                     "Spawn Percent": 30.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-55",
                     "Spawn Percent": 10.0
                 }
@@ -4102,7 +3946,7 @@
                     "Level": "50-55",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-55",
                     "Spawn Percent": 30.0
                 },
@@ -4128,7 +3972,7 @@
                     "Level": "40",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "40",
                     "Spawn Percent": 30.0
                 },
@@ -4373,7 +4217,7 @@
                         "Level": "30",
                         "Spawn Percent": 5.0
                     },
-                    "Darmanitan-Z": {
+                    "Darmanitan-Zen": {
                         "Level": "35",
                         "Spawn Percent": 5.0
                     }
@@ -4527,7 +4371,7 @@
                         "Level": "14-15",
                         "Spawn Percent": 10.0
                     },
-                    "Shellos-W": {
+                    "Shellos-West": {
                         "Level": "14-15",
                         "Spawn Percent": 5.0
                     },
@@ -4555,7 +4399,7 @@
                         "Level": "40",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "40",
                         "Spawn Percent": 30.0
                     },
@@ -4786,7 +4630,7 @@
                     "Level": "20-30",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "20-30",
                     "Spawn Percent": 30.0
                 }
@@ -4852,7 +4696,7 @@
                     "Level": "30-40",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "30-40",
                     "Spawn Percent": 30.0
                 }
@@ -5190,7 +5034,7 @@
                     "Level": "50-55",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-55",
                     "Spawn Percent": 30.0
                 },
@@ -5296,7 +5140,7 @@
                     "Level": "50-55",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "50-55",
                     "Spawn Percent": 30.0
                 }
@@ -5360,7 +5204,7 @@
                     "Level": "48-53",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "48-53",
                     "Spawn Percent": 30.0
                 },
@@ -5374,7 +5218,7 @@
                     "Level": "48-53",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "48-53",
                     "Spawn Percent": 30.0
                 }
@@ -5384,7 +5228,7 @@
                     "Level": "48-53",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "48-53",
                     "Spawn Percent": 30.0
                 },
@@ -5438,7 +5282,7 @@
                     "Level": "48-53",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "48-53",
                     "Spawn Percent": 30.0
                 },
@@ -5523,7 +5367,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "30",
                         "Spawn Percent": 70.0
                     },
@@ -5687,7 +5531,7 @@
                     }
                 },
                 "Surf, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "30",
                         "Spawn Percent": 90.0
                     },
@@ -5777,7 +5621,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "30",
                         "Spawn Percent": 70.0
                     },
@@ -5941,7 +5785,7 @@
                     }
                 },
                 "Surf, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "30",
                         "Spawn Percent": 90.0
                     },
@@ -6230,7 +6074,7 @@
                     "Level": "42-48",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "42-48",
                     "Spawn Percent": 30.0
                 },
@@ -6244,13 +6088,13 @@
                     "Level": "42-48",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "42-48",
                     "Spawn Percent": 30.0
                 }
             },
             "Fish, Dark Spot": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "42-48",
                     "Spawn Percent": 60.0
                 },
@@ -6453,7 +6297,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Shellos-E": {
+                    "Shellos-East": {
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
@@ -6471,7 +6315,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
-                    "Shellos-E": {
+                    "Shellos-East": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     }
@@ -6491,7 +6335,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
-                    "Gastrodon-E": {
+                    "Gastrodon-East": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     }
@@ -6501,7 +6345,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 90.0
                     },
-                    "Gastrodon-E": {
+                    "Gastrodon-East": {
                         "Level": "50-60",
                         "Spawn Percent": 5.0
                     }
@@ -6643,7 +6487,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Shellos-E": {
+                    "Shellos-East": {
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
@@ -6661,7 +6505,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
-                    "Shellos-E": {
+                    "Shellos-East": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     }
@@ -6687,7 +6531,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 70.0
                     },
-                    "Gastrodon-E": {
+                    "Gastrodon-East": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     }
@@ -6697,7 +6541,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 90.0
                     },
-                    "Gastrodon-E": {
+                    "Gastrodon-East": {
                         "Level": "50-60",
                         "Spawn Percent": 5.0
                     }
@@ -6790,7 +6634,7 @@
                     "Level": "29-31",
                     "Spawn Percent": 10.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "24-26",
                     "Spawn Percent": 30.0
                 }
@@ -6800,7 +6644,7 @@
                     "Level": "18-22",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "18-22",
                     "Spawn Percent": 30.0
                 }
@@ -6898,7 +6742,7 @@
                     "Level": "34-36",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "34-36",
                     "Spawn Percent": 30.0
                 },
@@ -6912,7 +6756,7 @@
                     "Level": "23-27",
                     "Spawn Percent": 70.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "23-27",
                     "Spawn Percent": 30.0
                 }
@@ -7000,7 +6844,7 @@
                     "Level": "44-46",
                     "Spawn Percent": 10.0
                 },
-                "Cherrim -S": {
+                "Cherrim-Sunshine": {
                     "Level": "44-46",
                     "Spawn Percent": 10.0
                 },
@@ -7472,7 +7316,7 @@
                     "Level": "50-60",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-60",
                     "Spawn Percent": 30.0
                 },
@@ -7486,7 +7330,7 @@
                     "Level": "50-60",
                     "Spawn Percent": 65.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-60",
                     "Spawn Percent": 30.0
                 },
@@ -7500,7 +7344,7 @@
                     "Level": "68",
                     "Spawn Percent": 20.0
                 },
-                "Whiripede": {
+                "Whirlipede": {
                     "Level": "68",
                     "Spawn Percent": 20.0
                 },
@@ -7576,7 +7420,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "60-70",
                     "Spawn Percent": 30.0
                 },
@@ -7590,7 +7434,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "60-70",
                     "Spawn Percent": 30.0
                 },
@@ -7817,7 +7661,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     },
@@ -7831,7 +7675,7 @@
                         "Level": "50-60",
                         "Spawn Percent": 65.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "50-60",
                         "Spawn Percent": 30.0
                     },
@@ -7845,7 +7689,7 @@
                         "Level": "68",
                         "Spawn Percent": 20.0
                     },
-                    "Whiripede": {
+                    "Whirlipede": {
                         "Level": "68",
                         "Spawn Percent": 20.0
                     },
@@ -7921,7 +7765,7 @@
                         "Level": "55-65",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     },
@@ -7935,7 +7779,7 @@
                         "Level": "55-65",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     },
@@ -8382,7 +8226,7 @@
                     "Level": "50-60",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-60",
                     "Spawn Percent": 30.0
                 },
@@ -8396,7 +8240,7 @@
                     "Level": "50-60",
                     "Spawn Percent": 65.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "50-60",
                     "Spawn Percent": 30.0
                 },
@@ -8520,7 +8364,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "60-70",
                     "Spawn Percent": 30.0
                 },
@@ -8534,7 +8378,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "65",
                     "Spawn Percent": 30.0
                 },
@@ -8591,7 +8435,7 @@
                     }
                 },
                 "Surf, Normal": {
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "45-65",
                         "Spawn Percent": 35.0
                     },
@@ -8605,7 +8449,7 @@
                         "Level": "50-56",
                         "Spawn Percent": 60.0
                     },
-                    "Basculin-R": {
+                    "Basculin-Red": {
                         "Level": "51-57",
                         "Spawn Percent": 30.0
                     },
@@ -8641,7 +8485,7 @@
                     }
                 },
                 "Surf, Dark Spot": {
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "55-65",
                         "Spawn Percent": 70.0
                     },
@@ -8655,7 +8499,7 @@
                         "Level": "60-70",
                         "Spawn Percent": 65.0
                     },
-                    "Basculin-B": {
+                    "Basculin-Blue": {
                         "Level": "60-70",
                         "Spawn Percent": 30.0
                     },
@@ -8862,13 +8706,13 @@
                     "Level": "67",
                     "Spawn Percent": 10.0
                 },
-                "Gastrodon-W": {
+                "Gastrodon-West": {
                     "Level": "63",
                     "Spawn Percent": 1.0
                 }
             },
             "Surf, Normal": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "45-65",
                     "Spawn Percent": 35.0
                 },
@@ -8882,7 +8726,7 @@
                     "Level": "50-56",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "51-57",
                     "Spawn Percent": 30.0
                 },
@@ -8936,7 +8780,7 @@
                 }
             },
             "Surf, Dark Spot": {
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "55-65",
                     "Spawn Percent": 66.0
                 },
@@ -8950,7 +8794,7 @@
                     "Level": "60-70",
                     "Spawn Percent": 65.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "60-70",
                     "Spawn Percent": 30.0
                 },
@@ -9074,7 +8918,7 @@
         },
         "Striation City": {
             "Surf, Normal": {
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "35-65",
                     "Spawn Percent": 70.0
                 },
@@ -9094,7 +8938,7 @@
                 }
             },
             "Surf, Dark Spot": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "55-75",
                     "Spawn Percent": 90.0
                 },
@@ -9114,7 +8958,7 @@
                 }
             }
         },
-        "Underground Ruins - All Areas": {
+        "Underground Ruins": {
             "Cave, Normal": {
                 "Graveler": {
                     "Level": "66",
@@ -9332,7 +9176,7 @@
                     "Level": "66",
                     "Spawn Percent": 1.0
                 },
-                "Gastrodon-W": {
+                "Gastrodon-West": {
                     "Level": "66",
                     "Spawn Percent": 1.0
                 }
@@ -9342,7 +9186,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
-                "Gastrodon-W": {
+                "Gastrodon-West": {
                     "Level": "55-65",
                     "Spawn Percent": 5.0
                 }
@@ -9366,7 +9210,7 @@
                     "Level": "60-70",
                     "Spawn Percent": 65.0
                 },
-                "Gastrodon-W": {
+                "Gastrodon-West": {
                     "Level": "60-70",
                     "Spawn Percent": 30.0
                 },
@@ -9456,13 +9300,13 @@
                 }
             },
             "Surf, Normal": {
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "65",
                     "Spawn Percent": 30.0
                 }
             },
             "Fish, Normal": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "60-70",
                     "Spawn Percent": 10.0
                 },
@@ -9510,7 +9354,7 @@
                 }
             },
             "Surf, Dark Spot": {
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "50-60",
                     "Spawn Percent": 30.0
                 }
@@ -9520,7 +9364,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 65.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "65",
                     "Spawn Percent": 30.0
                 },
@@ -9642,7 +9486,7 @@
                     "Level": "45-55",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-B": {
+                "Basculin-Blue": {
                     "Level": "55-65",
                     "Spawn Percent": 30.0
                 },
@@ -9684,7 +9528,7 @@
                     "Level": "55-65",
                     "Spawn Percent": 60.0
                 },
-                "Basculin-R": {
+                "Basculin-Red": {
                     "Level": "60-70",
                     "Spawn Percent": 35.0
                 },

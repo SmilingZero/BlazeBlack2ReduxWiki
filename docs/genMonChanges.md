@@ -198,498 +198,498 @@ These changes are found in all versions of the game.
 
 
 [Spearow]: pokemons/021/ 
- [021]: img/pokemon/21_0.png 
+ [021]: img/animated/21.gif 
 [Fearow]: pokemons/022/ 
- [022]: img/pokemon/22_0.png 
+ [022]: img/animated/22.gif 
 [Ekans]: pokemons/023/ 
- [023]: img/pokemon/23_0.png 
+ [023]: img/animated/23.gif 
 [Arbok]: pokemons/024/ 
- [024]: img/pokemon/24_0.png 
+ [024]: img/animated/24.gif 
 [Venonat]: pokemons/048/ 
- [048]: img/pokemon/48_0.png 
+ [048]: img/animated/48.gif 
 [Venomoth]: pokemons/049/ 
- [049]: img/pokemon/49_0.png 
+ [049]: img/animated/49.gif 
 [Psyduck]: pokemons/054/ 
- [054]: img/pokemon/54_0.png 
+ [054]: img/animated/54.gif 
 [Golduck]: pokemons/055/ 
- [055]: img/pokemon/55_0.png 
+ [055]: img/animated/55.gif 
 [Poliwhirl]: pokemons/061/ 
- [061]: img/pokemon/61_0.png 
+ [061]: img/animated/61.gif 
 [Politoed]: pokemons/186/ 
- [186]: img/pokemon/186_0.png 
+ [186]: img/animated/186.gif 
 [kingsrock]: img/items/kings-rock.png 
 [Kadabra]: pokemons/064/ 
- [064]: img/pokemon/64_0.png 
+ [064]: img/animated/64.gif 
 [Alakazam]: pokemons/065/ 
- [065]: img/pokemon/65_0.png 
+ [065]: img/animated/65.gif 
 [linkcable]: img/items/link-cable.png 
 [Machoke]: pokemons/067/ 
- [067]: img/pokemon/67_0.png 
+ [067]: img/animated/67.gif 
 [Machamp]: pokemons/068/ 
- [068]: img/pokemon/68_0.png 
+ [068]: img/animated/68.gif 
 [linkcable]: img/items/link-cable.png 
 [Graveler]: pokemons/075/ 
- [075]: img/pokemon/75_0.png 
+ [075]: img/animated/75.gif 
 [Golem]: pokemons/076/ 
- [076]: img/pokemon/76_0.png 
+ [076]: img/animated/76.gif 
 [linkcable]: img/items/link-cable.png 
 [Ponyta]: pokemons/077/ 
- [077]: img/pokemon/77_0.png 
+ [077]: img/animated/77.gif 
 [Rapidash]: pokemons/078/ 
- [078]: img/pokemon/78_0.png 
+ [078]: img/animated/78.gif 
 [Slowpoke]: pokemons/079/ 
- [079]: img/pokemon/79_0.png 
+ [079]: img/animated/79.gif 
 [Slowbro]: pokemons/080/ 
- [080]: img/pokemon/80_0.png 
+ [080]: img/animated/80.gif 
 [Slowking]: pokemons/199/ 
- [199]: img/pokemon/199_0.png 
+ [199]: img/animated/199.gif 
 [kingsrock]: img/items/kings-rock.png 
 [Grimer]: pokemons/088/ 
- [088]: img/pokemon/88_0.png 
+ [088]: img/animated/88.gif 
 [Muk]: pokemons/089/ 
- [089]: img/pokemon/89_0.png 
+ [089]: img/animated/89.gif 
 [Haunter]: pokemons/093/ 
- [093]: img/pokemon/93_0.png 
+ [093]: img/animated/93.gif 
 [Gengar]: pokemons/094/ 
- [094]: img/pokemon/94_0.png 
+ [094]: img/animated/94.gif 
 [linkcable]: img/items/link-cable.png 
 [Onix]: pokemons/095/ 
- [095]: img/pokemon/95_0.png 
+ [095]: img/animated/95.gif 
 [Steelix]: pokemons/208/ 
- [208]: img/pokemon/208_0.png 
+ [208]: img/animated/208.gif 
 [metalcoat]: img/items/metal-coat.png 
 [Cubone]: pokemons/104/ 
- [104]: img/pokemon/104_0.png 
+ [104]: img/animated/104.gif 
 [Marowak]: pokemons/105/ 
- [105]: img/pokemon/105_0.png 
+ [105]: img/animated/105.gif 
 [Rhyhorn]: pokemons/111/ 
- [111]: img/pokemon/111_0.png 
+ [111]: img/animated/111.gif 
 [Rhydon]: pokemons/112/ 
- [112]: img/pokemon/112_0.png 
+ [112]: img/animated/112.gif 
 [Rhydon]: pokemons/112/ 
- [112]: img/pokemon/112_0.png 
+ [112]: img/animated/112.gif 
 [Rhyperior]: pokemons/464/ 
- [464]: img/pokemon/464_0.png 
+ [464]: img/animated/464.gif 
 [protector]: img/items/protector.png 
 [Seadra]: pokemons/117/ 
- [117]: img/pokemon/117_0.png 
+ [117]: img/animated/117.gif 
 [Kingdra]: pokemons/230/ 
- [230]: img/pokemon/230_0.png 
+ [230]: img/animated/230.gif 
 [dragonscale]: img/items/dragon-scale.png 
 [Scyther]: pokemons/123/ 
- [123]: img/pokemon/123_0.png 
+ [123]: img/animated/123.gif 
 [Scizor]: pokemons/212/ 
- [212]: img/pokemon/212_0.png 
+ [212]: img/animated/212.gif 
 [metalcoat]: img/items/metal-coat.png 
 [Electabuzz]: pokemons/125/ 
- [125]: img/pokemon/125_0.png 
+ [125]: img/animated/125.gif 
 [Electivire]: pokemons/466/ 
- [466]: img/pokemon/466_0.png 
+ [466]: img/animated/466.gif 
 [electirizer]: img/items/electirizer.png 
 [Magmar]: pokemons/126/ 
- [126]: img/pokemon/126_0.png 
+ [126]: img/animated/126.gif 
 [Magmortar]: pokemons/467/ 
- [467]: img/pokemon/467_0.png 
+ [467]: img/animated/467.gif 
 [magmarizer]: img/items/magmarizer.png 
 [Eevee]: pokemons/133/ 
- [133]: img/pokemon/133_0.png 
+ [133]: img/animated/133.gif 
 [Espeon]: pokemons/196/ 
- [196]: img/pokemon/196_0.png 
+ [196]: img/animated/196.gif 
 [sunstone]: img/items/sun-stone.png 
 [Umbreon]: pokemons/197/ 
- [197]: img/pokemon/197_0.png 
+ [197]: img/animated/197.gif 
 [moonstone]: img/items/moon-stone.png 
 [Leafeon]: pokemons/470/ 
- [470]: img/pokemon/470_0.png 
+ [470]: img/animated/470.gif 
 [leafstone]: img/items/leaf-stone.png 
 [Glaceon]: pokemons/471/ 
- [471]: img/pokemon/471_0.png 
+ [471]: img/animated/471.gif 
 [icestone]: img/items/ice-stone.png 
 [Porygon]: pokemons/137/ 
- [137]: img/pokemon/137_0.png 
+ [137]: img/animated/137.gif 
 [Porygon2]: pokemons/233/ 
- [233]: img/pokemon/233_0.png 
+ [233]: img/animated/233.gif 
 [upgrade]: img/items/up-grade.png 
 [Omanyte]: pokemons/138/ 
- [138]: img/pokemon/138_0.png 
+ [138]: img/animated/138.gif 
 [Omastar]: pokemons/139/ 
- [139]: img/pokemon/139_0.png 
+ [139]: img/animated/139.gif 
 [Kabuto]: pokemons/140/ 
- [140]: img/pokemon/140_0.png 
+ [140]: img/animated/140.gif 
 [Kabutops]: pokemons/141/ 
- [141]: img/pokemon/141_0.png 
+ [141]: img/animated/141.gif 
 [Marill]: pokemons/183/ 
- [183]: img/pokemon/183_0.png 
+ [183]: img/animated/183.gif 
 [Azumarill]: pokemons/184/ 
- [184]: img/pokemon/184_0.png 
+ [184]: img/animated/184.gif 
 [Gligar]: pokemons/207/ 
- [207]: img/pokemon/207_0.png 
+ [207]: img/animated/207.gif 
 [Gliscor]: pokemons/472/ 
- [472]: img/pokemon/472_0.png 
+ [472]: img/animated/472.gif 
 [razorfang]: img/items/razor-fang.png 
 [Sneasel]: pokemons/215/ 
- [215]: img/pokemon/215_0.png 
+ [215]: img/animated/215.gif 
 [Weavile]: pokemons/461/ 
- [461]: img/pokemon/461_0.png 
+ [461]: img/animated/461.gif 
 [razorclaw]: img/items/razor-claw.png 
 [Slugma]: pokemons/218/ 
- [218]: img/pokemon/218_0.png 
+ [218]: img/animated/218.gif 
 [Magcargo]: pokemons/219/ 
- [219]: img/pokemon/219_0.png 
+ [219]: img/animated/219.gif 
 [Swinub]: pokemons/220/ 
- [220]: img/pokemon/220_0.png 
+ [220]: img/animated/220.gif 
 [Piloswine]: pokemons/221/ 
- [221]: img/pokemon/221_0.png 
+ [221]: img/animated/221.gif 
 [Porygon2]: pokemons/233/ 
- [233]: img/pokemon/233_0.png 
+ [233]: img/animated/233.gif 
 [Porygon-Z]: pokemons/474/ 
- [474]: img/pokemon/474_0.png 
+ [474]: img/animated/474.gif 
 [dubiousdisc]: img/items/dubious-disc.png 
 [Elekid]: pokemons/239/ 
- [239]: img/pokemon/239_0.png 
+ [239]: img/animated/239.gif 
 [Electabuzz]: pokemons/125/ 
- [125]: img/pokemon/125_0.png 
+ [125]: img/animated/125.gif 
 [Magby]: pokemons/240/ 
- [240]: img/pokemon/240_0.png 
+ [240]: img/animated/240.gif 
 [Magmar]: pokemons/126/ 
- [126]: img/pokemon/126_0.png 
+ [126]: img/animated/126.gif 
 [Shroomish]: pokemons/285/ 
- [285]: img/pokemon/285_0.png 
+ [285]: img/animated/285.gif 
 [Breloom]: pokemons/286/ 
- [286]: img/pokemon/286_0.png 
+ [286]: img/animated/286.gif 
 [Skitty]: pokemons/300/ 
- [300]: img/pokemon/300_0.png 
+ [300]: img/animated/300.gif 
 [Delcatty]: pokemons/301/ 
- [301]: img/pokemon/301_0.png 
+ [301]: img/animated/301.gif 
 [Aron]: pokemons/304/ 
- [304]: img/pokemon/304_0.png 
+ [304]: img/animated/304.gif 
 [Lairon]: pokemons/305/ 
- [305]: img/pokemon/305_0.png 
+ [305]: img/animated/305.gif 
 [Lairon]: pokemons/305/ 
- [305]: img/pokemon/305_0.png 
+ [305]: img/animated/305.gif 
 [Aggron]: pokemons/306/ 
- [306]: img/pokemon/306_0.png 
+ [306]: img/animated/306.gif 
 [Meditite]: pokemons/307/ 
- [307]: img/pokemon/307_0.png 
+ [307]: img/animated/307.gif 
 [Medicham]: pokemons/308/ 
- [308]: img/pokemon/308_0.png 
+ [308]: img/animated/308.gif 
 [Carvanha]: pokemons/318/ 
- [318]: img/pokemon/318_0.png 
+ [318]: img/animated/318.gif 
 [Sharpedo]: pokemons/319/ 
- [319]: img/pokemon/319_0.png 
+ [319]: img/animated/319.gif 
 [Trapinch]: pokemons/328/ 
- [328]: img/pokemon/328_0.png 
+ [328]: img/animated/328.gif 
 [Vibrava]: pokemons/329/ 
- [329]: img/pokemon/329_0.png 
+ [329]: img/animated/329.gif 
 [Vibrava]: pokemons/329/ 
- [329]: img/pokemon/329_0.png 
+ [329]: img/animated/329.gif 
 [Flygon]: pokemons/330/ 
- [330]: img/pokemon/330_0.png 
+ [330]: img/animated/330.gif 
 [Lileep]: pokemons/345/ 
- [345]: img/pokemon/345_0.png 
+ [345]: img/animated/345.gif 
 [Cradily]: pokemons/346/ 
- [346]: img/pokemon/346_0.png 
+ [346]: img/animated/346.gif 
 [Anorith]: pokemons/347/ 
- [347]: img/pokemon/347_0.png 
+ [347]: img/animated/347.gif 
 [Armaldo]: pokemons/348/ 
- [348]: img/pokemon/348_0.png 
+ [348]: img/animated/348.gif 
 [Feebas]: pokemons/349/ 
- [349]: img/pokemon/349_0.png 
+ [349]: img/animated/349.gif 
 [Milotic]: pokemons/350/ 
- [350]: img/pokemon/350_0.png 
+ [350]: img/animated/350.gif 
 [prismscale]: img/items/prism-scale.png 
 [Shuppet]: pokemons/353/ 
- [353]: img/pokemon/353_0.png 
+ [353]: img/animated/353.gif 
 [Banette]: pokemons/354/ 
- [354]: img/pokemon/354_0.png 
+ [354]: img/animated/354.gif 
 [Duskull]: pokemons/355/ 
- [355]: img/pokemon/355_0.png 
+ [355]: img/animated/355.gif 
 [Dusclops]: pokemons/356/ 
- [356]: img/pokemon/356_0.png 
+ [356]: img/animated/356.gif 
 [Dusclops]: pokemons/356/ 
- [356]: img/pokemon/356_0.png 
+ [356]: img/animated/356.gif 
 [Dusknoir]: pokemons/477/ 
- [477]: img/pokemon/477_0.png 
+ [477]: img/animated/477.gif 
 [reapercloth]: img/items/reaper-cloth.png 
 [Snorunt]: pokemons/361/ 
- [361]: img/pokemon/361_0.png 
+ [361]: img/animated/361.gif 
 [Glalie]: pokemons/362/ 
- [362]: img/pokemon/362_0.png 
+ [362]: img/animated/362.gif 
 [icestone]: img/items/ice-stone.png 
 [Spheal]: pokemons/363/ 
- [363]: img/pokemon/363_0.png 
+ [363]: img/animated/363.gif 
 [Sealeo]: pokemons/364/ 
- [364]: img/pokemon/364_0.png 
+ [364]: img/animated/364.gif 
 [Sealeo]: pokemons/364/ 
- [364]: img/pokemon/364_0.png 
+ [364]: img/animated/364.gif 
 [Walrein]: pokemons/365/ 
- [365]: img/pokemon/365_0.png 
+ [365]: img/animated/365.gif 
 [Clamperl]: pokemons/366/ 
- [366]: img/pokemon/366_0.png 
+ [366]: img/animated/366.gif 
 [Huntail]: pokemons/367/ 
- [367]: img/pokemon/367_0.png 
+ [367]: img/animated/367.gif 
 [deepseatooth]: img/items/deep-sea-tooth.png 
 [Gorebyss]: pokemons/368/ 
- [368]: img/pokemon/368_0.png 
+ [368]: img/animated/368.gif 
 [deepseascale]: img/items/deep-sea-scale.png 
 [Budew]: pokemons/406/ 
- [406]: img/pokemon/406_0.png 
+ [406]: img/animated/406.gif 
 [Roselia]: pokemons/315/ 
- [315]: img/pokemon/315_0.png 
+ [315]: img/animated/315.gif 
 [Burmy]: pokemons/412/ 
- [412]: img/pokemon/412_0.png 
+ [412]: img/animated/412.gif 
 [Wormadam]: pokemons/413/ 
- [413]: img/pokemon/413_0.png 
+ [413]: img/animated/413.gif 
 [Mothim]: pokemons/414/ 
- [414]: img/pokemon/414_0.png 
+ [414]: img/animated/414.gif 
 [Cherubi]: pokemons/420/ 
- [420]: img/pokemon/420_0.png 
+ [420]: img/animated/420.gif 
 [Cherrim]: pokemons/421/ 
- [421]: img/pokemon/421_0.png 
+ [421]: img/animated/421.gif 
 [Glameow]: pokemons/431/ 
- [431]: img/pokemon/431_0.png 
+ [431]: img/animated/431.gif 
 [Purugly]: pokemons/432/ 
- [432]: img/pokemon/432_0.png 
+ [432]: img/animated/432.gif 
 [Chingling]: pokemons/433/ 
- [433]: img/pokemon/433_0.png 
+ [433]: img/animated/433.gif 
 [Chimecho]: pokemons/358/ 
- [358]: img/pokemon/358_0.png 
+ [358]: img/animated/358.gif 
 [Stunky]: pokemons/434/ 
- [434]: img/pokemon/434_0.png 
+ [434]: img/animated/434.gif 
 [Skuntank]: pokemons/435/ 
- [435]: img/pokemon/435_0.png 
+ [435]: img/animated/435.gif 
 [Bonsly]: pokemons/438/ 
- [438]: img/pokemon/438_0.png 
+ [438]: img/animated/438.gif 
 [Sudowoodo]: pokemons/185/ 
- [185]: img/pokemon/185_0.png 
+ [185]: img/animated/185.gif 
 [Mime Jr.]: pokemons/439/ 
- [439]: img/pokemon/439_0.png 
+ [439]: img/animated/439.gif 
 [Mr. Mime]: pokemons/122/ 
- [122]: img/pokemon/122_0.png 
+ [122]: img/animated/122.gif 
 [Happiny]: pokemons/440/ 
- [440]: img/pokemon/440_0.png 
+ [440]: img/animated/440.gif 
 [Chansey]: pokemons/113/ 
- [113]: img/pokemon/113_0.png 
+ [113]: img/animated/113.gif 
 [Riolu]: pokemons/447/ 
- [447]: img/pokemon/447_0.png 
+ [447]: img/animated/447.gif 
 [Lucario]: pokemons/448/ 
- [448]: img/pokemon/448_0.png 
+ [448]: img/animated/448.gif 
 [Skorupi]: pokemons/451/ 
- [451]: img/pokemon/451_0.png 
+ [451]: img/animated/451.gif 
 [Drapion]: pokemons/452/ 
- [452]: img/pokemon/452_0.png 
+ [452]: img/animated/452.gif 
 [Croagunk]: pokemons/453/ 
- [453]: img/pokemon/453_0.png 
+ [453]: img/animated/453.gif 
 [Toxicroak]: pokemons/454/ 
- [454]: img/pokemon/454_0.png 
+ [454]: img/animated/454.gif 
 [Mantyke]: pokemons/458/ 
- [458]: img/pokemon/458_0.png 
+ [458]: img/animated/458.gif 
 [Mantine]: pokemons/226/ 
- [226]: img/pokemon/226_0.png 
+ [226]: img/animated/226.gif 
 [Boldore]: pokemons/525/ 
- [525]: img/pokemon/525_0.png 
+ [525]: img/animated/525.gif 
 [Gigalith]: pokemons/526/ 
- [526]: img/pokemon/526_0.png 
+ [526]: img/animated/526.gif 
 [linkcable]: img/items/link-cable.png 
 [Woobat]: pokemons/527/ 
- [527]: img/pokemon/527_0.png 
+ [527]: img/animated/527.gif 
 [Swoobat]: pokemons/528/ 
- [528]: img/pokemon/528_0.png 
+ [528]: img/animated/528.gif 
 [Gurdurr]: pokemons/533/ 
- [533]: img/pokemon/533_0.png 
+ [533]: img/animated/533.gif 
 [Conkeldurr]: pokemons/534/ 
- [534]: img/pokemon/534_0.png 
+ [534]: img/animated/534.gif 
 [linkcable]: img/items/link-cable.png 
 [Sewaddle]: pokemons/540/ 
- [540]: img/pokemon/540_0.png 
+ [540]: img/animated/540.gif 
 [Swadloon]: pokemons/541/ 
- [541]: img/pokemon/541_0.png 
+ [541]: img/animated/541.gif 
 [Venipede]: pokemons/543/ 
- [543]: img/pokemon/543_0.png 
+ [543]: img/animated/543.gif 
 [Whirlipede]: pokemons/544/ 
- [544]: img/pokemon/544_0.png 
+ [544]: img/animated/544.gif 
 [Sandile]: pokemons/551/ 
- [551]: img/pokemon/551_0.png 
+ [551]: img/animated/551.gif 
 [Krokorok]: pokemons/552/ 
- [552]: img/pokemon/552_0.png 
+ [552]: img/animated/552.gif 
 [Scraggy]: pokemons/559/ 
- [559]: img/pokemon/559_0.png 
+ [559]: img/animated/559.gif 
 [Scrafty]: pokemons/560/ 
- [560]: img/pokemon/560_0.png 
+ [560]: img/animated/560.gif 
 [Gothita]: pokemons/574/ 
- [574]: img/pokemon/574_0.png 
+ [574]: img/animated/574.gif 
 [Gothorita]: pokemons/575/ 
- [575]: img/pokemon/575_0.png 
+ [575]: img/animated/575.gif 
 [Solosis]: pokemons/577/ 
- [577]: img/pokemon/577_0.png 
+ [577]: img/animated/577.gif 
 [Duosion]: pokemons/578/ 
- [578]: img/pokemon/578_0.png 
+ [578]: img/animated/578.gif 
 [Vanillite]: pokemons/582/ 
- [582]: img/pokemon/582_0.png 
+ [582]: img/animated/582.gif 
 [Vanillish]: pokemons/583/ 
- [583]: img/pokemon/583_0.png 
+ [583]: img/animated/583.gif 
 [Karrablast]: pokemons/588/ 
- [588]: img/pokemon/588_0.png 
+ [588]: img/animated/588.gif 
 [Escavalier]: pokemons/589/ 
- [589]: img/pokemon/589_0.png 
+ [589]: img/animated/589.gif 
 [metalcoat]: img/items/metal-coat.png 
 [Escavalier]: pokemons/589/ 
- [589]: img/pokemon/589_0.png 
+ [589]: img/animated/589.gif 
 [Joltik]: pokemons/595/ 
- [595]: img/pokemon/595_0.png 
+ [595]: img/animated/595.gif 
 [Galvantula]: pokemons/596/ 
- [596]: img/pokemon/596_0.png 
+ [596]: img/animated/596.gif 
 [Klink]: pokemons/599/ 
- [599]: img/pokemon/599_0.png 
+ [599]: img/animated/599.gif 
 [Klang]: pokemons/600/ 
- [600]: img/pokemon/600_0.png 
+ [600]: img/animated/600.gif 
 [Tynamo]: pokemons/602/ 
- [602]: img/pokemon/602_0.png 
+ [602]: img/animated/602.gif 
 [Eelektrik]: pokemons/603/ 
- [603]: img/pokemon/603_0.png 
+ [603]: img/animated/603.gif 
 [Elgyem]: pokemons/605/ 
- [605]: img/pokemon/605_0.png 
+ [605]: img/animated/605.gif 
 [Beheeyem]: pokemons/606/ 
- [606]: img/pokemon/606_0.png 
+ [606]: img/animated/606.gif 
 [Litwick]: pokemons/607/ 
- [607]: img/pokemon/607_0.png 
+ [607]: img/animated/607.gif 
 [Lampent]: pokemons/608/ 
- [608]: img/pokemon/608_0.png 
+ [608]: img/animated/608.gif 
 [Shelmet]: pokemons/616/ 
- [616]: img/pokemon/616_0.png 
+ [616]: img/animated/616.gif 
 [Accelgor]: pokemons/617/ 
- [617]: img/pokemon/617_0.png 
+ [617]: img/animated/617.gif 
 [reapercloth]: img/items/reaper-cloth.png 
 [Accelgor]: pokemons/617/ 
- [617]: img/pokemon/617_0.png 
+ [617]: img/animated/617.gif 
 [Golett]: pokemons/622/ 
- [622]: img/pokemon/622_0.png 
+ [622]: img/animated/622.gif 
 [Golurk]: pokemons/623/ 
- [623]: img/pokemon/623_0.png 
+ [623]: img/animated/623.gif 
 [Pawniard]: pokemons/624/ 
- [624]: img/pokemon/624_0.png 
+ [624]: img/animated/624.gif 
 [Bisharp]: pokemons/625/ 
- [625]: img/pokemon/625_0.png 
+ [625]: img/animated/625.gif 
 [Rufflet]: pokemons/627/ 
- [627]: img/pokemon/627_0.png 
+ [627]: img/animated/627.gif 
 [Braviary]: pokemons/628/ 
- [628]: img/pokemon/628_0.png 
+ [628]: img/animated/628.gif 
 [Vullaby]: pokemons/629/ 
- [629]: img/pokemon/629_0.png 
+ [629]: img/animated/629.gif 
 [Mandibuzz]: pokemons/630/ 
- [630]: img/pokemon/630_0.png 
+ [630]: img/animated/630.gif 
 [Deino]: pokemons/633/ 
- [633]: img/pokemon/633_0.png 
+ [633]: img/animated/633.gif 
 [Zweilous]: pokemons/634/ 
- [634]: img/pokemon/634_0.png 
+ [634]: img/animated/634.gif 
 [Zweilous]: pokemons/634/ 
- [634]: img/pokemon/634_0.png 
+ [634]: img/animated/634.gif 
 [Hydreigon]: pokemons/635/ 
- [635]: img/pokemon/635_0.png 
+ [635]: img/animated/635.gif 
 
 
 [Charmeleon]: pokemons/005/ 
- [005]: img/pokemon/5_0.png 
+ [005]: img/animated/5.gif 
 [Charizard]: pokemons/006/ 
- [006]: img/pokemon/6_0.png 
+ [006]: img/animated/6.gif 
 [Spearow]: pokemons/021/ 
- [021]: img/pokemon/21_0.png 
+ [021]: img/animated/21.gif 
 [Fearow]: pokemons/022/ 
- [022]: img/pokemon/22_0.png 
+ [022]: img/animated/22.gif 
 [Ninetales]: pokemons/038/ 
- [038]: img/pokemon/38_0.png 
+ [038]: img/animated/38.gif 
 [Golduck]: pokemons/055/ 
- [055]: img/pokemon/55_0.png 
+ [055]: img/animated/55.gif 
 [Rapidash]: pokemons/078/ 
- [078]: img/pokemon/78_0.png 
+ [078]: img/animated/78.gif 
 [Farfetch'd]: pokemons/083/ 
- [083]: img/pokemon/83_0.png 
+ [083]: img/animated/83.gif 
 [Shellder]: pokemons/090/ 
- [090]: img/pokemon/90_0.png 
+ [090]: img/animated/90.gif 
 [Meganium]: pokemons/154/ 
- [154]: img/pokemon/154_0.png 
+ [154]: img/animated/154.gif 
 [Noctowl]: pokemons/164/ 
- [164]: img/pokemon/164_0.png 
+ [164]: img/animated/164.gif 
 [Ampharos]: pokemons/181/ 
- [181]: img/pokemon/181_0.png 
+ [181]: img/animated/181.gif 
 [Misdreavus]: pokemons/200/ 
- [200]: img/pokemon/200_0.png 
+ [200]: img/animated/200.gif 
 [Snubull]: pokemons/209/ 
- [209]: img/pokemon/209_0.png 
+ [209]: img/animated/209.gif 
 [Grabull]: pokemons/210/ 
- [210]: img/pokemon/210_0.png 
+ [210]: img/animated/210.gif 
 [Teddiursa]: pokemons/216/ 
- [216]: img/pokemon/216_0.png 
+ [216]: img/animated/216.gif 
 [Ursaring]: pokemons/217/ 
- [217]: img/pokemon/217_0.png 
+ [217]: img/animated/217.gif 
 [Sceptile]: pokemons/254/ 
- [254]: img/pokemon/254_0.png 
+ [254]: img/animated/254.gif 
 [Masquerain]: pokemons/284/ 
- [284]: img/pokemon/284_0.png 
+ [284]: img/animated/284.gif 
 [Volbeat]: pokemons/313/ 
- [313]: img/pokemon/313_0.png 
+ [313]: img/animated/313.gif 
 [Illumise]: pokemons/314/ 
- [314]: img/pokemon/314_0.png 
+ [314]: img/animated/314.gif 
 [Trapinch]: pokemons/328/ 
- [328]: img/pokemon/328_0.png 
+ [328]: img/animated/328.gif 
 [Vibrava]: pokemons/329/ 
- [329]: img/pokemon/329_0.png 
+ [329]: img/animated/329.gif 
 [Flygon]: pokemons/330/ 
- [330]: img/pokemon/330_0.png 
+ [330]: img/animated/330.gif 
 [Swablu]: pokemons/333/ 
- [333]: img/pokemon/333_0.png 
+ [333]: img/animated/333.gif 
 [Altaria]: pokemons/334/ 
- [334]: img/pokemon/334_0.png 
+ [334]: img/animated/334.gif 
 [Banette]: pokemons/354/ 
- [354]: img/pokemon/354_0.png 
+ [354]: img/animated/354.gif 
 [Glalie]: pokemons/362/ 
- [362]: img/pokemon/362_0.png 
+ [362]: img/animated/362.gif 
 [Luvdisc]: pokemons/370/ 
- [370]: img/pokemon/370_0.png 
+ [370]: img/animated/370.gif 
 [Luxray]: pokemons/405/ 
- [405]: img/pokemon/405_0.png 
+ [405]: img/animated/405.gif 
 [Lopunny]: pokemons/428/ 
- [428]: img/pokemon/428_0.png 
+ [428]: img/animated/428.gif 
 [Mismagius]: pokemons/429/ 
- [429]: img/pokemon/429_0.png 
+ [429]: img/animated/429.gif 
 [Electivire]: pokemons/466/ 
- [466]: img/pokemon/466_0.png 
+ [466]: img/animated/466.gif 
 [Probopass]: pokemons/476/ 
- [476]: img/pokemon/476_0.png 
+ [476]: img/animated/476.gif 
 [Uxie]: pokemons/480/ 
- [480]: img/pokemon/480_0.png 
+ [480]: img/animated/480.gif 
 [Mesprit]: pokemons/481/ 
- [481]: img/pokemon/481_0.png 
+ [481]: img/animated/481.gif 
 [Azelf]: pokemons/482/ 
- [482]: img/pokemon/482_0.png 
+ [482]: img/animated/482.gif 
 [Servine]: pokemons/496/ 
- [496]: img/pokemon/496_0.png 
+ [496]: img/animated/496.gif 
 [Serperior]: pokemons/497/ 
- [497]: img/pokemon/497_0.png 
+ [497]: img/animated/497.gif 
 [Pignite]: pokemons/499/ 
- [499]: img/pokemon/499_0.png 
+ [499]: img/animated/499.gif 
 [Emboar]: pokemons/500/ 
- [500]: img/pokemon/500_0.png 
+ [500]: img/animated/500.gif 
 [Dewott]: pokemons/502/ 
- [502]: img/pokemon/502_0.png 
+ [502]: img/animated/502.gif 
 [Samurott]: pokemons/503/ 
- [503]: img/pokemon/503_0.png 
+ [503]: img/animated/503.gif 
 [Munna]: pokemons/517/ 
- [517]: img/pokemon/517_0.png 
+ [517]: img/animated/517.gif 
 [Musharna]: pokemons/518/ 
- [518]: img/pokemon/518_0.png 
+ [518]: img/animated/518.gif 
 [Audino]: pokemons/531/ 
- [531]: img/pokemon/531_0.png 
+ [531]: img/animated/531.gif 
 [Gothita]: pokemons/574/ 
- [574]: img/pokemon/574_0.png 
+ [574]: img/animated/574.gif 
 [Gothorita]: pokemons/575/ 
- [575]: img/pokemon/575_0.png 
+ [575]: img/animated/575.gif 
 [Gothitelle]: pokemons/576/ 
- [576]: img/pokemon/576_0.png 
+ [576]: img/animated/576.gif 
 [Vanilluxe]: pokemons/584/ 
- [584]: img/pokemon/584_0.png 
+ [584]: img/animated/584.gif 
 [Beartic]: pokemons/614/ 
- [614]: img/pokemon/614_0.png 
+ [614]: img/animated/614.gif 
 [types.afphoto]: img/type/types.afphoto
 [physical]: img/type/physical.png
 [dark]: img/type/dark.png

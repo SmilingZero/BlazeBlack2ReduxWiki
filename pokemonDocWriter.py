@@ -2,6 +2,11 @@ import os
 import json
 import csv
 from collections import OrderedDict
+from difflib import SequenceMatcher
+
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
 
 pokemonIndexFile = './data/pokemonIndexList.csv'
 with open(pokemonIndexFile, 'r', encoding='utf-8-sig') as indexFile:
@@ -13,6 +18,10 @@ with open(detailedMoveListFile) as f:
 pokemonEncounterLocations = 'scrapedJSON/ref/pokemonEncounters.json'
 with open(pokemonEncounterLocations) as f:
     pokemonEncounters = json.load(f)
+
+with open('locationLinkDict.json', mode = 'r') as f:
+    locationLinks = json.load(f)
+
 
 def getTypeIncludes():
     typesFolder = 'docs/img/type/'
@@ -50,11 +59,42 @@ def getDefensesTable(defense):
     contentRow = '| ' + ' | '.join([getCol(v) for k,v in defense.items()]) + ' |\n'
     return tableHeader+separator+contentRow+'\n'
 
-def getPokemonImage(number, form):
-    natDexNumber = f"{number:03}"
+pokemonImageLookup = './data/speciesImageLookup.json'
+with open(pokemonImageLookup, 'r') as f:
+    speciesImageLookup = json.load(f)
+
+
+def getSpecies(mon):
+    hyphenInd = mon.find('-')
+    if('♂' in mon):
+        form = 'base'
+        species= 'nidoranu2642'
+    elif '♀' in mon:
+        form = 'base'
+        species= 'nidoranu2640'
+    elif 'Porygon-Z' == mon:
+        form = 'base'
+        species = 'porygonz'
+    elif 'Ho-Oh' == mon:
+        species = 'hooh'
+        form = 'base'
+    else:
+        if hyphenInd == -1:
+            form = 'base'
+            species = mon.lower().strip()
+        else:
+            form = mon[hyphenInd+1:].strip().lower()
+            species = mon[:hyphenInd].strip().lower()
+        species = "".join([ c if c.isalnum() else "" for c in species ])
+    return species, form
+
+
+def getPokemonImage(name, form):
+    num = speciesImageLookup[name.lower()]['NatDexNum']
+    natDexNumber = f"{num:03}"
     imString = "![][{nm}_{f}]".format(nm=natDexNumber, f = form)
-    fname = str(number)+'_'+str(form)+'.png'
-    pkmnInclude = "[{nm}_{f}]: ../img/pokemon/{fid}\n".format(nm=natDexNumber, f = form, fid=fname)
+    fname = speciesImageLookup[name.lower()][form]
+    pkmnInclude = "[{nm}_{f}]: ../img/animated/{fid}\n".format(nm=natDexNumber, f = form, fid=fname)
     return pkmnInclude, imString
     
 def getEvolutionSection(evol):
@@ -72,11 +112,11 @@ def getEvolutionSection(evol):
                     '\n'.join(content)+'\n'
 
 
-def getSpriteTypeTable(number, form, type):
-    pkmnInclude, imString = getPokemonImage(number,form)
+def getSpriteTypeTable(name, form, type):
+    pkmnInclude, imString = getPokemonImage(name,form)
     tableHeader = '\n| ' + ' | '.join(['&nbsp;', 'Type']) + ' |\n'
     separator = '|: ' + ' :|: '.join(['---' for i in ['&nbsp;', '&nbsp;']]) + ' :|\n'
-    contentRow = '|' + imString + '|' + getSpeciesTypeString(type) + '|'
+    contentRow = '|' + '<br>'+imString + '|' + getSpeciesTypeString(type) + '|'
     return pkmnInclude, tableHeader+separator+contentRow+ '\n\n'
 
 def getAbilityTable(abi):
@@ -221,29 +261,49 @@ def getEncounters(species):
             return k[formInd+1:].strip()
         return None
     encounterList = []
-    colNames = ['Form', 'Location', 'Encounter Type', 'Level', 'Encounter Percent']
-    if len(wildEncounterKeys) > 1:
+    if(len(wildEncounterKeys))>1:
+        colNames = ['Form', 'Location', 'Encounter Type', 'Level', 'Encounter Percent']
         pokemonEncountersSubset = { getForm(k):pokemonEncounters[k] for k in wildEncounterKeys}
-        [[[encounterList.append([form, place, method, encounter['Level'], round(encounter['Spawn Percent'], 2)]) for method, encounter in methods.items()]for place, methods in places.items() ]for form,places in pokemonEncountersSubset.items()]
-        topRow = '| ' + ' | '.join(colNames) + ' |\n'
-        separator = '|: ' + ' :|: '.join(['--']*len(colNames)) + ' :|\n'
-        content = ['| ' + ' | '.join([str(i) for i in row])  + ' |\n' for row in encounterList]
-        tableString = topRow + separator + ''.join(content)
-        return '',tableString
     else:
+        colNames = ['Location', 'Encounter Type', 'Level', 'Encounter Percent']
         pokemonEncountersSubset = pokemonEncounters[wildEncounterKeys[0]]
-        [[encounterList.append([place, k, v['Level'], round(v['Spawn Percent'],2)]) for k,v in method.items()] for place, method in pokemonEncountersSubset.items()]
-        topRow = '| ' + ' | '.join(colNames[1:]) + ' |\n'
-        separator = '|: ' + ' :|: '.join(['--']*len(colNames[1:])) + ' :|\n'
-        content = ['| ' + ' | '.join([str(i) for i in row])  + ' |\n' for row in encounterList]
-        tableString = topRow + separator + ''.join(content)
-        return '',tableString
+    def getPlaceLinkText(place):
+        return '[{name}]'.format(name = place)
+    def getPlaceLinkIncl(place):
+        locationLinkKeys = list(locationLinks.keys())
+        keysInPlace = [i for i in locationLinkKeys if i in place]
+        locationSimilarity = [similar(place.lower(), i.lower()) for i  in keysInPlace]
+        maxIndex = locationSimilarity.index(max(locationSimilarity))
+        mostSimilarLocation = keysInPlace[maxIndex]
+        # print(place, ',',mostSimilarLocation)
+        return '[{name}]: ../../wildareas/{fname}'.format(name = place, fname = locationLinks[mostSimilarLocation].replace('.md', '/'))
+
+    placeInclude = []
+    
+
+    if len(wildEncounterKeys) > 1:
+        [[[encounterList.append([form, getPlaceLinkText(place), method, encounter['Level'], round(encounter['Spawn Percent'], 2)]) \
+           for method, encounter in methods.items()]\
+                for place, methods in places.items() ]for form,places in pokemonEncountersSubset.items()]
+        [[placeInclude.append(getPlaceLinkIncl(place)) for place, methods in places.items()]for form,places in pokemonEncountersSubset.items()]
+    else:
+        [[encounterList.append([getPlaceLinkText(place), k, v['Level'], round(v['Spawn Percent'],2)]) for k,v in method.items()] for place, method in pokemonEncountersSubset.items()]
+        [[placeInclude.append(getPlaceLinkIncl(place)) for k,v in method.items()] for place, method in pokemonEncountersSubset.items()]
+    
+    placeInclude = '\n'.join(placeInclude)
+    
+    topRow = '| ' + ' | '.join(colNames) + ' |\n'
+    separator = '|: ' + ' :|: '.join(['--']*len(colNames)) + ' :|\n'
+    content = ['| ' + ' | '.join([str(i) for i in row])  + ' |\n' for row in encounterList]
+    tableString = topRow + separator + ''.join(content)
+    return placeInclude,tableString
 
 def getSingleFormMarkdown(pkmnInformation):
     bodyText = ''
     bodyIncludes = ''
     number = pkmnInformation['Number']
-    pkmnInclude, tableString = getSpriteTypeTable(number,form = 0, type = pkmnInformation['TYPE'])
+    species, form = getSpecies(pkmnInformation['Name'])
+    pkmnInclude, tableString = getSpriteTypeTable(species,form = 'base', type = pkmnInformation['TYPE'])
         
     abilityTable = getAbilityTable(pkmnInformation['Ability'])
     bstTable = getStatTable(pkmnInformation['STATS'])
@@ -293,7 +353,8 @@ def getMultiFormMarkdown(pkmn,form):
     number = pkmn['Number']
     formHeader = getSubsectionHeader(pkmn['Name'])
     bodyText+=formHeader
-    pkmnInclude, tableString = getSpriteTypeTable(number,form = form, type = pkmn['TYPE'])
+    species, form = getSpecies(pkmn['Name'])
+    pkmnInclude, tableString = getSpriteTypeTable(species,form = form, type = pkmn['TYPE'])
     bodyText+= tableString
     bodyIncludes.append(pkmnInclude)
     def isValid(item):

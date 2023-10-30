@@ -360,7 +360,7 @@ Redux aims to make up for the Forces of Nature's absence in Black and White 2 th
  - Finally, go to the house in the Abundant Shrine and receive Reveal Glass.
  
 
-| [Tonadus] | [Thundurus] | [Landorus] |
+| [Tornadus] | [Thundurus] | [Landorus] |
 | :--- :|:---: |:---: |
 | ![][641] | ![][642] | ![][645] |
 | Found in the Moor of Icirrus. | Found outside the Dragonspiral Tower. | Found by the Abundant Shrine, after catching Tornadus and Thundurus, then speaking to the family on Route 7. |
@@ -444,54 +444,54 @@ Genesect is first seen being used by Ghetsis. You can of course grab your own th
 
 
 
-[144]: img/pokemon/144_0.png
-[145]: img/pokemon/145_0.png
-[146]: img/pokemon/146_0.png
-[150]: img/pokemon/150_0.png
-[151]: img/pokemon/151_0.png
-[243]: img/pokemon/243_0.png
-[244]: img/pokemon/244_0.png
-[245]: img/pokemon/245_0.png
-[249]: img/pokemon/249_0.png
-[250]: img/pokemon/250_0.png
-[251]: img/pokemon/251_0.png
-[377]: img/pokemon/377_0.png
-[378]: img/pokemon/378_0.png
-[379]: img/pokemon/379_0.png
-[380]: img/pokemon/380_0.png
-[381]: img/pokemon/381_0.png
-[382]: img/pokemon/382_0.png
-[383]: img/pokemon/383_0.png
-[384]: img/pokemon/384_0.png
-[385]: img/pokemon/385_0.png
-[386]: img/pokemon/386_0.png
-[480]: img/pokemon/480_0.png
-[481]: img/pokemon/481_0.png
-[482]: img/pokemon/482_0.png
-[483]: img/pokemon/483_0.png
-[484]: img/pokemon/484_0.png
-[487]: img/pokemon/487_0.png
-[493]: img/pokemon/493_0.png
-[485]: img/pokemon/485_0.png
-[486]: img/pokemon/486_0.png
-[488]: img/pokemon/488_0.png
-[491]: img/pokemon/491_0.png
-[490]: img/pokemon/490_0.png
-[489]: img/pokemon/489_0.png
-[492]: img/pokemon/492_0.png
-[494]: img/pokemon/494_0.png
-[638]: img/pokemon/638_0.png
-[639]: img/pokemon/639_0.png
-[640]: img/pokemon/640_0.png
-[641]: img/pokemon/641_0.png
-[642]: img/pokemon/642_0.png
-[645]: img/pokemon/645_0.png
-[644]: img/pokemon/644_0.png
-[643]: img/pokemon/643_0.png
-[646]: img/pokemon/646_0.png
-[647]: img/pokemon/647_0.png
-[648]: img/pokemon/648_0.png
-[649]: img/pokemon/649_0.png
+[144]: img/animated/144.gif
+[145]: img/animated/145.gif
+[146]: img/animated/146.gif
+[150]: img/animated/150.gif
+[151]: img/animated/151.gif
+[243]: img/animated/243.gif
+[244]: img/animated/244.gif
+[245]: img/animated/245.gif
+[249]: img/animated/249.gif
+[250]: img/animated/250.gif
+[251]: img/animated/251.gif
+[377]: img/animated/377.gif
+[378]: img/animated/378.gif
+[379]: img/animated/379.gif
+[380]: img/animated/380.gif
+[381]: img/animated/381.gif
+[382]: img/animated/382.gif
+[383]: img/animated/383.gif
+[384]: img/animated/384.gif
+[385]: img/animated/385.gif
+[386]: img/animated/386.gif
+[480]: img/animated/480.gif
+[481]: img/animated/481.gif
+[482]: img/animated/482.gif
+[483]: img/animated/483.gif
+[484]: img/animated/484.gif
+[487]: img/animated/487.gif
+[493]: img/animated/493.gif
+[485]: img/animated/485.gif
+[486]: img/animated/486.gif
+[488]: img/animated/488.gif
+[491]: img/animated/491.gif
+[490]: img/animated/490.gif
+[489]: img/animated/489.gif
+[492]: img/animated/492.gif
+[494]: img/animated/494.gif
+[638]: img/animated/638.gif
+[639]: img/animated/639.gif
+[640]: img/animated/640.gif
+[641]: img/animated/641.gif
+[642]: img/animated/642.gif
+[645]: img/animated/645.gif
+[644]: img/animated/644.gif
+[643]: img/animated/643.gif
+[646]: img/animated/646.gif
+[647]: img/animated/647.gif
+[648]: img/animated/648.gif
+[649]: img/animated/649.gif
 
 [Articuno]: pokemons/144/
 [Zapdos]: pokemons/145/

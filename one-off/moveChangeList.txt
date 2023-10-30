@@ -1,0 +1,579 @@
+=========================================================
+Redux Move Modifications
+=========================================================
+
+Absorb
+ - Power 20 -> 35 [!]
+
+Acid
+ - Power 20 -> 35 [!]
+
+Acid Armour
+ - PP 40 -> 20
+
+Air Cutter
+ - Power 55 -> 60
+ - PP 25 -> 15 [L:A]
+
+Air Slash
+ - PP 15 -> 10 [L:A]
+
+Ally Switch
+ - Priority +1 -> +2
+
+Aqua Tail
+ - Power 90 -> 100 [!]
+ - Accuracy 90 -> 85 [!]
+
+Arm Thrust
+ - Power 15 -> 20 [!]
+
+Assurance
+ - Power 50 -> 60
+
+Astonish 
+ - Power 30 -> 35 [!]
+
+Aura Sphere
+ - Power 80 -> 90 [!]
+
+Aurora Beam
+ - Power 65 -> 75 [!]
+
+Barrier
+ - PP 30 -> 20
+
+Blaze Kick
+ - Accuracy 90 -> 100 [!]
+
+Blizzard
+ - Power 120 -> 110
+
+Bite
+ - PP 25 -> 20 [L:A]
+
+BubbleBeam
+ - Power 65 -> 70 [!]
+
+Bulk Up
+ - PP 20 -> 10 [L:A]
+
+Bullet Punch
+ - PP 30 -> 20 [L:A]
+
+Calm Mind
+ - PP 20 -> 10 [L:A]
+
+Charge Beam
+ - PP 10 -> 15 [L:A]
+
+Chatter
+ - Power 70 -> 90 [!]
+ - PP 20 -> 10 [!]
+
+Confusion
+ - PP 25 -> 20 [L:A]
+
+Covet
+ - PP 40 -> 20 [!]
+ - Type Normal -> Fairy [!]
+
+Crabhammer
+ - Effect High Critical Ratio -> 10% Def -1 [!]
+
+Cross Poison
+ - Power 70 -> 90 [!]
+ - PP 20 -> 15 [L:A]
+
+Crunch
+ - PP 15 -> 10 [L:A]
+
+Cut
+ - Effect None -> High Critical Ratio [!]
+ - Type Normal -> Grass [!]
+
+Draco Meteor 
+ - Power 140 -> 130
+
+Dark Pulse
+ - PP 15 -> 10 [L:A]
+ - Accuracy 100 -> Never Miss [L:A]
+
+Dark Void
+ - Accuracy 50 -> 90 [L:A]
+
+Dive
+ - Power 80 -> 100 [!]
+
+Dragon Breath
+ - Power 60 -> 70 [!]
+
+Dragon Claw
+ - Power 80 -> 85 [!]
+ - PP 15 -> 10 [L:A]
+ - Effect None -> High Critical Ratio [L:A]
+
+Dragon Pulse
+ - Power 85 -> 90 [!]
+ - Accuracy 100 -> Never Miss [L:A]
+
+Dragon Rush
+ - Accuracy 75 -> 80 [!]
+
+Dragon Tail
+ - Accuracy 90 -> 95 [!]
+
+Draining Kiss
+ - Power 50 -> 70 [!]
+
+Echoed Voice
+ - Power 40 -> 50 [!]
+
+Energy Ball
+ - Power 80 -> 90 [!]
+
+Extrasensory
+ - PP 20 -> 15 [L:A]
+
+False Swipe
+ - PP 40 -> 30 [L:A]
+
+Fire Blast
+ - Power 120 -> 110
+
+Fire Pledge
+ - Power 50 -> 75 [!]
+
+Fire Punch 
+ - PP 15 -> 10 [L:A]
+
+Flame Charge
+ - Power 50 -> 60 [!]
+
+Flame Wheel
+ - Power 60 -> 75 [!]
+ - PP 25 -> 20 [L:A]
+
+Flamethrower
+ - PP 15 -> 10 [L:A]
+
+Flash Cannon
+ - Power 80 -> 90 [!]
+
+Fly
+ - Power 95 -> 80 [!]
+ - Accuracy 95 -> 100 [!]
+
+Focus Energy
+ - PP 30 -> 20 [L:A]
+
+Follow Me
+ - Priority +3 -> +2 
+
+Frost Breath
+ - Power 60 -> 50** [!]
+
+Fury Cutter
+ - Power 20 -> 30 [!]
+
+Future Sight
+ - Power 100 -> 120
+
+Gear Grind
+ - Power 50 -> 65 [!]
+ - Accuracy 85 -> 95 [!]
+ - PP 15 -> 10 [!]
+
+Giga Drain
+ - Power 75 -> 80 [!]
+
+Glaciate
+ - Power 65 -> 85 [!]
+ - Accuracy 95 -> 100 [!]
+
+Glare
+ - Accuracy 90 -> 100
+
+Grass Pledge
+ - Power 50 -> 75 [!]
+
+Grass Whistle
+ - Accuracy 55 -> 65 [!]
+
+Growth
+ - PP 40 -> 20
+
+Gust
+ - PP 35 -> 25 [L:A]
+
+Gunk Shot
+ - Accuracy 70 -> 80
+
+Head Smash
+ - Accuracy 80 -> 85 [!]
+
+Heart Stamp
+ - Power 60 -> 75 [!]
+ - PP 25 -> 15 [!]
+
+Heat Wave
+ - Power 95 -> 100 [!]
+
+Hex
+ - Power 50 -> 65
+ - PP 10 -> 15 [L:A]
+
+Howl*
+ - Effect Raises User and Allies Attack -> Raises only Users Attack
+
+Hurricane
+ - Power 120 -> 110
+ - Accuracy 70 -> 80 [!]
+ - PP 10 -> 5 [L:A]
+
+Hydro Pump
+ - Power 120 -> 110
+
+Ice Beam
+ - Power 95 -> 90
+
+Ice Punch
+ - PP 15 -> 10 [L:A]
+
+Ice Shard
+ - PP 30 -> 20 [L:A]
+
+Incinerate
+ - Power 50 -> 60
+
+Inferno
+ - Accuracy 50 -> 65 [!]
+
+Judgement
+ - Power 100 -> 150 [!]
+
+Knock Off
+ - Power 20 -> 65
+
+Leaf Storm
+ - Power 140 -> 130
+
+Leaf Tornado
+ - Power 65 -> 70 [!]
+ - Accuracy 90 -> 100 [!]
+ - Effect 50% Accuracy -1 -> 30% Accuracy -1 [!]
+
+Leech Life
+ - Power 20 -> 80
+ - PP 15 -> 10
+
+Lick
+ - Power 20 -> 30 [!]
+ - PP 30 -> 25
+
+Low Sweep
+ - Power 60 -> 65
+
+Mach Punch
+ - PP 30 -> 20 [L:A]
+
+Magic Room
+ - Priority -7 -> 0
+
+Magma Storm
+ - Power 100 -> 120 [!]
+
+Mega Drain
+ - Power 40 -> 65 [!]
+
+Meteor Mash
+ - Power 90 -> 95 [!]
+
+Minimise
+ - PP 20 -> 10
+
+Muddy Water
+ - Power 95 -> 90
+
+Mud-Slap
+ - Power 20 -> 30 [!]
+ - PP 10 -> 20 [L:A]
+
+Needle Arm
+ - Power 60 -> 100 [!]
+ - Effect None -> Boosted by the ability Iron Fist [!]
+
+Octazooka
+ - Power 65 -> 90 [!]
+ - PP 10 -> 5 [!]
+ - Effect 50% Accuracy -1 -> 30% Accuracy -1 [!]
+ - Effect None -> High Critical Ratio [!]
+
+Overheat
+ - Power 140 -> 130
+
+Pin Missile
+ - Power 14 -> 25
+ - Accuracy 85 -> 95
+
+Poison Fang 
+ - Power 50 -> 65 [!]
+ - Accuracy 100 -> 95 [!]
+ - Effect B.Poison 30% -> 50% [!]
+
+Poison Gas
+ - PP 40 -> 20 [L:A]
+ - Accuracy 80 -> 100 [!]
+
+Poison Jab 
+ - PP 20 -> 10 [L:A]
+
+Poison Powder
+ - PP 35 -> 20 [L:A]
+
+Poison Sting
+ - Power 15 -> 30 [L:A]
+ - PP 35 -> 20 [L:A]
+
+Poison Tail
+ - Power 50 -> 80 [!]
+ - PP 25 -> 10 [!]
+
+Power Gem
+ - Power 80 -> 90 [!]
+ - PP 20 -> 10 [L:A]
+ - Effect None -> Sp. Def Drop 10% [!]
+
+Power-Up Punch
+ - Power 40 -> 50 [!]
+
+Psycho Cut
+ - Power 70 -> 90 [!]
+ - PP 20 -> 10 [!]
+
+Quick Attack
+ - PP 30 -> 20 [L:A]
+
+Rage Powder
+ - Priority +3 -> +2
+
+Rapid Spin
+ - Power 20 -> 50
+
+Razor Shell
+ - Accuracy 95 -> 100 [!]
+
+Roar
+ - Accuracy 100 -> Never Miss
+
+Rock Climb
+ - Power 90 -> 80 [!]
+ - Accuracy 85 -> 95 [!]
+ - PP 20 -> 10 [!]
+ - Type Normal -> Rock [!]
+
+Rock Smash
+ - Power 40 -> 55 [!]
+ - Effect 50% Def -1 -> 100% Def -1 [!]
+ - Effect None -> Boosted by the ability Iron Fist [!]
+
+Rock Tomb
+ - Power 50 -> 60
+ - Accuracy 80 -> 95
+ - PP 10 -> 15
+
+Rollout
+ - Power 30 -> 40 [L:A]
+
+Sacred Sword
+ - PP 20 -> 15
+
+Scald 
+ - PP 15 -> 10 [!]
+ - Effect 30% Burn -> 10% Burn [!]
+
+Shadow Ball
+ - PP 15 -> 10 [L:A]
+
+Shadow Punch
+ - Power 60 -> 90 [!]
+
+Shadow Claw
+ - PP 70 -> 90 [!]
+
+Shadow Sneak
+ - PP 30 -> 20 [L:A]
+
+Slash
+ - PP 20 -> 15 [L:A]
+
+Sludge
+ - Power 65 -> 70 [!]
+ - PP 20 -> 15 [!]
+
+Smelling Salts
+ - Power 60 -> 70
+
+Smog
+ - Power 20 -> 35 [!]
+ - Accuracy 70 -> 90 [!]
+
+Snarl
+ - Accuracy 95 -> 100 [L:A]
+
+Spore
+ - PP 15 -> 10 [L:A]
+
+Steam Roller
+ - Power 75 -> 100 [!]
+ - Accuracy 100 -> 90 [!]
+ - PP 20 -> 10 [!]
+
+String Shot
+ - Speed -1 -> Speed -2
+
+Storm Throw
+ - Power 40 -> 50 [!]
+
+Strength
+ - Power 80 -> 85 [!]
+ - Effect None -> 10% Raise Attack [!]
+ - PP 15 -> 10 [!]
+
+Stun Spore
+ - PP 30 -> 20 [L:A]
+ - Accuracy 75 -> 90 [!]
+
+Sucker Punch
+ - Power 80 -> 70
+
+Surf
+ - Power 95 -> 90
+
+Swagger
+ - Accuracy 90 -> 85
+
+Swords Dance
+ - PP 30 -> 20
+
+Psycho Shift
+ - Accuracy 90 -> 100
+
+Psywave
+ - Accuracy 80 -> 100
+
+Synchronoise
+ - Power 70 -> 120
+ - PP 15 -> 10
+
+Tackle
+ - Power 40 -> 50 [!]
+ - PP 35 -> 30 [L:A]
+
+Tailwind
+ - PP 30 -> 15
+
+Techno Blast
+ - Power 85 -> 140 [!]
+
+Thief
+ - Power 40 -> 50 [!]
+ - PP 10 -> 15 [!]
+
+Triple Axel***
+ - Power 20 -> 30 [!]
+ - Effect Successive Hits Power 20 -> 10 [!]
+
+Thunder
+ - Power 120 -> 110
+ - PP 10 -> 5 [L:A]
+
+Thunder Punch
+ - PP 15 -> 10 [L:A]
+
+Thunder Shock
+ - PP 30 -> 25 [L:A]
+
+Thunderbolt
+ - Power 95 -> 90
+ - PP 15 -> 10 [L:A]
+
+Thunder Wave
+ - Accuracy 100 -> 90
+
+Twineedle
+ - Power 25 -> 40 [!]
+
+Twister
+ - Power 40 -> 50 [!]
+ - PP 25 -> 20 [L:A]
+
+Venoshock
+ - PP 10 -> 15 [L:A]
+
+Vine Whip
+ - Power 35 -> 40 [!]
+
+Wake-Up Slap
+ - Power 60 -> 70
+
+Waterfall
+ - PP 15 -> 10 [!]
+
+Water Pledge
+ - Power 50 -> 75 [!]
+
+Wild Charge
+ - PP 15 -> 10 [!]
+ - Effect Recoil -> No Recoil [!]
+
+Will-O-Wisp
+ - Accuracy 75 -> 85
+
+Whirlwind
+ - Accuracy 100 -> Never Miss
+
+Wonder Room
+ - Priority -7 -> 0
+
+X-Scissor
+ - PP 15 -> 10 [L:A]
+ - Effect None -> High Critical Ratio [L:A]
+
+Zen Headbutt
+ - PP 15 -> 10 [L:A]
+
+
+
+=========================================================
+Legends: Arceus Moves
+=========================================================
+Esper Wing
+ - Power 75 -> 70 [!]
+ - Accuracy 90 -> 100 [!]
+ - PP 10
+ - Priority None -> +1
+
+Headlong Rush
+ - Power 100 -> 120 [!]
+ - Accuracy 100 -> 90 [!]
+ - PP None -> 5
+ - Effect None -> Drops both Defense and Special Defense like Close Combat
+
+Psyshield Bash
+ - Power None -> 70
+ - Accuracy 90 -> 95 [!]
+ - PP None -> 10
+ - Effect None -> Rasies the user's Defense and Special Defense by one stage.
+
+Raging Fury
+ - Power 90 -> 95 [!]
+ - Accuracy 85 -> 100 [!]
+ - PP None -> 10
+ - Effect None -> Confuses user like Outrage
+
+Wave Crash
+ - Power 75 -> 110 [!]
+ - Accuracy None -> 100
+ - PP 10 -> 5 [!]
+ - Effect None -> Damages user like Double Edge

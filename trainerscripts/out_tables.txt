@@ -1,0 +1,79 @@
+| __Battle__ | __Level Cap__ |
+| --- | --- |
+| Cheren | Lv. 13 |
+| Roxie | Lv. 20 |
+| Burgh | Lv. 27 |
+| Elesa | Lv. 36 |
+| Clay | Lv. 43 |
+| Skyla | Lv. 52 |
+| Drayden | Lv. 60 |
+| Marlon | Lv. 64 |
+| Ghetsis | Lv. 68 |
+| Elite Four et al | Lv. 74 |
+| Iris | Lv. 75 |
+
+
+| __Battle__ | __Level Cap__ |
+| --- | --- |
+| Cheren | Lv. 14 |
+| Roxie | Lv. 21 |
+| New to Redux | Lv. 23 |
+| Burgh | Lv. 29 |
+| New to Redux | Lv. 33 |
+| Subway Masters | Lv. 36 |
+| Elesa | Lv. 38 |
+| Charles | Lv. 39 |
+| Rood | Lv. 41 |
+| Clay | Lv. 45 |
+| New to Redux | Lv. 53 |
+| Skyla | Lv. 55 |
+| New to Redux | Lv. 56 |
+| Hugh | Lv. 58 |
+| New to Redux | Lv. 62 |
+| Drayden | Lv. 64 |
+| Marlon | Lv. 68 |
+| Ghetsis | Lv. 72 |
+| New to Redux | Lv. 76 |
+| Elite Four et al | Lv. 78 |
+| Iris | Lv. 79 |
+
+
+| __Required__ | __Level Cap__ | __Battle__ |
+| --- | --- | --- |
+| :exclamation: | 11 | Hugh |
+| :grey_exclamation: | 13 | Roxanne  |
+| :exclamation: | 14 | Cheren :warning: |
+| :grey_exclamation: | 20 | Brawly |
+| :exclamation: | 21 | Roxie :warning: |
+| :exclamation: | 23 | Brycen |
+| :grey_exclamation: | 29 | Wattson  |
+| :exclamation: | 29 | Burgh :warning: |
+| :exclamation: | 30 | Colress |
+| :exclamation: | 33 | Lenora and Hawes |
+| :grey_exclamation: | 36 | Subway Bosses |
+| :grey_exclamation: | 37 | Flannery  |
+| :exclamation: | 38 | Elesa :warning: |
+| :exclamation: | 39 | Charles |
+| :exclamation: | 41 | Rood  |
+| :grey_exclamation: | 44 | Norman |
+| :exclamation: | 45 | Clay :warning: |
+| :exclamation: | 47 | Hugh |
+| :exclamation: | 53 | Colress |
+| :grey_exclamation: | 54 | Juan |
+| :exclamation: | 55 | Skyla :warning: |
+| :exclamation: | 56 | Bianca  |
+| :exclamation: | 58 | Hugh |
+| :exclamation: | 60 | Zinzolin |
+| :exclamation: | 62 | Benga |
+| :grey_exclamation: | 63 | Winona |
+| :exclamation: | 64 | Drayden :warning: |
+| :exclamation: | 64 | Zinzolin |
+| :grey_exclamation: | 67 | Tate and Liza |
+| :exclamation: | 68 | Marlon :warning: |
+| :exclamation: | 68 | Zinzolin |
+| :exclamation: | 70 | Zinzolin |
+| :exclamation: | 70 | Colress |
+| :exclamation: | 72 | Ghetsis :warning: |
+| :exclamation: | 76 | Lance |
+| :exclamation: | 77 | Hugh |
+| :exclamation: | 78 | The Pokémon League :warning: |
