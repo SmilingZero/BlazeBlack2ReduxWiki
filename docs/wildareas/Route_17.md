@@ -9,22 +9,22 @@
 
 
 [592]: ../img/animated/592.gif
-[Frillish]: ../pokemons/592/
+[Frillish]: ../../pokemons/592/
 [458]: ../img/animated/458.gif
-[Mantyke]: ../pokemons/458/
+[Mantyke]: ../../pokemons/458/
 [489]: ../img/animated/489.gif
-[Phione]: ../pokemons/489/
+[Phione]: ../../pokemons/489/
 [456]: ../img/animated/456.gif
-[Finneon]: ../pokemons/456/
+[Finneon]: ../../pokemons/456/
 [117]: ../img/animated/117.gif
-[Seadra]: ../pokemons/117/
+[Seadra]: ../../pokemons/117/
 [457]: ../img/animated/457.gif
-[Lumineon]: ../pokemons/457/
+[Lumineon]: ../../pokemons/457/
 [230]: ../img/animated/230.gif
-[Kingdra]: ../pokemons/230/
+[Kingdra]: ../../pokemons/230/
 [226]: ../img/animated/226.gif
-[Mantine]: ../pokemons/226/
+[Mantine]: ../../pokemons/226/
 [593]: ../img/animated/593.gif
-[Jellicent]: ../pokemons/593/
+[Jellicent]: ../../pokemons/593/
 [211]: ../img/animated/211.gif
-[Qwilfish]: ../pokemons/211/
+[Qwilfish]: ../../pokemons/211/

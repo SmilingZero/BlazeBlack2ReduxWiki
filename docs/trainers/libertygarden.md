@@ -36,12 +36,12 @@
 
 [VictiniGuardian]: ../img/Trainers/Veteran_Male.gif
 [294]: ../img/animated/294.gif
-[Loudred]: ../pokemons/294/
+[Loudred]: ../../pokemons/294/
 [626]: ../img/animated/626.gif
-[Bouffalant]: ../pokemons/626/
+[Bouffalant]: ../../pokemons/626/
 [518]: ../img/animated/518.gif
-[Musharna]: ../pokemons/518/
+[Musharna]: ../../pokemons/518/
 [292]: ../img/animated/292.gif
-[Shedinja]: ../pokemons/292/
+[Shedinja]: ../../pokemons/292/
 [182]: ../img/animated/182.gif
-[Bellossom]: ../pokemons/182/
+[Bellossom]: ../../pokemons/182/

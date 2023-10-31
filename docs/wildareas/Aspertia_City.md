@@ -9,10 +9,10 @@
 
 
 [580]: ../img/animated/580.gif
-[Ducklett]: ../pokemons/580/
+[Ducklett]: ../../pokemons/580/
 [283]: ../img/animated/283.gif
-[Surskit]: ../pokemons/283/
+[Surskit]: ../../pokemons/283/
 [223]: ../img/animated/223.gif
-[Remoraid]: ../pokemons/223/
+[Remoraid]: ../../pokemons/223/
 [349]: ../img/animated/349.gif
-[Feebas]: ../pokemons/349/
+[Feebas]: ../../pokemons/349/

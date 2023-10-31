@@ -9,16 +9,16 @@
 
 
 [550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../pokemons/550/
+[Basculin-Blue]: ../../pokemons/550/
 [341]: ../img/animated/341.gif
-[Corphish]: ../pokemons/341/
+[Corphish]: ../../pokemons/341/
 [118]: ../img/animated/118.gif
-[Goldeen]: ../pokemons/118/
+[Goldeen]: ../../pokemons/118/
 [54]: ../img/animated/54.gif
-[Psyduck]: ../pokemons/054/
+[Psyduck]: ../../pokemons/054/
 [550-red]: ../img/animated/550-red.gif
-[Basculin-Red]: ../pokemons/550/
+[Basculin-Red]: ../../pokemons/550/
 [342]: ../img/animated/342.gif
-[Crawdaunt]: ../pokemons/342/
+[Crawdaunt]: ../../pokemons/342/
 [119]: ../img/animated/119.gif
-[Seaking]: ../pokemons/119/
+[Seaking]: ../../pokemons/119/

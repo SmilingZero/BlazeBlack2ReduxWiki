@@ -11,22 +11,22 @@
 
 
 [536]: ../img/animated/536.gif
-[Palpitoad]: ../pokemons/536/
+[Palpitoad]: ../../pokemons/536/
 [195]: ../img/animated/195.gif
-[Quagsire]: ../pokemons/195/
+[Quagsire]: ../../pokemons/195/
 [618]: ../img/animated/618.gif
-[Stunfisk]: ../pokemons/618/
+[Stunfisk]: ../../pokemons/618/
 [588]: ../img/animated/588.gif
-[Karrablast]: ../pokemons/588/
+[Karrablast]: ../../pokemons/588/
 [616]: ../img/animated/616.gif
-[Shelmet]: ../pokemons/616/
+[Shelmet]: ../../pokemons/616/
 [454]: ../img/animated/454.gif
-[Toxicroak]: ../pokemons/454/
+[Toxicroak]: ../../pokemons/454/
 [423-west]: ../img/animated/423-west.gif
-[Gastrodon-West]: ../pokemons/423/
+[Gastrodon-West]: ../../pokemons/423/
 [339]: ../img/animated/339.gif
-[Barboach]: ../pokemons/339/
+[Barboach]: ../../pokemons/339/
 [340]: ../img/animated/340.gif
-[Whiscash]: ../pokemons/340/
+[Whiscash]: ../../pokemons/340/
 [537]: ../img/animated/537.gif
-[Seismitoad]: ../pokemons/537/
+[Seismitoad]: ../../pokemons/537/

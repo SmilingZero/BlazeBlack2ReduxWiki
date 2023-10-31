@@ -36,15 +36,15 @@
 
 [Backpacker♂Boone]: ../img/Trainers/Backpacker_Male.gif
 [322]: ../img/animated/322.gif
-[Numel]: ../pokemons/322/
+[Numel]: ../../pokemons/322/
 [178]: ../img/animated/178.gif
-[Xatu]: ../pokemons/178/
+[Xatu]: ../../pokemons/178/
 [323]: ../img/animated/323.gif
-[Camerupt]: ../pokemons/323/
+[Camerupt]: ../../pokemons/323/
 [Psychic♀Lynette]: ../img/Trainers/Psychic_Female.gif
 [478]: ../img/animated/478.gif
-[Froslass]: ../pokemons/478/
+[Froslass]: ../../pokemons/478/
 [282]: ../img/animated/282.gif
-[Gardevoir]: ../pokemons/282/
+[Gardevoir]: ../../pokemons/282/
 [429]: ../img/animated/429.gif
-[Mismagius]: ../pokemons/429/
+[Mismagius]: ../../pokemons/429/

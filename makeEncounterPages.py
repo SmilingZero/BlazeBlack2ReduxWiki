@@ -78,7 +78,7 @@ def getEncounterCell(mon):
                                                                                name = mon[0], 
                                                                                lvl = mon[1]['Level'],
                                                                                perc = round(mon[1]['Spawn Percent'], 2))
-    inclStr = '[{num}]: ../img/animated/{imStr}\n[{name}]: ../pokemons/{natNum}/'\
+    inclStr = '[{num}]: ../img/animated/{imStr}\n[{name}]: ../../pokemons/{natNum}/'\
         .format(num=imID, imStr =thisMonIm, name=mon[0], natNum=threeDigitNum)
     return (cellStr, inclStr)
 

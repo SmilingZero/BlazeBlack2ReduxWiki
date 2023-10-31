@@ -9,16 +9,16 @@
 
 
 [366]: ../img/animated/366.gif
-[Clamperl]: ../pokemons/366/
+[Clamperl]: ../../pokemons/366/
 [72]: ../img/animated/72.gif
-[Tentacool]: ../pokemons/072/
+[Tentacool]: ../../pokemons/072/
 [73]: ../img/animated/73.gif
-[Tentacruel]: ../pokemons/073/
+[Tentacruel]: ../../pokemons/073/
 [370]: ../img/animated/370.gif
-[Luvdisc]: ../pokemons/370/
+[Luvdisc]: ../../pokemons/370/
 [367]: ../img/animated/367.gif
-[Huntail]: ../pokemons/367/
+[Huntail]: ../../pokemons/367/
 [368]: ../img/animated/368.gif
-[Gorebyss]: ../pokemons/368/
+[Gorebyss]: ../../pokemons/368/
 [594]: ../img/animated/594.gif
-[Alomomola]: ../pokemons/594/
+[Alomomola]: ../../pokemons/594/

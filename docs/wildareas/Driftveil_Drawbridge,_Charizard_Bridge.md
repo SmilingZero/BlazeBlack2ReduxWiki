@@ -6,8 +6,8 @@
 
 
 [580]: ../img/animated/580.gif
-[Ducklett]: ../pokemons/580/
+[Ducklett]: ../../pokemons/580/
 [187]: ../img/animated/187.gif
-[Hoppip]: ../pokemons/187/
+[Hoppip]: ../../pokemons/187/
 [333]: ../img/animated/333.gif
-[Swablu]: ../pokemons/333/
+[Swablu]: ../../pokemons/333/

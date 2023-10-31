@@ -10,14 +10,15 @@ outLinkText = 'trainerscripts/out_trainerLinks.txt'
 linkText = '  - Trainers By Area:\n'
 fileDir = 'trainers/'
 replacementString = '~~~~~~~~~~~~\nFirst Visit\n~~~~~~~~~~~~\n'
-
-outLinkText = 'trainerscripts/out_postgameTrainerLinks.txt'
-linkText = '  - Postgame Trainers:\n'
-fileDir = 'postgame/'
-replacementString = '~~~~~~~~~~~~\nPostgame\n~~~~~~~~~~~~\n'
-
 trainerListFile = 'trainerscripts/trainerList.txt'
-trainerListFile = 'trainerscripts/postGameTrainers.txt'
+
+# outLinkText = 'trainerscripts/out_postgameTrainerLinks.txt'
+# linkText = '  - Postgame Trainers:\n'
+# fileDir = 'postgame/'
+# replacementString = '~~~~~~~~~~~~\nPostgame\n~~~~~~~~~~~~\n'
+# trainerListFile = 'trainerscripts/postGameTrainers.txt'
+
+
 # trainerListFile = 'trainerscripts/tmpTrainer.txt'
 with open(trainerListFile, mode='r') as t:
     rawTrainerList = t.read()
@@ -137,7 +138,7 @@ def getPokemonCell(raw):
             imID = re.findall('(.+).gif', thisMonIm)[0]
             threeDigitNum = "{0:03}".format(thisMonImages['NatDexNum'])
             pokePortraitString = '![][{num}] <br> __[{name}]__ <br>'.format(num = imID, name = mon)
-            inclString = '[{num}]: ../img/animated/{imStr}\n[{name}]: ../pokemons/{natNum}/'\
+            inclString = '[{num}]: ../img/animated/{imStr}\n[{name}]: ../../pokemons/{natNum}/'\
                 .format(num=imID, imStr =thisMonIm, name=mon, natNum=threeDigitNum)
     cell = pokePortraitString+pokeText
     return cell, inclString

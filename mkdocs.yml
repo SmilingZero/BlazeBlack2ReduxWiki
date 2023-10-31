@@ -28,12 +28,12 @@ theme:
 nav:
 - Home: index.md
 - Important Nuzlocke Info: nuzlocke.md
-- Pokémon Pages:
+- Pokémon Information:
     - General Pokémon Changes: genMonChanges.md
     - Gift Pokémon, Special Encounters: giftPokemon.md
     - Legendary Pokémon: legendary.md
     - In-Game Trades: trademon.md
-    - Pokémon Pages:
+    - Specific Pokémon:
       - 001 - Bulbasaur: pokemons/001.md
       - 002 - Ivysaur: pokemons/002.md
       - 003 - Venusaur: pokemons/003.md
@@ -808,8 +808,7 @@ nav:
   - Postgame Trainers:
     - Elite Four: postgame/elitefour.md
     - Hugh: postgame/hugh.md
-    - Plasma Frigate: postgame/plasmafrigate.md
-    - Icirrus City: postgame/icirruscity.md
+    - Team Plasma: postgame/teamplasma.md
     - Other Important Trainers: postgame/otherimportanttrainers.md
     - Unovan Gym Leader Rematches: postgame/unovangymleaderrematches.md
 

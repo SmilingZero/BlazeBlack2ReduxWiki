@@ -9,12 +9,12 @@
 
 
 [90]: ../img/animated/90.gif
-[Shellder]: ../pokemons/090/
+[Shellder]: ../../pokemons/090/
 [120]: ../img/animated/120.gif
-[Staryu]: ../pokemons/120/
+[Staryu]: ../../pokemons/120/
 [550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../pokemons/550/
+[Basculin-Blue]: ../../pokemons/550/
 [91]: ../img/animated/91.gif
-[Cloyster]: ../pokemons/091/
+[Cloyster]: ../../pokemons/091/
 [369]: ../img/animated/369.gif
-[Relicanth]: ../pokemons/369/
+[Relicanth]: ../../pokemons/369/

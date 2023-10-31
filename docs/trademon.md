@@ -76,9 +76,9 @@ Location: Humilau City.
 
 --8<-- "includes/abilities.md"
 
-[175]: img/pokemon/175_0.png
-[132]: img/pokemon/132_0.png
-[489]: img/pokemon/489_0.png
+[175]: img/animated/175.gif
+[132]: img/animated/132.gif
+[489]: img/animated/489.gif
 [Phione]: pokemons/489/
 [Ditto]: pokemons/132/
 [Togepi]: pokemons/175/

@@ -9,22 +9,22 @@
 
 
 [592]: ../img/animated/592.gif
-[Frillish]: ../pokemons/592/
+[Frillish]: ../../pokemons/592/
 [550-red]: ../img/animated/550-red.gif
-[Basculin-Red]: ../pokemons/550/
+[Basculin-Red]: ../../pokemons/550/
 [72]: ../img/animated/72.gif
-[Tentacool]: ../pokemons/072/
+[Tentacool]: ../../pokemons/072/
 [456]: ../img/animated/456.gif
-[Finneon]: ../pokemons/456/
+[Finneon]: ../../pokemons/456/
 [98]: ../img/animated/98.gif
-[Krabby]: ../pokemons/098/
+[Krabby]: ../../pokemons/098/
 [116]: ../img/animated/116.gif
-[Horsea]: ../pokemons/116/
+[Horsea]: ../../pokemons/116/
 [170]: ../img/animated/170.gif
-[Chinchou]: ../pokemons/170/
+[Chinchou]: ../../pokemons/170/
 [594]: ../img/animated/594.gif
-[Alomomola]: ../pokemons/594/
+[Alomomola]: ../../pokemons/594/
 [593]: ../img/animated/593.gif
-[Jellicent]: ../pokemons/593/
+[Jellicent]: ../../pokemons/593/
 [73]: ../img/animated/73.gif
-[Tentacruel]: ../pokemons/073/
+[Tentacruel]: ../../pokemons/073/

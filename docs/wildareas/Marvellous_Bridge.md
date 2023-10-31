@@ -7,16 +7,16 @@
 
 
 [581]: ../img/animated/581.gif
-[Swanna]: ../pokemons/581/
+[Swanna]: ../../pokemons/581/
 [279]: ../img/animated/279.gif
-[Pelipper]: ../pokemons/279/
+[Pelipper]: ../../pokemons/279/
 [22]: ../img/animated/22.gif
-[Fearow]: ../pokemons/022/
+[Fearow]: ../../pokemons/022/
 [188]: ../img/animated/188.gif
-[Skiploom]: ../pokemons/188/
+[Skiploom]: ../../pokemons/188/
 [17]: ../img/animated/17.gif
-[Pidgeotto]: ../pokemons/017/
+[Pidgeotto]: ../../pokemons/017/
 [83]: ../img/animated/83.gif
-[Farfetch'd]: ../pokemons/083/
+[Farfetch'd]: ../../pokemons/083/
 [441]: ../img/animated/441.gif
-[Chatot]: ../pokemons/441/
+[Chatot]: ../../pokemons/441/
