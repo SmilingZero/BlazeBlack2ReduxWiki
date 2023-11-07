@@ -184,7 +184,7 @@ Trainer School:
  - No level shift based on difficulty, levels are as stated.
 
 <normal>
-○♕ ROXANNE - Hoenn Leader {Berry Juice}:
+○♕ ROXANNE - Hoenn Leader {Berry Juice x2}:
 Geodude [Sturdy], lv.10: Rock Tomb, Sandstorm, Tackle, Stealth Rock
 Nosepass [Sand Force], lv.11: Rock Tomb, Tackle
 </normal>

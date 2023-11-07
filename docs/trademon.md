@@ -79,9 +79,9 @@ Location: Humilau City.
 [175]: img/animated/175.gif
 [132]: img/animated/132.gif
 [489]: img/animated/489.gif
-[Phione]: pokemons/489/
-[Ditto]: pokemons/132/
-[Togepi]: pokemons/175/
-[Meowth]: pokemons/052/
-[Lumineon]: pokemons/457/
-[Feebas]: pokemons/349/
+[Phione]: ../pokemons/489/
+[Ditto]: ../pokemons/132/
+[Togepi]: ../pokemons/175/
+[Meowth]: ../pokemons/052/
+[Lumineon]: ../pokemons/457/
+[Feebas]: ../pokemons/349/

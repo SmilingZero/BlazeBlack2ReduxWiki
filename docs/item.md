@@ -116,13 +116,13 @@ Almost all items have been redistributed in Redux. These changes are documented 
 
 | __Old Item__ | __New Item__ |
 |: --- :|: --- :|
-| Parlyz Heal | Silk Scarf |
+| Parlyz Heal | &nbsp |
 | Pokéball (Hidden) | &nbsp; |
 | Pokéball | &nbsp; |
 | Pecha Berry x3 | Super Rod |
 | Great Ball | &nbsp; |
 | Antidote | Miracle Seed |
-| Dire Hit | &nbsp; |
+| Dire Hit | Silk Scarf |
 | Heart Scale (Hidden) | &nbsp; |
 | Sitrus Berry x2 | &nbsp; |
 | Max Revive | &nbsp; |

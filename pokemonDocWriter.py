@@ -101,11 +101,13 @@ def getEvolutionSection(evol):
     def evolString(entry):
         toMon = entry['To']
         method = entry['Method']
+        if method == 'Happiness':
+            method = 'Level up with max happiness'
         outString = '- [{toMon}]: {method}'.format(toMon=toMon, method = method)
         return outString
     def includeString(evol):
         toMon = evol['To']
-        return '[{mon}]: ./{num}/'.format(mon=toMon, num=pokemonNumberMap[toMon])
+        return '[{mon}]: ../{num}/'.format(mon=toMon, num=pokemonNumberMap[toMon])
     content = [evolString(entry) for entry in evol]
     incl = [includeString(entry) for entry in evol]
     return '\n'.join(incl)+'\n', \
@@ -174,11 +176,12 @@ def getLevelUpTable(moveList):
         movedata = getMoveData(move['Move'])
         movedata['Level'] = move['Level']
         return movedata
-    lvlUpData = {i : getLvlUpDict(move) for i, move in enumerate(moveList) }
+    lvlUpData =[ {i : getLvlUpDict(move)} for i, move in enumerate(moveList) ]
     tableColumns = ['Level', 'Name', 'Power', 'Accuracy', 'PP' ,'Type', 'Damage Class', 'Effect']
     tableHeader = '| ' + ' | '.join(tableColumns) + ' |\n'
     separator = '|: ' + ' :|: '.join(['---']*len(tableColumns)) + ' :|\n'
-    def makeLevelRow(level):
+    def makeLevelRow(i,level):
+        level = level [i]
         row = '| ' + \
                 str(level['Level']) + ' | ' + \
                 level['Name'] + ' | ' +\
@@ -189,7 +192,7 @@ def getLevelUpTable(moveList):
                 '![]['+level['Damage Class'].lower()+']' + ' | ' +\
                 'Priority: {prio}. {effect}'.format(prio = level['Priority'], effect = str(level['Effect']).replace('\n', '<br>')) + ' |'
         return row
-    contentRows = [makeLevelRow(data) for i,data in lvlUpData.items()]
+    contentRows = [makeLevelRow(i,data) for i,data in enumerate(lvlUpData)]
     return '', tableHeader+separator+'\n'.join(contentRows) +'\n\n'
 
 

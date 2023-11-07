@@ -270,17 +270,17 @@ Level    | 50
 [498]: img/animated/498.gif
 [501]: img/animated/501.gif
 
-[Snivy]: pokemons/495
-[Tepig]: pokemons/498
-[Oshawott]: pokemons/501
+[Snivy]: ../pokemons/495
+[Tepig]: ../pokemons/498
+[Oshawott]: ../pokemons/501
 
 [511]: img/animated/511.gif
 [513]: img/animated/513.gif
 [515]: img/animated/515.gif
 
-[Pansage]: pokemons/511
-[Pansear]: pokemons/513
-[Panpour]: pokemons/515
+[Pansage]: ../pokemons/511
+[Pansear]: ../pokemons/513
+[Panpour]: ../pokemons/515
 
 [172]: img/animated/172.gif
 [173]: img/animated/173.gif
@@ -300,98 +300,98 @@ Level    | 50
 [605]: img/animated/605.gif
 [613]: img/animated/613.gif
 
-[Pichu]: pokemons/172
-[Igglybuff]: pokemons/173
-[Teddiursa]: pokemons/216
-[Slugma]: pokemons/218
-[Tyrogue]: pokemons/236
-[Smoochum]: pokemons/238
-[Elekid]: pokemons/239
-[Magby]: pokemons/240
-[Carvanha]: pokemons/318
-[Spheal]: pokemons/363
-[Budew]: pokemons/406
-[Munna]: pokemons/517
-[Blitzle]: pokemons/522
-[Vanillite]: pokemons/582
-[Litwick]: pokemons/607
-[Elgyem]: pokemons/605
-[Cubchoo]: pokemons/613
+[Pichu]: ../pokemons/172
+[Igglybuff]: ../pokemons/173
+[Teddiursa]: ../pokemons/216
+[Slugma]: ../pokemons/218
+[Tyrogue]: ../pokemons/236
+[Smoochum]: ../pokemons/238
+[Elekid]: ../pokemons/239
+[Magby]: ../pokemons/240
+[Carvanha]: ../pokemons/318
+[Spheal]: ../pokemons/363
+[Budew]: ../pokemons/406
+[Munna]: ../pokemons/517
+[Blitzle]: ../pokemons/522
+[Vanillite]: ../pokemons/582
+[Litwick]: ../pokemons/607
+[Elgyem]: ../pokemons/605
+[Cubchoo]: ../pokemons/613
 
 [001]: img/animated/1.gif
 [004]: img/animated/4.gif
 [007]: img/animated/7.gif
-[Bulbasaur]: pokemons/001/
-[Charmander]: pokemons/004/
+[Bulbasaur]: ../pokemons/001/
+[Charmander]: ../pokemons/004/
 [Squirtle]: pokemon/007/
 
 [307]: img/animated/307.gif
-[Meditite]: pokemons/307/
+[Meditite]: ../pokemons/307/
 
 [133]: img/animated/133.gif
-[Eevee]: pokemons/133/
+[Eevee]: ../pokemons/133/
 
 [152]: img/animated/152.gif
 [155]: img/animated/155.gif
 [158]: img/animated/158.gif
-[Chikorita]: pokemons/152/
-[Cyndaquil]: pokemons/155/
-[Totodile]: pokemons/158/
+[Chikorita]: ../pokemons/152/
+[Cyndaquil]: ../pokemons/155/
+[Totodile]: ../pokemons/158/
 
 [438]: img/animated/438.gif
 [439]: img/animated/439.gif
 [431]: img/animated/431.gif
 [434]: img/animated/434.gif
-[Bonsly]: pokemons/438/
-[MimeJr]: pokemons/439/
-[Glameow]: pokemons/431/
-[Stunky]: pokemons/434/
+[Bonsly]: ../pokemons/438/
+[MimeJr]: ../pokemons/439/
+[Glameow]: ../pokemons/431/
+[Stunky]: ../pokemons/434/
 
 [138]: img/animated/138.gif
 [140]: img/animated/140.gif
 [345]: img/animated/345.gif
 [347]: img/animated/347.gif
-[Omanyte]: pokemons/138/
-[Kabuto]: pokemons/140/
-[Lileep]: pokemons/345/
-[Anorith]: pokemons/347/
+[Omanyte]: ../pokemons/138/
+[Kabuto]: ../pokemons/140/
+[Lileep]: ../pokemons/345/
+[Anorith]: ../pokemons/347/
 [408]: img/animated/408.gif
 [410]: img/animated/410.gif
 [564]: img/animated/564.gif
 [566]: img/animated/566.gif
-[Cranidos]: pokemons/408/
-[Shieldon]: pokemons/410/
-[Tirtouga]: pokemons/564/
-[Archen]: pokemons/566/
+[Cranidos]: ../pokemons/408/
+[Shieldon]: ../pokemons/410/
+[Tirtouga]: ../pokemons/564/
+[Archen]: ../pokemons/566/
 
 [252]: img/animated/252.gif
 [255]: img/animated/255.gif
 [258]: img/animated/258.gif
-[Treecko]: pokemons/252/
-[Torchic]: pokemons/255/
-[Mudkip]: pokemons/258/
+[Treecko]: ../pokemons/252/
+[Torchic]: ../pokemons/255/
+[Mudkip]: ../pokemons/258/
 
 [387]: img/animated/387.gif
 [390]: img/animated/390.gif
 [393]: img/animated/393.gif
-[Turtwig]: pokemons/387/
-[Chimchar]: pokemons/390/
-[Piplup]: pokemons/393/
+[Turtwig]: ../pokemons/387/
+[Chimchar]: ../pokemons/390/
+[Piplup]: ../pokemons/393/
 
 [570]: img/animated/570.gif
-[Zorua]: pokemons/570/
+[Zorua]: ../pokemons/570/
 
 [222]: img/animated/222.gif
-[Corsola]: pokemons/222/
+[Corsola]: ../pokemons/222/
 
 [234]: img/animated/234.gif
-[Stantler]: pokemons/234/
+[Stantler]: ../pokemons/234/
 
 [637]: img/animated/637.gif
-[Volcarona]: pokemons/637/
+[Volcarona]: ../pokemons/637/
 
 [131]: img/animated/131.gif
-[Lapras]: pokemons/131/
+[Lapras]: ../pokemons/131/
 
 [479]: img/animated/479.gif
-[Rotom]: pokemons/479/
+[Rotom]: ../pokemons/479/
