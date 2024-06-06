@@ -179,7 +179,9 @@
                 "Method": "Level 14"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Yache Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Ground",
@@ -209,6 +211,14 @@
                 "Rock"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 55,
+            "DEF": 30,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 60
         }
     }
 ]

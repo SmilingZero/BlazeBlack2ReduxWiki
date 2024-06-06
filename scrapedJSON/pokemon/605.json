@@ -268,7 +268,7 @@
                 "Method": "Level 37"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -297,6 +297,14 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 55,
+            "SPA": 85,
+            "SPD": 55,
+            "SPE": 30
         }
     }
 ]

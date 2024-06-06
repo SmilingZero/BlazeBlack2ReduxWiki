@@ -218,7 +218,7 @@
                 "Method": "Level 16"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -248,6 +248,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 49,
+            "DEF": 49,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 45
         }
     }
 ]

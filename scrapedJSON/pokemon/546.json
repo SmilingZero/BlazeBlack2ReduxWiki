@@ -195,7 +195,7 @@
                 "Method": "Use Sun Stone"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Dragon"
@@ -226,6 +226,14 @@
             "4x Weak": [
                 "Poison"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 27,
+            "DEF": 60,
+            "SPA": 37,
+            "SPD": 50,
+            "SPE": 66
         }
     }
 ]

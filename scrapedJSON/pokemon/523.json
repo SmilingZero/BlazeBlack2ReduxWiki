@@ -220,9 +220,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Cheri Berry"
-        ],
+        "Items": {
+            "50": "Cheri Berry"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -251,6 +251,14 @@
                 "Ground"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 100,
+            "DEF": 63,
+            "SPA": 80,
+            "SPD": 63,
+            "SPE": 116
         }
     }
 ]

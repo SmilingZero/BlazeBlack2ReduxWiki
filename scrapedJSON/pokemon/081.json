@@ -222,7 +222,9 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Metal Coat"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -254,6 +256,14 @@
             "4x Weak": [
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 25,
+            "ATK": 35,
+            "DEF": 70,
+            "SPA": 95,
+            "SPD": 55,
+            "SPE": 45
         }
     }
 ]

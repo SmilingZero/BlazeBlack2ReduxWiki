@@ -227,7 +227,7 @@
                 "Method": "Use Metal Coat"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -259,6 +259,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 110,
+            "DEF": 80,
+            "SPA": 55,
+            "SPD": 80,
+            "SPE": 105
         }
     }
 ]

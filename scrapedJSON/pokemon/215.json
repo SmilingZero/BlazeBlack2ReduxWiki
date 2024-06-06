@@ -272,9 +272,10 @@
                 "Method": "Use Razor Claw"
             }
         ],
-        "Items": [
-            "Grip Claw"
-        ],
+        "Items": {
+            "50": "Grip Claw",
+            "5": "Quick Claw"
+        },
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -305,6 +306,14 @@
             "4x Weak": [
                 "Fighting"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 95,
+            "DEF": 55,
+            "SPA": 35,
+            "SPD": 75,
+            "SPE": 115
         }
     }
 ]

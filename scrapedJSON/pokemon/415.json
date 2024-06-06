@@ -61,7 +61,9 @@
                 "Method": "Female, Level 21"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Honey"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -93,6 +95,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 30,
+            "DEF": 42,
+            "SPA": 30,
+            "SPD": 42,
+            "SPE": 70
         }
     }
 ]

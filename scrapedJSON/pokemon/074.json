@@ -238,7 +238,9 @@
                 "Method": "Level 25"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Everstone"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -270,6 +272,14 @@
                 "Water",
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 80,
+            "DEF": 100,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 20
         }
     }
 ]

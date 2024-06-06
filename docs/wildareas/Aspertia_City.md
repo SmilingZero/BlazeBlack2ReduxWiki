@@ -1,18 +1,5 @@
-# Aspertia City
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Surf, Normal | ![][580] <br> __[Ducklett]__ <br> __Lv:__ 30-40 <br> __90.0%__ | ![][283] <br> __[Surskit]__ <br> __Lv:__ 30-40 <br> __10.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Fish, Normal | ![][223] <br> __[Remoraid]__ <br> __Lv:__ 02-08 <br> __60.0%__ | ![][283] <br> __[Surskit]__ <br> __Lv:__ 02-08 <br> __35.0%__ | ![][349] <br> __[Feebas]__ <br> __Lv:__ 02-08 <br> __5.0%__ | &nbsp; | &nbsp; |
-| Surf, Dark Spot | ![][580] <br> __[Ducklett]__ <br> __Lv:__ 30-40 <br> __60.0%__ | ![][283] <br> __[Surskit]__ <br> __Lv:__ 30-40 <br> __40.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Fish, Dark Spot | ![][223] <br> __[Remoraid]__ <br> __Lv:__ 06-14 <br> __60.0%__ | ![][283] <br> __[Surskit]__ <br> __Lv:__ 06-14 <br> __30.0%__ | ![][349] <br> __[Feebas]__ <br> __Lv:__ 06-14 <br> __10.0%__ | &nbsp; | &nbsp; |
-
-
-[580]: ../img/animated/580.gif
-[Ducklett]: ../../pokemons/580/
-[283]: ../img/animated/283.gif
-[Surskit]: ../../pokemons/283/
-[223]: ../img/animated/223.gif
-[Remoraid]: ../../pokemons/223/
-[349]: ../img/animated/349.gif
-[Feebas]: ../../pokemons/349/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/580.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/580">Ducklett</a> <br> Lv: 30-40 <br> 90.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/283.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/283">Surskit</a> <br> Lv: 30-40 <br> 10.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/580.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/580">Ducklett</a> <br> Lv: 30-40 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/283.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/283">Surskit</a> <br> Lv: 30-40 <br> 40.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/223.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/223">Remoraid</a> <br> Lv: 02-08 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/283.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/283">Surskit</a> <br> Lv: 02-08 <br> 35.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/349.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/349">Feebas</a> <br> Lv: 02-08 <br> 5.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/223.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/223">Remoraid</a> <br> Lv: 06-14 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/283.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/283">Surskit</a> <br> Lv: 06-14 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/349.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/349">Feebas</a> <br> Lv: 06-14 <br> 10.0% </td><td></td><td></td></tr></table>

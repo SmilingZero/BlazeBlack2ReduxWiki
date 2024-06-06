@@ -208,7 +208,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Wide Lens"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -240,6 +242,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 86,
+            "ATK": 76,
+            "DEF": 86,
+            "SPA": 116,
+            "SPD": 56,
+            "SPE": 95
         }
     }
 ]

@@ -250,7 +250,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "King's Rock"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -279,6 +281,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 144,
+            "ATK": 120,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 50
         }
     }
 ]

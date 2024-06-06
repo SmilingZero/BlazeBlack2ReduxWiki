@@ -233,7 +233,7 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -265,6 +265,14 @@
                 "Fighting",
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 42,
+            "DEF": 118,
+            "SPA": 42,
+            "SPD": 88,
+            "SPE": 30
         }
     }
 ]

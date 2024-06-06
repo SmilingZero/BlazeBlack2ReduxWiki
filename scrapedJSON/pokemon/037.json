@@ -223,9 +223,10 @@
                 "Method": "Use Fire Stone"
             }
         ],
-        "Items": [
-            "Rawst Berry"
-        ],
+        "Items": {
+            "50": "Rawst Berry",
+            "5": "Rawst Berry"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -254,6 +255,14 @@
                 "Rock"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 38,
+            "ATK": 41,
+            "DEF": 40,
+            "SPA": 50,
+            "SPD": 65,
+            "SPE": 65
         }
     }
 ]

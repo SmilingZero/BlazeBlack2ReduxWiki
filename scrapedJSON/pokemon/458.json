@@ -215,7 +215,7 @@
                 "Method": "Level 27"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -246,6 +246,14 @@
             "4x Weak": [
                 "Electric"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 20,
+            "DEF": 50,
+            "SPA": 60,
+            "SPD": 120,
+            "SPE": 50
         }
     }
 ]

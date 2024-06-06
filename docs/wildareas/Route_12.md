@@ -1,45 +1,6 @@
-# Route 12
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Grass, Normal | ![][77] <br> __[Ponyta]__ <br> __Lv:__ 43-45 <br> __20.0%__ | ![][415] <br> __[Combee]__ <br> __Lv:__ 43-45 <br> __20.0%__ | ![][267] <br> __[Beautifly]__ <br> __Lv:__ 43-45 <br> __10.0%__ | ![][269] <br> __[Dustox]__ <br> __Lv:__ 43-45 <br> __10.0%__ | ![][203] <br> __[Girafarig]__ <br> __Lv:__ 43-45 <br> __10.0%__ |
-| &nbsp; | ![][420] <br> __[Cherubi]__ <br> __Lv:__ 43-45 <br> __10.0%__ | ![][214] <br> __[Heracross]__ <br> __Lv:__ 43-45 <br> __5.0%__ | ![][127] <br> __[Pinsir]__ <br> __Lv:__ 43-45 <br> __5.0%__ | ![][84] <br> __[Doduo]__ <br> __Lv:__ 43-45 <br> __5.0%__ | ![][397] <br> __[Staravia]__ <br> __Lv:__ 43-45 <br> __5.0%__ |
-| Grass, Shaking Spots | ![][531] <br> __[Audino]__ <br> __Lv:__ 44-46 <br> __75.0%__ | ![][587] <br> __[Emolga]__ <br> __Lv:__ 44-46 <br> __10.0%__ | ![][206] <br> __[Dunsparce]__ <br> __Lv:__ 44-46 <br> __10.0%__ | ![][398] <br> __[Staraptor]__ <br> __Lv:__ 44-46 <br> __5.0%__ | &nbsp; |
-| Grass, Doubles | ![][78] <br> __[Rapidash]__ <br> __Lv:__ 44-46 <br> __20.0%__ | ![][415] <br> __[Combee]__ <br> __Lv:__ 44-46 <br> __20.0%__ | ![][267] <br> __[Beautifly]__ <br> __Lv:__ 44-46 <br> __10.0%__ | ![][269] <br> __[Dustox]__ <br> __Lv:__ 44-46 <br> __10.0%__ | ![][203] <br> __[Girafarig]__ <br> __Lv:__ 44-46 <br> __10.0%__ |
-| &nbsp; | ![][421-sunshine] <br> __[Cherrim-Sunshine]__ <br> __Lv:__ 44-46 <br> __10.0%__ | ![][214] <br> __[Heracross]__ <br> __Lv:__ 44-46 <br> __5.0%__ | ![][127] <br> __[Pinsir]__ <br> __Lv:__ 44-46 <br> __5.0%__ | ![][85] <br> __[Dodrio]__ <br> __Lv:__ 44-46 <br> __5.0%__ | ![][397] <br> __[Staravia]__ <br> __Lv:__ 44-46 <br> __5.0%__ |
-
-
-[77]: ../img/animated/77.gif
-[Ponyta]: ../../pokemons/077/
-[415]: ../img/animated/415.gif
-[Combee]: ../../pokemons/415/
-[267]: ../img/animated/267.gif
-[Beautifly]: ../../pokemons/267/
-[269]: ../img/animated/269.gif
-[Dustox]: ../../pokemons/269/
-[203]: ../img/animated/203.gif
-[Girafarig]: ../../pokemons/203/
-[420]: ../img/animated/420.gif
-[Cherubi]: ../../pokemons/420/
-[214]: ../img/animated/214.gif
-[Heracross]: ../../pokemons/214/
-[127]: ../img/animated/127.gif
-[Pinsir]: ../../pokemons/127/
-[84]: ../img/animated/84.gif
-[Doduo]: ../../pokemons/084/
-[397]: ../img/animated/397.gif
-[Staravia]: ../../pokemons/397/
-[531]: ../img/animated/531.gif
-[Audino]: ../../pokemons/531/
-[587]: ../img/animated/587.gif
-[Emolga]: ../../pokemons/587/
-[206]: ../img/animated/206.gif
-[Dunsparce]: ../../pokemons/206/
-[398]: ../img/animated/398.gif
-[Staraptor]: ../../pokemons/398/
-[78]: ../img/animated/78.gif
-[Rapidash]: ../../pokemons/078/
-[421-sunshine]: ../img/animated/421-sunshine.gif
-[Cherrim-Sunshine]: ../../pokemons/421/
-[85]: ../img/animated/85.gif
-[Dodrio]: ../../pokemons/085/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/77.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/077">Ponyta</a> <br> Lv: 43-45 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/415.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/415">Combee</a> <br> Lv: 43-45 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/267.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/267">Beautifly</a> <br> Lv: 43-45 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/269.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/269">Dustox</a> <br> Lv: 43-45 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/203.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/203">Girafarig</a> <br> Lv: 43-45 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/420.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/420">Cherubi</a> <br> Lv: 43-45 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/214.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/214">Heracross</a> <br> Lv: 43-45 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/127.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/127">Pinsir</a> <br> Lv: 43-45 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/84.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/084">Doduo</a> <br> Lv: 43-45 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/397.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/397">Staravia</a> <br> Lv: 43-45 <br> 5.0% </td></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Dark Grass (Doubles)</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/78.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/078">Rapidash</a> <br> Lv: 44-46 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/415.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/415">Combee</a> <br> Lv: 44-46 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/267.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/267">Beautifly</a> <br> Lv: 44-46 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/269.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/269">Dustox</a> <br> Lv: 44-46 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/203.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/203">Girafarig</a> <br> Lv: 44-46 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/421-sunshine.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/421">Cherrim - Sunshine</a> <br> Lv: 44-46 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/214.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/214">Heracross</a> <br> Lv: 44-46 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/127.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/127">Pinsir</a> <br> Lv: 44-46 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/85.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/085">Dodrio</a> <br> Lv: 44-46 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/397.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/397">Staravia</a> <br> Lv: 44-46 <br> 5.0% </td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Shaking Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/531.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/531">Audino</a> <br> Lv: 44-46 <br> 75.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/587.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/587">Emolga</a> <br> Lv: 44-46 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/206.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/206">Dunsparce</a> <br> Lv: 44-46 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/398.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/398">Staraptor</a> <br> Lv: 44-46 <br> 5.0% </td><td></td></tr></table>

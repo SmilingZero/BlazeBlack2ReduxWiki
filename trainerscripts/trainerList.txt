@@ -275,9 +275,9 @@ Virbank City and Roxie's Gym
 
 <normal>
 ○♕ BRAWLY - Hoenn Leader {Meditite Egg}:
-Machop [Steadfast*], lv.17: Bulk Up, Karate Chop, Low Kick, Seismic Toss
-Meditite [Pure Power], lv.17: @Light Clay: Bulk Up, Focus Punch, Reflect, Light Screen
-Makuhita [Thick Fat], lv.18: @Sitrus Berry: Bulk Up, Arm Thrust, Vital Throw, Reversal
+Machop [Steadfast*], lv.17 Bulk Up, Karate Chop, Low Kick, Seismic Toss
+Meditite [Pure Power], lv.17 @Light Clay: Bulk Up, Focus Punch, Reflect, Light Screen
+Makuhita [Thick Fat], lv.18  @Sitrus Berry: Bulk Up, Arm Thrust, Vital Throw, Reversal
 </normal>
 <challenge>
 ○♕ BRAWLY - Hoenn Leader {Meditite Egg}:

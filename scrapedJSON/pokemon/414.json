@@ -217,7 +217,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "SilverPowder"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -249,6 +251,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 94,
+            "DEF": 50,
+            "SPA": 94,
+            "SPD": 50,
+            "SPE": 66
         }
     }
 ]

@@ -238,7 +238,7 @@
                 "Method": "Level Up with move Ancient Power"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -267,6 +267,14 @@
                 "Bug"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 55,
+            "DEF": 115,
+            "SPA": 100,
+            "SPD": 40,
+            "SPE": 60
         }
     }
 ]

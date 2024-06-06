@@ -258,7 +258,7 @@
                 "Method": "Level 36"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -290,6 +290,14 @@
                 "Water",
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 25
         }
     }
 ]

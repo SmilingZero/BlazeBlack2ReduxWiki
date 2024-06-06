@@ -227,7 +227,7 @@
                 "Method": "Happiness"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -258,6 +258,14 @@
                 "Rock"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 80,
+            "DEF": 70,
+            "SPA": 65,
+            "SPD": 75,
+            "SPE": 90
         }
     }
 ]

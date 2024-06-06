@@ -193,7 +193,9 @@
                 "Method": "Level Up with move Ancient Power"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Wide Lens"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -225,6 +227,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 65,
+            "DEF": 45,
+            "SPA": 75,
+            "SPD": 45,
+            "SPE": 95
         }
     }
 ]

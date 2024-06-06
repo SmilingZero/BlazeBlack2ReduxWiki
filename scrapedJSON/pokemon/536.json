@@ -195,9 +195,9 @@
                 "Method": "Level 36"
             }
         ],
-        "Items": [
-            "Pecha Berry"
-        ],
+        "Items": {
+            "50": "Pecha Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -227,6 +227,14 @@
             "4x Weak": [
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 65,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 69
         }
     }
 ]

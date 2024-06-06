@@ -229,7 +229,7 @@
                 "Method": "Level 18"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -261,6 +261,14 @@
             "4x Weak": [
                 "Ice"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 35,
+            "DEF": 40,
+            "SPA": 35,
+            "SPD": 55,
+            "SPE": 50
         }
     }
 ]

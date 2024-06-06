@@ -1,44 +1,13 @@
-# Twist Mountain
+## All Other Rooms
 
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Cave, Normal | ![][525] <br> __[Boldore]__ <br> __Lv:__ 66 <br> __20.0%__ | ![][527] <br> __[Woobat]__ <br> __Lv:__ 62 <br> __20.0%__ | ![][232] <br> __[Donphan]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][217] <br> __[Ursaring]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][631] <br> __[Heatmor]__ <br> __Lv:__ 68 <br> __10.0%__ |
-| &nbsp; | ![][632] <br> __[Durant]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][75] <br> __[Graveler]__ <br> __Lv:__ 66 <br> __5.0%__ | ![][42] <br> __[Golbat]__ <br> __Lv:__ 66 <br> __5.0%__ | ![][184] <br> __[Azumarill]__ <br> __Lv:__ 69 <br> __1.0%__ | ![][95] <br> __[Onix]__ <br> __Lv:__ 68 <br> __1.0%__ |
-| Cave, Ice Room, Normal | ![][615] <br> __[Cryogonal]__ <br> __Lv:__ 69 <br> __20.0%__ | ![][614] <br> __[Beartic]__ <br> __Lv:__ 70 <br> __5.0%__ | ![][217] <br> __[Ursaring]__ <br> __Lv:__ 69 <br> __10.0%__ | ![][362] <br> __[Glalie]__ <br> __Lv:__ 69 <br> __10.0%__ | ![][525] <br> __[Boldore]__ <br> __Lv:__ 66 <br> __5.0%__ |
-| &nbsp; | ![][583] <br> __[Vanillish]__ <br> __Lv:__ 68 <br> __5.0%__ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| Cave, Dust Cloud | ![][530] <br> __[Excadrill]__ <br> __Lv:__ 70 <br> __10.0%__ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| Cave, Ice Room, Dust Cloud | ![][208] <br> __[Steelix]__ <br> __Lv:__ 70 <br> __10.0%__ | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="3" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Cave</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/525.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/525">Boldore</a> <br> Lv: 66 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/527.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/527">Woobat</a> <br> Lv: 62 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/232.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/232">Donphan</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/217.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/217">Ursaring</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/631.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/631">Heatmor</a> <br> Lv: 68 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/632.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/632">Durant</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/75.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/075">Graveler</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/42.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/042">Golbat</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/184.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/184">Azumarill</a> <br> Lv: 68 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/184.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/184">Azumarill</a> <br> Lv: 69 <br> 1.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/95.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/095">Onix</a> <br> Lv: 66 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/95.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/095">Onix</a> <br> Lv: 68 <br> 1.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Dust Cloud</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/530.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/530">Excadrill</a> <br> Lv: 68 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/530.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/530">Excadrill</a> <br> Lv: 69 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/530.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/530">Excadrill</a> <br> Lv: 70 <br> 10.0% </td><td></td><td></td></tr></table>
+## Ice Room
 
-
-[525]: ../img/animated/525.gif
-[Boldore]: ../../pokemons/525/
-[527]: ../img/animated/527.gif
-[Woobat]: ../../pokemons/527/
-[232]: ../img/animated/232.gif
-[Donphan]: ../../pokemons/232/
-[217]: ../img/animated/217.gif
-[Ursaring]: ../../pokemons/217/
-[631]: ../img/animated/631.gif
-[Heatmor]: ../../pokemons/631/
-[632]: ../img/animated/632.gif
-[Durant]: ../../pokemons/632/
-[75]: ../img/animated/75.gif
-[Graveler]: ../../pokemons/075/
-[42]: ../img/animated/42.gif
-[Golbat]: ../../pokemons/042/
-[184]: ../img/animated/184.gif
-[Azumarill]: ../../pokemons/184/
-[95]: ../img/animated/95.gif
-[Onix]: ../../pokemons/095/
-[615]: ../img/animated/615.gif
-[Cryogonal]: ../../pokemons/615/
-[614]: ../img/animated/614.gif
-[Beartic]: ../../pokemons/614/
-[362]: ../img/animated/362.gif
-[Glalie]: ../../pokemons/362/
-[583]: ../img/animated/583.gif
-[Vanillish]: ../../pokemons/583/
-[530]: ../img/animated/530.gif
-[Excadrill]: ../../pokemons/530/
-[208]: ../img/animated/208.gif
-[Steelix]: ../../pokemons/208/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Cave</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/615.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/615">Cryogonal</a> <br> Lv: 68 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/615.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/615">Cryogonal</a> <br> Lv: 69 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/614.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/614">Beartic</a> <br> Lv: 69 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/614.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/614">Beartic</a> <br> Lv: 70 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/217.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/217">Ursaring</a> <br> Lv: 69 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/362.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/362">Glalie</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/362.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/362">Glalie</a> <br> Lv: 69 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/525.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/525">Boldore</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/583.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/583">Vanillish</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/583.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/583">Vanillish</a> <br> Lv: 68 <br> 5.0% </td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Dust Cloud</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/208.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/208">Steelix</a> <br> Lv: 68 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/208.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/208">Steelix</a> <br> Lv: 69 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/208.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/208">Steelix</a> <br> Lv: 70 <br> 10.0% </td><td></td><td></td></tr></table>

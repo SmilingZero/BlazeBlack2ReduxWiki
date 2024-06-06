@@ -272,7 +272,7 @@
                 "Method": "Use Razor Fang"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric",
@@ -303,6 +303,14 @@
             "4x Weak": [
                 "Ice"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 75,
+            "DEF": 105,
+            "SPA": 35,
+            "SPD": 65,
+            "SPE": 85
         }
     }
 ]

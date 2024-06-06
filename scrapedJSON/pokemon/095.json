@@ -258,7 +258,7 @@
                 "Method": "Use Metal Coat"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -290,6 +290,14 @@
                 "Water",
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 45,
+            "DEF": 160,
+            "SPA": 30,
+            "SPD": 45,
+            "SPE": 70
         }
     }
 ]

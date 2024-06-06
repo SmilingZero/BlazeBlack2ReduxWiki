@@ -222,7 +222,7 @@
                 "Method": "Use Moon Stone"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -251,6 +251,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 61,
+            "ATK": 72,
+            "DEF": 57,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 65
         }
     }
 ]

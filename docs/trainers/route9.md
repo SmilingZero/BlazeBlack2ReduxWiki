@@ -43,6 +43,11 @@
 | <br>![][HooligansJimandCas]<br>__Hooligans Jim and Cas__<br>:grey_exclamation:  | ![][553] <br> __[Krookodile]__ <br>Intimidate<br>Lv. 57<br>---<br>• Thunder Fang<br>• High Horsepower<br>• Crunch<br>• Close Combat | ![][630] <br> __[Mandibuzz]__ <br>Overcoat<br>Lv. 57<br>---<br>• Foul Play<br>• Brave Bird<br>• Snarl<br>• Tailwind | ![][477] <br> __[Dusknoir]__ <br>Iron Fist*<br>Lv. 57<br>---<br>• Leech Life<br>• Shadow Punch<br>• Drain Punch<br>• Ice Punch |
 | &nbsp; | ![][354] <br> __[Banette]__ <br>Cursed Body<br>Lv. 57<br>---<br>• Slash<br>• Shadow Claw<br>• Raging Fury<br>• Destiny Bond | &nbsp; | &nbsp; |
 
+## Shopping Mall Nine
+
+!!! Level-Info
+    Levels -4 on Easy mode, +4 on Challenge mode.
+
 | Trainer | &nbsp; | Pokémon | &nbsp; |
 |: --- :|: --- :|: --- :|: --- :|
 | <br>![][WaitressOlwen]<br>__Waitress Olwen__<br>:grey_exclamation:  | ![][326] <br> __[Grumpig]__ <br>Thick Fat<br>Lv. 56<br>---<br>• Psychic<br>• Future Sight<br>• Bounce<br>• Trick | ![][12] <br> __[Butterfree]__ <br>Tinted Lens<br>Lv. 56<br>---<br>• Psychic<br>• Bug Buzz<br>• Air Slash<br>• Quiver Dance | ![][301] <br> __[Delcatty]__ <br>Wonder Skin<br>Lv. 56<br>---<br>• Double-Edge<br>• Sucker Punch<br>• Wish<br>• Encore |

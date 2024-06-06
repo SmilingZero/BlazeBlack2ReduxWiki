@@ -42,3 +42,11 @@ Challenge Mode
  - Other regular trainers all have their levels dynamically scaled, depending on the number of badges earned, like in Vanilla. This scales upto a maximum of +7 levels, depending on the area.
  - Important trainers don't use items in battle, to help prevent player abuse of their predictability.
  - The player is healed before most important battles to prevent Guts/Poison Heal/Quick Feet etc abuse. This also helpfully reduces gym backtracking and helps keep the player on equal footing with the a.i.
+
+
+## Encounter Locations by Split
+
+!!! Note
+    This is a work in progress. Splits are made where they make sense. Does not take into account the special encounters in each route.
+
+--8<-- "includes/nuzlocke_encounter_table.md"

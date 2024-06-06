@@ -250,7 +250,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -281,6 +281,14 @@
             "4x Weak": [
                 "Fire"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 71,
+            "ATK": 120,
+            "DEF": 95,
+            "SPA": 120,
+            "SPD": 95,
+            "SPE": 99
         }
     }
 ]

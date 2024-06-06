@@ -68,7 +68,7 @@
 --8<-- "includes/abilities.md"
 --8<-- "includes/held_items.md"
 
-[SchoolKidSeymour]: ../img/Trainers/School_Kid_Female.gif
+[SchoolKidSeymour]: ../img/Trainers/School_Kid_Male.gif
 [515]: ../img/animated/515.gif
 [Panpour]: ../../pokemons/515/
 [501]: ../img/animated/501.gif
@@ -87,4 +87,4 @@
 [Tepig]: ../../pokemons/498/
 [255]: ../img/animated/255.gif
 [Torchic]: ../../pokemons/255/
-[SchoolKidCassie]: ../img/Trainers/School_Kid_Male.gif
+[SchoolKidCassie]: ../img/Trainers/School_Kid_Female.gif

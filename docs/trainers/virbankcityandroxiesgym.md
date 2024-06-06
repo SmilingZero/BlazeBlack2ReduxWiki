@@ -23,7 +23,7 @@
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][BRAWLY]<br>__BRAWLY__<br>Hoenn Leader<br>:grey_exclamation::warning:<br><br>__Reward__<br>Meditite Egg | ![][66] <br> __[Machop]__ <br>Steadfast*<br>Lv. 17<br>---<br>• Bulk Up<br>• Karate Chop<br>• Low Kick<br>• Seismic Toss | ![][307] <br> __[Meditite]__ <br>Pure Power<br>Lv. 17<br>---<br>• @Light Clay: Bulk Up<br>• Focus Punch<br>• Reflect<br>• Light Screen | ![][296] <br> __[Makuhita]__ <br>Thick Fat<br>Lv. 18<br>---<br>• @Sitrus Berry: Bulk Up<br>• Arm Thrust<br>• Vital Throw<br>• Reversal |
+    | <br>![][BRAWLY]<br>__BRAWLY__<br>Hoenn Leader<br>:grey_exclamation::warning:<br><br>__Reward__<br>Meditite Egg | ![][66] <br> __[Machop]__ <br>Steadfast*<br>Lv. 17<br>---<br>• Bulk Up<br>• Karate Chop<br>• Low Kick<br>• Seismic Toss | ![][307] <br> __[Meditite]__ <br>Pure Power<br>Lv. 17<br> Light Clay <br>• Bulk Up<br>• Focus Punch<br>• Reflect<br>• Light Screen | ![][296] <br> __[Makuhita]__ <br>Thick Fat<br>Lv. 18<br> Sitrus Berry<br>• Bulk Up<br>• Arm Thrust<br>• Vital Throw<br>• Reversal |
     
 === "Challenge Mode"
 
@@ -36,7 +36,7 @@
 
 
 
-## Roxie's Gym:
+## Roxie's Gym
 
 !!! Level-Info
     No level shift based on difficulty, levels are as stated.
@@ -67,7 +67,7 @@
 
 
 
-## After defeating Roxie, Virbank City:
+## After defeating Roxie, Virbank City
 
 !!! Level-Info
     No level shift based on difficulty, levels are as stated.
@@ -79,13 +79,15 @@
 | <br>![][PlasmaGrunt690]<br>__Plasma Grunt #690__<br>:exclamation::two: | ![][587] <br> __[Emolga]__ <br>Motor Drive<br>Lv. 18<br>---<br>• Nuzzle<br>• Light Screen<br>• Air Cutter<br>• Spark | ![][318] <br> __[Carvanha]__ <br>Speed Boost<br>Lv. 18<br>---<br>• Protect<br>• Poison Fang<br>• Assurance<br>• Aqua Jet | ![][12] <br> __[Butterfree]__ <br>Compound Eyes<br>Lv. 18<br>---<br>• Poison Powder<br>• Gust<br>• Confusion<br>• Silver Wind |
 | &nbsp; | ![][15] <br> __[Beedrill]__ <br>Swarm<br>Lv. 18<br>---<br>• Twineedle<br>• Venoshock<br>• Fury Attack<br>• Assurance | &nbsp; | &nbsp; |
 
+!!! Weirdness in Game Code
+    Brycen's Cubchoo has Ability Slot "0" in its data, which means it can be a random ability out of its first two slots. Proceed with caution. None of his other Pokemon have this property.
 
 === "Easy and Normal Mode"
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][BRYCEN]<br>__BRYCEN__<br>:exclamation::warning:<br><br>__Reward__<br>NeverMeltIce | ![][363] <br> __[Spheal]__ <br>Snow Warning<br>Lv. 18<br>Eviolite<br>• Brine<br>• Icy Wind<br>• Bulldoze<br>• Yawn | ![][220] <br> __[Swinub]__ <br>Thick Fat<br>Lv. 18<br>Berry Juice<br>• Bulldoze<br>• Avalanche<br>• Rock Tomb<br>• Hail | ![][582] <br> __[Vanillite]__ <br>Ice Body<br>Lv. 18<br>Life Orb<br>• Icy Wind<br>• Disarming Voice<br>• Mirror Shot<br>• Water Pulse |
-    | &nbsp; | ![][613] <br> __[Cubchoo]__ <br>Rattled<br>Lv. 20<br>Focus Sash<br>• Ice Shard<br>• Bulldoze<br>• Avalanche<br>• Play Rough | &nbsp; | &nbsp; |
+    | <br>![][BRYCEN]<br>__BRYCEN__<br>:exclamation::warning:<br><br>__Reward__<br>NeverMeltIce | ![][363] <br> __[Spheal]__ <br>Ice Body<br>Lv. 18<br>Eviolite<br>• Brine<br>• Icy Wind<br>• Bulldoze<br>• Yawn | ![][220] <br> __[Swinub]__ <br>Thick Fat<br>Lv. 18<br>Berry Juice<br>• Bulldoze<br>• Avalanche<br>• Rock Tomb<br>• Hail | ![][582] <br> __[Vanillite]__ <br>Snow Cloak<br>Lv. 18<br>Life Orb<br>• Icy Wind<br>• Disarming Voice<br>• Mirror Shot<br>• Water Pulse |
+    | &nbsp; | ![][613] <br> __[Cubchoo]__ <br>Snow Cloak or Rattled<br>Lv. 20<br>Focus Sash<br>• Ice Shard<br>• Bulldoze<br>• Avalanche<br>• Play Rough | &nbsp; | &nbsp; |
     
 === "Challenge Mode"
 

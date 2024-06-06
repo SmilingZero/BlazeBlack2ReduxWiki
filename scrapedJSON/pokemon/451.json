@@ -224,7 +224,9 @@
                 "Method": "Level 39"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Poison Barb"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -254,6 +256,14 @@
                 "Rock"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 50,
+            "DEF": 90,
+            "SPA": 30,
+            "SPD": 55,
+            "SPE": 65
         }
     }
 ]

@@ -214,7 +214,7 @@
                 "Method": "Use Sun Stone"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -244,6 +244,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 65,
+            "DEF": 70,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 40
         }
     }
 ]

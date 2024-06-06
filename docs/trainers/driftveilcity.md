@@ -80,7 +80,7 @@
 [Banette]: ../../pokemons/354/
 [335]: ../img/animated/335.gif
 [Zangoose]: ../../pokemons/335/
-[HeartbreakerCharles]: ../img/Trainers/Backpacker_Male.gif
+[HeartbreakerCharles]: ../img/Trainers/Biker.gif
 [617]: ../img/animated/617.gif
 [Accelgor]: ../../pokemons/617/
 [561]: ../img/animated/561.gif

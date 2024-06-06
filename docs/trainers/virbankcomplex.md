@@ -21,6 +21,11 @@
 
 | Trainer | &nbsp; | Pokémon | &nbsp; |
 |: --- :|: --- :|: --- :|: --- :|
+| <br>![][YoungsterWaylon]<br>__Youngster Waylon__<br>:grey_exclamation:  | ![][56] <br> __[Mankey]__ <br>Defiant<br>Lv. 15<br>---<br>• Pursuit<br>• Low Kick<br>• Covet<br>• Karate Chop | ![][403] <br> __[Shinx]__ <br>Intimidate<br>Lv. 15<br>---<br>• Spark<br>• Bite<br>• Howl<br>• Helping Hand | ![][422] <br> __[Shellos]__ <br>Storm Drain<br>Lv. 15<br>---<br>• Whirlpool<br>• Mud Shot<br>• Water Pulse<br>• Yawn |
+| &nbsp; | ![][167] <br> __[Spinarak]__ <br>Sniper<br>Lv. 15<br>---<br>• Twineedle<br>• Night Shade<br>• Shadow Sneak<br>• Poison Fang | &nbsp; | &nbsp; |
+
+| Trainer | &nbsp; | Pokémon | &nbsp; |
+|: --- :|: --- :|: --- :|: --- :|
 | <br>![][YoungsterMasahiro]<br>__Youngster Masahiro__<br>:grey_exclamation:  | ![][506] <br> __[Lillipup]__ <br>Pickup<br>Lv. 15<br>---<br>• Retaliate<br>• Bite<br>• Work Up<br>• Lick | ![][4] <br> __[Charmander]__ <br>Blaze<br>Lv. 15<br>---<br>• Dragon Breath<br>• Metal Claw<br>• Ember<br>• Bite | ![][25] <br> __[Pikachu]__ <br>Lightningrod<br>Lv. 15<br>---<br>• Quick Attack<br>• Shock Wave<br>• Thunder Wave<br>• Charm |
 
 | Trainer | &nbsp; | Pokémon | &nbsp; |
@@ -34,11 +39,6 @@
 | Trainer | &nbsp; | Pokémon | &nbsp; |
 |: --- :|: --- :|: --- :|: --- :|
 | <br>![][WorkerIsaac]<br>__Worker Isaac__<br>:grey_exclamation:  | ![][58] <br> __[Growlithe]__ <br>Intimidate<br>Lv. 15<br>---<br>• Fire Fang<br>• Agility<br>• Bite<br>• Double Kick | ![][218] <br> __[Slugma]__ <br>Flame Body<br>Lv. 15<br>---<br>• Flame Burst<br>• Ancient Power<br>• Clear Smog | ![][240] <br> __[Magby]__ <br>Flame Body<br>Lv. 16<br>---<br>• Fire Spin<br>• Clear Smog<br>• Faint Attack |
-
-| Trainer | &nbsp; | Pokémon | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|
-| <br>![][YoungsterWaylon]<br>__Youngster Waylon__<br>:grey_exclamation:  | ![][56] <br> __[Mankey]__ <br>Defiant<br>Lv. 15<br>---<br>• Pursuit<br>• Low Kick<br>• Covet<br>• Karate Chop | ![][403] <br> __[Shinx]__ <br>Intimidate<br>Lv. 15<br>---<br>• Spark<br>• Bite<br>• Howl<br>• Helping Hand | ![][422] <br> __[Shellos]__ <br>Storm Drain<br>Lv. 15<br>---<br>• Whirlpool<br>• Mud Shot<br>• Water Pulse<br>• Yawn |
-| &nbsp; | ![][167] <br> __[Spinarak]__ <br>Sniper<br>Lv. 15<br>---<br>• Twineedle<br>• Night Shade<br>• Shadow Sneak<br>• Poison Fang | &nbsp; | &nbsp; |
 
 | Trainer | &nbsp; | Pokémon | &nbsp; |
 |: --- :|: --- :|: --- :|: --- :|

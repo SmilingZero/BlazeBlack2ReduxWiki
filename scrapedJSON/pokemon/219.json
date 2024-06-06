@@ -272,7 +272,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -303,6 +303,14 @@
                 "Water",
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 120,
+            "SPA": 80,
+            "SPD": 80,
+            "SPE": 30
         }
     }
 ]

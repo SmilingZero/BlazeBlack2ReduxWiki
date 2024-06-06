@@ -116,7 +116,7 @@
         "Accuracy": 30,
         "Type": "normal",
         "Damage Class": "physical",
-        "Effect": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+        "Effect": "OHKO Move. This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.",
         "Priority": 0
     },
     {
@@ -176,7 +176,7 @@
         "Accuracy": "Never Miss",
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.\n\nDoesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain.",
+        "Effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.",
         "Priority": -6
     },
     {
@@ -186,7 +186,7 @@
         "Accuracy": "100",
         "Type": "flying",
         "Damage Class": "physical",
-        "Effect": "User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, twister, and whirlwind still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User flies high into the air for one turn, becoming immune to attack, and hits on the second turn.\n\nDuring the immune turn, gust (2x dmg), hurricane, sky uppercut, smack down, thunder, twister (2x dmg), and whirlwind still hit the user normally.  Gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk.",
         "Priority": 0
     },
     {
@@ -196,7 +196,7 @@
         "Accuracy": 85,
         "Type": "normal",
         "Damage Class": "physical",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. The user continues to use other moves during this time. If the user leaves the field, this effect ends.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.",
         "Priority": 0
     },
     {
@@ -346,7 +346,7 @@
         "Accuracy": 90,
         "Type": "normal",
         "Damage Class": "physical",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  \n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.",
         "Priority": 0
     },
     {
@@ -456,7 +456,7 @@
         "Accuracy": "None",
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately. Doesn't affect Pok\u00e9mon with suction cups or under the effect of ingrain. Bypasses accuracy checks.",
+        "Effect": "Switches the target out for another of its trainer's Pok\u00e9mon selected at random.  Wild battles end immediately.",
         "Priority": -6
     },
     {
@@ -496,7 +496,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Disables the target's last used move, preventing its use for 4\u20137 turns, selected at random, or until the target leaves the field.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed,  if its last used move has 0 PP remaining, or if it already has a move disabled, this move will fail.",
+        "Effect": "Disables the target's last used move, preventing its use for 4\u20137 turns, selected at random, or until the target leaves the field.",
         "Priority": 0
     },
     {
@@ -536,7 +536,7 @@
         "Accuracy": null,
         "Type": "ice",
         "Damage Class": "status",
-        "Effect": "Pok\u00e9mon on the user's side of the field are immune to stat-lowering effects for five turns.\n\nguard swap, heart swap, and power swap may still be used.\n\ndefog used by an opponent will end this effect.",
+        "Effect": "Pok\u00e9mon on the user's side of the field are immune to stat-lowering effects for five turns. Defog used by an opponent will end this effect.",
         "Priority": 0
     },
     {
@@ -586,7 +586,7 @@
         "Accuracy": 70,
         "Type": "ice",
         "Damage Class": "special",
-        "Effect": "Has a 10% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.",
+        "Effect": "Has a 10% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.",
         "Priority": 0
     },
     {
@@ -676,7 +676,7 @@
         "Accuracy": 100,
         "Type": "fighting",
         "Damage Class": "physical",
-        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a physical move this turn.  Inflicts twice the damage that move did to the user.",
         "Priority": -5
     },
     {
@@ -686,7 +686,7 @@
         "Accuracy": 100,
         "Type": "fighting",
         "Damage Class": "physical",
-        "Effect": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.",
+        "Effect": "Inflicts damage equal to the user's level. Type immunity applies.",
         "Priority": 0
     },
     {
@@ -796,7 +796,7 @@
         "Accuracy": 100,
         "Type": "grass",
         "Damage Class": "special",
-        "Effect": "User is forced to attack with this move for 2\u20133 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+        "Effect": "User is forced to attack with this move for 2\u20133 turns.  After the last hit, the user becomes confused.\nSafeguard does not protect against the confusion from this move.",
         "Priority": 0
     },
     {
@@ -826,7 +826,7 @@
         "Accuracy": 85,
         "Type": "fire",
         "Damage Class": "special",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.",
         "Priority": 0
     },
     {
@@ -866,7 +866,7 @@
         "Accuracy": 70,
         "Type": "electric",
         "Damage Class": "special",
-        "Effect": "Has a 30% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect.\n\nDuring sunny day, this move has 50% accuracy.",
+        "Effect": "Has a 30% chance to paralyze the target.\n\nDuring rain dance, this move has 100% accuracy.\n\nDuring sunny day, this move has 50% accuracy.",
         "Priority": 0
     },
     {
@@ -896,7 +896,7 @@
         "Accuracy": 30,
         "Type": "ground",
         "Damage Class": "physical",
-        "Effect": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+        "Effect": "OHKO Move.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nEndure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.",
         "Priority": 0
     },
     {
@@ -1016,7 +1016,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "This move is replaced by the target's last successfully used move, and its PP changes to 5.  If the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, or if the user already knows the targeted move, this move will fail.  This effect vanishes when the user leaves the field.\n\nIf chatter, metronome, mimic, sketch, or struggle is selected, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome, nor forced by encore.",
+        "Effect": "This move is replaced by the target's last successfully used move, and its PP changes to 5.",
         "Priority": 0
     },
     {
@@ -1066,7 +1066,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Raises the user's evasion by two stages.\n\nstomp and steamroller have double power against Pok\u00e9mon that have used this move since entering the field.",
+        "Effect": "Raises the user's evasion by two stages.\n\nStomp and Steamroller have double power against Pok\u00e9mon that have used this move since entering the field.",
         "Priority": 0
     },
     {
@@ -1136,7 +1136,7 @@
         "Accuracy": null,
         "Type": "ice",
         "Damage Class": "status",
-        "Effect": "Removes stat, accuracy, and evasion modifiers from every Pok\u00e9mon on the field.\n\nThis does not count as a stat reduction for the purposes of clear body or white smoke.",
+        "Effect": "Removes stat, accuracy, and evasion modifiers from every Pok\u00e9mon on the field.",
         "Priority": 0
     },
     {
@@ -1166,7 +1166,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "physical",
-        "Effect": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pok\u00e9mon to hit it.  Damage inflicted is typeless.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User waits for two turns.  On the second turn, the user inflicts twice the damage it accumulated on the last Pok\u00e9mon to hit it.  Damage inflicted is typeless.",
         "Priority": 1
     },
     {
@@ -1176,7 +1176,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Selects any move at random and uses it.  Moves the user already knows are not eligible.  Assist, meta, protection, and reflection moves are also not eligible; specifically, assist, chatter, copycat, counter, covet, destiny bond, detect, endure, feint, focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, protect, quick guard, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, and wide guard will not be selected by this move.\n\nThis move cannot be copied by mimic or mirror move, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "Selects any move at random and uses it.  Moves the user already knows are not eligible. See other resources for list of callable moves.",
         "Priority": 0
     },
     {
@@ -1186,7 +1186,7 @@
         "Accuracy": null,
         "Type": "flying",
         "Damage Class": "status",
-        "Effect": "Uses the last move targeted at the user by a Pok\u00e9mon still on the field.  A move counts as targeting the user even if it hit multiple Pok\u00e9mon, as long as the user was one of them; however, moves targeting the field itself do not count.  If the user has not been targeted by an appropriate move since entering the field, or if no Pok\u00e9mon that targeted the user remains on the field, this move will fail.\n\nMoves that failed, missed, had no effect, or were blocked are still copied.\n\nAssist moves, time-delayed moves, \u201cmeta\u201d moves that operate on other moves/Pok\u00e9mon/abilities, and some other special moves cannot be copied and are ignored; if the last move to hit the user was such a move, the previous move will be used instead.  The full list of ignored moves is: acid armor, acupressure, after you, agility, ally switch, amnesia, aqua ring, aromatherapy, aromatic mist, assist, autotomize, barrier, baton pass, belch, belly drum, bide, bulk up, calm mind, camouflage, celebrate, charge, coil, conversion, conversion 2, copycat, cosmic power, cotton guard, counter, crafty shield, curse, defend order, defense curl, destiny bond, detect, doom desire, double team, dragon dance, electric terrain, endure, final gambit, flower shield, focus energy, focus punch, follow me, future sight, geomancy, grassy terrain, gravity, growth, grudge, guard split, hail, happy hour, harden, haze, heal bell, heal order, heal pulse, healing wish, helping hand, hold hands, hone claws, howl, imprison, ingrain, ion deluge, iron defense, kings shield, light screen, lucky chant, lunar dance, magic coat, magnet rise, magnetic flux, mat block, me first, meditate, metronome, milk drink, mimic, minimize, mirror coat, mirror move, mist, misty terrain, moonlight, morning sun, mud sport, nasty plot, nature power, perish song, power split, power trick, protect, psych up, quick guard, quiver dance, rage powder, rain dance, recover, recycle, reflect, reflect type, refresh, rest, rock polish, role play, roost, rototiller, safeguard, sandstorm, shadow blast, shadow bolt, shadow half, shadow rush, shadow shed, shadow sky, shadow storm, shadow wave, sharpen, shell smash, shift gear, sketch, slack off, sleep talk, snatch, soft boiled, spikes, spiky shield, spit up, splash, stealth rock, sticky web, stockpile, struggle, substitute, sunny day, swallow, swords dance, synthesis, tail glow, tailwind, teleport, toxic spikes, transform, water sport, wide guard, wish, withdraw and work up.\n\nThis move cannot be selected by assist, metronome, or sleep talk, nor forced by encore.",
+        "Effect": "Uses the last move targeted at the user by a Pok\u00e9mon still on the field.  A move counts as targeting the user even if it hit multiple Pok\u00e9mon, as long as the user was one of them; however, moves targeting the field itself do not count. \n\nMoves that failed, missed, had no effect, or were blocked are still copied.\n\nAssist moves, time-delayed moves, \u201cmeta\u201d moves that operate on other moves/Pok\u00e9mon/abilities, and some other special moves cannot be copied and are ignored; if the last move to hit the user was such a move, the previous move will be used instead.",
         "Priority": 0
     },
     {
@@ -1276,7 +1276,7 @@
         "Accuracy": 85,
         "Type": "water",
         "Damage Class": "physical",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
         "Priority": 0
     },
     {
@@ -1316,7 +1316,7 @@
         "Accuracy": 100,
         "Type": "bug",
         "Damage Class": "special",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
         "Priority": 0
     },
     {
@@ -1906,7 +1906,7 @@
         "Accuracy": null,
         "Type": "ground",
         "Damage Class": "status",
-        "Effect": "Scatters spikes around the opposing field, which damage opposing Pok\u00e9mon that enter the field for 1/8 of their max HP.  Pok\u00e9mon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.\n\nwonder guard does not block damage from this effect.\n\nrapid spin removes this effect from its user's side of the field.  defog removes this effect from its target's side of the field.",
+        "Effect": "Scatters spikes around the opposing field, which damage opposing Pok\u00e9mon that enter the field for 1/8 of their max HP.  Pok\u00e9mon immune to ground moves are immune to this damage, except during gravity.  Up to three layers of spikes may be laid down, adding 1/16 to the damage done: two layers of spikes damage for 3/16 max HP, and three layers damage for 1/4 max HP.",
         "Priority": 0
     },
     {
@@ -1936,7 +1936,7 @@
         "Accuracy": null,
         "Type": "ghost",
         "Damage Class": "status",
-        "Effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "If the user faints before its next move, the Pok\u00e9mon that fainted it will automatically faint.  End-of-turn damage is ignored.",
         "Priority": 0
     },
     {
@@ -1946,7 +1946,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Every Pok\u00e9mon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pok\u00e9mon's counter reaches zero, that Pok\u00e9mon faints.  A Pok\u00e9mon that leaves the field will lose its counter; its replacement does not inherit the effect, and other Pok\u00e9mon's counters remain.\n\nThis effect is passed on by baton pass.\n\nThis move cannot be copied by mirror move.",
+        "Effect": "Every Pok\u00e9mon is given a counter that starts at 3 and decreases by 1 at the end of every turn, including this one.  When a Pok\u00e9mon's counter reaches zero, that Pok\u00e9mon faints.",
         "Priority": 0
     },
     {
@@ -1966,7 +1966,7 @@
         "Accuracy": null,
         "Type": "fighting",
         "Damage Class": "status",
-        "Effect": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nlock on, mind reader, and no guard provide a (100 \u2013 accuracy)% chance for moves to break through this move.  This does not apply to one-hit KO moves (fissure, guillotine, horn drill, and sheer cold); those are always blocked by this move.\n\nthunder during rain dance and blizzard during hail have a 30% chance to break through this move.\n\nThe following effects are not prevented by this move:\n\n* acupressure from an ally\n* curse's curse effect\n* Delayed damage from doom desire and future sight; however, these moves will be prevented if they are used this turn\n* feint, which will also end this move's protection after it hits\n* imprison\n* perish song\n* shadow force\n* Moves that merely copy the user, such as transform or psych up\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "No moves will hit the user for the remainder of this turn.  If the user is last to act this turn, this move will fail.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.",
         "Priority": 4
     },
     {
@@ -1986,7 +1986,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.  This move itself also ignores accuracy and evasion modifiers.\n\nOne-hit KO moves are also guaranteed to hit, as long as the user is equal or higher level than the target.  This effect also allows the user to hit Pok\u00e9mon that are off the field due to moves such as dig or fly.\n\nIf the target uses detect or protect while under the effect of this move, the user is not guaranteed to hit, but has a (100 - accuracy)% chance to break through the protection.\n\nThis effect is passed on by baton pass.",
+        "Effect": "If the user targets the same target again before the end of the next turn, the move it uses is guaranteed to hit.",
         "Priority": 0
     },
     {
@@ -1996,7 +1996,7 @@
         "Accuracy": 100,
         "Type": "dragon",
         "Damage Class": "physical",
-        "Effect": "User is forced to attack with this move for 2\u20133 turns,selected at random.  After the last hit, the user becomes confused.\n\nsafeguard does not protect against the confusion from this move.",
+        "Effect": "User is forced to attack with this move for 2\u20133 turns,selected at random.  After the last hit, the user becomes confused.",
         "Priority": 0
     },
     {
@@ -2006,7 +2006,7 @@
         "Accuracy": null,
         "Type": "rock",
         "Damage Class": "status",
-        "Effect": "Changes the weather to a sandstorm for five turns.  Pok\u00e9mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok\u00e9mon's original Special Defense is raised by 50% for the duration of this effect.\n\nsolar beam's power is halved.\n\nmoonlight, morning sun, and synthesis only heal 1/4 the user's max HP.",
+        "Effect": "Changes the weather to a sandstorm for five turns.  Pok\u00e9mon that are not ground, rock, or steel take 1/16 their max HP at the end of every turn.  Every rock Pok\u00e9mon's original Special Defense is raised by 50% for the duration of this effect.",
         "Priority": 0
     },
     {
@@ -2026,7 +2026,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.\n\nIf the user successfully used detect, endure, protect, quick guard, or wide guard on the last turn, this move has a 50% chance to fail.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "The user's HP cannot be lowered below 1 by any means for the remainder of this turn.",
         "Priority": 4
     },
     {
@@ -2046,7 +2046,7 @@
         "Accuracy": 90,
         "Type": "rock",
         "Damage Class": "physical",
-        "Effect": "User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.\n\nIf the user has used defense curl since entering the field, this move has double power.",
+        "Effect": "User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.",
         "Priority": 0
     },
     {
@@ -2116,7 +2116,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.  This effect ends when the user leaves the field.\n\nThe target may still escape by using baton pass, u turn, or a shed shell.\n\nBoth the user and the target pass on this effect with baton pass.",
+        "Effect": "The target cannot switch out normally.  Ignores accuracy and evasion modifiers.",
         "Priority": 0
     },
     {
@@ -2126,7 +2126,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Causes the target to fall in love with the user, giving it a 50% chance to do nothing each turn.  If the user and target are the same gender, or either is genderless, this move will fail.  If either Pok\u00e9mon leaves the field, this effect ends.",
+        "Effect": "Causes the target (req. opposite gender) to fall in love with the user, giving it a 50% chance to do nothing each turn.",
         "Priority": 0
     },
     {
@@ -2186,7 +2186,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.  This effect remains even if the user leaves the field.\n\nIf yawn is used while this move is in effect, it will immediately fail.\n\ndefog used by an opponent will end this effect.\n\nThis effect does not prevent the confusion caused by outrage, petal dance, or thrash.",
+        "Effect": "Protects Pok\u00e9mon on the user's side of the field from major status effects and confusion for five turns.  Does not cancel existing ailments.",
         "Priority": 0
     },
     {
@@ -2196,7 +2196,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Changes the user's and target's remaining HP to the average of their current remaining HP.  Ignores accuracy and evasion modifiers.  This effect does not count as inflicting damage for other moves and effects that respond to damage taken.\n\nThis effect fails against a substitute.",
+        "Effect": "Changes the user's and target's remaining HP to the average of their current remaining HP.",
         "Priority": 0
     },
     {
@@ -2266,7 +2266,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.  If the selected move allows the trainer to select a target, an opponent will be selected at random each turn.  If the target is prevented from using the selected move by some other effect, struggle will be used instead.  This effect ends if the selected move runs out of PP.\n\nIf the target hasn't used a move since entering the field, if it tried to use a move this turn and failed, if it does not know the selected move, or if the selected move has 0 PP remaining, this move will fail.  If the target's last used move was encore, mimic, mirror move, sketch, struggle, or transform, this move will fail.",
+        "Effect": "The next 4\u20138 times (selected at random) the target attempts to move, it is forced to repeat its last used move.",
         "Priority": 0
     },
     {
@@ -2396,7 +2396,7 @@
         "Accuracy": null,
         "Type": "water",
         "Damage Class": "status",
-        "Effect": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.\n\nIf the user is holding damp rock, this effect lasts for eight turns.\n\nthunder has 100% accuracy.  If the target has used detect or protect, thunder has a (100 - accuracy)% chance to break through the protection.\n\nsolar beam has half power.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with swift swim have doubled original Speed.\n\nPok\u00e9mon with forecast become water.\n\nPok\u00e9mon with dry skin heal 1/8 max HP, Pok\u00e9mon with hydration are cured of major status effects, and Pok\u00e9mon with rain dish heal 1/16 max HP at the end of each turn.",
+        "Effect": "Changes the weather to rain for five turns, during which water moves inflict 50% extra damage, and fire moves inflict half damage.",
         "Priority": 0
     },
     {
@@ -2426,7 +2426,7 @@
         "Accuracy": 100,
         "Type": "psychic",
         "Damage Class": "special",
-        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome.",
+        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a special move this turn.  Inflicts twice the damage that move did to the user. Type immunity applies.",
         "Priority": -5
     },
     {
@@ -2476,7 +2476,7 @@
         "Accuracy": 100,
         "Type": "psychic",
         "Damage Class": "special",
-        "Effect": "Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.\n\nThis effect breaks through wonder guard.\n\nIf the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.\n\nThe damage is applied at the end of the turn, so it ignores endure and focus sash.\n\nThis move cannot be copied by mirror move.",
+        "Effect": "Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.",
         "Priority": 0
     },
     {
@@ -2496,7 +2496,7 @@
         "Accuracy": 85,
         "Type": "water",
         "Damage Class": "special",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn. Has a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nIf the target is in the first turn of dive, this move will hit with double power.",
         "Priority": 0
     },
     {
@@ -2526,7 +2526,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "special",
-        "Effect": "User is forced to use this move for 2\u20135 turns, selected at random.  All Pok\u00e9mon on the field wake up, and none can fall to sleep until the lock-in ends.\n\nPok\u00e9mon cannot use rest during this effect.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User is forced to use this move for 2\u20135 turns, selected at random. No Pokemon can sleep during the effect of this move. ",
         "Priority": 0
     },
     {
@@ -2576,7 +2576,7 @@
         "Accuracy": null,
         "Type": "ice",
         "Damage Class": "status",
-        "Effect": "Changes the weather to hail for five turns, during which non-ice Pok\u00e9mon are damaged for 1/16 their max HP at the end of every turn.\n\nIf the user is holding icy rock, this effect lasts for eight turns.\n\nblizzard has 100% accuracy.  If the target has used detect or protect, blizzard has a (100 - accuracy)% chance to break through the protection.\n\nmoonlight, morning sun, and synthesis heal only 1/4 of the user's max HP.\n\nPok\u00e9mon with snow cloak are exempt from this effect's damage.",
+        "Effect": "Changes the weather to hail for five turns, during which non-ice Pok\u00e9mon are damaged for 1/16 their max HP at the end of every turn.",
         "Priority": 0
     },
     {
@@ -2586,7 +2586,7 @@
         "Accuracy": 100,
         "Type": "dark",
         "Damage Class": "status",
-        "Effect": "Prevents the target from attempting to use the same move twice in a row.  When the target leaves the field, this effect ends.\n\nIf the target is forced to attempt a repeated move due to choice band, choice scarf, choice specs, disable, encore, taunt, only having PP remaining for one move, or any other effect, the target will use struggle instead.  The target is then free to use the forced move next turn, as it didn't use that move this turn.",
+        "Effect": "Prevents the target from attempting to use the same move twice in a row.",
         "Priority": 0
     },
     {
@@ -2636,7 +2636,7 @@
         "Accuracy": 100,
         "Type": "fighting",
         "Damage Class": "physical",
-        "Effect": "If the user takes damage this turn before hitting, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "If the user takes damage this turn before hitting, this move will fail.",
         "Priority": -3
     },
     {
@@ -2656,7 +2656,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user. \n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.",
         "Priority": 2
     },
     {
@@ -2686,7 +2686,7 @@
         "Accuracy": 100,
         "Type": "dark",
         "Damage Class": "status",
-        "Effect": "Target is forced to only use damaging moves for the next 3\u20135 turns, selected at random.  Moves that select other moves not known in advance do not count as damaging.\n\nassist, copycat, me first, metronome, mirror move, and sleep talk do not directly inflict damage and thus may not be used.\n\nbide, counter, endeavor, metal burst, and mirror coat are allowed.",
+        "Effect": "Target is forced to only use damaging moves for the next 3\u20135 turns, selected at random.",
         "Priority": 0
     },
     {
@@ -2706,7 +2706,7 @@
         "Accuracy": 100,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "User and target permanently swap held items.  Works even if one of the Pok\u00e9mon isn't holding anything.  If either Pok\u00e9mon is holding mail, this move will fail.\n\nIf either Pok\u00e9mon has multitype or sticky hold, this move will fail.\n\nIf this move results in a Pok\u00e9mon obtaining choice band, choice scarf, or choice specs, and that Pok\u00e9mon was the latter of the pair to move this turn, then the move it used this turn becomes its chosen forced move.  This applies even if both Pok\u00e9mon had a choice item before this move was used.  If the first of the two Pok\u00e9mon gains a choice item, it may select whatever choice move it wishes next turn.\n\nNeither the user nor the target can recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "User and target permanently swap held items.",
         "Priority": 0
     },
     {
@@ -2716,7 +2716,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.\n\nThis move cannot be copied by mirror move.",
+        "Effect": "User's ability is replaced with the target's until the user leaves the field.  Ignores accuracy and evasion modifiers.\n\nIf the target has flower gift, forecast, illusion, imposter, multitype, stance change, trace, wonder guard, or zen mode, this move will fail.",
         "Priority": 0
     },
     {
@@ -2736,7 +2736,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Uses a move from another Pok\u00e9mon in the user's party, both selected at random.  Moves from fainted Pok\u00e9mon can be used.  If there are no eligible Pok\u00e9mon or moves, this move will fail.\n\nThis move will not select assist, chatter, circle throw, copycat, counter, covet, destiny bond, detect, dig, dive, dragon tail, endure, feint, fly focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, phantom force protect, quick guard, roar shadow force, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, whirlwind, or wide guard.\n\nThis move cannot be copied by mirror move, nor selected by metronome or sleep talk.",
+        "Effect": "Uses a move from another Pok\u00e9mon in the user's party, both selected at random.  Moves from fainted Pok\u00e9mon can be used.  If there are no eligible Pok\u00e9mon or moves, this move will fail.\n\nThis move will not select assist, chatter, circle throw, copycat, counter, covet, destiny bond, detect, dig, dive, dragon tail, endure, feint, fly focus punch, follow me, helping hand, me first, metronome, mimic, mirror coat, mirror move, phantom force protect, quick guard, roar shadow force, sketch, sleep talk, snatch, struggle, switcheroo, thief, trick, whirlwind, or wide guard.",
         "Priority": 0
     },
     {
@@ -2746,7 +2746,7 @@
         "Accuracy": null,
         "Type": "grass",
         "Damage Class": "status",
-        "Effect": "Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks, it will now take normal damage from them.\n\nroar and whirlwind will not affect the user.  The user cannot use magnet rise.\n\nThe user may still use u turn to leave the field.\n\nThis effect can be passed with baton pass.",
+        "Effect": "Prevents the user from switching out.  User regains 1/16 of its max HP at the end of every turn.  If the user was immune to ground attacks, it will now take normal damage from them.\n\nroar and whirlwind will not affect the user.  The user cannot use magnet rise.",
         "Priority": 0
     },
     {
@@ -2806,7 +2806,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.  If the target leaves the field, this effect is canceled.  If the target has a status effect when this move is used, this move will fail.\n\nIf the target is protected by safeguard when this move is used, this move will fail.\n\ninsomnia and vital spirit prevent the sleep if the target has either at the end of the next turn, but will not cause this move to fail on use.",
+        "Effect": "Puts the target to sleep at the end of the next turn.  Ignores accuracy and evasion modifiers.",
         "Priority": 0
     },
     {
@@ -2856,7 +2856,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "Prevents any Pok\u00e9mon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.  If no opposing Pok\u00e9mon knows any of the user's moves when this move is used, this move will fail.",
+        "Effect": "Prevents any Pok\u00e9mon on the opposing side of the field from using any move the user knows until the user leaves the field.  This effect is live; if the user obtains new moves while on the field, these moves become restricted.",
         "Priority": 0
     },
     {
@@ -3006,7 +3006,7 @@
         "Accuracy": 90,
         "Type": "ice",
         "Damage Class": "physical",
-        "Effect": "User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.  If this move misses or becomes unusable, the lock-in ends.\n\nIf the user has used defense curl since entering the field, this move has double power.",
+        "Effect": "User is forced to use this move for five turns.  Power doubles every time this move is used in succession to a maximum of 16x, and resets to normal after the lock-in ends.",
         "Priority": 0
     },
     {
@@ -3286,7 +3286,7 @@
         "Accuracy": 30,
         "Type": "ice",
         "Damage Class": "special",
-        "Effect": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.  However, they will not give this move a chance to break through detect or protect.",
+        "Effect": "Inflicts damage equal to the target's max HP.  Ignores accuracy and evasion modifiers.  This move's accuracy is 30% plus 1% for each level the user is higher than the target.  If the user is a lower level than the target, this move will fail.\n\nBecause this move inflicts a specific and finite amount of damage, endure still prevents the target from fainting.\n\nThe effects of lock on, mind reader, and no guard still apply, as long as the user is equal or higher level than the target.",
         "Priority": 0
     },
     {
@@ -3396,7 +3396,7 @@
         "Accuracy": 85,
         "Type": "flying",
         "Damage Class": "physical",
-        "Effect": "User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User bounces high into the air for one turn, becoming immune to attack, and hits on the second turn.  Has a 30% chance to paralyze the target.\n\nDuring the immune turn, gust, hurricane, sky uppercut, smack down, thunder, and twister still hit the user normally.  gust and twister also have double power against the user.\n\nThe damage from hail and sandstorm still applies during the immune turn.\n\nThe user may be hit during its immune turn if under the effect of lock on, mind reader, or no guard.\n\nThis move cannot be used while gravity is in effect.",
         "Priority": 0
     },
     {
@@ -3426,7 +3426,7 @@
         "Accuracy": 100,
         "Type": "Fairy",
         "Damage Class": "physical",
-        "Effect": "If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPok\u00e9mon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "If the target is holding an item and the user is not, the user will permanently take the item.  Damage is still inflicted if an item cannot be taken.\n\nPok\u00e9mon with sticky hold or multitype are immune to the item theft effect.\n\nThe target cannot recover its item with recycle.",
         "Priority": 0
     },
     {
@@ -3526,7 +3526,7 @@
         "Accuracy": 100,
         "Type": "steel",
         "Damage Class": "special",
-        "Effect": "Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.\n\nThis effect breaks through wonder guard.\n\nIf the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.\n\nThe damage is applied at the end of the turn, so it ignores endure and focus sash.\n\nThis move cannot be copied by mirror move.",
+        "Effect": "Inflicts typeless regular damage at the end of the third turn, starting with this one.  This move cannot score a critical hit.  If the target switches out, its replacement will be hit instead.  Damage is calculated at the time this move is used; stat changes and switching out during the delay won't change the damage inflicted.  No move with this effect can be used against the same target again until after the end of the third turn.\n\nThis effect breaks through wonder guard.\n\nIf the target is protected by protect or detect on the turn this move is used, this move will fail.  However, the damage on the third turn will break through protection.\n\nThe damage is applied at the end of the turn, so it ignores endure and focus sash.",
         "Priority": 0
     },
     {
@@ -3666,7 +3666,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.\n\nIf the target has a substitute, this move will have no effect, even if the user is the target.\n\nThis move cannot be copied by mirror move.",
+        "Effect": "Raises one of the target's stats by two stages.  The raised stat is chosen at random from any stats that can be raised by two stages.  If no stat is eligible, this move will fail.\n\nIf the target has a substitute, this move will have no effect, even if the user is the target.",
         "Priority": 0
     },
     {
@@ -3676,7 +3676,7 @@
         "Accuracy": 100,
         "Type": "steel",
         "Damage Class": "physical",
-        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a damaging move this turn.  Inflicts 1.5\u00d7 the damage that move did to the user.  If there is no eligible target, this move will fail.  Type immunity applies, but other type effects are ignored.",
+        "Effect": "Targets the last opposing Pok\u00e9mon to hit the user with a damaging move this turn.  Inflicts 1.5\u00d7 the damage that move did to the user. Type immunity applies, but other type effects are ignored.",
         "Priority": 0
     },
     {
@@ -3686,7 +3686,7 @@
         "Accuracy": 100,
         "Type": "bug",
         "Damage Class": "physical",
-        "Effect": "Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok\u00e9mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok\u00e9mon to send out first.  If the user is the last Pok\u00e9mon in its party that can battle, it will not switch out.\n\nThe user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.\n\nThis move may be used even if the user is under the effect of ingrain.  ingrain's effect will end.",
+        "Effect": "Inflicts regular damage, then the user immediately switches out, and the trainer selects a replacement Pok\u00e9mon from the party.  If the target faints from this attack, the user's trainer selects the new Pok\u00e9mon to send out first.  If the user is the last Pok\u00e9mon in its party that can battle, it will not switch out.\n\nThe user may be hit by pursuit when it switches out, if it has been targeted and pursuit has not yet been used.\n\nThis move may be used even if the user is under the effect of ingrain.",
         "Priority": 0
     },
     {
@@ -3816,7 +3816,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.\n\nIf the target moves before the user, this move will fail.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "If the target has selected a damaging move this turn, the user will copy that move and use it against the target, with a 50% increase in power.\n\nIf the target moves before the user, this move will fail.",
         "Priority": 0
     },
     {
@@ -3826,7 +3826,7 @@
         "Accuracy": null,
         "Type": "normal",
         "Damage Class": "status",
-        "Effect": "Uses the last move that was used successfully by any Pok\u00e9mon, including the user.\n\nThis move cannot copy itself, nor roar nor whirlwind.\n\nThis move cannot be copied by mirror move, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "Uses the last move that was used successfully by any Pok\u00e9mon, including the user.\n\nThis move cannot copy itself, nor roar nor whirlwind.",
         "Priority": 0
     },
     {
@@ -4326,7 +4326,7 @@
         "Accuracy": null,
         "Type": "psychic",
         "Damage Class": "status",
-        "Effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.\n\nPok\u00e9mon holding full incense, lagging tail, or quick claw and Pok\u00e9mon with stall ignore this effect.",
+        "Effect": "For five turns (including this one), slower Pok\u00e9mon will act before faster Pok\u00e9mon.  Move priority is not affected.  Using this move when its effect is already active will end the effect.",
         "Priority": -7
     },
     {
@@ -4476,7 +4476,7 @@
         "Accuracy": 100,
         "Type": "flying",
         "Damage Class": "special",
-        "Effect": "Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.\n\nThis move cannot be copied by mimic, mirror move, or sketch, nor selected by assist, metronome, or sleep talk.",
+        "Effect": "Has either a 1%, 11%, or 31% chance to confuse the target, based on the volume of the recording made for this move; louder recordings increase the chance of confusion.  If the user is not a chatot, this move will not cause confusion.",
         "Priority": 0
     },
     {
@@ -4496,7 +4496,7 @@
         "Accuracy": 100,
         "Type": "bug",
         "Damage Class": "physical",
-        "Effect": "If the target is holding a berry, this move has double power, and the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
+        "Effect": "If the target is holding a berry, the user takes the berry and uses it immediately.\n\nIf the target is holding a jaboca berry or rowap berry, the berry is still removed, but has no effect.\n\nIf this move is super effective and the target is holding a berry that can reduce this move's damage, it will do so, and will not be stolen.",
         "Priority": 0
     },
     {
@@ -4626,7 +4626,7 @@
         "Accuracy": 75,
         "Type": "fire",
         "Damage Class": "special",
-        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.  The user continues to use other moves during this time.  If the user leaves the field, this effect ends.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.\n\nrapid spin cancels this effect.",
+        "Effect": "For the next 2\u20135 turns, the target cannot leave the field and is damaged for 1/16 its max HP at the end of each turn.\n\nHas a 3/8 chance each to hit 2 or 3 times, and a 1/8 chance each to hit 4 or 5 times.  Averages to 3 hits per use.",
         "Priority": 0
     },
     {
@@ -4666,7 +4666,7 @@
         "Accuracy": 100,
         "Type": "ghost",
         "Damage Class": "physical",
-        "Effect": "User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.\n\nThis move cannot be selected by sleep talk.",
+        "Effect": "User vanishes for one turn, becoming immune to attack, and hits on the second turn.\n\nThis move ignores the effects of detect and protect.",
         "Priority": 0
     },
     {
@@ -4756,7 +4756,7 @@
         "Accuracy": null,
         "Type": "bug",
         "Damage Class": "status",
-        "Effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.  If both Pok\u00e9mon on the same side of the field use this move on the same turn, the Pok\u00e9mon that uses it last will become the target.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.\n\nThis move cannot be selected by assist or metronome.",
+        "Effect": "Until the end of this turn, any moves that opposing Pok\u00e9mon target solely at the user's ally will instead target the user.\n\nThis effect takes priority over lightning rod and storm drain.\n\nIf the user's ally switches out, opposing Pok\u00e9mon may still hit it with pursuit.",
         "Priority": 2
     },
     {
@@ -5086,7 +5086,7 @@
         "Accuracy": 90,
         "Type": "fighting",
         "Damage Class": "physical",
-        "Effect": "Inflicts regular damage, then switches the target out for another of its trainer's Pok\u00e9mon, selected at random.\n\nIf the target is under the effect of ingrain or suction cups, or it has a substitute, or its Trainer has no more usable Pok\u00e9mon, it will not be switched out.  If the target is a wild Pok\u00e9mon, the battle ends instead.",
+        "Effect": "Inflicts regular damage, then switches the target out for another of its trainer's Pok\u00e9mon, selected at random. If the target is a wild Pok\u00e9mon, the battle ends instead.",
         "Priority": -6
     },
     {
@@ -5456,7 +5456,7 @@
         "Accuracy": 100,
         "Type": "normal",
         "Damage Class": "special",
-        "Effect": "If the user is holding a plate or a drive, this move's type is the type corresponding to that item.\n\nNote: This effect is technically shared by both techno blast and judgment; however, Techno Blast is only affected by drives, and Judgment is only affected by plates.",
+        "Effect": "If the user is holding a plate or a drive, this move's type is the type corresponding to that item.",
         "Priority": 0
     },
     {

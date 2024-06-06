@@ -311,7 +311,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Lagging Tail"
+        },
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -340,6 +342,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 80,
+            "SPD": 95,
+            "SPE": 50
         }
     }
 ]

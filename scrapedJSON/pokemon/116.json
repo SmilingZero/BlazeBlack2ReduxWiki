@@ -187,7 +187,9 @@
                 "Method": "Level 32"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Dragon Scale"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -216,6 +218,14 @@
                 "Grass"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 40,
+            "DEF": 70,
+            "SPA": 70,
+            "SPD": 25,
+            "SPE": 60
         }
     }
 ]

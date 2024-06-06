@@ -640,7 +640,7 @@
 - 640 - Virizion: pokemons/640.md
 - 641 - Tornadus: pokemons/641.md
 - 642 - Thundurus: pokemons/642.md
-- 643 - Reshiram: pokemons/643.md
+- 643 - Reshiram : pokemons/643.md
 - 644 - Zekrom: pokemons/644.md
 - 645 - Landorus: pokemons/645.md
 - 646 - Kyurem: pokemons/646.md

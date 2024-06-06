@@ -1,28 +1,5 @@
-# Undella Town
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Surf, Normal, Undella Town | ![][592] <br> __[Frillish]__ <br> __Lv:__ 40-46 <br> __60.0%__ | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 40-46 <br> __30.0%__ | ![][120] <br> __[Staryu]__ <br> __Lv:__ 40-46 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Normal, Undella Town | ![][223] <br> __[Remoraid]__ <br> __Lv:__ 40-46 <br> __60.0%__ | ![][72] <br> __[Tentacool]__ <br> __Lv:__ 40-46 <br> __30.0%__ | ![][370] <br> __[Luvdisc]__ <br> __Lv:__ 40-46 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Surf, Dark Spot, Undella Town | ![][120] <br> __[Staryu]__ <br> __Lv:__ 40-46 <br> __60.0%__ | ![][550-red] <br> __[Basculin-Red]__ <br> __Lv:__ 40-46 <br> __30.0%__ | ![][593] <br> __[Jellicent]__ <br> __Lv:__ 40-46 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Dark Spot, Undella Town | ![][72] <br> __[Tentacool]__ <br> __Lv:__ 40-46 <br> __60.0%__ | ![][370] <br> __[Luvdisc]__ <br> __Lv:__ 40-46 <br> __30.0%__ | ![][91] <br> __[Cloyster]__ <br> __Lv:__ 40-46 <br> __10.0%__ | &nbsp; | &nbsp; |
-
-
-[592]: ../img/animated/592.gif
-[Frillish]: ../../pokemons/592/
-[550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../../pokemons/550/
-[120]: ../img/animated/120.gif
-[Staryu]: ../../pokemons/120/
-[223]: ../img/animated/223.gif
-[Remoraid]: ../../pokemons/223/
-[72]: ../img/animated/72.gif
-[Tentacool]: ../../pokemons/072/
-[370]: ../img/animated/370.gif
-[Luvdisc]: ../../pokemons/370/
-[550-red]: ../img/animated/550-red.gif
-[Basculin-Red]: ../../pokemons/550/
-[593]: ../img/animated/593.gif
-[Jellicent]: ../../pokemons/593/
-[91]: ../img/animated/91.gif
-[Cloyster]: ../../pokemons/091/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/592.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/592">Frillish</a> <br> Lv: 40-46 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 40-46 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/120.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/120">Staryu</a> <br> Lv: 40-46 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/120.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/120">Staryu</a> <br> Lv: 40-46 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-red.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Red</a> <br> Lv: 40-46 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/593.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/593">Jellicent</a> <br> Lv: 40-46 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/223.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/223">Remoraid</a> <br> Lv: 40-46 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/72.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/072">Tentacool</a> <br> Lv: 40-46 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/370.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/370">Luvdisc</a> <br> Lv: 40-46 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/72.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/072">Tentacool</a> <br> Lv: 40-46 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/370.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/370">Luvdisc</a> <br> Lv: 40-46 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/91.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/091">Cloyster</a> <br> Lv: 40-46 <br> 10.0% </td><td></td><td></td></tr></table>

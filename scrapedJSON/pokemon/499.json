@@ -269,7 +269,7 @@
                 "Method": "Level 36"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -300,6 +300,14 @@
             "4x Weak": [
                 "Water"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 93,
+            "DEF": 55,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 55
         }
     }
 ]

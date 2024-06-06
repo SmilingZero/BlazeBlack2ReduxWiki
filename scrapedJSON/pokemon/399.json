@@ -234,7 +234,7 @@
                 "Method": "Level 15"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -263,6 +263,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 59,
+            "ATK": 45,
+            "DEF": 40,
+            "SPA": 35,
+            "SPD": 40,
+            "SPE": 31
         }
     }
 ]

@@ -224,7 +224,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Dragon"
@@ -255,6 +255,14 @@
             "4x Weak": [
                 "Steel"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 71,
+            "ATK": 95,
+            "DEF": 85,
+            "SPA": 110,
+            "SPD": 95,
+            "SPE": 79
         }
     }
 ]

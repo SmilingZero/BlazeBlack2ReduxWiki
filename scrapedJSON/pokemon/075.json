@@ -258,7 +258,9 @@
                 "Method": "Use Link Cable"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Everstone"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -290,6 +292,14 @@
                 "Water",
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 95,
+            "DEF": 115,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 35
         }
     }
 ]

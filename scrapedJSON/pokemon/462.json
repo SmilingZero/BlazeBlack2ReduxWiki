@@ -242,7 +242,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Metal Coat"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -274,6 +276,14 @@
             "4x Weak": [
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 70,
+            "DEF": 115,
+            "SPA": 130,
+            "SPD": 90,
+            "SPE": 60
         }
     }
 ]

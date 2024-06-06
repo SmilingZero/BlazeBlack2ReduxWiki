@@ -224,9 +224,10 @@
                 "Method": "Level 34"
             }
         ],
-        "Items": [
-            "Rare Bone"
-        ],
+        "Items": {
+            "5": "Hard Stone",
+            "1": "Rare Bone"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -255,6 +256,14 @@
                 "Steel"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 85,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 55
         }
     }
 ]

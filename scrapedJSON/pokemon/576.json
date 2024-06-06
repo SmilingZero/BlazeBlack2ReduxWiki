@@ -269,9 +269,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Persim Berry"
-        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -301,6 +301,14 @@
             "4x Weak": [
                 "Bug"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 55,
+            "DEF": 95,
+            "SPA": 95,
+            "SPD": 110,
+            "SPE": 65
         }
     }
 ]

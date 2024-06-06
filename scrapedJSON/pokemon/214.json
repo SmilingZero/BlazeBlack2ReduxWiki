@@ -271,7 +271,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -301,6 +301,14 @@
             "4x Weak": [
                 "Flying"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 125,
+            "DEF": 75,
+            "SPA": 40,
+            "SPD": 95,
+            "SPE": 85
         }
     }
 ]

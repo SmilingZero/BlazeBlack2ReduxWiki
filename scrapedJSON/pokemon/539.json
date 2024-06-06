@@ -243,9 +243,10 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Expert Belt"
-        ],
+        "Items": {
+            "5": "Black Belt",
+            "1": "Expert Belt"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -274,6 +275,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 125,
+            "DEF": 75,
+            "SPA": 30,
+            "SPD": 75,
+            "SPE": 85
         }
     }
 ]

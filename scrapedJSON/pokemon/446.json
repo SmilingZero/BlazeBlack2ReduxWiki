@@ -253,7 +253,7 @@
                 "Method": "Happiness"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -282,6 +282,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 135,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 85,
+            "SPE": 5
         }
     }
 ]

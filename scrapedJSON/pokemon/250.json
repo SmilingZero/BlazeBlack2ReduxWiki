@@ -276,9 +276,10 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Sacred Ash"
-        ],
+        "Items": {
+            "50": "Sacred Ash",
+            "5": "Sacred Ash"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -310,6 +311,14 @@
             "4x Weak": [
                 "Rock"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 106,
+            "ATK": 130,
+            "DEF": 90,
+            "SPA": 110,
+            "SPD": 154,
+            "SPE": 90
         }
     }
 ]

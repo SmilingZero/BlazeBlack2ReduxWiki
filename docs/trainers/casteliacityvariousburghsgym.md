@@ -30,23 +30,6 @@
 
 
 
-## GAMEFREAK Offices - Postgame:
-
-!!! Level-Info
-    Levels -2 on Easy mode, +2 on Challenge mode.
-
-| Trainer | &nbsp; | Pokémon | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|
-| <br>![][GamefreakNishino]<br>__Gamefreak Nishino__<br>:grey_exclamation:  | ![][628] <br> __[Braviary]__ <br>Defiant<br>Lv. 90<br>Power Herb<br>• Fly | ![][530] <br> __[Excadrill]__ <br>Mold Breaker<br>Lv. 90<br>Power Herb<br>• Dig | ![][594] <br> __[Alomomola]__ <br>Regenerator<br>Lv. 90<br>Power Herb<br>• Dive |
-| &nbsp; | ![][510] <br> __[Liepard]__ <br>Prankster<br>Lv. 90<br>Lagging Tail<br>• Assist | ![][523] <br> __[Zebstrika]__ <br>Sap Sipper<br>Lv. 90<br>Power Herb<br>• Bounce | ![][151] <br> __[Mew]__ <br>Synchronize<br>Lv. 92<br>Power Herb<br>• Dive<br>• Dig<br>• Fly<br>• Bounce |
-
-| Trainer | &nbsp; | Pokémon | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|
-| <br>![][GamefreakMorimoto]<br>__Gamefreak Morimoto__<br>:grey_exclamation:  | ![][36] <br> __[Clefable]__ <br>Magic Guard<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Thunder<br>• Blizzard<br>• Moonblast | ![][531] <br> __[Audino]__ <br>Regenerator<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Moonblast<br>• Fire Blast<br>• Trick Room | ![][40] <br> __[Wigglytuff]__ <br>Huge Power*<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Thunder<br>• Play Rough<br>• Focus Blast |
-| &nbsp; | ![][233] <br> __[Porygon2]__ <br>Trace<br>Lv. 90<br>Eviolite<br>• Gravity<br>• Thunder<br>• Blizzard<br>• Trick Room | ![][242] <br> __[Blissey]__ <br>Serene Grace<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Soft-Boiled<br>• Thunder<br>• Focus Blast | ![][143] <br> __[Snorlax]__ <br>Thick Fat<br>Lv. 92<br>Leftovers<br>• Slack Off<br>• Gunk Shot<br>• Strength<br>• Earthquake |
-
-
-
 ## Café Sonata
 
 !!! Level-Info
@@ -136,7 +119,20 @@
 | &nbsp; | ![][154] <br> __[Meganium]__ <br>Serene Grace*<br>Lv. 50<br>Light Clay<br>• Dazzling Gleam<br>• Giga Drain<br>• Reflect<br>• Light Screen | ![][157] <br> __[Typhlosion]__ <br>Flash Fire<br>Lv. 50<br>Choice Scarf<br>• Eruption | ![][160] <br> __[Feraligatr]__ <br>Sheer Force<br>Lv. 50<br>Life Orb<br>• Aqua Tail<br>• Dragon Dance<br>• Crunch<br>• Ice Fang |
 
 
+## GAMEFREAK Offices - Postgame:
 
+!!! Level-Info
+    Levels -2 on Easy mode, +2 on Challenge mode.
+
+| Trainer | &nbsp; | Pokémon | &nbsp; |
+|: --- :|: --- :|: --- :|: --- :|
+| <br>![][GamefreakNishino]<br>__Gamefreak Nishino__<br>:grey_exclamation:  | ![][628] <br> __[Braviary]__ <br>Defiant<br>Lv. 90<br>Power Herb<br>• Fly | ![][530] <br> __[Excadrill]__ <br>Mold Breaker<br>Lv. 90<br>Power Herb<br>• Dig | ![][594] <br> __[Alomomola]__ <br>Regenerator<br>Lv. 90<br>Power Herb<br>• Dive |
+| &nbsp; | ![][510] <br> __[Liepard]__ <br>Prankster<br>Lv. 90<br>Lagging Tail<br>• Assist | ![][523] <br> __[Zebstrika]__ <br>Sap Sipper<br>Lv. 90<br>Power Herb<br>• Bounce | ![][151] <br> __[Mew]__ <br>Synchronize<br>Lv. 92<br>Power Herb<br>• Dive<br>• Dig<br>• Fly<br>• Bounce |
+
+| Trainer | &nbsp; | Pokémon | &nbsp; |
+|: --- :|: --- :|: --- :|: --- :|
+| <br>![][GamefreakMorimoto]<br>__Gamefreak Morimoto__<br>:grey_exclamation:  | ![][36] <br> __[Clefable]__ <br>Magic Guard<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Thunder<br>• Blizzard<br>• Moonblast | ![][531] <br> __[Audino]__ <br>Regenerator<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Moonblast<br>• Fire Blast<br>• Trick Room | ![][40] <br> __[Wigglytuff]__ <br>Huge Power*<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Thunder<br>• Play Rough<br>• Focus Blast |
+| &nbsp; | ![][233] <br> __[Porygon2]__ <br>Trace<br>Lv. 90<br>Eviolite<br>• Gravity<br>• Thunder<br>• Blizzard<br>• Trick Room | ![][242] <br> __[Blissey]__ <br>Serene Grace<br>Lv. 90<br>Leftovers<br>• Gravity<br>• Soft-Boiled<br>• Thunder<br>• Focus Blast | ![][143] <br> __[Snorlax]__ <br>Thick Fat<br>Lv. 92<br>Leftovers<br>• Slack Off<br>• Gunk Shot<br>• Strength<br>• Earthquake |
 
 
 --8<-- "includes/abilities.md"

@@ -1,24 +1,5 @@
-# Striation City
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Surf, Normal | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 35-65 <br> __70.0%__ | ![][341] <br> __[Corphish]__ <br> __Lv:__ 35-65 <br> __30.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Fish, Normal | ![][118] <br> __[Goldeen]__ <br> __Lv:__ 35-55 <br> __95.0%__ | ![][54] <br> __[Psyduck]__ <br> __Lv:__ 35-55 <br> __5.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Surf, Dark Spot | ![][550-red] <br> __[Basculin-Red]__ <br> __Lv:__ 55-75 <br> __90.0%__ | ![][342] <br> __[Crawdaunt]__ <br> __Lv:__ 55-75 <br> __10.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Fish, Dark Spot | ![][54] <br> __[Psyduck]__ <br> __Lv:__ 50-60 <br> __70.0%__ | ![][119] <br> __[Seaking]__ <br> __Lv:__ 60-70 <br> __30.0%__ | &nbsp; | &nbsp; | &nbsp; |
-
-
-[550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../../pokemons/550/
-[341]: ../img/animated/341.gif
-[Corphish]: ../../pokemons/341/
-[118]: ../img/animated/118.gif
-[Goldeen]: ../../pokemons/118/
-[54]: ../img/animated/54.gif
-[Psyduck]: ../../pokemons/054/
-[550-red]: ../img/animated/550-red.gif
-[Basculin-Red]: ../../pokemons/550/
-[342]: ../img/animated/342.gif
-[Crawdaunt]: ../../pokemons/342/
-[119]: ../img/animated/119.gif
-[Seaking]: ../../pokemons/119/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 35-65 <br> 70.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/341.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/341">Corphish</a> <br> Lv: 35-65 <br> 30.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-red.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Red</a> <br> Lv: 55-75 <br> 90.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/342.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/342">Crawdaunt</a> <br> Lv: 55-75 <br> 10.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/118.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/118">Goldeen</a> <br> Lv: 35-55 <br> 95.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/54.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/054">Psyduck</a> <br> Lv: 35-55 <br> 5.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/54.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/054">Psyduck</a> <br> Lv: 50-60 <br> 70.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/119.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/119">Seaking</a> <br> Lv: 60-70 <br> 30.0% </td><td></td><td></td><td></td></tr></table>

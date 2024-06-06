@@ -270,7 +270,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Sticky Barb"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -302,6 +304,14 @@
             "4x Weak": [
                 "Fire"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 74,
+            "ATK": 94,
+            "DEF": 131,
+            "SPA": 54,
+            "SPD": 116,
+            "SPE": 20
         }
     }
 ]

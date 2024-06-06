@@ -221,7 +221,9 @@
                 "Method": "Level 24"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Hard Stone"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -253,6 +255,14 @@
                 "Fighting",
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 70,
+            "DEF": 100,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 30
         }
     }
 ]

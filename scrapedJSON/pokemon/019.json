@@ -250,7 +250,7 @@
                 "Method": "Level 20"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -279,6 +279,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 56,
+            "DEF": 35,
+            "SPA": 25,
+            "SPD": 35,
+            "SPE": 72
         }
     }
 ]

@@ -4,6 +4,14 @@ import csv
 from collections import OrderedDict
 from difflib import SequenceMatcher
 
+def unnest(d, keys=[]):
+    result = []
+    for k, v in d.items():
+        if isinstance(v, dict):
+            result.extend(unnest(v, keys + [k]))
+        else:
+            result.append(tuple(keys + [k, v]))
+    return result
 
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
@@ -128,19 +136,57 @@ def getAbilityTable(abi):
     content = '| ' + ' | '.join(abi) + ' |\n\n'
     return header + separator + content
 
-def getStatTable(stats):
+def getStatTable(l_stats):
+    stats = l_stats[0]
+    if len(l_stats) > 1:
+        vanilla_stats = l_stats[1]
+        stat_diff = { k: stats[k]-vanilla_stats[k] for k in stats.keys()}
+    else:
+        stat_diff = { 0 for k in stats.keys()}
     cols = [i for i in stats.keys()]
     cols.append('BST')
+    def get_header(t,d,w):
+        if d == 0:
+            return f"<th style=\"width:{w}%;align:center;vertical-align: middle;\">{t}</th>"
+        if d > 0:
+            s_diff_tag = 'sup'
+            s_color = 'green'
+            s_align = 'bottom'
+            d = '+' + str(d)
+        else:
+            s_diff_tag = 'sub'
+            s_color = 'red'
+            s_align = 'top'
+        return f"<th  style=\"width:{w}%;align:center;vertical-align: middle;color:{s_color};\">{t}<{s_diff_tag} style = \"line-height:0px;vertical-align: 5px;font-size: 10px;color:{s_color}\">{d}</{s_diff_tag}></th>"
+    def getContentString(s,d,w):
+        if d == 0:
+            return f"<td style=\"width:{w}%;align:center;vertical-align: bottom;\">{s}</td>"
+        if d > 0:
+            s_diff_tag = 'sup'
+            s_color = 'green'
+            d = '+' + str(d)
+        else:
+            s_diff_tag = 'sub'
+            s_color = 'red'
+        return f"<td style=\"width:{w}%;align:center;vertical-align: middle;\">{s}<{s_diff_tag} style = \"color:{s_color}\">{d}</{s_diff_tag}></td>"
+    
+    
     content = [v for i,v in enumerate(stats.values())]
     content.append(sum(content))
-    vals = [str(i) for i in content]
-    header = '| ' + ' | '.join(cols) + ' |\n'
-    separator = '|: ' + ' :|: '.join(['---']*len(cols)) + ' :|\n'
-    content = '| ' + ' | '.join(vals) + ' |\n\n'
-    return header + separator + content
+    diff = [v for i,v in enumerate(stat_diff.values())]
+    diff.append(sum(diff))
+    width = [14, 14, 14, 14, 14, 14, 16]
+    html_headers = [get_header(cols[t], diff[t], width[t]) for t in range(len(cols))]
+    html_content = [getContentString(content[i],0,width[i]) for i in range(len(content))]
+    header_row = "<tr>{h}</tr>".format(h=''.join(html_headers))
+    content_row = "<tr>{h}</tr>".format(h=''.join(html_content))
+    
+    table_string = f'<table>{header_row}\n{content_row}</table>\n\n'
+
+    return table_string
 
 def getItemString(itemList):
-    content = ['- {i}'.format(i = item) for item in itemList]
+    content = ['- {i}%: {j}'.format(i = item[0], j = item[1]) for item in itemList.items()]
     return '\n'.join(content)+'\n'
 
 def getMoveData(movename):
@@ -218,6 +264,16 @@ def getTutorTable(moveList):
     contentRows = [makeLevelRow(data) for i,data in tutorData.items()]
     return '', tableHeader+separator+'\n'.join(contentRows) +'\n\n'
 
+def getPreEvoMoveSection(moveList):
+    tableColumns = ['Species', 'Method', 'Move']
+    tableHeader = '| ' + ' | '.join(tableColumns) + ' |\n'
+    separator = '|: ' + ' :|: '.join(['---']*len(tableColumns)) + ' :|\n'
+    def makeRow(entry):
+        row = '| {species} | {method} | {move} |'.format(species = entry[0], method = entry[1], move = entry[2])
+        return row
+    contentRows = [makeRow(data) for data in moveList]
+    return '',  tableHeader+separator+'\n'.join(contentRows) +'\n\n'
+
 def getPokemonMarkdown(pkmnInformation):
     headerText = getTopLevelHeader(pkmnInformation=pkmnInformation[0])
     if len(pkmnInformation)==1:
@@ -265,10 +321,8 @@ def getEncounters(species):
         return None
     encounterList = []
     if(len(wildEncounterKeys))>1:
-        colNames = ['Form', 'Location', 'Encounter Type', 'Level', 'Encounter Percent']
         pokemonEncountersSubset = { getForm(k):pokemonEncounters[k] for k in wildEncounterKeys}
     else:
-        colNames = ['Location', 'Encounter Type', 'Level', 'Encounter Percent']
         pokemonEncountersSubset = pokemonEncounters[wildEncounterKeys[0]]
     def getPlaceLinkText(place):
         return '[{name}]'.format(name = place)
@@ -283,21 +337,49 @@ def getEncounters(species):
 
     placeInclude = []
     
-
+    unnested_encounters = unnest(pokemonEncountersSubset)
+    unnested_encounters.sort(key = lambda item: tuple(i for i in item))
     if len(wildEncounterKeys) > 1:
-        [[[encounterList.append([form, getPlaceLinkText(place), method, encounter['Level'], round(encounter['Spawn Percent'], 2)]) \
-           for method, encounter in methods.items()]\
-                for place, methods in places.items() ]for form,places in pokemonEncountersSubset.items()]
-        [[placeInclude.append(getPlaceLinkIncl(place)) for place, methods in places.items()]for form,places in pokemonEncountersSubset.items()]
+        for row in unnested_encounters:
+            form = row[0]
+            location = row[1]
+            data = row[-1]
+            remaining_row = list(row)
+            [remaining_row.pop(i) for i in [-1, 1, 0]]
+            add_list = [[form, getPlaceLinkText(location), *remaining_row,e['Level'], round(e['Spawn Percent'],2)] for e in data]
+            encounterList.extend(add_list)
+            placeInclude.append(getPlaceLinkIncl(location))
     else:
-        [[encounterList.append([getPlaceLinkText(place), k, v['Level'], round(v['Spawn Percent'],2)]) for k,v in method.items()] for place, method in pokemonEncountersSubset.items()]
-        [[placeInclude.append(getPlaceLinkIncl(place)) for k,v in method.items()] for place, method in pokemonEncountersSubset.items()]
+        for row in unnested_encounters:
+            data = row[-1]
+            location = row[0]
+            remaining_row = list(row)
+            remaining_row.pop(0)
+            remaining_row.pop(-1)
+            add_list = [[getPlaceLinkText(location), *remaining_row,e['Level'], round(e['Spawn Percent'],2)] for e in data]
+            encounterList.extend(add_list)
+            placeInclude.append(getPlaceLinkIncl(location))
+    placeInclude = '\n'.join(list(set(placeInclude)))
+    n_cols = [len(e) for e in encounterList]
+    max_cols = max(n_cols)
+    colNames = ['&nbsp;']*max_cols
+    colNames[-2] = 'Level'
+    colNames[-1] = 'Spawn Percent'
+    colNames[0] = 'Location'
+    if len(wildEncounterKeys) > 1:
+        colNames[0] = 'Form'
+        colNames[1] = 'Location'
     
-    placeInclude = '\n'.join(placeInclude)
-    
+    adjusted_encounter_list = []
+    for row in encounterList:
+        this_length = len(row)
+        missing_cols = max_cols - this_length
+        row_list = list(row)
+        [row_list.insert(-2,'&nbsp;') for i in range(missing_cols)]
+        adjusted_encounter_list.append(row_list)
     topRow = '| ' + ' | '.join(colNames) + ' |\n'
     separator = '|: ' + ' :|: '.join(['--']*len(colNames)) + ' :|\n'
-    content = ['| ' + ' | '.join([str(i) for i in row])  + ' |\n' for row in encounterList]
+    content = ['| ' + ' | '.join([str(i) for i in row])  + ' |\n' for row in adjusted_encounter_list]
     tableString = topRow + separator + ''.join(content)
     return placeInclude,tableString
 
@@ -309,7 +391,10 @@ def getSingleFormMarkdown(pkmnInformation):
     pkmnInclude, tableString = getSpriteTypeTable(species,form = 'base', type = pkmnInformation['TYPE'])
         
     abilityTable = getAbilityTable(pkmnInformation['Ability'])
-    bstTable = getStatTable(pkmnInformation['STATS'])
+    stats = [pkmnInformation['STATS']]
+    if 'VANILLA STATS' in pkmnInformation.keys():
+        stats.append(pkmnInformation['VANILLA STATS'])
+    bstTable = getStatTable(stats)
     bodyText+=tableString
     bodyText+='## Defenses\n\n'
     bodyText+= getDefensesTable(pkmnInformation['Defenses'])
@@ -338,6 +423,11 @@ def getSingleFormMarkdown(pkmnInformation):
         evolInclude, evolString = getEvolutionSection(pkmnInformation['Evolutions'])
         bodyText += evolString
         bodyIncludes += evolInclude
+    if 'Pre-Evolution Moves' in pkmnInformation.keys() and len(pkmnInformation['Pre-Evolution Moves'])>0:
+        bodyText += '## Pre-Evolution Moves\n'
+        preEvoIncl, preEvoString = getPreEvoMoveSection(pkmnInformation['Pre-Evolution Moves'])
+        bodyText += preEvoString
+        bodyIncludes += preEvoIncl
     return bodyIncludes, bodyText
 
 def getSubsectionHeader(pkmnName):
@@ -375,7 +465,11 @@ def getMultiFormMarkdown(pkmn,form):
         bodyText+=getAbilityTable(pkmn['Ability'])
     if 'STATS' in formKeys:
         bodyText+='### Stats\n'
-        bodyText+= getStatTable(pkmn['STATS'])
+        stats = [pkmn['STATS']]
+        if 'VANILLA STATS' in pkmn.keys():
+            stats.append(pkmn['VANILLA STATS'])
+        bstTable = getStatTable(stats)
+        bodyText+= bstTable
     if 'Items' in formKeys:
         bodyText+='### Wild Hold Items\n'
         bodyText+= getItemString(pkmn['Items'])
@@ -396,4 +490,9 @@ def getMultiFormMarkdown(pkmn,form):
         evolIncl, evolString = getEvolutionSection(pkmn['Evolutions'])
         bodyText += evolString
         bodyIncludes.append(evolIncl)
+    if  'Pre-Evolution Moves' in formKeys:
+        bodyText += '### Pre-Evolution Moves\n'
+        preEvoIncl, preEvoString = getPreEvoMoveSection(pkmn['Pre-Evolutions Moves'])
+        bodyText += preEvoString
+        bodyIncludes.append(preEvoIncl)
     return bodyIncludes, bodyText

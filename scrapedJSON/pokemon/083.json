@@ -240,7 +240,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Stick"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -271,6 +273,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 52,
+            "ATK": 65,
+            "DEF": 55,
+            "SPA": 58,
+            "SPD": 62,
+            "SPE": 60
         }
     }
 ]

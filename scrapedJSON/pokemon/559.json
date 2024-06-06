@@ -272,7 +272,9 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Shed Shell"
+        },
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -304,6 +306,14 @@
             "4x Weak": [
                 "Fairy"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 75,
+            "DEF": 70,
+            "SPA": 35,
+            "SPD": 70,
+            "SPE": 48
         }
     }
 ]

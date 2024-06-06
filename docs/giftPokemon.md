@@ -303,7 +303,7 @@ Level    | 50
 [Pichu]: ../pokemons/172
 [Igglybuff]: ../pokemons/173
 [Teddiursa]: ../pokemons/216
-[Slugma]: ../pokemons/218
+[Slugma]: ../pokemons/218¬
 [Tyrogue]: ../pokemons/236
 [Smoochum]: ../pokemons/238
 [Elekid]: ../pokemons/239
@@ -323,7 +323,7 @@ Level    | 50
 [007]: img/animated/7.gif
 [Bulbasaur]: ../pokemons/001/
 [Charmander]: ../pokemons/004/
-[Squirtle]: pokemon/007/
+[Squirtle]: ../pokemon/007/
 
 [307]: img/animated/307.gif
 [Meditite]: ../pokemons/307/

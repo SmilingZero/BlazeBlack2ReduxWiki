@@ -1,24 +1,5 @@
-# Humilau City
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Surf, Normal | ![][366] <br> __[Clamperl]__ <br> __Lv:__ 50-55 <br> __60.0%__ | ![][72] <br> __[Tentacool]__ <br> __Lv:__ 50-55 <br> __30.0%__ | ![][73] <br> __[Tentacruel]__ <br> __Lv:__ 50-55 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Normal | ![][370] <br> __[Luvdisc]__ <br> __Lv:__ 50-55 <br> __70.0%__ | ![][366] <br> __[Clamperl]__ <br> __Lv:__ 50-55 <br> __30.0%__ | ![][367] <br> __[Huntail]__ <br> __Lv:__ 50-55 <br> __5.0%__ | ![][368] <br> __[Gorebyss]__ <br> __Lv:__ 50-55 <br> __5.0%__ | &nbsp; |
-| Surf, Dark Spot | ![][594] <br> __[Alomomola]__ <br> __Lv:__ 50-55 <br> __90.0%__ | ![][73] <br> __[Tentacruel]__ <br> __Lv:__ 50-55 <br> __10.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Fish, Dark Spot | ![][366] <br> __[Clamperl]__ <br> __Lv:__ 50-55 <br> __60.0%__ | ![][370] <br> __[Luvdisc]__ <br> __Lv:__ 50-55 <br> __30.0%__ | &nbsp; | &nbsp; | &nbsp; |
-
-
-[366]: ../img/animated/366.gif
-[Clamperl]: ../../pokemons/366/
-[72]: ../img/animated/72.gif
-[Tentacool]: ../../pokemons/072/
-[73]: ../img/animated/73.gif
-[Tentacruel]: ../../pokemons/073/
-[370]: ../img/animated/370.gif
-[Luvdisc]: ../../pokemons/370/
-[367]: ../img/animated/367.gif
-[Huntail]: ../../pokemons/367/
-[368]: ../img/animated/368.gif
-[Gorebyss]: ../../pokemons/368/
-[594]: ../img/animated/594.gif
-[Alomomola]: ../../pokemons/594/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/366.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/366">Clamperl</a> <br> Lv: 50-55 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/72.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/072">Tentacool</a> <br> Lv: 50-55 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/73.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/073">Tentacruel</a> <br> Lv: 50-55 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/594.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/594">Alomomola</a> <br> Lv: 50-55 <br> 90.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/73.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/073">Tentacruel</a> <br> Lv: 50-55 <br> 10.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/370.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/370">Luvdisc</a> <br> Lv: 50-55 <br> 70.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/366.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/366">Clamperl</a> <br> Lv: 50-55 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/367.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/367">Huntail</a> <br> Lv: 50-55 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/368.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/368">Gorebyss</a> <br> Lv: 50-55 <br> 5.0% </td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/366.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/366">Clamperl</a> <br> Lv: 50-55 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/370.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/370">Luvdisc</a> <br> Lv: 50-55 <br> 30.0% </td><td></td><td></td><td></td></tr></table>

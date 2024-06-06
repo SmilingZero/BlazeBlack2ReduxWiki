@@ -238,7 +238,9 @@
                 "Method": "Level up at Electric Rock in Chargestone cave"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Metal Coat"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -270,6 +272,14 @@
             "4x Weak": [
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 60,
+            "DEF": 95,
+            "SPA": 120,
+            "SPD": 70,
+            "SPE": 70
         }
     }
 ]

@@ -1,38 +1,7 @@
-# Castelia Sewers
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Sewer, Normal | ![][88] <br> __[Grimer]__ <br> __Lv:__ 19-20 <br> __20.0%__ | ![][109] <br> __[Koffing]__ <br> __Lv:__ 19-20 <br> __20.0%__ | ![][19] <br> __[Rattata]__ <br> __Lv:__ 19-20 <br> __10.0%__ | ![][41] <br> __[Zubat]__ <br> __Lv:__ 19-20 <br> __10.0%__ | ![][316] <br> __[Gulpin]__ <br> __Lv:__ 19-20 <br> __10.0%__ |
-| &nbsp; | ![][568] <br> __[Trubbish]__ <br> __Lv:__ 19-20 <br> __10.0%__ | ![][167] <br> __[Spinarak]__ <br> __Lv:__ 19-20 <br> __10.0%__ | ![][92] <br> __[Gastly]__ <br> __Lv:__ 19-20 <br> __5.0%__ | ![][79] <br> __[Slowpoke]__ <br> __Lv:__ 19-20 <br> __5.0%__ | &nbsp; |
-| Surf, Normal | ![][88] <br> __[Grimer]__ <br> __Lv:__ 25-35 <br> __60.0%__ | ![][618] <br> __[Stunfisk]__ <br> __Lv:__ 25-35 <br> __30.0%__ | ![][536] <br> __[Palpitoad]__ <br> __Lv:__ 30-40 <br> __5.0%__ | &nbsp; | &nbsp; |
-| Fish, Normal | ![][88] <br> __[Grimer]__ <br> __Lv:__ 10-20 <br> __65.0%__ | ![][618] <br> __[Stunfisk]__ <br> __Lv:__ 10-20 <br> __35.0%__ | &nbsp; | &nbsp; | &nbsp; |
-| Surf, Dark Spot | ![][618] <br> __[Stunfisk]__ <br> __Lv:__ 30-40 <br> __60.0%__ | ![][536] <br> __[Palpitoad]__ <br> __Lv:__ 30-40 <br> __30.0%__ | ![][537] <br> __[Seismitoad]__ <br> __Lv:__ 35-45 <br> __5.0%__ | ![][89] <br> __[Muk]__ <br> __Lv:__ 35-45 <br> __5.0%__ | &nbsp; |
-| Fish, Dark Spot | ![][88] <br> __[Grimer]__ <br> __Lv:__ 10-23 <br> __65.0%__ | ![][618] <br> __[Stunfisk]__ <br> __Lv:__ 17-23 <br> __35.0%__ | &nbsp; | &nbsp; | &nbsp; |
-
-
-[88]: ../img/animated/88.gif
-[Grimer]: ../../pokemons/088/
-[109]: ../img/animated/109.gif
-[Koffing]: ../../pokemons/109/
-[19]: ../img/animated/19.gif
-[Rattata]: ../../pokemons/019/
-[41]: ../img/animated/41.gif
-[Zubat]: ../../pokemons/041/
-[316]: ../img/animated/316.gif
-[Gulpin]: ../../pokemons/316/
-[568]: ../img/animated/568.gif
-[Trubbish]: ../../pokemons/568/
-[167]: ../img/animated/167.gif
-[Spinarak]: ../../pokemons/167/
-[92]: ../img/animated/92.gif
-[Gastly]: ../../pokemons/092/
-[79]: ../img/animated/79.gif
-[Slowpoke]: ../../pokemons/079/
-[618]: ../img/animated/618.gif
-[Stunfisk]: ../../pokemons/618/
-[536]: ../img/animated/536.gif
-[Palpitoad]: ../../pokemons/536/
-[537]: ../img/animated/537.gif
-[Seismitoad]: ../../pokemons/537/
-[89]: ../img/animated/89.gif
-[Muk]: ../../pokemons/089/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Sewer</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/88.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/088">Grimer</a> <br> Lv: 19-20 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/109.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/109">Koffing</a> <br> Lv: 19-20 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/19.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/019">Rattata</a> <br> Lv: 19-20 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/41.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/041">Zubat</a> <br> Lv: 19-20 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/316.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/316">Gulpin</a> <br> Lv: 19-20 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/568.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/568">Trubbish</a> <br> Lv: 19-20 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/167.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/167">Spinarak</a> <br> Lv: 19-20 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/92.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/092">Gastly</a> <br> Lv: 19-20 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/79.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/079">Slowpoke</a> <br> Lv: 19-20 <br> 5.0% </td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/88.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/088">Grimer</a> <br> Lv: 25-35 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/618.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/618">Stunfisk</a> <br> Lv: 25-35 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/536.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/536">Palpitoad</a> <br> Lv: 25-35 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/536.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/536">Palpitoad</a> <br> Lv: 30-40 <br> 5.0% </td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/618.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/618">Stunfisk</a> <br> Lv: 30-40 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/536.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/536">Palpitoad</a> <br> Lv: 30-40 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/537.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/537">Seismitoad</a> <br> Lv: 35-45 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/89.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/089">Muk</a> <br> Lv: 35-45 <br> 5.0% </td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/88.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/088">Grimer</a> <br> Lv: 10-20 <br> 65.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/618.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/618">Stunfisk</a> <br> Lv: 10-20 <br> 35.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/88.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/088">Grimer</a> <br> Lv: 10-23 <br> 65.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/618.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/618">Stunfisk</a> <br> Lv: 17-23 <br> 35.0% </td><td></td><td></td><td></td></tr></table>

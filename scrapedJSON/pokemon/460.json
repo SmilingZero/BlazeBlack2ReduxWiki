@@ -281,7 +281,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "NeverMeltIce"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -311,6 +313,14 @@
             "4x Weak": [
                 "Fire"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 92,
+            "DEF": 75,
+            "SPA": 92,
+            "SPD": 85,
+            "SPE": 60
         }
     }
 ]

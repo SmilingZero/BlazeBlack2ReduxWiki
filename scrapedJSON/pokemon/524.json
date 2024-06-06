@@ -199,9 +199,10 @@
                 "Method": "Level 25"
             }
         ],
-        "Items": [
-            "Everstone"
-        ],
+        "Items": {
+            "50": "Everstone",
+            "5": "Hard Stone"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -230,6 +231,14 @@
                 "Steel"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 75,
+            "DEF": 85,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
         }
     }
 ]

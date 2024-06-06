@@ -236,9 +236,10 @@
                 "Method": "Level 33"
             }
         ],
-        "Items": [
-            "Rawst Berry"
-        ],
+        "Items": {
+            "50": "Rawst Berry",
+            "5": "Rawst Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -269,6 +270,14 @@
             "4x Weak": [
                 "Water"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 40,
+            "SPA": 65,
+            "SPD": 45,
+            "SPE": 35
         }
     }
 ]

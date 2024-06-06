@@ -273,7 +273,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -303,6 +303,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 63,
+            "ATK": 120,
+            "DEF": 85,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 55
         }
     }
 ]

@@ -208,7 +208,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -237,6 +237,14 @@
                 "Ground"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 50,
+            "DEF": 40,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 95
         }
     }
 ]

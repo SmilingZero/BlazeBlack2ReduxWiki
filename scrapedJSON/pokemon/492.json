@@ -174,9 +174,10 @@
             689
         ],
         "Evolutions": [],
-        "Items": [
-            "Starf Berry"
-        ],
+        "Items": {
+            "50": "Starf Berry",
+            "5": "Starf Berry"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -205,11 +206,18 @@
                 "Bug"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
         }
     },
     {
         "Index": 689,
-        "Number": 492,
         "Name": "Shaymin - Sky",
         "STATS": {
             "HP": 100,
@@ -296,93 +304,11 @@
                 "Move": "Seed Flare"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM15",
-                "Name": "Hyper Beam"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM19",
-                "Name": "Giga Drain"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM22",
-                "Name": "SolarBeam"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM29",
-                "Name": "Psychic"
-            },
-            {
-                "Machine": "TM32",
-                "Name": "Dazzling Gleam"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM53",
-                "Name": "Energy Ball"
-            },
-            {
-                "Machine": "TM68",
-                "Name": "Giga Impact"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM75",
-                "Name": "Swords Dance"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM86",
-                "Name": "Grass Knot"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [
-            "Lum Berry"
-        ],
+        "Items": {
+            "50": "Lum Berry",
+            "5": "Lum Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -414,6 +340,15 @@
             "4x Weak": [
                 "Ice"
             ]
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 103,
+            "DEF": 75,
+            "SPA": 120,
+            "SPD": 75,
+            "SPE": 127
+        },
+        "Number": 492
     }
 ]

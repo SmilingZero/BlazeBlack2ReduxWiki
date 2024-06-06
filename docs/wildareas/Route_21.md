@@ -1,20 +1,5 @@
-# Route 21
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Surf, Normal, Route 21 | ![][90] <br> __[Shellder]__ <br> __Lv:__ 50-55 <br> __60.0%__ | ![][120] <br> __[Staryu]__ <br> __Lv:__ 50-55 <br> __30.0%__ | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 50-55 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Normal, Route 21 | ![][90] <br> __[Shellder]__ <br> __Lv:__ 50-55 <br> __60.0%__ | ![][120] <br> __[Staryu]__ <br> __Lv:__ 50-55 <br> __30.0%__ | ![][91] <br> __[Cloyster]__ <br> __Lv:__ 50-55 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Surf, Dark Spot, Route 21 | ![][90] <br> __[Shellder]__ <br> __Lv:__ 50-55 <br> __60.0%__ | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 50-55 <br> __30.0%__ | ![][91] <br> __[Cloyster]__ <br> __Lv:__ 50-55 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Dark Spot, Route 21 | ![][91] <br> __[Cloyster]__ <br> __Lv:__ 50-55 <br> __70.0%__ | ![][369] <br> __[Relicanth]__ <br> __Lv:__ 50-55 <br> __30.0%__ | &nbsp; | &nbsp; | &nbsp; |
-
-
-[90]: ../img/animated/90.gif
-[Shellder]: ../../pokemons/090/
-[120]: ../img/animated/120.gif
-[Staryu]: ../../pokemons/120/
-[550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../../pokemons/550/
-[91]: ../img/animated/91.gif
-[Cloyster]: ../../pokemons/091/
-[369]: ../img/animated/369.gif
-[Relicanth]: ../../pokemons/369/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/90.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/090">Shellder</a> <br> Lv: 50-55 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/120.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/120">Staryu</a> <br> Lv: 50-55 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 50-55 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/90.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/090">Shellder</a> <br> Lv: 50-55 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 50-55 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/91.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/091">Cloyster</a> <br> Lv: 50-55 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/90.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/090">Shellder</a> <br> Lv: 50-55 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/120.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/120">Staryu</a> <br> Lv: 50-55 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/91.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/091">Cloyster</a> <br> Lv: 50-55 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/91.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/091">Cloyster</a> <br> Lv: 50-55 <br> 70.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/369.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/369">Relicanth</a> <br> Lv: 50-55 <br> 30.0% </td><td></td><td></td><td></td></tr></table>

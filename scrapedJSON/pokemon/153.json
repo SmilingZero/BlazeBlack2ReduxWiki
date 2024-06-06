@@ -218,7 +218,7 @@
                 "Method": "Level 32"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Dragon"
@@ -249,6 +249,14 @@
             "4x Weak": [
                 "Poison"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 80,
+            "SPA": 63,
+            "SPD": 80,
+            "SPE": 60
         }
     }
 ]

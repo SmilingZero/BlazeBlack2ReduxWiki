@@ -23,6 +23,7 @@ theme:
     favicon: img/items/poke-ball.png
     features:
       - content.tabs.link
+      - navigation.footer
 
 
 nav:
@@ -690,7 +691,6 @@ nav:
     - Route 19: wildareas/Route_19.md
     - Floccesy Ranch: wildareas/Floccesy_Ranch.md
     - Route 20: wildareas/Route_20.md
-    - Floccesy Ranch: wildareas/Floccesy_Ranch.md
     - Virbank City: wildareas/Virbank_City.md
     - Virbank Complex - Outside: wildareas/Virbank_Complex_-_Outside.md
     - Virbank Complex - Inside: wildareas/Virbank_Complex_-_Inside.md
@@ -813,7 +813,11 @@ nav:
     - Unovan Gym Leader Rematches: postgame/unovangymleaderrematches.md
 
 - Move Changes: moveChanges.md
-- Item Changes: item.md
+- Items:
+  - Item Changes: item.md
+  - Wild Hold Items: wildhold.md
+  - Mart Items: martitems.md
+  - TM Locations: tmmoves.md
 - Important NPC's: ImportantNPC.md
 - Useful AR Codes: ARcodes.md
 - Changelog: changelog.md

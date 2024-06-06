@@ -217,7 +217,7 @@
                 "Method": "Level 29"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -246,6 +246,14 @@
                 "Ground"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 63,
+            "DEF": 37,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 95
         }
     }
 ]

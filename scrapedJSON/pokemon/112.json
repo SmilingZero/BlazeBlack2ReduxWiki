@@ -315,7 +315,7 @@
                 "Method": "Use Protector"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -347,6 +347,14 @@
                 "Water",
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 105,
+            "ATK": 130,
+            "DEF": 120,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 40
         }
     }
 ]

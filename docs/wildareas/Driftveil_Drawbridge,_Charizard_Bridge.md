@@ -1,13 +1,2 @@
-# Driftveil Drawbridge, Charizard Bridge
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Bridge, Dark Spots | ![][580] <br> __[Ducklett]__ <br> __Lv:__ 29-33 <br> __50.0%__ | ![][187] <br> __[Hoppip]__ <br> __Lv:__ 29-33 <br> __30.0%__ | ![][333] <br> __[Swablu]__ <br> __Lv:__ 29-33 <br> __20.0%__ | &nbsp; | &nbsp; |
-
-
-[580]: ../img/animated/580.gif
-[Ducklett]: ../../pokemons/580/
-[187]: ../img/animated/187.gif
-[Hoppip]: ../../pokemons/187/
-[333]: ../img/animated/333.gif
-[Swablu]: ../../pokemons/333/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Shadows Overhead</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/580.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/580">Ducklett</a> <br> Lv: 29-33 <br> 50.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/187.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/187">Hoppip</a> <br> Lv: 29-33 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/333.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/333">Swablu</a> <br> Lv: 29-33 <br> 20.0% </td><td></td><td></td></tr></table>

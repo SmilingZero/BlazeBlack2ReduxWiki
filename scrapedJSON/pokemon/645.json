@@ -2,7 +2,7 @@
     {
         "Index": 644,
         "Number": 645,
-        "Name": "Landorus",
+        "Name": "Landorus - Incarnate",
         "STATS": {
             "HP": 89,
             "ATK": 125,
@@ -245,7 +245,7 @@
             707
         ],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric",
@@ -276,11 +276,18 @@
             "4x Weak": [
                 "Ice"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 89,
+            "ATK": 125,
+            "DEF": 90,
+            "SPA": 115,
+            "SPD": 80,
+            "SPE": 101
         }
     },
     {
         "Index": 707,
-        "Number": 645,
         "Name": "Landorus - Therian",
         "STATS": {
             "HP": 89,
@@ -290,26 +297,9 @@
             "SPD": 80,
             "SPE": 91
         },
-        "TYPE": [
-            "Ground",
-            "Flying"
-        ],
         "Ability": [
             "Intimidate",
             "Intimidate"
-        ],
-        "Tutor Moves": [
-            "Block",
-            "Earth Power",
-            "Gravity",
-            "Superpower",
-            "Iron Tail",
-            "Snore",
-            "Knock Off",
-            "Role Play",
-            "Outrage",
-            "Stealth Rock",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -524,38 +514,18 @@
             }
         ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
-        "Defenses": {
-            "Immune": [
-                "Electric",
-                "Ground"
-            ],
-            "0.25x Resist": [],
-            "0.5x Resist": [
-                "Fighting",
-                "Poison",
-                "Bug"
-            ],
-            "Neutral": [
-                "Normal",
-                "Fire",
-                "Grass",
-                "Flying",
-                "Psychic",
-                "Rock",
-                "Ghost",
-                "Dragon",
-                "Dark",
-                "Steel",
-                "Fairy"
-            ],
-            "2x Weak ": [
-                "Water"
-            ],
-            "4x Weak": [
-                "Ice"
-            ]
-        }
+        "VANILLA STATS": {
+            "HP": 89,
+            "ATK": 145,
+            "DEF": 90,
+            "SPA": 105,
+            "SPD": 80,
+            "SPE": 91
+        },
+        "TYPE": [
+            "Ground",
+            "Flying"
+        ],
+        "Number": 645
     }
 ]

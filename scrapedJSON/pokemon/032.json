@@ -2,7 +2,7 @@
     {
         "Index": 31,
         "Number": 32,
-        "Name": "Nidoran\u2642",
+        "Name": "Nidoran♂",
         "STATS": {
             "HP": 46,
             "ATK": 57,
@@ -218,7 +218,7 @@
                 "Method": "Level 16"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -247,6 +247,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 46,
+            "ATK": 57,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 50
         }
     }
 ]

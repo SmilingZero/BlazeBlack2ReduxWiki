@@ -243,7 +243,7 @@
                 "Method": "Use Leaf Stone"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -273,6 +273,14 @@
             "4x Weak": [
                 "Bug"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 80,
+            "SPA": 60,
+            "SPD": 45,
+            "SPE": 40
         }
     }
 ]

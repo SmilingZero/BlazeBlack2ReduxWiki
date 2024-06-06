@@ -206,7 +206,7 @@
                 "Method": "Level 26"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -235,6 +235,14 @@
                 "Ground"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 40,
+            "SPA": 65,
+            "SPD": 40,
+            "SPE": 65
         }
     }
 ]

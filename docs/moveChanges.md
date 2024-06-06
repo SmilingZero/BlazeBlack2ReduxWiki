@@ -31,7 +31,7 @@ Bubble            |      Esper Wing
 Razorwind    |           Fire Lash
 Constrict     |          Infestation
 Rolling Kick   |         Headlong Rush
-Mega Kick       |        High Horse__Power__
+Mega Kick       |        High Horsepower
 Barrage    |             Lunge
 Mist Ball   |            Moonblast
 Sacred Fire        |     Mystical Fire
@@ -65,9 +65,9 @@ Rock Climb | ![][normal] | ![][rock] [!]
 
 As of late, the Pokémon series has become decently fragmented across different titles when it comes to moves. 
 
- - With Legends: Arceus came a further fragmentation of move __Effect__s across the Pokémon series. 
+ - With Legends: Arceus came a further fragmentation of move effects across the Pokémon series. 
  - As of writing, it's hard to know what will carry over to the 'mainline' series (think Stealth Rock changes etc).
- - This makes updating moves to current standards fairly tricky, so we've gone with a 'selective' a__PP__roach - e.g. just take the bits we like!
+ - This makes updating moves to current standards fairly tricky, so we've gone with a 'selective' approach - e.g. just take the bits we like!
 
 Below are all the changes made to moves from vanilla Gen V in Redux. There are three different categories of changes:
 
@@ -1149,8 +1149,8 @@ Further Modifications
 | __Effect__ | &nbsp; | Damages user like Double Edge |
 
 [^1]: Not currently implemented/cannot be properly implemented due limitations with the Gen V engine/toolset. 
-[^2]: Accounting for the x2 damage of critical hits in Gen V, as o__PP__osed to the x1.5 damage of Gen VI+.
-[^3]: Born of current Gen V Limitations, uses Triple Kick mechanics, with a higher initial base __Power__. This should work out to roughly the same amount of damage.
+[^2]: Accounting for the x2 damage of critical hits in Gen V, as opposed to the x1.5 damage of Gen VI+.
+[^3]: Born of current Gen V Limitations, uses Triple Kick mechanics, with a higher initial base power. This should work out to roughly the same amount of damage.
 
 
 

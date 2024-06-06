@@ -196,9 +196,10 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Heart Scale"
-        ],
+        "Items": {
+            "50": "Heart Scale",
+            "5": "Heart Scale"
+        },
         "Defenses": {
             "Immune": [
                 "Dragon"
@@ -228,6 +229,14 @@
                 "Poison"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 43,
+            "ATK": 30,
+            "DEF": 55,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 97
         }
     }
 ]

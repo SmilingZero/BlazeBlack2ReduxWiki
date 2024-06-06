@@ -1,0 +1,63 @@
+- Wild Areas:
+  - Specific Areas:
+    - Aspertia City: wildareas/Aspertia_City.md
+    - Route 19: wildareas/Route_19.md
+    - Floccesy Ranch: wildareas/Floccesy_Ranch.md
+    - Route 20: wildareas/Route_20.md
+    - Floccesy Ranch: wildareas/Floccesy_Ranch.md
+    - Virbank City: wildareas/Virbank_City.md
+    - Virbank Complex - Outside: wildareas/Virbank_Complex_-_Outside.md
+    - Virbank Complex - Inside: wildareas/Virbank_Complex_-_Inside.md
+    - Castelia City Gardens: wildareas/Castelia_City_Gardens.md
+    - Castelia Sewers: wildareas/Castelia_Sewers.md
+    - Relic Passage: wildareas/Relic_Passage.md
+    - Route 4: wildareas/Route_4.md
+    - Desert Resort: wildareas/Desert_Resort.md
+    - Relic Castle: wildareas/Relic_Castle.md
+    - Route 5: wildareas/Route_5.md
+    - Route 16: wildareas/Route_16.md
+    - Lostlorn Forest: wildareas/Lostlorn_Forest.md
+    - Driftveil Drawbridge, Charizard Bridge: wildareas/Driftveil_Drawbridge,_Charizard_Bridge.md
+    - Route 6: wildareas/Route_6.md
+    - Clay Tunnel: wildareas/Clay_Tunnel.md
+    - Mistralton Cave: wildareas/Mistralton_Cave.md
+    - Chargestone Cave: wildareas/Chargestone_Cave.md
+    - Route 7: wildareas/Route_7.md
+    - Celestial Tower: wildareas/Celestial_Tower.md
+    - Reversal Mountain: wildareas/Reversal_Mountain.md
+    - Strange House: wildareas/Strange_House.md
+    - Undella Town: wildareas/Undella_Town.md
+    - Undella Bay: wildareas/Undella_Bay.md
+    - Route 14: wildareas/Route_14.md
+    - Abundant Shrine: wildareas/Abundant_Shrine.md
+    - Seaside Cave: wildareas/Seaside_Cave.md
+    - Route 13: wildareas/Route_13.md
+    - Route 12: wildareas/Route_12.md
+    - Village Bridge: wildareas/Village_Bridge.md
+    - Route 11: wildareas/Route_11.md
+    - Route 9: wildareas/Route_9.md
+    - Route 21: wildareas/Route_21.md
+    - Humilau City: wildareas/Humilau_City.md
+    - Route 22: wildareas/Route_22.md
+    - Giants Chasm: wildareas/Giants_Chasm.md
+    - Route 23: wildareas/Route_23.md
+    - Victory Road: wildareas/Victory_Road.md
+    - Route 8, Moor of Icirrus: wildareas/Route_8,_Moor_of_Icirrus.md
+    - Icirrus City: wildareas/Icirrus_City.md
+    - Dragonspiral Tower: wildareas/Dragonspiral_Tower.md
+    - Twist Mountain: wildareas/Twist_Mountain.md
+    - Underground Ruins: wildareas/Underground_Ruins.md
+    - Marvellous Bridge: wildareas/Marvellous_Bridge.md
+    - Route 15: wildareas/Route_15.md
+    - Pinwheel Forest - Inside: wildareas/Pinwheel_Forest_-_Inside.md
+    - Pinwheel Forest - Outside: wildareas/Pinwheel_Forest_-_Outside.md
+    - Route 3: wildareas/Route_3.md
+    - Wellspring Cave: wildareas/Wellspring_Cave.md
+    - Striation City: wildareas/Striation_City.md
+    - Dreamyard: wildareas/Dreamyard.md
+    - Route 2: wildareas/Route_2.md
+    - Route 1: wildareas/Route_1.md
+    - Route 17: wildareas/Route_17.md
+    - Route 18: wildareas/Route_18.md
+    - P2 Laboratory: wildareas/P2_Laboratory.md
+    - The Nature Preserve: wildareas/The_Nature_Preserve.md

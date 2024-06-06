@@ -1,0 +1,35 @@
+Basic Mart Stock
+0 Badges	Poke Ball, Potion
+1 Badge	Poke Ball, Great Ball, Potion, Super Potion, Antidote, Paralyze Heal, Awakening, Burn Heal, Ice Heal, Escape Rope, Repel
+3 Badges	Poke Ball, Great Ball, Potion, Super Potion, Hyper Potion, Revive, Antidote, Paralyze Heal, Awakening, Burn Heal, Ice Heal, Escape Rope, Repel, Super Repel
+5 Badges	Poke Ball, Great Ball, Ultra Ball, Potion, Super Potion, Hyper Potion, Revive, Antidote, Paralyze Heal, Awakening, Burn Heal, Ice Heal, Full Heal, Escape Rope, Repel, Super Repel, Max Repel
+7 Badges	Poke Ball, Great Ball, Ultra Ball, Potion, Super Potion, Hyper Potion, Max Potion, Revive, Antidote, Paralyze Heal, Awakening, Burn Heal, Ice Heal, Full Heal, Escape Rope, Repel, Super Repel, Max Repel
+8 Badges	Poke Ball, Great Ball, Ultra Ball, Potion, Super Potion, Hyper Potion, Max Potion, Full Restore, Revive, Antidote, Paralyze Heal, Awakening, Burn Heal, Ice Heal, Full Heal, Escape Rope, Repel, Super Repel, Max Repel
+
+Specialty Mart Stock
+Accumula Town Upper Cashier	Repeat Ball, Nest Ball, Quick Ball, Various Mails
+Striation City Upper Cashier	TM04, TM08
+Nacrene City Upper Cashier	Various Mails
+Castelia City Upper Cashier	Luxury Ball, Net Ball, Pecha Berry, Chesto Berry, Pomeg Berry, Kelpsy Berry, Qualot Berry, Hondew Berry, Grepa Berry, Tamato Berry
+Nimbasa TM Dept	TM73, TM74, TM16, TM33
+Driftveil City Upper Cashier	Red Shard, Blue Shard, Yellow Shard, Green Shard, Heart Scale, Honey, Figy Berry, Wiki Berry, Mago Berry, Aguav Berry, Iapapa Berry
+Mistralton City TM Dept	TM07, TM11, TM18, TM37
+Icirrus City Upper Cashier	Dusk Ball, Timer Ball, Quick Ball, Various Mails
+Opelucid City Upper Cashier	Dusk Ball, Timer Ball, Quick Ball, Various Mails
+Victory Road Upper (Both)	Heal Ball, Net Ball, Nest Ball, Quick Ball, Dusk Ball, Timer Ball, Repeat Ball, Luxury Ball
+Lacunosa Town	TM14, TM25, TM38
+Undella Town	Luxury Ball, Dive Ball, Various Mails
+Black City / White Forest	Various Mails
+Shopping Mall Nine Top Right	Rose Incense, Luck Incense, Pure Incense, Toxic Orb, Flame Orb, Light Ball, PP Up, PP Max
+Driftveil City Herb Shop	Heal Powder, Energy Powder, Energy Root, Revival Herb
+Driftveil City Incense Shop	Fire Stone, Water Stone, Thunder Stone, Leaf Stone, Moon Stone, Sun Stone, Shiny Stone, Dusk Stone, Dawn Stone, Ice Stone
+Shopping Mall Nine Bottom	Fire Stone, Water Stone, Leaf Stone, Thunder Stone, Sun Stone, Moon Stone, Shiny Stone, Dusk Stone, Dawn Stone, Ice Stone, Link Cable, Prism Scale, Everstone, Eviolite, Smoke Ball, Float Stone
+Shopping Mall Nine Middle Right	TM15, TM68
+Shopping Mall Nine Middle Left	Deep Sea Tooth, Deep Sea Scale, Dragon Scale, Dubious Disc, Electirizer, King's Rock, Magmarizer, Metal Coat, Protector, Razor Claw, Razor Fang, Reaper Cloth, Upgrade, White Herb, Mental Herb, Power Herb
+Shopping Mall Nine Top Left	Sea Incense, Lax Incense, Odd Incense, Rock Incense, Full Incense, Wave Incense
+Aspertia City	Various Mails
+Virbank City Lower Cashier	Luxury Ball, Net Ball, Oran Berry, Rawst Berry, Aspear Berry, Various Mails
+Humilau City Upper Cashier	Luxury Ball, Dive Ball, Net Ball, Sitrus Berry, Persim Berry, Various Mails
+Floccesy Town	Various Mails
+Lentimas Town Upper Cashier	Heal Ball, Nest Ball, Dusk Ball, Dive Ball, Luxury Ball, Timer Ball, Heat Rock, Damp Rock, Smooth Rock, Icy Rock
+

@@ -219,7 +219,9 @@
                 "Method": "Level 27"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "DeepSeaScale"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -249,6 +251,14 @@
                 "Ground"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 38,
+            "DEF": 38,
+            "SPA": 56,
+            "SPD": 56,
+            "SPE": 67
         }
     }
 ]

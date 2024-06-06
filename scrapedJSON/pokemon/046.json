@@ -246,10 +246,11 @@
                 "Method": "Level 24"
             }
         ],
-        "Items": [
-            "TinyMushroom",
-            "BalmMushroom"
-        ],
+        "Items": {
+            "50": "TinyMushroom",
+            "5": "Big Mushroom",
+            "1": "BalmMushroom"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -280,6 +281,14 @@
                 "Fire",
                 "Flying"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 70,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 25
         }
     }
 ]

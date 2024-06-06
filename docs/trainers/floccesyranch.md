@@ -23,19 +23,19 @@
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][498] <br> __[Tepig]__ <br>Sheer Force<br>Lv. 10<br>Oran Berry<br>• Tackle<br>• Tail Whip<br>• Ember<br>• Smog | ![][511] <br> __[Pansage]__ <br>Overgrow<br>Lv. 19<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Vine Whip | ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  |  ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack | ![][511] <br> __[Pansage]__ <br>Overgrow<br>Lv. 9<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Vine Whip |  ![][498] <br> __[Tepig]__ <br>Sheer Force<br>Lv. 10<br>Oran Berry<br>• Tackle<br>• Tail Whip<br>• Ember<br>• Smog |
     
 === "Tepig"
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][501] <br> __[Oshawott]__ <br>Shell Armor<br>Lv. 10<br>Oran Berry<br>• Tackle<br>• Tail Whip<br>• Water Gun<br>• Aqua Jet | ![][513] <br> __[Pansear]__ <br>Blaze<br>Lv. 9<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Incinerate | ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack | ![][513] <br> __[Pansear]__ <br>Blaze<br>Lv. 9<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Incinerate | ![][501] <br> __[Oshawott]__ <br>Shell Armor<br>Lv. 10<br>Oran Berry<br>• Tackle<br>• Tail Whip<br>• Water Gun<br>• Aqua Jet |
     
 === "Oshawott"
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][495] <br> __[Snivy]__ <br>Contrary<br>Lv. 10<br>Oran Berry<br>• Wrap<br>• Leer<br>• Vine Whip<br>• Twister | ![][515] <br> __[Panpour]__ <br>Torrent<br>Lv. 9<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Water Gun | ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  |  ![][276] <br> __[Taillow]__ <br>Early Bird<br>Lv. 8<br>---<br>• Peck<br>• Growl<br>• Focus Energy<br>• Quick Attack | ![][515] <br> __[Panpour]__ <br>Torrent<br>Lv. 9<br>---<br>• Tickle<br>• Scratch<br>• Lick<br>• Water Gun | ![][495] <br> __[Snivy]__ <br>Contrary<br>Lv. 10<br>Oran Berry<br>• Wrap<br>• Leer<br>• Vine Whip<br>• Twister |
     
 &nbsp;
 

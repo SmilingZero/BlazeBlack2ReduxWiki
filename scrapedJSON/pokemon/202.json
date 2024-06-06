@@ -53,7 +53,7 @@
         "TM Moves": [],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -82,6 +82,14 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 190,
+            "ATK": 33,
+            "DEF": 58,
+            "SPA": 33,
+            "SPD": 58,
+            "SPE": 33
         }
     }
 ]

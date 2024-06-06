@@ -204,7 +204,7 @@
                 "Method": "Level 58"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -235,6 +235,14 @@
             "4x Weak": [
                 "Fairy"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 72,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 65,
+            "SPD": 70,
+            "SPE": 58
         }
     }
 ]

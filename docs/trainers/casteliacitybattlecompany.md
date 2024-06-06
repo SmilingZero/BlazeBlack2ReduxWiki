@@ -93,7 +93,7 @@
 [Roselia]: ../../pokemons/315/
 [156]: ../img/animated/156.gif
 [Quilava]: ../../pokemons/156/
-[SchoolKidNeil]: ../img/Trainers/School_Kid_Female.gif
+[SchoolKidNeil]: ../img/Trainers/School_Kid_Male.gif
 [277]: ../img/animated/277.gif
 [Swellow]: ../../pokemons/277/
 [95]: ../img/animated/95.gif

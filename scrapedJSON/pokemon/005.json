@@ -269,7 +269,7 @@
                 "Method": "Level 36"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -299,6 +299,14 @@
                 "Dragon"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 58,
+            "ATK": 64,
+            "DEF": 58,
+            "SPA": 80,
+            "SPD": 65,
+            "SPE": 80
         }
     }
 ]

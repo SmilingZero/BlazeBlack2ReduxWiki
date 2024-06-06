@@ -281,7 +281,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -311,6 +311,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 150,
+            "SPD": 120,
+            "SPE": 100
         }
     }
 ]

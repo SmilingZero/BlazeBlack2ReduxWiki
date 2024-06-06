@@ -214,7 +214,7 @@
             695
         ],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Normal",
@@ -244,11 +244,18 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 77,
+            "SPA": 95,
+            "SPD": 77,
+            "SPE": 91
         }
     },
     {
         "Index": 691,
-        "Number": 479,
         "Name": "Rotom - Heat",
         "STATS": {
             "HP": 50,
@@ -261,21 +268,6 @@
         "TYPE": [
             "Electric",
             "Fire"
-        ],
-        "Ability": [
-            "Levitate"
-        ],
-        "Tutor Moves": [
-            "Signal Beam",
-            "Uproar",
-            "Electroweb",
-            "Dark Pulse",
-            "Snore",
-            "Pain Split",
-            "Spite",
-            "Trick",
-            "Snatch",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -367,95 +359,7 @@
                 "Move": "Stored Power"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM16",
-                "Name": "Light Screen"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM18",
-                "Name": "Rain Dance"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM24",
-                "Name": "Thunderbolt"
-            },
-            {
-                "Machine": "TM25",
-                "Name": "Thunder"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM30",
-                "Name": "Shadow Ball"
-            },
-            {
-                "Machine": "TM33",
-                "Name": "Reflect"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM57",
-                "Name": "Charge Beam"
-            },
-            {
-                "Machine": "TM61",
-                "Name": "Will-O-Wisp"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM72",
-                "Name": "Volt Switch"
-            },
-            {
-                "Machine": "TM73",
-                "Name": "Thunder Wave"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -486,11 +390,19 @@
             "4x Weak": [
                 "Ground"
             ]
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
     },
     {
         "Index": 692,
-        "Number": 479,
         "Name": "Rotom - Wash",
         "STATS": {
             "HP": 50,
@@ -503,21 +415,6 @@
         "TYPE": [
             "Electric",
             "Water"
-        ],
-        "Ability": [
-            "Levitate"
-        ],
-        "Tutor Moves": [
-            "Signal Beam",
-            "Uproar",
-            "Electroweb",
-            "Dark Pulse",
-            "Snore",
-            "Pain Split",
-            "Spite",
-            "Trick",
-            "Snatch",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -609,95 +506,7 @@
                 "Move": "Stored Power"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM16",
-                "Name": "Light Screen"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM18",
-                "Name": "Rain Dance"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM24",
-                "Name": "Thunderbolt"
-            },
-            {
-                "Machine": "TM25",
-                "Name": "Thunder"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM30",
-                "Name": "Shadow Ball"
-            },
-            {
-                "Machine": "TM33",
-                "Name": "Reflect"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM57",
-                "Name": "Charge Beam"
-            },
-            {
-                "Machine": "TM61",
-                "Name": "Will-O-Wisp"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM72",
-                "Name": "Volt Switch"
-            },
-            {
-                "Machine": "TM73",
-                "Name": "Thunder Wave"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -727,11 +536,19 @@
                 "Ground"
             ],
             "4x Weak": []
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
     },
     {
         "Index": 693,
-        "Number": 479,
         "Name": "Rotom - Frost",
         "STATS": {
             "HP": 50,
@@ -744,21 +561,6 @@
         "TYPE": [
             "Electric",
             "Ice"
-        ],
-        "Ability": [
-            "Levitate"
-        ],
-        "Tutor Moves": [
-            "Signal Beam",
-            "Uproar",
-            "Electroweb",
-            "Dark Pulse",
-            "Snore",
-            "Pain Split",
-            "Spite",
-            "Trick",
-            "Snatch",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -850,95 +652,7 @@
                 "Move": "Stored Power"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM16",
-                "Name": "Light Screen"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM18",
-                "Name": "Rain Dance"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM24",
-                "Name": "Thunderbolt"
-            },
-            {
-                "Machine": "TM25",
-                "Name": "Thunder"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM30",
-                "Name": "Shadow Ball"
-            },
-            {
-                "Machine": "TM33",
-                "Name": "Reflect"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM57",
-                "Name": "Charge Beam"
-            },
-            {
-                "Machine": "TM61",
-                "Name": "Will-O-Wisp"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM72",
-                "Name": "Volt Switch"
-            },
-            {
-                "Machine": "TM73",
-                "Name": "Thunder Wave"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -967,11 +681,19 @@
                 "Rock"
             ],
             "4x Weak": []
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
     },
     {
         "Index": 694,
-        "Number": 479,
         "Name": "Rotom - Fan ",
         "STATS": {
             "HP": 50,
@@ -987,18 +709,6 @@
         ],
         "Ability": [
             "Motor Drive"
-        ],
-        "Tutor Moves": [
-            "Signal Beam",
-            "Uproar",
-            "Electroweb",
-            "Dark Pulse",
-            "Snore",
-            "Pain Split",
-            "Spite",
-            "Trick",
-            "Snatch",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -1090,95 +800,7 @@
                 "Move": "Stored Power"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM16",
-                "Name": "Light Screen"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM18",
-                "Name": "Rain Dance"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM24",
-                "Name": "Thunderbolt"
-            },
-            {
-                "Machine": "TM25",
-                "Name": "Thunder"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM30",
-                "Name": "Shadow Ball"
-            },
-            {
-                "Machine": "TM33",
-                "Name": "Reflect"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM57",
-                "Name": "Charge Beam"
-            },
-            {
-                "Machine": "TM61",
-                "Name": "Will-O-Wisp"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM72",
-                "Name": "Volt Switch"
-            },
-            {
-                "Machine": "TM73",
-                "Name": "Thunder Wave"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -1208,11 +830,19 @@
                 "Rock"
             ],
             "4x Weak": []
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
     },
     {
         "Index": 695,
-        "Number": 479,
         "Name": "Rotom - Mow",
         "STATS": {
             "HP": 50,
@@ -1225,21 +855,6 @@
         "TYPE": [
             "Electric",
             "Grass"
-        ],
-        "Ability": [
-            "Levitate"
-        ],
-        "Tutor Moves": [
-            "Signal Beam",
-            "Uproar",
-            "Electroweb",
-            "Dark Pulse",
-            "Snore",
-            "Pain Split",
-            "Spite",
-            "Trick",
-            "Snatch",
-            "Sleep Talk"
         ],
         "Level Up Moves": [
             {
@@ -1331,95 +946,7 @@
                 "Move": "Stored Power"
             }
         ],
-        "TM Moves": [
-            {
-                "Machine": "TM6",
-                "Name": "Toxic"
-            },
-            {
-                "Machine": "TM10",
-                "Name": "Hidden Power"
-            },
-            {
-                "Machine": "TM11",
-                "Name": "Sunny Day"
-            },
-            {
-                "Machine": "TM16",
-                "Name": "Light Screen"
-            },
-            {
-                "Machine": "TM17",
-                "Name": "Protect"
-            },
-            {
-                "Machine": "TM18",
-                "Name": "Rain Dance"
-            },
-            {
-                "Machine": "TM21",
-                "Name": "Frustration"
-            },
-            {
-                "Machine": "TM24",
-                "Name": "Thunderbolt"
-            },
-            {
-                "Machine": "TM25",
-                "Name": "Thunder"
-            },
-            {
-                "Machine": "TM27",
-                "Name": "Return"
-            },
-            {
-                "Machine": "TM30",
-                "Name": "Shadow Ball"
-            },
-            {
-                "Machine": "TM33",
-                "Name": "Reflect"
-            },
-            {
-                "Machine": "TM42",
-                "Name": "Facade"
-            },
-            {
-                "Machine": "TM44",
-                "Name": "Rest"
-            },
-            {
-                "Machine": "TM57",
-                "Name": "Charge Beam"
-            },
-            {
-                "Machine": "TM61",
-                "Name": "Will-O-Wisp"
-            },
-            {
-                "Machine": "TM70",
-                "Name": "Flash"
-            },
-            {
-                "Machine": "TM72",
-                "Name": "Volt Switch"
-            },
-            {
-                "Machine": "TM73",
-                "Name": "Thunder Wave"
-            },
-            {
-                "Machine": "TM77",
-                "Name": "Psych Up"
-            },
-            {
-                "Machine": "TM90",
-                "Name": "Substitute"
-            }
-        ],
         "Other Form Index": [],
-        "Evolutions": [],
-        "Items": [],
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -1449,6 +976,15 @@
                 "Bug"
             ],
             "4x Weak": []
-        }
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
     }
 ]

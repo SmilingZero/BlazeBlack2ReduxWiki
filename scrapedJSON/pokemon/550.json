@@ -2,7 +2,7 @@
     {
         "Index": 549,
         "Number": 550,
-        "Name": "Basculin",
+        "Name": "Basculin - Red",
         "STATS": {
             "HP": 90,
             "ATK": 102,
@@ -186,9 +186,13 @@
                 "Name": "Dive"
             }
         ],
-        "Other Form Index": [],
+        "Other Form Index": [
+            699
+        ],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "DeepSeaTooth"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -217,6 +221,31 @@
                 "Grass"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 92,
+            "DEF": 65,
+            "SPA": 80,
+            "SPD": 55,
+            "SPE": 98
         }
+    },
+    {
+        "Index": 699,
+        "Name": "Basculin - Blue",
+        "Ability": [
+            "Rock Head",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "Other Form Index": [],
+        "Items": {
+            "5": "DeepSeaScale"
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Number": 550
     }
 ]

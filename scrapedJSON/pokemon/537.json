@@ -254,9 +254,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Pecha Berry"
-        ],
+        "Items": {
+            "50": "Pecha Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -286,6 +286,14 @@
             "4x Weak": [
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 105,
+            "ATK": 85,
+            "DEF": 75,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 74
         }
     }
 ]

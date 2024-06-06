@@ -192,7 +192,7 @@
                 "Method": "Level 35"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -223,6 +223,14 @@
             "4x Weak": [
                 "Electric"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 62,
+            "ATK": 44,
+            "DEF": 50,
+            "SPA": 44,
+            "SPD": 50,
+            "SPE": 55
         }
     }
 ]

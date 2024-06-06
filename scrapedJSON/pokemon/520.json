@@ -200,7 +200,7 @@
                 "Method": "Level 32"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground",
@@ -230,6 +230,14 @@
                 "Rock"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 62,
+            "ATK": 77,
+            "DEF": 62,
+            "SPA": 50,
+            "SPD": 42,
+            "SPE": 65
         }
     }
 ]

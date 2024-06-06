@@ -235,7 +235,9 @@
                 "Method": "Level 48"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Haban Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -266,6 +268,14 @@
             "4x Weak": [
                 "Ice"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 68,
+            "ATK": 90,
+            "DEF": 65,
+            "SPA": 50,
+            "SPD": 55,
+            "SPE": 82
         }
     }
 ]

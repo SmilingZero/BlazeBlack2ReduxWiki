@@ -284,9 +284,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Persim Berry"
-        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -315,6 +315,14 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 65,
+            "DEF": 75,
+            "SPA": 125,
+            "SPD": 85,
+            "SPE": 30
         }
     }
 ]

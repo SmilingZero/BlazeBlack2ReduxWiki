@@ -228,7 +228,9 @@
                 "Method": "Level 20"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Oran Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -257,6 +259,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 38,
+            "ATK": 30,
+            "DEF": 41,
+            "SPA": 30,
+            "SPD": 41,
+            "SPE": 60
         }
     }
 ]

@@ -240,7 +240,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "DeepSeaScale"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -271,6 +273,14 @@
             "4x Weak": [
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 90,
+            "DEF": 130,
+            "SPA": 45,
+            "SPD": 65,
+            "SPE": 55
         }
     }
 ]

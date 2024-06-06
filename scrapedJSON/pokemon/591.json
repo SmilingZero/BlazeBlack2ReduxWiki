@@ -201,10 +201,11 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "TinyMushroom",
-            "BalmMushroom"
-        ],
+        "Items": {
+            "50": "TinyMushroom",
+            "5": "Big Mushroom",
+            "1": "BalmMushroom"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -234,6 +235,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 114,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 85,
+            "SPD": 80,
+            "SPE": 30
         }
     }
 ]

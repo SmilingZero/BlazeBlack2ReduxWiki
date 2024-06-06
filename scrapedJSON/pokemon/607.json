@@ -228,7 +228,7 @@
                 "Method": "Level 27"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Normal",
@@ -259,6 +259,14 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 30,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 20
         }
     }
 ]

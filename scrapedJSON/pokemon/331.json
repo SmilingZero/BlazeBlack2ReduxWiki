@@ -230,7 +230,9 @@
                 "Method": "Level 32"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Sticky Barb"
+        },
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -261,6 +263,14 @@
             "4x Weak": [
                 "Bug"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 85,
+            "SPD": 40,
+            "SPE": 35
         }
     }
 ]

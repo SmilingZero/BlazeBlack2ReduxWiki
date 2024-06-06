@@ -272,7 +272,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -302,6 +302,14 @@
             "4x Weak": [
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 95,
+            "ATK": 85,
+            "DEF": 85,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 35
         }
     }
 ]

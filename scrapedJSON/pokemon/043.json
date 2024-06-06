@@ -205,7 +205,7 @@
                 "Method": "Level 21"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -235,6 +235,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 50,
+            "DEF": 55,
+            "SPA": 75,
+            "SPD": 65,
+            "SPE": 30
         }
     }
 ]

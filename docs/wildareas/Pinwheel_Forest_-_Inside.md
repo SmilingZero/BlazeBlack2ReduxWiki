@@ -1,88 +1,15 @@
-# Pinwheel Forest - Inside
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Grass, Normal | ![][541] <br> __[Swadloon]__ <br> __Lv:__ 64 <br> __20.0%__ | ![][544] <br> __[Whirlipede]__ <br> __Lv:__ 64 <br> __20.0%__ | ![][102] <br> __[Exeggcute]__ <br> __Lv:__ 61 <br> __10.0%__ | ![][285] <br> __[Shroomish]__ <br> __Lv:__ 61 <br> __10.0%__ | ![][44] <br> __[Gloom]__ <br> __Lv:__ 65 <br> __10.0%__ |
-| &nbsp; | ![][70] <br> __[Weepinbell]__ <br> __Lv:__ 65 <br> __10.0%__ | ![][455] <br> __[Carnivine]__ <br> __Lv:__ 66 <br> __5.0%__ | ![][315] <br> __[Roselia]__ <br> __Lv:__ 65 <br> __5.0%__ | ![][288] <br> __[Vigoroth]__ <br> __Lv:__ 66 <br> __1.0%__ | ![][25] <br> __[Pikachu]__ <br> __Lv:__ 62 <br> __1.0%__ |
-| Grass, Shaking Spots | ![][531] <br> __[Audino]__ <br> __Lv:__ 65 <br> __50.0%__ | ![][512] <br> __[Simisage]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][514] <br> __[Simisear]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][516] <br> __[Simipour]__ <br> __Lv:__ 68 <br> __10.0%__ | ![][212] <br> __[Scizor]__ <br> __Lv:__ 68 <br> __5.0%__ |
-| &nbsp; | ![][289] <br> __[Slaking]__ <br> __Lv:__ 68 <br> __5.0%__ | ![][26] <br> __[Raichu]__ <br> __Lv:__ 68 <br> __5.0%__ | ![][545] <br> __[Scolipede]__ <br> __Lv:__ 68 <br> __5.0%__ | &nbsp; | &nbsp; |
-| Surf, Normal | ![][183] <br> __[Marill]__ <br> __Lv:__ 50-60 <br> __60.0%__ | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 50-60 <br> __30.0%__ | ![][184] <br> __[Azumarill]__ <br> __Lv:__ 55-65 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Normal | ![][118] <br> __[Goldeen]__ <br> __Lv:__ 50-60 <br> __65.0%__ | ![][550-blue] <br> __[Basculin-Blue]__ <br> __Lv:__ 50-60 <br> __30.0%__ | ![][119] <br> __[Seaking]__ <br> __Lv:__ 55-65 <br> __5.0%__ | &nbsp; | &nbsp; |
-| Grass, Doubles | ![][541] <br> __[Swadloon]__ <br> __Lv:__ 68 <br> __20.0%__ | ![][544] <br> __[Whirlipede]__ <br> __Lv:__ 68 <br> __20.0%__ | ![][214] <br> __[Heracross]__ <br> __Lv:__ 69 <br> __10.0%__ | ![][127] <br> __[Pinsir]__ <br> __Lv:__ 69 <br> __10.0%__ | ![][123] <br> __[Scyther]__ <br> __Lv:__ 69 <br> __10.0%__ |
-| &nbsp; | ![][47] <br> __[Parasect]__ <br> __Lv:__ 69 <br> __10.0%__ | ![][198] <br> __[Murkrow]__ <br> __Lv:__ 68 <br> __5.0%__ | ![][200] <br> __[Misdreavus]__ <br> __Lv:__ 68 <br> __5.0%__ | ![][288] <br> __[Vigoroth]__ <br> __Lv:__ 69 <br> __1.0%__ | ![][49] <br> __[Venomoth]__ <br> __Lv:__ 69 <br> __1.0%__ |
-| Hidden Grotto: Deep in the Woods | ![][591] <br> __[Amoonguss]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][198] <br> __[Murkrow]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][127] <br> __[Pinsir]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][123] <br> __[Scyther]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][15] <br> __[Beedrill]__ <br> __Lv:__ ?? <br> __2.0%__ |
-| &nbsp; | ![][12] <br> __[Butterfree]__ <br> __Lv:__ ?? <br> __2.0%__ | ![][286] <br> __[Breloom]__ <br> __Lv:__ ?? <br> __0.5%__ | ![][545] <br> __[Scolipede]__ <br> __Lv:__ ?? <br> __0.5%__ | &nbsp; | &nbsp; |
-| Surf, Dark Spot | ![][183] <br> __[Marill]__ <br> __Lv:__ 55-65 <br> __60.0%__ | ![][550-red] <br> __[Basculin-Red]__ <br> __Lv:__ 60-70 <br> __30.0%__ | ![][184] <br> __[Azumarill]__ <br> __Lv:__ 60-70 <br> __10.0%__ | &nbsp; | &nbsp; |
-| Fish, Dark Spot | ![][118] <br> __[Goldeen]__ <br> __Lv:__ 55-65 <br> __60.0%__ | ![][550-red] <br> __[Basculin-Red]__ <br> __Lv:__ 60-70 <br> __30.0%__ | ![][119] <br> __[Seaking]__ <br> __Lv:__ 60-70 <br> __10.0%__ | &nbsp; | &nbsp; |
-
-
-[541]: ../img/animated/541.gif
-[Swadloon]: ../../pokemons/541/
-[544]: ../img/animated/544.gif
-[Whirlipede]: ../../pokemons/544/
-[102]: ../img/animated/102.gif
-[Exeggcute]: ../../pokemons/102/
-[285]: ../img/animated/285.gif
-[Shroomish]: ../../pokemons/285/
-[44]: ../img/animated/44.gif
-[Gloom]: ../../pokemons/044/
-[70]: ../img/animated/70.gif
-[Weepinbell]: ../../pokemons/070/
-[455]: ../img/animated/455.gif
-[Carnivine]: ../../pokemons/455/
-[315]: ../img/animated/315.gif
-[Roselia]: ../../pokemons/315/
-[288]: ../img/animated/288.gif
-[Vigoroth]: ../../pokemons/288/
-[25]: ../img/animated/25.gif
-[Pikachu]: ../../pokemons/025/
-[531]: ../img/animated/531.gif
-[Audino]: ../../pokemons/531/
-[512]: ../img/animated/512.gif
-[Simisage]: ../../pokemons/512/
-[514]: ../img/animated/514.gif
-[Simisear]: ../../pokemons/514/
-[516]: ../img/animated/516.gif
-[Simipour]: ../../pokemons/516/
-[212]: ../img/animated/212.gif
-[Scizor]: ../../pokemons/212/
-[289]: ../img/animated/289.gif
-[Slaking]: ../../pokemons/289/
-[26]: ../img/animated/26.gif
-[Raichu]: ../../pokemons/026/
-[545]: ../img/animated/545.gif
-[Scolipede]: ../../pokemons/545/
-[183]: ../img/animated/183.gif
-[Marill]: ../../pokemons/183/
-[550-blue]: ../img/animated/550-blue.gif
-[Basculin-Blue]: ../../pokemons/550/
-[184]: ../img/animated/184.gif
-[Azumarill]: ../../pokemons/184/
-[118]: ../img/animated/118.gif
-[Goldeen]: ../../pokemons/118/
-[119]: ../img/animated/119.gif
-[Seaking]: ../../pokemons/119/
-[214]: ../img/animated/214.gif
-[Heracross]: ../../pokemons/214/
-[127]: ../img/animated/127.gif
-[Pinsir]: ../../pokemons/127/
-[123]: ../img/animated/123.gif
-[Scyther]: ../../pokemons/123/
-[47]: ../img/animated/47.gif
-[Parasect]: ../../pokemons/047/
-[198]: ../img/animated/198.gif
-[Murkrow]: ../../pokemons/198/
-[200]: ../img/animated/200.gif
-[Misdreavus]: ../../pokemons/200/
-[49]: ../img/animated/49.gif
-[Venomoth]: ../../pokemons/049/
-[591]: ../img/animated/591.gif
-[Amoonguss]: ../../pokemons/591/
-[15]: ../img/animated/15.gif
-[Beedrill]: ../../pokemons/015/
-[12]: ../img/animated/12.gif
-[Butterfree]: ../../pokemons/012/
-[286]: ../img/animated/286.gif
-[Breloom]: ../../pokemons/286/
-[550-red]: ../img/animated/550-red.gif
-[Basculin-Red]: ../../pokemons/550/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="3" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/541.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/541">Swadloon</a> <br> Lv: 64 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/544.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/544">Whirlipede</a> <br> Lv: 64 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/102.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/102">Exeggcute</a> <br> Lv: 61 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/285.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/285">Shroomish</a> <br> Lv: 61 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/44.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/044">Gloom</a> <br> Lv: 65 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/70.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/070">Weepinbell</a> <br> Lv: 65 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/455.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/455">Carnivine</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/315.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/315">Roselia</a> <br> Lv: 65 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/288.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/288">Vigoroth</a> <br> Lv: 65 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/288.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/288">Vigoroth</a> <br> Lv: 66 <br> 1.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/25.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/025">Pikachu</a> <br> Lv: 61 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/25.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/025">Pikachu</a> <br> Lv: 62 <br> 1.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="3" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Dark Grass (Doubles)</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/541.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/541">Swadloon</a> <br> Lv: 68 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/544.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/544">Whirlipede</a> <br> Lv: 68 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/214.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/214">Heracross</a> <br> Lv: 69 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/127.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/127">Pinsir</a> <br> Lv: 69 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/123.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/123">Scyther</a> <br> Lv: 69 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/47.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/047">Parasect</a> <br> Lv: 69 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/198.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/198">Murkrow</a> <br> Lv: 68 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/200.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/200">Misdreavus</a> <br> Lv: 68 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/288.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/288">Vigoroth</a> <br> Lv: 68 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/288.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/288">Vigoroth</a> <br> Lv: 69 <br> 1.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/49.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/049">Venomoth</a> <br> Lv: 68 <br> 4.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/49.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/049">Venomoth</a> <br> Lv: 69 <br> 1.0% </td><td></td><td></td><td></td></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Shaking Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/531.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/531">Audino</a> <br> Lv: 65 <br> 50.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/512.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/512">Simisage</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/514.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/514">Simisear</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/516.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/516">Simipour</a> <br> Lv: 68 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/212.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/212">Scizor</a> <br> Lv: 68 <br> 5.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/289.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/289">Slaking</a> <br> Lv: 68 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/26.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/026">Raichu</a> <br> Lv: 68 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/545.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/545">Scolipede</a> <br> Lv: 68 <br> 5.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/183.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/183">Marill</a> <br> Lv: 50-60 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 50-60 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/184.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/184">Azumarill</a> <br> Lv: 55-65 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Surf, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/183.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/183">Marill</a> <br> Lv: 55-65 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-red.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Red</a> <br> Lv: 60-70 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/184.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/184">Azumarill</a> <br> Lv: 60-70 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/118.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/118">Goldeen</a> <br> Lv: 50-60 <br> 65.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-blue.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Blue</a> <br> Lv: 50-60 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/119.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/119">Seaking</a> <br> Lv: 55-65 <br> 5.0% </td><td></td><td></td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Fish, Rippling Water</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/118.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/118">Goldeen</a> <br> Lv: 55-65 <br> 60.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/550-red.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/550">Basculin-Red</a> <br> Lv: 60-70 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/119.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/119">Seaking</a> <br> Lv: 60-70 <br> 10.0% </td><td></td><td></td></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Hidden Grotto: Deep in the Woods</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/591.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/591">Amoonguss</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/198.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/198">Murkrow</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/127.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/127">Pinsir</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/123.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/123">Scyther</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/15.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/015">Beedrill</a> <br> Lv: ?? <br> 2.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/12.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/012">Butterfree</a> <br> Lv: ?? <br> 2.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/286.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/286">Breloom</a> <br> Lv: ?? <br> 0.5% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/545.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/545">Scolipede</a> <br> Lv: ?? <br> 0.5% </td><td></td><td></td></tr></table>

@@ -323,7 +323,7 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -352,6 +352,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 105,
+            "ATK": 95,
+            "DEF": 80,
+            "SPA": 40,
+            "SPD": 80,
+            "SPE": 90
         }
     }
 ]

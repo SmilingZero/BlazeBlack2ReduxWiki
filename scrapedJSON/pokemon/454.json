@@ -286,7 +286,9 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [],
+        "Items": {
+            "5": "Black Sludge"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -317,6 +319,14 @@
             "4x Weak": [
                 "Psychic"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 83,
+            "ATK": 106,
+            "DEF": 65,
+            "SPA": 86,
+            "SPD": 65,
+            "SPE": 85
         }
     }
 ]

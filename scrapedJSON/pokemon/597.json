@@ -214,7 +214,9 @@
                 "Method": "Level 40"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Sticky Barb"
+        },
         "Defenses": {
             "Immune": [
                 "Poison"
@@ -246,6 +248,14 @@
             "4x Weak": [
                 "Fire"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 44,
+            "ATK": 50,
+            "DEF": 91,
+            "SPA": 24,
+            "SPD": 86,
+            "SPE": 10
         }
     }
 ]

@@ -197,7 +197,7 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -228,6 +228,14 @@
             "4x Weak": [
                 "Grass"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 40,
+            "DEF": 100,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 35
         }
     }
 ]

@@ -211,7 +211,7 @@
                 "Method": "Level 20"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Ground"
@@ -242,6 +242,14 @@
                 "Dark"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 36,
+            "SPD": 56,
+            "SPE": 50
         }
     }
 ]

@@ -223,7 +223,9 @@
                 "Method": "Level 40"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "NeverMeltIce"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -253,6 +255,14 @@
             "4x Weak": [
                 "Fire"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 50,
+            "SPA": 62,
+            "SPD": 60,
+            "SPE": 40
         }
     }
 ]

@@ -308,10 +308,11 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Soul Dew",
-            "Soul Dew"
-        ],
+        "Items": {
+            "50": "Soul Dew",
+            "5": "Soul Dew",
+            "1": "Soul Dew"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -340,6 +341,14 @@
                 "Fairy"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 90,
+            "DEF": 80,
+            "SPA": 130,
+            "SPD": 110,
+            "SPE": 110
         }
     }
 ]

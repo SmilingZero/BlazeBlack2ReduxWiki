@@ -176,7 +176,9 @@
                 "Method": "Level 21"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Mental Herb"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -207,6 +209,14 @@
                 "Fire",
                 "Flying"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 53,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 42
         }
     }
 ]

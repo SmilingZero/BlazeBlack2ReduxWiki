@@ -332,7 +332,7 @@ Victini is one of the few legendary/mythical Pokémon which can be encountered i
 | [Victini] |
 | :---: |
 | ![][494]|
-| Found in the Castelia Gardens. |
+| Found in the Liberty Gardens. |
 
 
 

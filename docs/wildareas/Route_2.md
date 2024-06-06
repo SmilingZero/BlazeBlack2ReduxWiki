@@ -1,43 +1,6 @@
-# Route 2
-
-| __Encounter<br>Method__ | &nbsp; | &nbsp; | __Available__ | __Pokémon__ | &nbsp; |
-|: --- :|: --- :|: --- :|: --- :|: --- :|: --- :|
-| Grass, Normal | ![][505] <br> __[Watchog]__ <br> __Lv:__ 65 <br> __20.0%__ | ![][507] <br> __[Herdier]__ <br> __Lv:__ 64 <br> __20.0%__ | ![][510] <br> __[Liepard]__ <br> __Lv:__ 66 <br> __10.0%__ | ![][262] <br> __[Mightyena]__ <br> __Lv:__ 66 <br> __10.0%__ | ![][57] <br> __[Primeape]__ <br> __Lv:__ 66 <br> __10.0%__ |
-| &nbsp; | ![][267] <br> __[Beautifly]__ <br> __Lv:__ 65 <br> __5.0%__ | ![][269] <br> __[Dustox]__ <br> __Lv:__ 65 <br> __5.0%__ | ![][12] <br> __[Butterfree]__ <br> __Lv:__ 65 <br> __5.0%__ | ![][15] <br> __[Beedrill]__ <br> __Lv:__ 65 <br> __5.0%__ | &nbsp; |
-| Grass, Shaking Spots | ![][531] <br> __[Audino]__ <br> __Lv:__ 66 <br> __5.0%__ | ![][206] <br> __[Dunsparce]__ <br> __Lv:__ 65 <br> __10.0%__ | ![][508] <br> __[Stoutland]__ <br> __Lv:__ 68 <br> __5.0%__ | &nbsp; | &nbsp; |
-| Hidden Grotto | ![][505] <br> __[Watchog]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][33] <br> __[Nidorino]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][30] <br> __[Nidorina]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][210] <br> __[Granbull]__ <br> __Lv:__ ?? <br> __3.75%__ | ![][57] <br> __[Primeape]__ <br> __Lv:__ ?? <br> __2.0%__ |
-| &nbsp; | ![][507] <br> __[Herdier]__ <br> __Lv:__ ?? <br> __2.0%__ | ![][206] <br> __[Dunsparce]__ <br> __Lv:__ ?? <br> __0.5%__ | ![][402] <br> __[Kricketune]__ <br> __Lv:__ ?? <br> __0.5%__ | &nbsp; | &nbsp; |
-
-
-[505]: ../img/animated/505.gif
-[Watchog]: ../../pokemons/505/
-[507]: ../img/animated/507.gif
-[Herdier]: ../../pokemons/507/
-[510]: ../img/animated/510.gif
-[Liepard]: ../../pokemons/510/
-[262]: ../img/animated/262.gif
-[Mightyena]: ../../pokemons/262/
-[57]: ../img/animated/57.gif
-[Primeape]: ../../pokemons/057/
-[267]: ../img/animated/267.gif
-[Beautifly]: ../../pokemons/267/
-[269]: ../img/animated/269.gif
-[Dustox]: ../../pokemons/269/
-[12]: ../img/animated/12.gif
-[Butterfree]: ../../pokemons/012/
-[15]: ../img/animated/15.gif
-[Beedrill]: ../../pokemons/015/
-[531]: ../img/animated/531.gif
-[Audino]: ../../pokemons/531/
-[206]: ../img/animated/206.gif
-[Dunsparce]: ../../pokemons/206/
-[508]: ../img/animated/508.gif
-[Stoutland]: ../../pokemons/508/
-[33]: ../img/animated/33.gif
-[Nidorino]: ../../pokemons/033/
-[30]: ../img/animated/30.gif
-[Nidorina]: ../../pokemons/030/
-[210]: ../img/animated/210.gif
-[Granbull]: ../../pokemons/210/
-[402]: ../img/animated/402.gif
-[Kricketune]: ../../pokemons/402/
+<table><tr><th colspan="1">Encounter Method</th><th colspan="5" style = "text-align: center;">Available Pokémon</th></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/505.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/505">Watchog</a> <br> Lv: 65 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/507.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/507">Herdier</a> <br> Lv: 64 <br> 20.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/510.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/510">Liepard</a> <br> Lv: 65 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/510.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/510">Liepard</a> <br> Lv: 66 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/262.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/262">Mightyena</a> <br> Lv: 66 <br> 10.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/57.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/057">Primeape</a> <br> Lv: 66 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/267.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/267">Beautifly</a> <br> Lv: 65 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/269.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/269">Dustox</a> <br> Lv: 65 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/12.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/012">Butterfree</a> <br> Lv: 65 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/15.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/015">Beedrill</a> <br> Lv: 65 <br> 5.0% </td></tr>
+<tr><td rowspan="1" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Shaking Grass</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/531.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/531">Audino</a> <br> Lv: 64 <br> 50.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/531.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/531">Audino</a> <br> Lv: 65 <br> 30.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/531.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/531">Audino</a> <br> Lv: 66 <br> 5.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/206.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/206">Dunsparce</a> <br> Lv: 65 <br> 10.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/508.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/508">Stoutland</a> <br> Lv: 68 <br> 5.0% </td></tr>
+<tr><td rowspan="2" style="vertical-align: middle; word-wrap: break-word; text-align: center;">Hidden Grotto</td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/505.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/505">Watchog</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/33.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/033">Nidorino</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/30.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/030">Nidorina</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/210.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/210">Granbull</a> <br> Lv: ?? <br> 3.75% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/57.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/057">Primeape</a> <br> Lv: ?? <br> 2.0% </td></tr>
+<tr><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/507.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/507">Herdier</a> <br> Lv: ?? <br> 2.0% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/206.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/206">Dunsparce</a> <br> Lv: ?? <br> 0.5% </td><td style="text-align: center; vertical-align: bottom;"> <img src="https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/402.gif"> <br> <a href="https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/402">Kricketune</a> <br> Lv: ?? <br> 0.5% </td><td></td><td></td></tr></table>

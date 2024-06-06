@@ -230,9 +230,9 @@
                 "Method": "Happiness"
             }
         ],
-        "Items": [
-            "Pecha Berry"
-        ],
+        "Items": {
+            "50": "Pecha Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Ghost"
@@ -261,6 +261,14 @@
                 "Fighting"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 66,
+            "DEF": 44,
+            "SPA": 44,
+            "SPD": 56,
+            "SPE": 85
         }
     }
 ]

@@ -247,9 +247,10 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Jaboca Berry"
-        ],
+        "Items": {
+            "50": "Jaboca Berry",
+            "5": "Jaboca Berry"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -279,6 +280,14 @@
             "4x Weak": [
                 "Bug"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
         }
     }
 ]

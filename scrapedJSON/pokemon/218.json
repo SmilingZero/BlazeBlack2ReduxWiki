@@ -224,7 +224,7 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [
@@ -255,6 +255,14 @@
                 "Water",
                 "Ground"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 40,
+            "SPA": 70,
+            "SPD": 40,
+            "SPE": 20
         }
     }
 ]

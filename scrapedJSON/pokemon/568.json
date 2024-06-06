@@ -194,9 +194,10 @@
                 "Method": "Level 36"
             }
         ],
-        "Items": [
-            "Nugget"
-        ],
+        "Items": {
+            "5": "Black Sludge",
+            "1": "Nugget"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -225,6 +226,14 @@
                 "Psychic"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 62,
+            "SPA": 40,
+            "SPD": 62,
+            "SPE": 65
         }
     }
 ]

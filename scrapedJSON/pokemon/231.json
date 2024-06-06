@@ -208,7 +208,9 @@
                 "Method": "Level 25"
             }
         ],
-        "Items": [],
+        "Items": {
+            "5": "Passho Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Electric"
@@ -238,6 +240,14 @@
                 "Ice"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 60,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 40
         }
     }
 ]

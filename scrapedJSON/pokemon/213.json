@@ -226,9 +226,10 @@
         ],
         "Other Form Index": [],
         "Evolutions": [],
-        "Items": [
-            "Berry Juice"
-        ],
+        "Items": {
+            "50": "Berry Juice",
+            "5": "Berry Juice"
+        },
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -257,6 +258,14 @@
                 "Steel"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 20,
+            "ATK": 10,
+            "DEF": 230,
+            "SPA": 10,
+            "SPD": 230,
+            "SPE": 5
         }
     }
 ]

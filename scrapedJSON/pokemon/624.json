@@ -251,7 +251,7 @@
                 "Method": "Level 40"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [
                 "Poison",
@@ -282,6 +282,14 @@
             "4x Weak": [
                 "Fighting"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 60
         }
     }
 ]

@@ -224,7 +224,7 @@
                 "Method": "Level 16"
             }
         ],
-        "Items": [],
+        "Items": {},
         "Defenses": {
             "Immune": [],
             "0.25x Resist": [],
@@ -253,6 +253,14 @@
                 "Bug"
             ],
             "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 70
         }
     }
 ]

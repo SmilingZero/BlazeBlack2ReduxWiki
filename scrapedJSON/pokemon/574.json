@@ -234,9 +234,9 @@
                 "Method": "Level 30"
             }
         ],
-        "Items": [
-            "Persim Berry"
-        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
         "Defenses": {
             "Immune": [
                 "Psychic"
@@ -266,6 +266,14 @@
             "4x Weak": [
                 "Bug"
             ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 45
         }
     }
 ]
