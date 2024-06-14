@@ -23,7 +23,7 @@ theme:
     favicon: img/items/poke-ball.png
     features:
       - content.tabs.link
-      - navigation.footer
+      - navigation.header
 
 
 nav:
