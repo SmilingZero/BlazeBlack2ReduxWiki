@@ -1,0 +1,292 @@
+[
+    {
+        "Index": 18,
+        "Number": 19,
+        "Name": "Rattata",
+        "STATS": {
+            "HP": 30,
+            "ATK": 56,
+            "DEF": 35,
+            "SPA": 25,
+            "SPD": 35,
+            "SPE": 72
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Hustle",
+            "Guts",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Uproar",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Me First"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 4,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 7,
+                "Move": "Screech"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 19,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 22,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 25,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 25,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 25,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 28,
+                "Move": "Hyper Fang"
+            },
+            {
+                "Level": 31,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 34,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 38,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 42,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 46,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 50,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 54,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 58,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Raticate",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 56,
+            "DEF": 35,
+            "SPA": 25,
+            "SPD": 35,
+            "SPE": 72
+        }
+    }
+]

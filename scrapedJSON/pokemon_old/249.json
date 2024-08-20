@@ -1,0 +1,322 @@
+[
+    {
+        "Index": 248,
+        "Number": 249,
+        "Name": "Lugia",
+        "STATS": {
+            "HP": 106,
+            "ATK": 90,
+            "DEF": 130,
+            "SPA": 90,
+            "SPD": 154,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Pressure",
+            "Multiscale",
+            "Multiscale"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Earth Power",
+            "Icy Wind",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Tailwind",
+            "Sky Attack",
+            "Giga Drain",
+            "Roost",
+            "Trick",
+            "Wonder Room",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Psycho Boost"
+            },
+            {
+                "Level": 1,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 1,
+                "Move": "Weather Ball"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 6,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 10,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 14,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 18,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 22,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 26,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 30,
+                "Move": "Recover"
+            },
+            {
+                "Level": 34,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 38,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 42,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 46,
+                "Move": "Aeroblast"
+            },
+            {
+                "Level": 50,
+                "Move": "Esper Wing"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 106,
+            "ATK": 90,
+            "DEF": 130,
+            "SPA": 90,
+            "SPD": 154,
+            "SPE": 110
+        }
+    }
+]

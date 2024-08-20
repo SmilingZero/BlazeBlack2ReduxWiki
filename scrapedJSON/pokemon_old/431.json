@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 430,
+        "Number": 431,
+        "Name": "Glameow",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 45,
+            "SPA": 45,
+            "SPD": 40,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Limber",
+            "Own Tempo",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Foul Play",
+            "Last Resort",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 13,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 19,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 22,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 28,
+                "Move": "U-turn"
+            },
+            {
+                "Level": 32,
+                "Move": "Flail"
+            },
+            {
+                "Level": 36,
+                "Move": "Covet"
+            },
+            {
+                "Level": 40,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 44,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 48,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 52,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 56,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 60,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Purugly",
+                "Method": "Level 26"
+            }
+        ],
+        "Items": {
+            "5": "Cheri Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 49,
+            "ATK": 55,
+            "DEF": 42,
+            "SPA": 42,
+            "SPD": 37,
+            "SPE": 85
+        }
+    }
+]

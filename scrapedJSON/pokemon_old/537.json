@@ -1,0 +1,299 @@
+[
+    {
+        "Index": 536,
+        "Number": 537,
+        "Name": "Seismitoad",
+        "STATS": {
+            "HP": 105,
+            "ATK": 95,
+            "DEF": 75,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 74
+        },
+        "TYPE": [
+            "Water",
+            "Ground"
+        ],
+        "Ability": [
+            "Water Absorb",
+            "Poison Touch",
+            "Swift Swim"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Low Kick",
+            "Uproar",
+            "Ice Punch",
+            "Earth Power",
+            "Icy Wind",
+            "Hyper Voice",
+            "Snore",
+            "Knock Off",
+            "Drain Punch",
+            "Gastro Acid",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "After You"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 7,
+                "Move": "Acid"
+            },
+            {
+                "Level": 10,
+                "Move": "Flail"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Echoed Voice"
+            },
+            {
+                "Level": 19,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Mist"
+            },
+            {
+                "Level": 29,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 33,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 36,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 39,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 43,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 47,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 51,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 55,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 59,
+                "Move": "Power Whip"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Pecha Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Poison",
+                "Rock",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 105,
+            "ATK": 85,
+            "DEF": 75,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 74
+        }
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 69,
+        "Number": 70,
+        "Name": "Weepinbell",
+        "STATS": {
+            "HP": 65,
+            "ATK": 90,
+            "DEF": 50,
+            "SPA": 85,
+            "SPD": 45,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Grass",
+            "Poison"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Gluttony",
+            "Chlorophyll"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Seed Bomb",
+            "Gunk Shot",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 1,
+                "Move": "Vine Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 4,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 6,
+                "Move": "Acid"
+            },
+            {
+                "Level": 8,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 10,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 12,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 14,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 17,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 20,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 21,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 25,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 29,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 33,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 36,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 39,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 43,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 47,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 52,
+                "Move": "Power Whip"
+            },
+            {
+                "Level": 56,
+                "Move": "Growth"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Victreebel",
+                "Method": "Use Leaf Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 90,
+            "DEF": 50,
+            "SPA": 85,
+            "SPD": 45,
+            "SPE": 55
+        }
+    }
+]

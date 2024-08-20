@@ -97,7 +97,7 @@
 [Tympole]: ../../pokemons/535/
 [339]: ../img/animated/339.gif
 [Barboach]: ../../pokemons/339/
-[BackpackerClara]: ../img/Trainers/Backpacker_Male.gif
+[BackpackerClara]: ../img/Trainers/Backpacker_Female.gif
 [613]: ../img/animated/613.gif
 [Cubchoo]: ../../pokemons/613/
 [220]: ../img/animated/220.gif
@@ -111,7 +111,7 @@
 [Machop]: ../../pokemons/066/
 [427]: ../img/animated/427.gif
 [Buneary]: ../../pokemons/427/
-[BackpackerTami]: ../img/Trainers/Backpacker_Male.gif
+[BackpackerTami]: ../img/Trainers/Backpacker_Female.gif
 [564]: ../img/animated/564.gif
 [Tirtouga]: ../../pokemons/564/
 [566]: ../img/animated/566.gif

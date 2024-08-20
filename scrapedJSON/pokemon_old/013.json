@@ -1,0 +1,97 @@
+[
+    {
+        "Index": 12,
+        "Number": 13,
+        "Name": "Weedle",
+        "STATS": {
+            "HP": 40,
+            "ATK": 35,
+            "DEF": 30,
+            "SPA": 20,
+            "SPD": 20,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Shield Dust",
+            "Run Away",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Electroweb"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 6,
+                "Move": "Poison Tail"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Kakuna",
+                "Method": "Level 7"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 35,
+            "DEF": 30,
+            "SPA": 20,
+            "SPD": 20,
+            "SPE": 50
+        }
+    }
+]

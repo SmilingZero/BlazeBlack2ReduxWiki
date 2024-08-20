@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 626,
+        "Number": 627,
+        "Name": "Rufflet",
+        "STATS": {
+            "HP": 70,
+            "ATK": 83,
+            "DEF": 50,
+            "SPA": 37,
+            "SPD": 50,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Hustle",
+            "Sheer Force",
+            "Hustle"
+        ],
+        "Tutor Moves": [
+            "Superpower",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 6,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 12,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 15,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 18,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 21,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 24,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 27,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 30,
+                "Move": "Bulk Up"
+            },
+            {
+                "Level": 33,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 36,
+                "Move": "Slash"
+            },
+            {
+                "Level": 36,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 39,
+                "Move": "Agility"
+            },
+            {
+                "Level": 40,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 42,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 45,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 48,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 52,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 55,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 58,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 62,
+                "Move": "Defog"
+            },
+            {
+                "Level": 65,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Braviary",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 83,
+            "DEF": 50,
+            "SPA": 37,
+            "SPD": 50,
+            "SPE": 60
+        }
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 257,
+        "Number": 258,
+        "Name": "Mudkip",
+        "STATS": {
+            "HP": 50,
+            "ATK": 70,
+            "DEF": 50,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Water Veil",
+            "Torrent",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Water Pledge",
+            "Low Kick",
+            "Earth Power",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 13,
+                "Move": "Bide"
+            },
+            {
+                "Level": 17,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 19,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 22,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 25,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 28,
+                "Move": "Curse"
+            },
+            {
+                "Level": 31,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 34,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 37,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 40,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 43,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 46,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 49,
+                "Move": "Amnesia"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Marshtomp",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 70,
+            "DEF": 50,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 40
+        }
+    }
+]

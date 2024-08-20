@@ -1,0 +1,254 @@
+[
+    {
+        "Index": 86,
+        "Number": 87,
+        "Name": "Dewgong",
+        "STATS": {
+            "HP": 90,
+            "ATK": 90,
+            "DEF": 80,
+            "SPA": 70,
+            "SPD": 95,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Water",
+            "Ice"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Hydration",
+            "Ice Body"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Drill Run",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 4,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 7,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 13,
+                "Move": "Disable"
+            },
+            {
+                "Level": 16,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 25,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 28,
+                "Move": "Brine"
+            },
+            {
+                "Level": 31,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 38,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 42,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 46,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 50,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 54,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 58,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 62,
+                "Move": "Slack Off"
+            },
+            {
+                "Level": 66,
+                "Move": "Sheer Cold"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Ice"
+            ],
+            "0.5x Resist": [
+                "Water"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 70,
+            "DEF": 80,
+            "SPA": 70,
+            "SPD": 95,
+            "SPE": 70
+        }
+    }
+]

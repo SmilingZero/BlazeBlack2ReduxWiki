@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 352,
+        "Number": 353,
+        "Name": "Shuppet",
+        "STATS": {
+            "HP": 44,
+            "ATK": 75,
+            "DEF": 35,
+            "SPA": 63,
+            "SPD": 33,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Ghost"
+        ],
+        "Ability": [
+            "Frisk",
+            "Cursed Body",
+            "Cursed Body"
+        ],
+        "Tutor Moves": [
+            "Gunk Shot",
+            "Magic Coat",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Knock Off",
+            "Role Play",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Magic Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 1,
+                "Move": "Screech"
+            },
+            {
+                "Level": 7,
+                "Move": "Spite"
+            },
+            {
+                "Level": 7,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Disable"
+            },
+            {
+                "Level": 13,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 16,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 19,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 25,
+                "Move": "Curse"
+            },
+            {
+                "Level": 28,
+                "Move": "Hex"
+            },
+            {
+                "Level": 31,
+                "Move": "Embargo"
+            },
+            {
+                "Level": 34,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 37,
+                "Move": "Slash"
+            },
+            {
+                "Level": 40,
+                "Move": "Trick"
+            },
+            {
+                "Level": 43,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 46,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 50,
+                "Move": "Destiny Bond"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Banette",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {
+            "5": "Spell Tag"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 44,
+            "ATK": 75,
+            "DEF": 35,
+            "SPA": 63,
+            "SPD": 33,
+            "SPE": 45
+        }
+    }
+]

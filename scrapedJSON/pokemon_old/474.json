@@ -1,0 +1,291 @@
+[
+    {
+        "Index": 473,
+        "Number": 474,
+        "Name": "Porygon-Z",
+        "STATS": {
+            "HP": 85,
+            "ATK": 80,
+            "DEF": 70,
+            "SPA": 135,
+            "SPD": 75,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Adaptability",
+            "Download",
+            "Analytic"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Magnet Rise",
+            "Last Resort",
+            "Electroweb",
+            "Icy Wind",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Pain Split",
+            "Trick",
+            "Wonder Room",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 1,
+                "Move": "Conversion"
+            },
+            {
+                "Level": 1,
+                "Move": "Conversion 2"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 7,
+                "Move": "Swift"
+            },
+            {
+                "Level": 10,
+                "Move": "Spark"
+            },
+            {
+                "Level": 13,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 16,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 19,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 25,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 28,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 31,
+                "Move": "Tri Attack"
+            },
+            {
+                "Level": 34,
+                "Move": "Trick"
+            },
+            {
+                "Level": 37,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 40,
+                "Move": "Agility"
+            },
+            {
+                "Level": 44,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 48,
+                "Move": "Recover"
+            },
+            {
+                "Level": 52,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 56,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 60,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 64,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 68,
+                "Move": "Hyper Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 85,
+            "ATK": 80,
+            "DEF": 70,
+            "SPA": 135,
+            "SPD": 75,
+            "SPE": 90
+        }
+    }
+]

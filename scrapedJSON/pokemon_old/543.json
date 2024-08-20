@@ -1,0 +1,231 @@
+[
+    {
+        "Index": 542,
+        "Number": 543,
+        "Name": "Venipede",
+        "STATS": {
+            "HP": 30,
+            "ATK": 45,
+            "DEF": 59,
+            "SPA": 30,
+            "SPD": 39,
+            "SPE": 57
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Quick Feet",
+            "Poison Point",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 4,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 8,
+                "Move": "Protect"
+            },
+            {
+                "Level": 11,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 14,
+                "Move": "Screech"
+            },
+            {
+                "Level": 16,
+                "Move": "Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Coil"
+            },
+            {
+                "Level": 23,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 26,
+                "Move": "Payback"
+            },
+            {
+                "Level": 29,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 30,
+                "Move": "Agility"
+            },
+            {
+                "Level": 33,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 33,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 37,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 41,
+                "Move": "Poison Tail"
+            },
+            {
+                "Level": 45,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 49,
+                "Move": "Steamroller"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Whirlipede",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {
+            "5": "Poison Barb"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 45,
+            "DEF": 59,
+            "SPA": 30,
+            "SPD": 39,
+            "SPE": 57
+        }
+    }
+]

@@ -1,0 +1,317 @@
+[
+    {
+        "Index": 512,
+        "Number": 513,
+        "Name": "Pansear",
+        "STATS": {
+            "HP": 50,
+            "ATK": 53,
+            "DEF": 48,
+            "SPA": 53,
+            "SPD": 48,
+            "SPE": 64
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Gluttony",
+            "Blaze",
+            "Blaze"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Blast Burn",
+            "Covet",
+            "Low Kick",
+            "Gunk Shot",
+            "Uproar",
+            "Fire Punch",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Heat Wave",
+            "Role Play",
+            "Helping Hand",
+            "Endeavor",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Fire Pledge"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 5,
+                "Move": "Incinerate"
+            },
+            {
+                "Level": 8,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 12,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 14,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 16,
+                "Move": "Low Kick"
+            },
+            {
+                "Level": 18,
+                "Move": "Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Fire Punch"
+            },
+            {
+                "Level": 22,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 24,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 26,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 28,
+                "Move": "Disable"
+            },
+            {
+                "Level": 31,
+                "Move": "Acrobatics"
+            },
+            {
+                "Level": 34,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 38,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 42,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 46,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 50,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 54,
+                "Move": "Fire Lash"
+            },
+            {
+                "Level": 58,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 62,
+                "Move": "Slack Off"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Simisear",
+                "Method": "Use Fire Stone"
+            }
+        ],
+        "Items": {
+            "50": "Oran Berry",
+            "5": "Passho Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 53,
+            "DEF": 48,
+            "SPA": 53,
+            "SPD": 48,
+            "SPE": 64
+        }
+    }
+]

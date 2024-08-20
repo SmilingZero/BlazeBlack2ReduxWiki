@@ -1,0 +1,351 @@
+[
+    {
+        "Index": 493,
+        "Number": 494,
+        "Name": "Victini",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Psychic",
+            "Fire"
+        ],
+        "Ability": [
+            "Victory Star"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Magic Coat",
+            "Last Resort",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Role Play",
+            "Helping Hand",
+            "Trick",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Secret Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 4,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 8,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 12,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 16,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 20,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 24,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 32,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 36,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 40,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 44,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 48,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 52,
+                "Move": "Agility"
+            },
+            {
+                "Level": 56,
+                "Move": "Searing Shot"
+            },
+            {
+                "Level": 56,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 60,
+                "Move": "Fusion Bolt"
+            },
+            {
+                "Level": 60,
+                "Move": "Fusion Flare"
+            },
+            {
+                "Level": 64,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 68,
+                "Move": "Glaciate"
+            },
+            {
+                "Level": 72,
+                "Move": "V-create"
+            },
+            {
+                "Level": 76,
+                "Move": "Final Gambit"
+            },
+            {
+                "Level": 80,
+                "Move": "Blue Flare"
+            },
+            {
+                "Level": 80,
+                "Move": "Bolt Strike"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Psychic",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        }
+    }
+]

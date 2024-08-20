@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 312,
+        "Number": 313,
+        "Name": "Volbeat",
+        "STATS": {
+            "HP": 65,
+            "ATK": 33,
+            "DEF": 65,
+            "SPA": 107,
+            "SPD": 85,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Bug",
+            "Electric"
+        ],
+        "Ability": [
+            "Prankster",
+            "Tinted Lens",
+            "Illuminate"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "ThunderPunch",
+            "Ice Punch",
+            "Zen Headbutt",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Helping Hand",
+            "Trick",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Flash"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 6,
+                "Move": "Double Team"
+            },
+            {
+                "Level": 9,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 12,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 15,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 21,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 24,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 27,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 30,
+                "Move": "Protect"
+            },
+            {
+                "Level": 33,
+                "Move": "Thunderbolt"
+            },
+            {
+                "Level": 36,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 39,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 42,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 45,
+                "Move": "Tail Glow"
+            },
+            {
+                "Level": 48,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 51,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 54,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 57,
+                "Move": "Quiver Dance"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 73,
+            "DEF": 55,
+            "SPA": 47,
+            "SPD": 75,
+            "SPE": 85
+        }
+    }
+]

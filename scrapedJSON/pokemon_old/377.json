@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 376,
+        "Number": 377,
+        "Name": "Regirock",
+        "STATS": {
+            "HP": 80,
+            "ATK": 100,
+            "DEF": 200,
+            "SPA": 50,
+            "SPD": 100,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Rock"
+        ],
+        "Ability": [
+            "Solid Rock",
+            "Sturdy",
+            "Clear Body"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Iron Defense",
+            "Superpower",
+            "Snore",
+            "Drain Punch",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 1,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 6,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 10,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 14,
+                "Move": "Block"
+            },
+            {
+                "Level": 18,
+                "Move": "Curse"
+            },
+            {
+                "Level": 22,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 26,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 30,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 34,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 34,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 38,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 42,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 46,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 50,
+                "Move": "Hyper Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 100,
+            "DEF": 200,
+            "SPA": 50,
+            "SPD": 100,
+            "SPE": 50
+        }
+    }
+]

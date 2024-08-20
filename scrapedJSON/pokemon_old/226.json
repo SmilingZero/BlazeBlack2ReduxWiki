@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 225,
+        "Number": 226,
+        "Name": "Mantine",
+        "STATS": {
+            "HP": 85,
+            "ATK": 40,
+            "DEF": 70,
+            "SPA": 80,
+            "SPD": 140,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Water",
+            "Flying"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Water Absorb",
+            "Water Veil"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Seed Bomb",
+            "Bounce",
+            "Gunk Shot",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Tailwind",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 13,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 16,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 25,
+                "Move": "Twister"
+            },
+            {
+                "Level": 27,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 29,
+                "Move": "Agility"
+            },
+            {
+                "Level": 32,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 35,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 38,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 41,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 44,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 48,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 52,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 56,
+                "Move": "Haze"
+            },
+            {
+                "Level": 60,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Rock"
+            ],
+            "4x Weak": [
+                "Electric"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 40,
+            "DEF": 70,
+            "SPA": 80,
+            "SPD": 140,
+            "SPE": 70
+        }
+    }
+]

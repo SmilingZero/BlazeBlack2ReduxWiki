@@ -1,0 +1,512 @@
+[
+    {
+        "Index": 234,
+        "Number": 235,
+        "Name": "Smeargle",
+        "STATS": {
+            "HP": 55,
+            "ATK": 20,
+            "DEF": 35,
+            "SPA": 20,
+            "SPD": 45,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Own Tempo",
+            "Technician",
+            "Moody"
+        ],
+        "Tutor Moves": [],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 11,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 22,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 33,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 44,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 55,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 66,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 77,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 88,
+                "Move": "Sketch"
+            },
+            {
+                "Level": 99,
+                "Move": "Sketch"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 20,
+            "DEF": 35,
+            "SPA": 20,
+            "SPD": 45,
+            "SPE": 75
+        }
+    }
+]

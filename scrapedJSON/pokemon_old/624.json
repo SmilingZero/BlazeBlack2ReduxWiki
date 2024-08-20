@@ -1,0 +1,295 @@
+[
+    {
+        "Index": 623,
+        "Number": 624,
+        "Name": "Pawniard",
+        "STATS": {
+            "HP": 45,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Dark",
+            "Steel"
+        ],
+        "Ability": [
+            "Defiant",
+            "Inner Focus",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Dual Chop",
+            "Iron Head",
+            "Low Kick",
+            "Foul Play",
+            "Magnet Rise",
+            "Iron Defense",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Spite",
+            "Snatch",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 5,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 10,
+                "Move": "Low Kick"
+            },
+            {
+                "Level": 13,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 16,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 19,
+                "Move": "Snarl"
+            },
+            {
+                "Level": 22,
+                "Move": "Torment"
+            },
+            {
+                "Level": 26,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 30,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 34,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 38,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 40,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 43,
+                "Move": "Slash"
+            },
+            {
+                "Level": 43,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 46,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 49,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 52,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 55,
+                "Move": "Metal Burst"
+            },
+            {
+                "Level": 58,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 61,
+                "Move": "Guillotine"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Bisharp",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Bug",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ground"
+            ],
+            "4x Weak": [
+                "Fighting"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 60
+        }
+    }
+]

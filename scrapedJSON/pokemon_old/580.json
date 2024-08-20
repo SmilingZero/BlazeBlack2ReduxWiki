@@ -1,0 +1,236 @@
+[
+    {
+        "Index": 579,
+        "Number": 580,
+        "Name": "Ducklett",
+        "STATS": {
+            "HP": 62,
+            "ATK": 44,
+            "DEF": 50,
+            "SPA": 44,
+            "SPD": 50,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Water",
+            "Flying"
+        ],
+        "Ability": [
+            "Friend Guard",
+            "Big Pecks",
+            "Hydration"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Icy Wind",
+            "Snore",
+            "Tailwind",
+            "Roost",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Defog"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 7,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 13,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 16,
+                "Move": "Gust"
+            },
+            {
+                "Level": 19,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 22,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 25,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 28,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 31,
+                "Move": "Brine"
+            },
+            {
+                "Level": 34,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 37,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 41,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 45,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 49,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 53,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 57,
+                "Move": "Brave Bird"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Swanna",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Rock"
+            ],
+            "4x Weak": [
+                "Electric"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 62,
+            "ATK": 44,
+            "DEF": 50,
+            "SPA": 44,
+            "SPD": 50,
+            "SPE": 55
+        }
+    }
+]

@@ -1,0 +1,273 @@
+[
+    {
+        "Index": 1,
+        "Number": 2,
+        "Name": "Ivysaur",
+        "STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 63,
+            "SPA": 80,
+            "SPD": 80,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Grass",
+            "Poison"
+        ],
+        "Ability": [
+            "Solar Power",
+            "Overgrow",
+            "Chlorophyll"
+        ],
+        "Tutor Moves": [
+            "Grass Pledge",
+            "Seed Bomb",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Block"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Vine Whip"
+            },
+            {
+                "Level": 7,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 10,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 13,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 13,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 16,
+                "Move": "Venoshock"
+            },
+            {
+                "Level": 19,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 22,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 25,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 31,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 37,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 40,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 43,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 46,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 49,
+                "Move": "Growth"
+            },
+            {
+                "Level": 52,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 55,
+                "Move": "Sleep Powder"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Venusaur",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 63,
+            "SPA": 80,
+            "SPD": 80,
+            "SPE": 60
+        }
+    }
+]

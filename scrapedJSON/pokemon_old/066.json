@@ -1,0 +1,305 @@
+[
+    {
+        "Index": 65,
+        "Number": 66,
+        "Name": "Machop",
+        "STATS": {
+            "HP": 70,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Steadfast",
+            "No Guard",
+            "Steadfast"
+        ],
+        "Tutor Moves": [
+            "Dual Chop",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Superpower",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Karate Chop"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Meditate"
+            },
+            {
+                "Level": 4,
+                "Move": "Counter"
+            },
+            {
+                "Level": 7,
+                "Move": "Low Kick"
+            },
+            {
+                "Level": 9,
+                "Move": "Meditate"
+            },
+            {
+                "Level": 11,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 13,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 15,
+                "Move": "Dual Chop"
+            },
+            {
+                "Level": 17,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 19,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 21,
+                "Move": "Bullet Punch"
+            },
+            {
+                "Level": 23,
+                "Move": "Vital Throw"
+            },
+            {
+                "Level": 25,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 27,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 29,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 32,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 35,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 38,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 41,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 44,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 48,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 52,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 56,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Machoke",
+                "Method": "Level 28"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 35
+        }
+    }
+]

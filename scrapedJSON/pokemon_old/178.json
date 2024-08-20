@@ -1,0 +1,319 @@
+[
+    {
+        "Index": 177,
+        "Number": 178,
+        "Name": "Xatu",
+        "STATS": {
+            "HP": 65,
+            "ATK": 65,
+            "DEF": 70,
+            "SPA": 105,
+            "SPD": 80,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Synchronize",
+            "Magic Bounce",
+            "Magic Bounce"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Foul Play",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Pain Split",
+            "Giga Drain",
+            "Roost",
+            "Trick",
+            "Magic Room",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Haze"
+            },
+            {
+                "Level": 1,
+                "Move": "Skill Swap"
+            },
+            {
+                "Level": 1,
+                "Move": "Trick"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 7,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 13,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 16,
+                "Move": "Wish"
+            },
+            {
+                "Level": 19,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 22,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 25,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 26,
+                "Move": "Miracle Eye"
+            },
+            {
+                "Level": 29,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 32,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 35,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 38,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 42,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 46,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 50,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 54,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 58,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 62,
+                "Move": "Foul Play"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 75,
+            "DEF": 70,
+            "SPA": 95,
+            "SPD": 70,
+            "SPE": 95
+        }
+    }
+]

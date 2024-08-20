@@ -1,0 +1,256 @@
+[
+    {
+        "Index": 524,
+        "Number": 525,
+        "Name": "Boldore",
+        "STATS": {
+            "HP": 70,
+            "ATK": 105,
+            "DEF": 105,
+            "SPA": 50,
+            "SPD": 40,
+            "SPE": 20
+        },
+        "TYPE": [
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Weak Armor",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Iron Defense",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 13,
+                "Move": "Curse"
+            },
+            {
+                "Level": 16,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 19,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 22,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 25,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 26,
+                "Move": "Power Gem"
+            },
+            {
+                "Level": 29,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 32,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 35,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 39,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 43,
+                "Move": "Autotomize"
+            },
+            {
+                "Level": 47,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 52,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 57,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 62,
+                "Move": "Rock Wrecker"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gigalith",
+                "Method": "Use Link Cable"
+            }
+        ],
+        "Items": {
+            "50": "Everstone",
+            "5": "Hard Stone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 105,
+            "DEF": 105,
+            "SPA": 50,
+            "SPD": 40,
+            "SPE": 20
+        }
+    }
+]

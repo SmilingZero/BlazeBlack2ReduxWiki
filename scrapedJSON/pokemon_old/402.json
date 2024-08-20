@@ -1,0 +1,283 @@
+[
+    {
+        "Index": 401,
+        "Number": 402,
+        "Name": "Kricketune",
+        "STATS": {
+            "HP": 75,
+            "ATK": 95,
+            "DEF": 57,
+            "SPA": 71,
+            "SPD": 57,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Technician",
+            "Soundproof",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Uproar",
+            "Hyper Voice",
+            "Snore",
+            "Knock Off",
+            "Heal Bell",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 1,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 3,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 7,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 10,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 13,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 16,
+                "Move": "Sing"
+            },
+            {
+                "Level": 19,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 22,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 25,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 28,
+                "Move": "X-Scissor"
+            },
+            {
+                "Level": 31,
+                "Move": "Screech"
+            },
+            {
+                "Level": 34,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 37,
+                "Move": "Taunt"
+            },
+            {
+                "Level": 40,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 43,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 46,
+                "Move": "Boomburst"
+            },
+            {
+                "Level": 50,
+                "Move": "Perish Song"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Metronome"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 77,
+            "ATK": 85,
+            "DEF": 51,
+            "SPA": 55,
+            "SPD": 51,
+            "SPE": 65
+        }
+    }
+]

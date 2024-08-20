@@ -1,0 +1,280 @@
+[
+    {
+        "Index": 97,
+        "Number": 98,
+        "Name": "Krabby",
+        "STATS": {
+            "HP": 30,
+            "ATK": 105,
+            "DEF": 90,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Shell Armor",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Iron Defense",
+            "Superpower",
+            "Icy Wind",
+            "Snore",
+            "Knock Off",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 8,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 11,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 14,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 17,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 20,
+                "Move": "Razor Shell"
+            },
+            {
+                "Level": 23,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 26,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 29,
+                "Move": "Agility"
+            },
+            {
+                "Level": 32,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 35,
+                "Move": "Haze"
+            },
+            {
+                "Level": 38,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 42,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 46,
+                "Move": "Crabhammer"
+            },
+            {
+                "Level": 50,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Guillotine"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Kingler",
+                "Method": "Level 28"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 105,
+            "DEF": 90,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 50
+        }
+    }
+]

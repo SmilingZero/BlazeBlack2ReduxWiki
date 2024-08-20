@@ -1,0 +1,298 @@
+[
+    {
+        "Index": 221,
+        "Number": 222,
+        "Name": "Corsola",
+        "STATS": {
+            "HP": 65,
+            "ATK": 45,
+            "DEF": 115,
+            "SPA": 90,
+            "SPD": 115,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Water",
+            "Rock"
+        ],
+        "Ability": [
+            "Regenerator",
+            "Natural Cure",
+            "Hustle"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Earth Power",
+            "Iron Defense",
+            "Icy Wind",
+            "Snore",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 7,
+                "Move": "Recover"
+            },
+            {
+                "Level": 10,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 13,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 16,
+                "Move": "Brine"
+            },
+            {
+                "Level": 19,
+                "Move": "Curse"
+            },
+            {
+                "Level": 22,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 25,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 28,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 28,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 31,
+                "Move": "Camouflage"
+            },
+            {
+                "Level": 34,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 37,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 40,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 43,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 46,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 49,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 53,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 57,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Hard Stone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Water",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 85,
+            "SPA": 65,
+            "SPD": 85,
+            "SPE": 35
+        }
+    }
+]

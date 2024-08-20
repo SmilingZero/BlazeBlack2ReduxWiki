@@ -1,0 +1,241 @@
+[
+    {
+        "Index": 521,
+        "Number": 522,
+        "Name": "Blitzle",
+        "STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 32,
+            "SPA": 50,
+            "SPD": 32,
+            "SPE": 76
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Motor Drive",
+            "Sap Sipper",
+            "Lightningrod"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Magnet Rise",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 4,
+                "Move": "Charge"
+            },
+            {
+                "Level": 6,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 8,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Me First"
+            },
+            {
+                "Level": 13,
+                "Move": "Spark"
+            },
+            {
+                "Level": 16,
+                "Move": "Screech"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 25,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 28,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 31,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 34,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 37,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 40,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 43,
+                "Move": "Agility"
+            },
+            {
+                "Level": 47,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 51,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 55,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 59,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Zebstrika",
+                "Method": "Level 27"
+            }
+        ],
+        "Items": {
+            "50": "Cheri Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 32,
+            "SPA": 50,
+            "SPD": 32,
+            "SPE": 76
+        }
+    }
+]

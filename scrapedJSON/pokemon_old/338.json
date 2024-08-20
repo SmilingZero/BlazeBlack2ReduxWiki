@@ -1,0 +1,339 @@
+[
+    {
+        "Index": 337,
+        "Number": 338,
+        "Name": "Solrock",
+        "STATS": {
+            "HP": 90,
+            "ATK": 115,
+            "DEF": 85,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Rock",
+            "Psychic"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Magic Coat",
+            "Earth Power",
+            "Gravity",
+            "Iron Defense",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Pain Split",
+            "Helping Hand",
+            "Wonder Room",
+            "Recycle",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 1,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 4,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 7,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 10,
+                "Move": "Magic Room"
+            },
+            {
+                "Level": 14,
+                "Move": "Embargo"
+            },
+            {
+                "Level": 18,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 22,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 26,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 30,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 34,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 38,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 42,
+                "Move": "Solar Beam"
+            },
+            {
+                "Level": 46,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 50,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 54,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 58,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 62,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 66,
+                "Move": "Rock Wrecker"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Sun Stone",
+            "1": "Comet Shard"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Fighting",
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ground",
+                "Bug",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 95,
+            "DEF": 85,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 70
+        }
+    }
+]

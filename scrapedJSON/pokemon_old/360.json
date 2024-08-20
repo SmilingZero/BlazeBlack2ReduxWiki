@@ -1,0 +1,100 @@
+[
+    {
+        "Index": 359,
+        "Number": 360,
+        "Name": "Wynaut",
+        "STATS": {
+            "HP": 95,
+            "ATK": 23,
+            "DEF": 48,
+            "SPA": 23,
+            "SPD": 48,
+            "SPE": 23
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Shadow Tag",
+            "Telepathy",
+            "Telepathy"
+        ],
+        "Tutor Moves": [],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Counter"
+            },
+            {
+                "Level": 1,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 1,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 1,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Wobbuffet",
+                "Method": "Level 15"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 95,
+            "ATK": 23,
+            "DEF": 48,
+            "SPA": 23,
+            "SPD": 48,
+            "SPE": 23
+        }
+    }
+]

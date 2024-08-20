@@ -1,0 +1,318 @@
+[
+    {
+        "Index": 301,
+        "Number": 302,
+        "Name": "Sableye",
+        "STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 85,
+            "SPD": 85,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Dark",
+            "Ghost"
+        ],
+        "Ability": [
+            "Prankster",
+            "Stall",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Icy Wind",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Spite",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Octazooka"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 4,
+                "Move": "Spite"
+            },
+            {
+                "Level": 7,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 13,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 16,
+                "Move": "Detect"
+            },
+            {
+                "Level": 19,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 25,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 28,
+                "Move": "Metal Burst"
+            },
+            {
+                "Level": 31,
+                "Move": "Shadow Claw"
+            },
+            {
+                "Level": 34,
+                "Move": "Trick"
+            },
+            {
+                "Level": 38,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 42,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 46,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 50,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 54,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 58,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 62,
+                "Move": "Recover"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 75,
+            "DEF": 75,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 50
+        }
+    }
+]

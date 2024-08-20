@@ -1,0 +1,220 @@
+[
+    {
+        "Index": 615,
+        "Number": 616,
+        "Name": "Shelmet",
+        "STATS": {
+            "HP": 50,
+            "ATK": 40,
+            "DEF": 85,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Overcoat",
+            "Shell Armor",
+            "Hydration"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Snore",
+            "Giga Drain",
+            "Gastro Acid",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Protect"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 4,
+                "Move": "Acid"
+            },
+            {
+                "Level": 7,
+                "Move": "Curse"
+            },
+            {
+                "Level": 10,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 20,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 24,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 28,
+                "Move": "Guard Swap"
+            },
+            {
+                "Level": 32,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 40,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 40,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 44,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 48,
+                "Move": "Recover"
+            },
+            {
+                "Level": 52,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 56,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Accelgor",
+                "Method": "Level up with pokemon with Karrablast in party"
+            },
+            {
+                "To": "Accelgor",
+                "Method": "Use Reaper Cloth"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 40,
+            "DEF": 85,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 25
+        }
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 186,
+        "Number": 187,
+        "Name": "Hoppip",
+        "STATS": {
+            "HP": 35,
+            "ATK": 35,
+            "DEF": 40,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Grass",
+            "Flying"
+        ],
+        "Ability": [
+            "Prankster",
+            "Leaf Guard",
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Bounce",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 4,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 6,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 8,
+                "Move": "Gust"
+            },
+            {
+                "Level": 10,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 12,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 14,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 16,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 16,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 16,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 19,
+                "Move": "Acrobatics"
+            },
+            {
+                "Level": 22,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 24,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 26,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 28,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 31,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 34,
+                "Move": "Cotton Guard"
+            },
+            {
+                "Level": 37,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 40,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 43,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 46,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 50,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 54,
+                "Move": "Memento"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Skiploom",
+                "Method": "Level 18"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Poison",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Ice"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 35,
+            "DEF": 40,
+            "SPA": 35,
+            "SPD": 55,
+            "SPE": 50
+        }
+    }
+]

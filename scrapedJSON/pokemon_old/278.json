@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 277,
+        "Number": 278,
+        "Name": "Wingull",
+        "STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 55,
+            "SPD": 30,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Water",
+            "Flying"
+        ],
+        "Ability": [
+            "Hydration",
+            "Rain Dish",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Icy Wind",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Mist"
+            },
+            {
+                "Level": 10,
+                "Move": "Gust"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Twister"
+            },
+            {
+                "Level": 19,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 22,
+                "Move": "Brine"
+            },
+            {
+                "Level": 25,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 28,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 31,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 34,
+                "Move": "Soak"
+            },
+            {
+                "Level": 37,
+                "Move": "Fling"
+            },
+            {
+                "Level": 40,
+                "Move": "Agility"
+            },
+            {
+                "Level": 43,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 46,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 49,
+                "Move": "Rain Dance"
+            },
+            {
+                "Level": 53,
+                "Move": "Hurricane"
+            },
+            {
+                "Level": 57,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Pelipper",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Rock"
+            ],
+            "4x Weak": [
+                "Electric"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 55,
+            "SPD": 30,
+            "SPE": 85
+        }
+    }
+]

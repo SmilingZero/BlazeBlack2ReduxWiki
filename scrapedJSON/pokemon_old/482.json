@@ -1,0 +1,306 @@
+[
+    {
+        "Index": 481,
+        "Number": 482,
+        "Name": "Azelf",
+        "STATS": {
+            "HP": 75,
+            "ATK": 125,
+            "DEF": 70,
+            "SPA": 125,
+            "SPD": 70,
+            "SPE": 115
+        },
+        "TYPE": [
+            "Psychic",
+            "Fairy"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Last Resort",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 1,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 6,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 10,
+                "Move": "Detect"
+            },
+            {
+                "Level": 14,
+                "Move": "Swift"
+            },
+            {
+                "Level": 18,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 22,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 26,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 30,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 34,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 38,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 42,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 46,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 50,
+                "Move": "Esper Wing"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Ghost",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 125,
+            "DEF": 70,
+            "SPA": 125,
+            "SPD": 70,
+            "SPE": 115
+        }
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "Index": 193,
+        "Number": 194,
+        "Name": "Wooper",
+        "STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 55,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
+        },
+        "TYPE": [
+            "Water",
+            "Ground"
+        ],
+        "Ability": [
+            "Unaware",
+            "Water Absorb",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Ice Punch",
+            "Earth Power",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 10,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 13,
+                "Move": "Haze"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 18,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 20,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 22,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 24,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 26,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 28,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 30,
+                "Move": "Counter"
+            },
+            {
+                "Level": 32,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 35,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 38,
+                "Move": "Curse"
+            },
+            {
+                "Level": 41,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 45,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 49,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 53,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 57,
+                "Move": "Recover"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Quagsire",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Poison",
+                "Rock",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 45,
+            "DEF": 45,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
+        }
+    }
+]

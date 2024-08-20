@@ -1,0 +1,305 @@
+[
+    {
+        "Index": 331,
+        "Number": 332,
+        "Name": "Cacturne",
+        "STATS": {
+            "HP": 70,
+            "ATK": 115,
+            "DEF": 60,
+            "SPA": 115,
+            "SPD": 60,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Grass",
+            "Dark"
+        ],
+        "Ability": [
+            "Unnerve",
+            "Water Absorb",
+            "Water Absorb"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Low Kick",
+            "ThunderPunch",
+            "Block",
+            "Foul Play",
+            "Superpower",
+            "Dark Pulse",
+            "Snore",
+            "Synthesis",
+            "Role Play",
+            "Giga Drain",
+            "Drain Punch",
+            "Worry Seed",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Cotton Spore"
+            },
+            {
+                "Level": 7,
+                "Move": "Growth"
+            },
+            {
+                "Level": 10,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 13,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 16,
+                "Move": "Disable"
+            },
+            {
+                "Level": 18,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 20,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 22,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 24,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 26,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 28,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 31,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 32,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 35,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 38,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 42,
+                "Move": "Needle Arm"
+            },
+            {
+                "Level": 46,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 50,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 54,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 58,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 62,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 66,
+                "Move": "Switcheroo"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Sticky Barb"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 115,
+            "DEF": 60,
+            "SPA": 115,
+            "SPD": 60,
+            "SPE": 55
+        }
+    }
+]

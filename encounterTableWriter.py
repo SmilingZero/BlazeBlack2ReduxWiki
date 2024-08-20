@@ -5,8 +5,8 @@ import re
 from collections import OrderedDict
 from os import makedirs
 
-image_base_link = 'https://smilingzero.github.io/BlazeBlack2ReduxWiki/img/animated/'
-pokemon_base_link = 'https://smilingzero.github.io/BlazeBlack2ReduxWiki/pokemons/'
+image_base_link = '../../img/animated/'
+pokemon_base_link = '../../pokemons/'
 
 # methodList = ['Grass, Normal', 'Grass, Doubles','Grass, Shaking Spots' \
 #               'Fish, Normal','Fish, Dark Spot','Surf, Normal','Surf, Dark Spot',\

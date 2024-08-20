@@ -1,0 +1,236 @@
+[
+    {
+        "Index": 587,
+        "Number": 588,
+        "Name": "Karrablast",
+        "STATS": {
+            "HP": 50,
+            "ATK": 75,
+            "DEF": 45,
+            "SPA": 40,
+            "SPD": 45,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "No Guard",
+            "Swarm",
+            "Shed Skin"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Snore",
+            "Knock Off",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Horn Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 4,
+                "Move": "Endure"
+            },
+            {
+                "Level": 7,
+                "Move": "Counter"
+            },
+            {
+                "Level": 10,
+                "Move": "Flail"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 20,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 24,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 28,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 32,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 36,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 40,
+                "Move": "Slash"
+            },
+            {
+                "Level": 40,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 44,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 48,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 52,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 56,
+                "Move": "Megahorn"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Escavalier",
+                "Method": "Level up with pokemon with Shelmet in party"
+            },
+            {
+                "To": "Escavalier",
+                "Method": "Use Metal Coat"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 75,
+            "DEF": 45,
+            "SPA": 40,
+            "SPD": 45,
+            "SPE": 60
+        }
+    }
+]

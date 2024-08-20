@@ -1,0 +1,292 @@
+[
+    {
+        "Index": 174,
+        "Number": 175,
+        "Name": "Togepi",
+        "STATS": {
+            "HP": 35,
+            "ATK": 20,
+            "DEF": 65,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 20
+        },
+        "TYPE": [
+            "Fairy"
+        ],
+        "Ability": [
+            "Super Luck",
+            "Serene Grace",
+            "Super Luck"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Last Resort",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Heal Bell",
+            "After You",
+            "Trick",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Present"
+            },
+            {
+                "Level": 4,
+                "Move": "After You"
+            },
+            {
+                "Level": 7,
+                "Move": "Peck"
+            },
+            {
+                "Level": 10,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 13,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 16,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 19,
+                "Move": "Metronome"
+            },
+            {
+                "Level": 22,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 25,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 28,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 31,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 34,
+                "Move": "Charm"
+            },
+            {
+                "Level": 37,
+                "Move": "Wish"
+            },
+            {
+                "Level": 40,
+                "Move": "Follow Me"
+            },
+            {
+                "Level": 43,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 46,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 49,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 52,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 55,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Togetic",
+                "Method": "Happiness"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Bug",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 20,
+            "DEF": 65,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 20
+        }
+    }
+]

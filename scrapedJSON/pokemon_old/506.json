@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 505,
+        "Number": 506,
+        "Name": "Lillipup",
+        "STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 45,
+            "SPA": 25,
+            "SPD": 45,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Vital Spirit",
+            "Pickup",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Uproar",
+            "Last Resort",
+            "Hyper Voice",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Lick"
+            },
+            {
+                "Level": 6,
+                "Move": "Bite"
+            },
+            {
+                "Level": 8,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 10,
+                "Move": "Howl"
+            },
+            {
+                "Level": 12,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 14,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 19,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 22,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 26,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 30,
+                "Move": "Charm"
+            },
+            {
+                "Level": 34,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 38,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 42,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 46,
+                "Move": "After You"
+            },
+            {
+                "Level": 50,
+                "Move": "Giga Impact"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Herdier",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 45,
+            "SPA": 25,
+            "SPD": 45,
+            "SPE": 55
+        }
+    }
+]

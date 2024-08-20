@@ -1,0 +1,257 @@
+[
+    {
+        "Index": 289,
+        "Number": 290,
+        "Name": "Nincada",
+        "STATS": {
+            "HP": 31,
+            "ATK": 45,
+            "DEF": 90,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Bug",
+            "Ground"
+        ],
+        "Ability": [
+            "Compoundeyes",
+            "Run Away",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Snore",
+            "Giga Drain",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 4,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 6,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 8,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 10,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 12,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 14,
+                "Move": "Gust"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 18,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 20,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 23,
+                "Move": "Spite"
+            },
+            {
+                "Level": 26,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 29,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 32,
+                "Move": "Flail"
+            },
+            {
+                "Level": 35,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 38,
+                "Move": "Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 41,
+                "Move": "Bide"
+            },
+            {
+                "Level": 45,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 48,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ninjask",
+                "Method": "Level 20"
+            },
+            {
+                "To": "Shedinja",
+                "Method": "Level Up (Shedinja) at 20 with empty party slot and Pokeball in bag"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Poison",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 31,
+            "ATK": 45,
+            "DEF": 90,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 40
+        }
+    }
+]

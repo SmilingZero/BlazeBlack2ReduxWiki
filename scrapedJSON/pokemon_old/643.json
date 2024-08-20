@@ -1,0 +1,304 @@
+[
+    {
+        "Index": 642,
+        "Number": 643,
+        "Name": "Reshiram ",
+        "STATS": {
+            "HP": 100,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 150,
+            "SPD": 120,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Dragon",
+            "Fire"
+        ],
+        "Ability": [
+            "Turboblaze"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Earth Power",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Roost",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 1,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 1,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 8,
+                "Move": "Slash"
+            },
+            {
+                "Level": 12,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 16,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 22,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 26,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 30,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 34,
+                "Move": "Fire Blast"
+            },
+            {
+                "Level": 38,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 42,
+                "Move": "Fusion Flare"
+            },
+            {
+                "Level": 46,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 50,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 88,
+                "Move": "Blue Flare"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire",
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Electric",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Rock",
+                "Dragon"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 150,
+            "SPD": 120,
+            "SPE": 90
+        }
+    }
+]

@@ -1,0 +1,339 @@
+[
+    {
+        "Index": 161,
+        "Number": 162,
+        "Name": "Furret",
+        "STATS": {
+            "HP": 90,
+            "ATK": 85,
+            "DEF": 65,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 105
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Quick Feet",
+            "Hustle",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Last Resort",
+            "Aqua Tail",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Helping Hand",
+            "Trick",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Follow Me"
+            },
+            {
+                "Level": 10,
+                "Move": "Charm"
+            },
+            {
+                "Level": 12,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 14,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 15,
+                "Move": "Agility"
+            },
+            {
+                "Level": 17,
+                "Move": "Covet"
+            },
+            {
+                "Level": 19,
+                "Move": "Hyper Fang"
+            },
+            {
+                "Level": 21,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 23,
+                "Move": "Me First"
+            },
+            {
+                "Level": 25,
+                "Move": "Coil"
+            },
+            {
+                "Level": 27,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 29,
+                "Move": "Tail Slap"
+            },
+            {
+                "Level": 32,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 36,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 40,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 44,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 48,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 52,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 56,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 60,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 64,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Oran Berry",
+            "5": "Sitrus Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 85,
+            "ATK": 76,
+            "DEF": 64,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 90
+        }
+    }
+]

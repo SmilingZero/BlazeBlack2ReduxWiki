@@ -1,0 +1,291 @@
+[
+    {
+        "Index": 64,
+        "Number": 65,
+        "Name": "Alakazam",
+        "STATS": {
+            "HP": 55,
+            "ATK": 50,
+            "DEF": 45,
+            "SPA": 135,
+            "SPD": 95,
+            "SPE": 120
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Synchronize",
+            "Magic Guard",
+            "Magic Guard"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Drain Punch",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 1,
+                "Move": "Teleport"
+            },
+            {
+                "Level": 1,
+                "Move": "Hidden Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Kinesis"
+            },
+            {
+                "Level": 16,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 19,
+                "Move": "Disable"
+            },
+            {
+                "Level": 20,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 22,
+                "Move": "Miracle Eye"
+            },
+            {
+                "Level": 23,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 26,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 29,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 31,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 34,
+                "Move": "Telekinesis"
+            },
+            {
+                "Level": 36,
+                "Move": "Recover"
+            },
+            {
+                "Level": 39,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 42,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 46,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 49,
+                "Move": "Trick"
+            },
+            {
+                "Level": 52,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 56,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "TwistedSpoon"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 50,
+            "DEF": 45,
+            "SPA": 135,
+            "SPD": 85,
+            "SPE": 120
+        }
+    }
+]

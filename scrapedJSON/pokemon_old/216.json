@@ -1,0 +1,299 @@
+[
+    {
+        "Index": 215,
+        "Number": 216,
+        "Name": "Teddiursa",
+        "STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Normal",
+            "Ground"
+        ],
+        "Ability": [
+            "Pickup",
+            "Quick Feet",
+            "Honey Gather"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Gunk Shot",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Last Resort",
+            "Superpower",
+            "Hyper Voice",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 1,
+                "Move": "Fling"
+            },
+            {
+                "Level": 4,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 7,
+                "Move": "Curse"
+            },
+            {
+                "Level": 10,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 13,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 16,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 19,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 22,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 25,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 30,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 33,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 36,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 39,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 42,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 45,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 48,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 51,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 55,
+                "Move": "Headlong Rush"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ursaring",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 40
+        }
+    }
+]

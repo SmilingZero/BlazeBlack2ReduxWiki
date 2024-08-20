@@ -1,0 +1,286 @@
+[
+    {
+        "Index": 101,
+        "Number": 102,
+        "Name": "Exeggcute",
+        "STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 80,
+            "SPA": 60,
+            "SPD": 45,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Grass",
+            "Psychic"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Harvest",
+            "Harvest"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Uproar",
+            "Block",
+            "Gravity",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 1,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 4,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 7,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 13,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 16,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 19,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 22,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 25,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 28,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 31,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 34,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 37,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 37,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 37,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 40,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 43,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 46,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 50,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 54,
+                "Move": "Bestow"
+            },
+            {
+                "Level": 58,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 62,
+                "Move": "Leaf Storm"
+            },
+            {
+                "Level": 66,
+                "Move": "Soft-Boiled"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Exeggutor",
+                "Method": "Use Leaf Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 80,
+            "SPA": 60,
+            "SPD": 45,
+            "SPE": 40
+        }
+    }
+]

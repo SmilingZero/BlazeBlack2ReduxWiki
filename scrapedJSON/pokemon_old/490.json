@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 489,
+        "Number": 490,
+        "Name": "Manaphy",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Hydration"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Bounce",
+            "Uproar",
+            "Last Resort",
+            "Icy Wind",
+            "Snore",
+            "Knock Off",
+            "Heal Bell",
+            "Helping Hand",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Heart Swap"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Glow"
+            },
+            {
+                "Level": 1,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 6,
+                "Move": "Charm"
+            },
+            {
+                "Level": 10,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 14,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 18,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 22,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 26,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 30,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 38,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 42,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 46,
+                "Move": "Rain Dance"
+            },
+            {
+                "Level": 50,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Lansat Berry",
+            "5": "Lansat Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        }
+    }
+]

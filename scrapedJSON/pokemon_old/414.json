@@ -1,0 +1,264 @@
+[
+    {
+        "Index": 413,
+        "Number": 414,
+        "Name": "Mothim",
+        "STATS": {
+            "HP": 70,
+            "ATK": 94,
+            "DEF": 50,
+            "SPA": 94,
+            "SPD": 50,
+            "SPE": 92
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Swarm",
+            "Tinted Lens",
+            "Tinted Lens"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Electroweb",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Hidden Power"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Protect"
+            },
+            {
+                "Level": 1,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 1,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 25,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 27,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 29,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 32,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 35,
+                "Move": "Growth"
+            },
+            {
+                "Level": 38,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 41,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 44,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 48,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 52,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 56,
+                "Move": "Quiver Dance"
+            },
+            {
+                "Level": 60,
+                "Move": "Hurricane"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "SilverPowder"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 94,
+            "DEF": 50,
+            "SPA": 94,
+            "SPD": 50,
+            "SPE": 66
+        }
+    }
+]

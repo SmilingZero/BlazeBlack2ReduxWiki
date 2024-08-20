@@ -1,0 +1,297 @@
+[
+    {
+        "Index": 223,
+        "Number": 224,
+        "Name": "Octillery",
+        "STATS": {
+            "HP": 75,
+            "ATK": 115,
+            "DEF": 75,
+            "SPA": 115,
+            "SPD": 75,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Mold Breaker",
+            "Sniper",
+            "Suction Cups"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Seed Bomb",
+            "Bounce",
+            "Gunk Shot",
+            "Icy Wind",
+            "Bind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 1,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 1,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 6,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 13,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 16,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 16,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Soak"
+            },
+            {
+                "Level": 25,
+                "Move": "Octazooka"
+            },
+            {
+                "Level": 29,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 33,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 37,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 41,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 45,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 49,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 53,
+                "Move": "Hyper Beam"
+            },
+            {
+                "Level": 57,
+                "Move": "Water Spout"
+            },
+            {
+                "Level": 61,
+                "Move": "Zap Cannon"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 105,
+            "DEF": 75,
+            "SPA": 105,
+            "SPD": 75,
+            "SPE": 45
+        }
+    }
+]

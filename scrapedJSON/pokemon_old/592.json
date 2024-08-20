@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 591,
+        "Number": 592,
+        "Name": "Frillish",
+        "STATS": {
+            "HP": 55,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 65,
+            "SPD": 85,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Water",
+            "Ghost"
+        ],
+        "Ability": [
+            "Water Absorb",
+            "Cursed Body",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Icy Wind",
+            "Dark Pulse",
+            "Bind",
+            "Snore",
+            "Pain Split",
+            "Giga Drain",
+            "Spite",
+            "Trick",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 8,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 12,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Soak"
+            },
+            {
+                "Level": 20,
+                "Move": "Hex"
+            },
+            {
+                "Level": 23,
+                "Move": "Spite"
+            },
+            {
+                "Level": 26,
+                "Move": "Brine"
+            },
+            {
+                "Level": 28,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 31,
+                "Move": "Shadow Ball"
+            },
+            {
+                "Level": 34,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 37,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 40,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 44,
+                "Move": "Recover"
+            },
+            {
+                "Level": 48,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 52,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 56,
+                "Move": "Water Spout"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Jellicent",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Poison",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 65,
+            "SPD": 85,
+            "SPE": 40
+        }
+    }
+]

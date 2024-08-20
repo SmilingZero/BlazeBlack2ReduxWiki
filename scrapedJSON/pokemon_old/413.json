@@ -1,0 +1,475 @@
+[
+    {
+        "Index": 412,
+        "Number": 413,
+        "Name": "Wormadam",
+        "STATS": {
+            "HP": 66,
+            "ATK": 59,
+            "DEF": 85,
+            "SPA": 99,
+            "SPD": 105,
+            "SPE": 36
+        },
+        "TYPE": [
+            "Bug",
+            "Grass"
+        ],
+        "Ability": [
+            "Shield Dust",
+            "Overcoat",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Seed Bomb",
+            "Uproar",
+            "Electroweb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Endeavor",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Hidden Power"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Protect"
+            },
+            {
+                "Level": 1,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 1,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 25,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 27,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 29,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 32,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 35,
+                "Move": "Growth"
+            },
+            {
+                "Level": 38,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 41,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 44,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 48,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 52,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 56,
+                "Move": "Quiver Dance"
+            },
+            {
+                "Level": 60,
+                "Move": "Leaf Storm"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [
+            687,
+            688
+        ],
+        "Evolutions": [],
+        "Items": {
+            "5": "SilverPowder"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Ground"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Poison",
+                "Bug",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Fire",
+                "Flying"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 59,
+            "DEF": 85,
+            "SPA": 79,
+            "SPD": 105,
+            "SPE": 36
+        }
+    },
+    {
+        "Index": 687,
+        "Name": "Wormadam - Sandy",
+        "STATS": {
+            "HP": 66,
+            "ATK": 99,
+            "DEF": 105,
+            "SPA": 59,
+            "SPD": 85,
+            "SPE": 36
+        },
+        "TYPE": [
+            "Bug",
+            "Ground"
+        ],
+        "Ability": [
+            "Rough Skin",
+            "Overcoat",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Stealth Rock",
+            "Earth Power"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 29,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 25,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 44,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 32,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 60,
+                "Move": "Earthquake"
+            },
+            {
+                "Level": 38,
+                "Move": "Bulldoze"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Name": "Earthquake",
+                "Machine": "TM26"
+            },
+            {
+                "Name": "Rock Tomb",
+                "Machine": "TM39"
+            },
+            {
+                "Name": "Dig",
+                "Machine": "TM28"
+            },
+            {
+                "Name": "Bulldoze",
+                "Machine": "TM78"
+            },
+            {
+                "Name": "Sandstorm",
+                "Machine": "TM37"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Poison",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 79,
+            "DEF": 105,
+            "SPA": 59,
+            "SPD": 85,
+            "SPE": 36
+        },
+        "Number": 413
+    },
+    {
+        "Index": 688,
+        "Name": "Wormadam - Trash",
+        "STATS": {
+            "HP": 66,
+            "ATK": 77,
+            "DEF": 97,
+            "SPA": 77,
+            "SPD": 97,
+            "SPE": 36
+        },
+        "TYPE": [
+            "Bug",
+            "Steel"
+        ],
+        "Ability": [
+            "Wonder Skin",
+            "Overcoat",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Gunk Shot",
+            "Iron Defense",
+            "Magnet Rise",
+            "Stealth Rock",
+            "Iron Head"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 29,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 25,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 38,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 60,
+                "Move": "Metal Burst"
+            },
+            {
+                "Level": 32,
+                "Move": "Stealth Rock"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Name": "Gyro Ball",
+                "Machine": "TM74"
+            },
+            {
+                "Name": "Flash Cannon",
+                "Machine": "TM91"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Fire"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 69,
+            "DEF": 95,
+            "SPA": 69,
+            "SPD": 95,
+            "SPE": 36
+        },
+        "Number": 413
+    }
+]

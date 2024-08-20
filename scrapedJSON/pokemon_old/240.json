@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 239,
+        "Number": 240,
+        "Name": "Magby",
+        "STATS": {
+            "HP": 45,
+            "ATK": 75,
+            "DEF": 37,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 83
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Flame Body",
+            "Vital Spirit",
+            "Vital Spirit"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Dual Chop",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Smog"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 1,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 5,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 8,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 10,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 12,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 14,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 16,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 18,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 21,
+                "Move": "Screech"
+            },
+            {
+                "Level": 24,
+                "Move": "Fire Punch"
+            },
+            {
+                "Level": 27,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 32,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 35,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 39,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 43,
+                "Move": "Sludge Bomb"
+            },
+            {
+                "Level": 47,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 51,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 55,
+                "Move": "Dynamic Punch"
+            },
+            {
+                "Level": 59,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Magmar",
+                "Method": "Level 29"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 75,
+            "DEF": 37,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 83
+        }
+    }
+]

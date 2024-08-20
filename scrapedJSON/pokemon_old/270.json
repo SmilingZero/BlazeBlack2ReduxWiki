@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 269,
+        "Number": 270,
+        "Name": "Lotad",
+        "STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Water",
+            "Grass"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Rain Dish",
+            "Own Tempo"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Uproar",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 6,
+                "Move": "Counter"
+            },
+            {
+                "Level": 8,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 10,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 12,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 15,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 18,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 25,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 28,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 31,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 34,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 38,
+                "Move": "Mist"
+            },
+            {
+                "Level": 42,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 46,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 50,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Lombre",
+                "Method": "Level 14"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Water"
+            ],
+            "0.5x Resist": [
+                "Ground",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 30
+        }
+    }
+]

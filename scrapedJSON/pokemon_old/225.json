@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 224,
+        "Number": 225,
+        "Name": "Delibird",
+        "STATS": {
+            "HP": 55,
+            "ATK": 95,
+            "DEF": 65,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Ice",
+            "Flying"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Technician",
+            "Insomnia"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Seed Bomb",
+            "Bounce",
+            "Gunk Shot",
+            "Ice Punch",
+            "Icy Wind",
+            "Sky Attack",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 1,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 1,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 1,
+                "Move": "Present"
+            },
+            {
+                "Level": 1,
+                "Move": "Counter"
+            },
+            {
+                "Level": 8,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 13,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 18,
+                "Move": "Crabhammer"
+            },
+            {
+                "Level": 23,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 28,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 32,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 42,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 46,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 50,
+                "Move": "Triple Axel"
+            },
+            {
+                "Level": 54,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 58,
+                "Move": "Brave Bird"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 55,
+            "DEF": 45,
+            "SPA": 65,
+            "SPD": 45,
+            "SPE": 75
+        }
+    }
+]

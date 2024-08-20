@@ -1,0 +1,249 @@
+[
+    {
+        "Index": 416,
+        "Number": 417,
+        "Name": "Pachirisu",
+        "STATS": {
+            "HP": 65,
+            "ATK": 60,
+            "DEF": 80,
+            "SPA": 60,
+            "SPD": 90,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Volt Absorb",
+            "Pickup",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Seed Bomb",
+            "Gunk Shot",
+            "Uproar",
+            "ThunderPunch",
+            "Magnet Rise",
+            "Last Resort",
+            "Iron Tail",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Charge"
+            },
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 7,
+                "Move": "Spark"
+            },
+            {
+                "Level": 10,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 13,
+                "Move": "Covet"
+            },
+            {
+                "Level": 16,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 19,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 22,
+                "Move": "Swift"
+            },
+            {
+                "Level": 25,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 28,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 32,
+                "Move": "Follow Me"
+            },
+            {
+                "Level": 36,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 40,
+                "Move": "Charm"
+            },
+            {
+                "Level": 44,
+                "Move": "Hyper Fang"
+            },
+            {
+                "Level": 48,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 52,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 56,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 60,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 45,
+            "DEF": 70,
+            "SPA": 45,
+            "SPD": 90,
+            "SPE": 95
+        }
+    }
+]

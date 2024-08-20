@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 633,
+        "Number": 634,
+        "Name": "Zweilous",
+        "STATS": {
+            "HP": 72,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 65,
+            "SPD": 70,
+            "SPE": 58
+        },
+        "TYPE": [
+            "Dark",
+            "Dragon"
+        ],
+        "Ability": [
+            "Hustle"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Uproar",
+            "Earth Power",
+            "Superpower",
+            "Aqua Tail",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Spite",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 10,
+                "Move": "Roar"
+            },
+            {
+                "Level": 13,
+                "Move": "Screech"
+            },
+            {
+                "Level": 17,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 21,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 25,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 28,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 32,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 37,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 38,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 40,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 44,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 48,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 53,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 57,
+                "Move": "Head Smash"
+            },
+            {
+                "Level": 61,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 66,
+                "Move": "Outrage"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Hydreigon",
+                "Method": "Level 58"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Dragon"
+            ],
+            "4x Weak": [
+                "Fairy"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 72,
+            "ATK": 85,
+            "DEF": 70,
+            "SPA": 65,
+            "SPD": 70,
+            "SPE": 58
+        }
+    }
+]

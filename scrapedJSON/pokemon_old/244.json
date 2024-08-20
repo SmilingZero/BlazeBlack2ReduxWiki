@@ -1,0 +1,293 @@
+[
+    {
+        "Index": 243,
+        "Number": 244,
+        "Name": "Entei",
+        "STATS": {
+            "HP": 115,
+            "ATK": 115,
+            "DEF": 85,
+            "SPA": 90,
+            "SPD": 75,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Pressure",
+            "Flash Fire",
+            "Flash Fire"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 1,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 1,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Roar"
+            },
+            {
+                "Level": 6,
+                "Move": "Ember"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 14,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 18,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 22,
+                "Move": "Headlong Rush"
+            },
+            {
+                "Level": 26,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 30,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 34,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 38,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 42,
+                "Move": "Calm Mind"
+            },
+            {
+                "Level": 46,
+                "Move": "Eruption"
+            },
+            {
+                "Level": 50,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Custap Berry",
+            "5": "Custap Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 115,
+            "ATK": 115,
+            "DEF": 85,
+            "SPA": 90,
+            "SPD": 75,
+            "SPE": 100
+        }
+    }
+]

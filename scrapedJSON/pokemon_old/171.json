@@ -1,0 +1,288 @@
+[
+    {
+        "Index": 170,
+        "Number": 171,
+        "Name": "Lanturn",
+        "STATS": {
+            "HP": 125,
+            "ATK": 58,
+            "DEF": 58,
+            "SPA": 91,
+            "SPD": 86,
+            "SPE": 67
+        },
+        "TYPE": [
+            "Water",
+            "Electric"
+        ],
+        "Ability": [
+            "Volt Absorb",
+            "Water Absorb",
+            "Illuminate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Heal Bell",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 1,
+                "Move": "Mist"
+            },
+            {
+                "Level": 1,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 4,
+                "Move": "Spark"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 19,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 27,
+                "Move": "Charge"
+            },
+            {
+                "Level": 29,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 32,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 35,
+                "Move": "Soak"
+            },
+            {
+                "Level": 38,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 41,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 44,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 48,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 52,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 56,
+                "Move": "Agility"
+            },
+            {
+                "Level": 60,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 64,
+                "Move": "Tail Glow"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "DeepSeaScale"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Steel"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Flying"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Grass",
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 125,
+            "ATK": 58,
+            "DEF": 58,
+            "SPA": 76,
+            "SPD": 76,
+            "SPE": 67
+        }
+    }
+]

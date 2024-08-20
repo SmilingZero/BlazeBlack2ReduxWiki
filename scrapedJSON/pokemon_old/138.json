@@ -1,0 +1,241 @@
+[
+    {
+        "Index": 137,
+        "Number": 138,
+        "Name": "Omanyte",
+        "STATS": {
+            "HP": 35,
+            "ATK": 40,
+            "DEF": 100,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Rock",
+            "Water"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Shell Armor",
+            "Weak Armor"
+        ],
+        "Tutor Moves": [
+            "Earth Power",
+            "Iron Defense",
+            "Icy Wind",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Infestation"
+            },
+            {
+                "Level": 1,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 7,
+                "Move": "Bite"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 19,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Brine"
+            },
+            {
+                "Level": 28,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 33,
+                "Move": "Protect"
+            },
+            {
+                "Level": 38,
+                "Move": "Accelerock"
+            },
+            {
+                "Level": 43,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 46,
+                "Move": "Power Gem"
+            },
+            {
+                "Level": 52,
+                "Move": "Shell Smash"
+            },
+            {
+                "Level": 55,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 58,
+                "Move": "Earth Power"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Omastar",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Water",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 40,
+            "DEF": 100,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 35
+        }
+    }
+]

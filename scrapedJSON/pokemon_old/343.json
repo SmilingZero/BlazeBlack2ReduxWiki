@@ -1,0 +1,295 @@
+[
+    {
+        "Index": 342,
+        "Number": 343,
+        "Name": "Baltoy",
+        "STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 55,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Ground",
+            "Psychic"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Drill Run",
+            "Magic Coat",
+            "Earth Power",
+            "Gravity",
+            "Zen Headbutt",
+            "Snore",
+            "Trick",
+            "Wonder Room",
+            "Recycle",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 4,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 13,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 16,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 19,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 22,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 25,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 31,
+                "Move": "Self-Destruct"
+            },
+            {
+                "Level": 34,
+                "Move": "Power Trick"
+            },
+            {
+                "Level": 37,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 40,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 43,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 46,
+                "Move": "Trick Room"
+            },
+            {
+                "Level": 50,
+                "Move": "Explosion"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Claydol",
+                "Method": "Level 36"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Ground",
+                "Flying",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 55,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 55
+        }
+    }
+]

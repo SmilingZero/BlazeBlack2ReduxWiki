@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 40,
+        "Number": 41,
+        "Name": "Zubat",
+        "STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 35,
+            "SPA": 30,
+            "SPD": 40,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Poison",
+            "Flying"
+        ],
+        "Ability": [
+            "Inner Focus",
+            "Infiltrator",
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Uproar",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Screech"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 7,
+                "Move": "Bite"
+            },
+            {
+                "Level": 10,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 16,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 19,
+                "Move": "Swift"
+            },
+            {
+                "Level": 22,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 25,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 28,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 31,
+                "Move": "Haze"
+            },
+            {
+                "Level": 34,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 37,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 40,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 43,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 46,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 50,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 53,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 56,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 59,
+                "Move": "Brave Bird"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Golbat",
+                "Method": "Level 22"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting",
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Flying",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 35,
+            "SPA": 30,
+            "SPD": 40,
+            "SPE": 55
+        }
+    }
+]

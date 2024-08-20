@@ -1,0 +1,235 @@
+[
+    {
+        "Index": 20,
+        "Number": 21,
+        "Name": "Spearow",
+        "STATS": {
+            "HP": 50,
+            "ATK": 60,
+            "DEF": 40,
+            "SPA": 31,
+            "SPD": 31,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Flying"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Sniper",
+            "Sniper"
+        ],
+        "Tutor Moves": [
+            "Drill Run",
+            "Uproar",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 4,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 7,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 16,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 19,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 22,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 25,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 28,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 31,
+                "Move": "Agility"
+            },
+            {
+                "Level": 34,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 38,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 42,
+                "Move": "Detect"
+            },
+            {
+                "Level": 46,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 50,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 54,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Fearow",
+                "Method": "Level 21"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 60,
+            "DEF": 30,
+            "SPA": 31,
+            "SPD": 31,
+            "SPE": 70
+        }
+    }
+]

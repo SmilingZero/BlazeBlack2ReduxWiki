@@ -1,0 +1,298 @@
+[
+    {
+        "Index": 425,
+        "Number": 426,
+        "Name": "Drifblim",
+        "STATS": {
+            "HP": 150,
+            "ATK": 80,
+            "DEF": 44,
+            "SPA": 90,
+            "SPD": 54,
+            "SPE": 80
+        },
+        "TYPE": [
+            "Ghost",
+            "Flying"
+        ],
+        "Ability": [
+            "Flare Boost",
+            "Unburden",
+            "Aftermath"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Icy Wind",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Recycle",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 4,
+                "Move": "Minimize"
+            },
+            {
+                "Level": 7,
+                "Move": "Gust"
+            },
+            {
+                "Level": 10,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 13,
+                "Move": "Payback"
+            },
+            {
+                "Level": 16,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 19,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 22,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 22,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 22,
+                "Move": "Spit Up"
+            },
+            {
+                "Level": 25,
+                "Move": "Hex"
+            },
+            {
+                "Level": 29,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 33,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 41,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 45,
+                "Move": "Disable"
+            },
+            {
+                "Level": 49,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 53,
+                "Move": "Haze"
+            },
+            {
+                "Level": 57,
+                "Move": "Memento"
+            },
+            {
+                "Level": 61,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 65,
+                "Move": "Destiny Bond"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "1": "Air Balloon"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting",
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 150,
+            "ATK": 80,
+            "DEF": 44,
+            "SPA": 90,
+            "SPD": 54,
+            "SPE": 80
+        }
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "Index": 484,
+        "Number": 485,
+        "Name": "Heatran",
+        "STATS": {
+            "HP": 91,
+            "ATK": 90,
+            "DEF": 106,
+            "SPA": 130,
+            "SPD": 106,
+            "SPE": 77
+        },
+        "TYPE": [
+            "Fire",
+            "Steel"
+        ],
+        "Ability": [
+            "Flash Fire"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Head",
+            "Uproar",
+            "Earth Power",
+            "Iron Defense",
+            "Dark Pulse",
+            "Dragon Pulse",
+            "Snore",
+            "Heat Wave",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Eruption"
+            },
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 6,
+                "Move": "Leer"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 16,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 22,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 26,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 30,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 34,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 38,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 42,
+                "Move": "Heat Wave"
+            },
+            {
+                "Level": 46,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 50,
+                "Move": "Magma Storm"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Flying",
+                "Psychic",
+                "Dragon"
+            ],
+            "Neutral": [
+                "Fire",
+                "Electric",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Fighting"
+            ],
+            "4x Weak": [
+                "Ground"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 91,
+            "ATK": 90,
+            "DEF": 106,
+            "SPA": 130,
+            "SPD": 106,
+            "SPE": 77
+        }
+    }
+]

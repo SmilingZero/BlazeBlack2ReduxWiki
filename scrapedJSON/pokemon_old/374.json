@@ -1,0 +1,101 @@
+[
+    {
+        "Index": 373,
+        "Number": 374,
+        "Name": "Beldum",
+        "STATS": {
+            "HP": 40,
+            "ATK": 55,
+            "DEF": 80,
+            "SPA": 35,
+            "SPD": 60,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Steel",
+            "Psychic"
+        ],
+        "Ability": [
+            "Clear Body",
+            "Rock Head",
+            "Heavy Metal"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Iron Defense",
+            "Zen Headbutt"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 15,
+                "Move": "Take Down"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Metang",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {
+            "5": "Metal Coat"
+        },
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Psychic"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Bug"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ground",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 55,
+            "DEF": 80,
+            "SPA": 35,
+            "SPD": 60,
+            "SPE": 30
+        }
+    }
+]

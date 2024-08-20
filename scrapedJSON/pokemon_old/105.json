@@ -1,0 +1,331 @@
+[
+    {
+        "Index": 104,
+        "Number": 105,
+        "Name": "Marowak",
+        "STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 110,
+            "SPA": 50,
+            "SPD": 80,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Ground"
+        ],
+        "Ability": [
+            "Battle Armor",
+            "Lightningrod",
+            "Rock Head"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Low Kick",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Earth Power",
+            "Iron Defense",
+            "Icy Wind",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Endeavor",
+            "Outrage",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Sing"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Screech"
+            },
+            {
+                "Level": 4,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 7,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 10,
+                "Move": "Bone Club"
+            },
+            {
+                "Level": 12,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 15,
+                "Move": "Fling"
+            },
+            {
+                "Level": 17,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 19,
+                "Move": "Bonemerang"
+            },
+            {
+                "Level": 21,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 24,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 27,
+                "Move": "Bone Rush"
+            },
+            {
+                "Level": 31,
+                "Move": "Curse"
+            },
+            {
+                "Level": 34,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 37,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 41,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 45,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 49,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 53,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 57,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 61,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 65,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Thick Club"
+        },
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 110,
+            "SPA": 50,
+            "SPD": 80,
+            "SPE": 45
+        }
+    }
+]

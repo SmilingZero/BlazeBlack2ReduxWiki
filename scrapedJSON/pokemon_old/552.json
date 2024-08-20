@@ -1,0 +1,313 @@
+[
+    {
+        "Index": 551,
+        "Number": 552,
+        "Name": "Krokorok",
+        "STATS": {
+            "HP": 60,
+            "ATK": 82,
+            "DEF": 45,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 74
+        },
+        "TYPE": [
+            "Ground",
+            "Dark"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Moxie",
+            "Anger Point"
+        ],
+        "Tutor Moves": [
+            "Low Kick",
+            "Uproar",
+            "Earth Power",
+            "Foul Play",
+            "Aqua Tail",
+            "Dark Pulse",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Spite",
+            "Snatch",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 7,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 10,
+                "Move": "Bite"
+            },
+            {
+                "Level": 13,
+                "Move": "Torment"
+            },
+            {
+                "Level": 16,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 19,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 21,
+                "Move": "Spite"
+            },
+            {
+                "Level": 23,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 25,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 27,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 29,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 32,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 35,
+                "Move": "Torment"
+            },
+            {
+                "Level": 39,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 43,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 43,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 47,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 51,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 55,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 59,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 63,
+                "Move": "Sucker Punch"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Krookodile",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Ground",
+                "Flying",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 82,
+            "DEF": 45,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 74
+        }
+    }
+]

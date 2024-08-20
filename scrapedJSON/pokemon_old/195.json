@@ -1,0 +1,315 @@
+[
+    {
+        "Index": 194,
+        "Number": 195,
+        "Name": "Quagsire",
+        "STATS": {
+            "HP": 95,
+            "ATK": 95,
+            "DEF": 95,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Water",
+            "Ground"
+        ],
+        "Ability": [
+            "Unaware",
+            "Water Absorb",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Ice Punch",
+            "Earth Power",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 10,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 13,
+                "Move": "Haze"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 18,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 20,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 21,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 21,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 23,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 25,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 27,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 29,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 33,
+                "Move": "Counter"
+            },
+            {
+                "Level": 36,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 39,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 43,
+                "Move": "Curse"
+            },
+            {
+                "Level": 47,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 51,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 55,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 59,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 63,
+                "Move": "Recover"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Poison",
+                "Rock",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 95,
+            "ATK": 85,
+            "DEF": 85,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 35
+        }
+    }
+]

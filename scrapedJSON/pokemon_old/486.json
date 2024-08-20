@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 485,
+        "Number": 486,
+        "Name": "Regigigas",
+        "STATS": {
+            "HP": 110,
+            "ATK": 160,
+            "DEF": 110,
+            "SPA": 80,
+            "SPD": 110,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Slow Start",
+            "Defeatist"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Superpower",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Snore",
+            "Knock Off",
+            "Drain Punch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 1,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 1,
+                "Move": "Dizzy Punch"
+            },
+            {
+                "Level": 6,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 10,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 14,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 18,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 22,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 26,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 30,
+                "Move": "Headlong Rush"
+            },
+            {
+                "Level": 34,
+                "Move": "Block"
+            },
+            {
+                "Level": 38,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 42,
+                "Move": "Crush Grip"
+            },
+            {
+                "Level": 46,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 50,
+                "Move": "Giga Impact"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 160,
+            "DEF": 110,
+            "SPA": 80,
+            "SPD": 110,
+            "SPE": 100
+        }
+    }
+]

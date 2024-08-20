@@ -1,0 +1,328 @@
+[
+    {
+        "Index": 55,
+        "Number": 56,
+        "Name": "Mankey",
+        "STATS": {
+            "HP": 40,
+            "ATK": 80,
+            "DEF": 35,
+            "SPA": 35,
+            "SPD": 45,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Defiant",
+            "Anger Point",
+            "Vital Spirit"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Dual Chop",
+            "Seed Bomb",
+            "Low Kick",
+            "Gunk Shot",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Iron Tail",
+            "Role Play",
+            "Spite",
+            "Helping Hand",
+            "Endeavor",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 4,
+                "Move": "Covet"
+            },
+            {
+                "Level": 7,
+                "Move": "Low Kick"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 12,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 14,
+                "Move": "Payback"
+            },
+            {
+                "Level": 16,
+                "Move": "Karate Chop"
+            },
+            {
+                "Level": 18,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 20,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 23,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 26,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 29,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 32,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 35,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 38,
+                "Move": "Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 42,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 46,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 50,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 54,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 58,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Primeape",
+                "Method": "Level 28"
+            }
+        ],
+        "Items": {
+            "5": "Payapa Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 80,
+            "DEF": 35,
+            "SPA": 35,
+            "SPD": 45,
+            "SPE": 70
+        }
+    }
+]

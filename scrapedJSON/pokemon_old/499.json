@@ -1,0 +1,313 @@
+[
+    {
+        "Index": 498,
+        "Number": 499,
+        "Name": "Pignite",
+        "STATS": {
+            "HP": 90,
+            "ATK": 93,
+            "DEF": 55,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Fire",
+            "Ground"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Blaze",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Covet",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Superpower",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Smog"
+            },
+            {
+                "Level": 10,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 13,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 16,
+                "Move": "Curse"
+            },
+            {
+                "Level": 17,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 20,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 22,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 25,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 28,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 31,
+                "Move": "Heat Crash"
+            },
+            {
+                "Level": 34,
+                "Move": "Slack Off"
+            },
+            {
+                "Level": 37,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 40,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 43,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 46,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 49,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 52,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 55,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Emboar",
+                "Method": "Level 36"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Poison",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": [
+                "Water"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 93,
+            "DEF": 55,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 55
+        }
+    }
+]

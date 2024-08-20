@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 617,
+        "Number": 618,
+        "Name": "Stunfisk",
+        "STATS": {
+            "HP": 109,
+            "ATK": 66,
+            "DEF": 84,
+            "SPA": 90,
+            "SPD": 99,
+            "SPE": 32
+        },
+        "TYPE": [
+            "Ground",
+            "Electric"
+        ],
+        "Ability": [
+            "Static",
+            "Lightningrod",
+            "Sand Veil"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Uproar",
+            "Earth Power",
+            "Foul Play",
+            "Magnet Rise",
+            "Electroweb",
+            "Aqua Tail",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Spite"
+            },
+            {
+                "Level": 1,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 1,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 5,
+                "Move": "Endure"
+            },
+            {
+                "Level": 10,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 15,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 20,
+                "Move": "Charge"
+            },
+            {
+                "Level": 25,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 30,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 35,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 40,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 44,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 48,
+                "Move": "Thunderbolt"
+            },
+            {
+                "Level": 52,
+                "Move": "Curse"
+            },
+            {
+                "Level": 56,
+                "Move": "Flail"
+            },
+            {
+                "Level": 60,
+                "Move": "Earthquake"
+            },
+            {
+                "Level": 64,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 68,
+                "Move": "Fissure"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Soft Sand"
+        },
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Flying",
+                "Rock",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Fighting",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice",
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 109,
+            "ATK": 66,
+            "DEF": 84,
+            "SPA": 81,
+            "SPD": 99,
+            "SPE": 32
+        }
+    }
+]

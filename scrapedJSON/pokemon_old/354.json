@@ -1,0 +1,291 @@
+[
+    {
+        "Index": 353,
+        "Number": 354,
+        "Name": "Banette",
+        "STATS": {
+            "HP": 64,
+            "ATK": 125,
+            "DEF": 65,
+            "SPA": 93,
+            "SPD": 63,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Ghost",
+            "Normal"
+        ],
+        "Ability": [
+            "Frisk",
+            "Cursed Body",
+            "Cursed Body"
+        ],
+        "Tutor Moves": [
+            "Gunk Shot",
+            "Magic Coat",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Knock Off",
+            "Role Play",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Magic Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Screech"
+            },
+            {
+                "Level": 1,
+                "Move": "Spite"
+            },
+            {
+                "Level": 7,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Disable"
+            },
+            {
+                "Level": 13,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 16,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 19,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 25,
+                "Move": "Curse"
+            },
+            {
+                "Level": 28,
+                "Move": "Hex"
+            },
+            {
+                "Level": 31,
+                "Move": "Embargo"
+            },
+            {
+                "Level": 32,
+                "Move": "Shadow Claw"
+            },
+            {
+                "Level": 35,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 39,
+                "Move": "Snatch"
+            },
+            {
+                "Level": 43,
+                "Move": "Trick"
+            },
+            {
+                "Level": 47,
+                "Move": "Slash"
+            },
+            {
+                "Level": 51,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 55,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 59,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 63,
+                "Move": "Crush Claw"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Spell Tag"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 64,
+            "ATK": 115,
+            "DEF": 65,
+            "SPA": 83,
+            "SPD": 63,
+            "SPE": 65
+        }
+    }
+]

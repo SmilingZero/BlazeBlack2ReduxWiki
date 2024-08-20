@@ -1,0 +1,242 @@
+[
+    {
+        "Index": 292,
+        "Number": 293,
+        "Name": "Whismur",
+        "STATS": {
+            "HP": 64,
+            "ATK": 51,
+            "DEF": 23,
+            "SPA": 51,
+            "SPD": 23,
+            "SPE": 28
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Soundproof",
+            "Scrappy",
+            "Rattled"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Howl"
+            },
+            {
+                "Level": 7,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 10,
+                "Move": "Echoed Voice"
+            },
+            {
+                "Level": 13,
+                "Move": "Screech"
+            },
+            {
+                "Level": 16,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 19,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 25,
+                "Move": "Chatter"
+            },
+            {
+                "Level": 28,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 31,
+                "Move": "Endure"
+            },
+            {
+                "Level": 34,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 37,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 40,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 44,
+                "Move": "Fling"
+            },
+            {
+                "Level": 48,
+                "Move": "Synchronoise"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Loudred",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {
+            "5": "Chesto Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 64,
+            "ATK": 51,
+            "DEF": 23,
+            "SPA": 51,
+            "SPD": 23,
+            "SPE": 28
+        }
+    }
+]

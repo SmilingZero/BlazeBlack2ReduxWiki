@@ -1,0 +1,570 @@
+[
+    {
+        "Index": 478,
+        "Number": 479,
+        "Name": "Rotom",
+        "STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 77,
+            "SPA": 95,
+            "SPD": 77,
+            "SPE": 101
+        },
+        "TYPE": [
+            "Electric",
+            "Ghost"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Electroweb",
+            "Dark Pulse",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Trick"
+            },
+            {
+                "Level": 1,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 13,
+                "Move": "Double Team"
+            },
+            {
+                "Level": 16,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 19,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 22,
+                "Move": "Substitute"
+            },
+            {
+                "Level": 25,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 28,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 31,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 34,
+                "Move": "Hex"
+            },
+            {
+                "Level": 37,
+                "Move": "Charge"
+            },
+            {
+                "Level": 40,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 43,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 46,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 50,
+                "Move": "Shadow Ball"
+            },
+            {
+                "Level": 55,
+                "Move": "Thunderbolt"
+            },
+            {
+                "Level": 60,
+                "Move": "Stored Power"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [
+            691,
+            692,
+            693,
+            694,
+            695
+        ],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 77,
+            "SPA": 95,
+            "SPD": 77,
+            "SPE": 91
+        }
+    },
+    {
+        "Index": 691,
+        "Name": "Rotom - Heat",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "TYPE": [
+            "Electric",
+            "Fire"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Steel"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Flying",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Ground"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
+    },
+    {
+        "Index": 692,
+        "Name": "Rotom - Wash",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "TYPE": [
+            "Electric",
+            "Water"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Steel"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Flying"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Grass",
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
+    },
+    {
+        "Index": 693,
+        "Name": "Rotom - Frost",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "TYPE": [
+            "Electric",
+            "Ice"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Grass",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
+    },
+    {
+        "Index": 694,
+        "Name": "Rotom - Fan ",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "TYPE": [
+            "Electric",
+            "Flying"
+        ],
+        "Ability": [
+            "Motor Drive"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Flying",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
+    },
+    {
+        "Index": 695,
+        "Name": "Rotom - Mow",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "TYPE": [
+            "Electric",
+            "Grass"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 4,
+                "Move": "Thunder Shock"
+            }
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Electric"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Grass",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 107,
+            "SPA": 105,
+            "SPD": 107,
+            "SPE": 86
+        },
+        "Number": 479
+    }
+]

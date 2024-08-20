@@ -1,0 +1,103 @@
+[
+    {
+        "Index": 400,
+        "Number": 401,
+        "Name": "Kricketot",
+        "STATS": {
+            "HP": 37,
+            "ATK": 35,
+            "DEF": 41,
+            "SPA": 35,
+            "SPD": 41,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Shed Skin",
+            "Run Away",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Uproar",
+            "Snore",
+            "Endeavor"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 3,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 7,
+                "Move": "Uproar"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Kricketune",
+                "Method": "Level 10"
+            }
+        ],
+        "Items": {
+            "5": "Metronome"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 37,
+            "ATK": 25,
+            "DEF": 41,
+            "SPA": 25,
+            "SPD": 41,
+            "SPE": 25
+        }
+    }
+]

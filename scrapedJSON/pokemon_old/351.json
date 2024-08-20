@@ -1,0 +1,406 @@
+[
+    {
+        "Index": 350,
+        "Number": 351,
+        "Name": "Castform",
+        "STATS": {
+            "HP": 60,
+            "ATK": 70,
+            "DEF": 60,
+            "SPA": 100,
+            "SPD": 70,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Forecast"
+        ],
+        "Tutor Moves": [
+            "Last Resort",
+            "Icy Wind",
+            "Snore",
+            "Tailwind",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 1,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 1,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 1,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Disable"
+            },
+            {
+                "Level": 1,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 1,
+                "Move": "Guard Swap"
+            },
+            {
+                "Level": 1,
+                "Move": "Hex"
+            },
+            {
+                "Level": 1,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 1,
+                "Move": "Reflect Type"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 10,
+                "Move": "Ember"
+            },
+            {
+                "Level": 10,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 15,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 20,
+                "Move": "Rain Dance"
+            },
+            {
+                "Level": 20,
+                "Move": "Sunny Day"
+            },
+            {
+                "Level": 20,
+                "Move": "Hail"
+            },
+            {
+                "Level": 30,
+                "Move": "Weather Ball"
+            },
+            {
+                "Level": 45,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 45,
+                "Move": "Fire Blast"
+            },
+            {
+                "Level": 45,
+                "Move": "Blizzard"
+            },
+            {
+                "Level": 50,
+                "Move": "Hurricane"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [
+            696,
+            697,
+            698
+        ],
+        "Evolutions": [],
+        "Items": {
+            "50": "Mystic Water",
+            "5": "Mystic Water"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 70,
+            "DEF": 70,
+            "SPA": 70,
+            "SPD": 70,
+            "SPE": 70
+        }
+    },
+    {
+        "TYPE": [
+            "Fire"
+        ],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "Name": "Castform - Sunny",
+        "Index": 696,
+        "Number": 351
+    },
+    {
+        "TYPE": [
+            "Water"
+        ],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "Name": "Castform - Rainy",
+        "Index": 697,
+        "Number": 351
+    },
+    {
+        "TYPE": [
+            "Ice"
+        ],
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "Name": "Castform - Snowy",
+        "Index": 698,
+        "Number": 351
+    }
+]

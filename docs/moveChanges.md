@@ -1112,6 +1112,14 @@ Further Modifications
 
 ### Legends: Arceus Moves
 
+#### Esper Wing
+| &nbsp; | __Old__ | __New__ |
+|: --- :|: --- :|: --- :|
+| __Power__ | 75 | 70 |
+| __Accuracy__ | 90 | 100 |
+| __PP__ | 10 | 10 |
+| __Effect__ | High Critical Hit Ratio; +1 Speed | +1 Priority |
+
 #### Headlong Rush
 
 | &nbsp; | __Old__ | __New__ |
@@ -1147,6 +1155,8 @@ Further Modifications
 | __Accuracy__ | &nbsp; | 100 |
 | __PP__ | 10 | 5 [!] |
 | __Effect__ | &nbsp; | Damages user like Double Edge |
+
+
 
 [^1]: Not currently implemented/cannot be properly implemented due limitations with the Gen V engine/toolset. 
 [^2]: Accounting for the x2 damage of critical hits in Gen V, as opposed to the x1.5 damage of Gen VI+.

@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 229,
+        "Number": 230,
+        "Name": "Kingdra",
+        "STATS": {
+            "HP": 75,
+            "ATK": 95,
+            "DEF": 95,
+            "SPA": 95,
+            "SPD": 95,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Water",
+            "Dragon"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Sniper",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Signal Beam",
+            "Iron Head",
+            "Bounce",
+            "Icy Wind",
+            "Dragon Pulse",
+            "Snore",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 1,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 4,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 7,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 10,
+                "Move": "Flail"
+            },
+            {
+                "Level": 13,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 16,
+                "Move": "Twister"
+            },
+            {
+                "Level": 19,
+                "Move": "Brine"
+            },
+            {
+                "Level": 22,
+                "Move": "Disable"
+            },
+            {
+                "Level": 25,
+                "Move": "Dragon Rage"
+            },
+            {
+                "Level": 28,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 31,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 32,
+                "Move": "Octazooka"
+            },
+            {
+                "Level": 34,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 37,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 41,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 45,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 49,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 53,
+                "Move": "Agility"
+            },
+            {
+                "Level": 57,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 61,
+                "Move": "Dragon Dance"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Dragon Scale"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire",
+                "Water"
+            ],
+            "0.5x Resist": [
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 95,
+            "DEF": 95,
+            "SPA": 95,
+            "SPD": 95,
+            "SPE": 85
+        }
+    }
+]

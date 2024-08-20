@@ -1,0 +1,256 @@
+[
+    {
+        "Index": 84,
+        "Number": 85,
+        "Name": "Dodrio",
+        "STATS": {
+            "HP": 60,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Anger Point",
+            "Early Bird",
+            "Tangled Feet"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Snore",
+            "Knock Off",
+            "Sky Attack",
+            "Roost",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 13,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 16,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 19,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 25,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 28,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 31,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 31,
+                "Move": "Tri Attack"
+            },
+            {
+                "Level": 35,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 38,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 42,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 46,
+                "Move": "Haze"
+            },
+            {
+                "Level": 50,
+                "Move": "Flail"
+            },
+            {
+                "Level": 54,
+                "Move": "Agility"
+            },
+            {
+                "Level": 58,
+                "Move": "High Jump Kick"
+            },
+            {
+                "Level": 62,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 66,
+                "Move": "Brave Bird"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Sharp Beak"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 100
+        }
+    }
+]

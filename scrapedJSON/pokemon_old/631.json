@@ -1,0 +1,309 @@
+[
+    {
+        "Index": 630,
+        "Number": 631,
+        "Name": "Heatmor",
+        "STATS": {
+            "HP": 85,
+            "ATK": 97,
+            "DEF": 66,
+            "SPA": 105,
+            "SPD": 66,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Mold Breaker",
+            "Flash Fire",
+            "White Smoke"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Superpower",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Heat Wave",
+            "Giga Drain",
+            "Gastro Acid",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 5,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 11,
+                "Move": "Incinerate"
+            },
+            {
+                "Level": 14,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 17,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 20,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 20,
+                "Move": "Spit Up"
+            },
+            {
+                "Level": 20,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 25,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Curse"
+            },
+            {
+                "Level": 32,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 36,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 40,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 44,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 47,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 50,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 54,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 58,
+                "Move": "Fire Lash"
+            },
+            {
+                "Level": 62,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 66,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 70,
+                "Move": "Superpower"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "1": "Flame Orb"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 85,
+            "ATK": 97,
+            "DEF": 66,
+            "SPA": 105,
+            "SPD": 66,
+            "SPE": 65
+        }
+    }
+]

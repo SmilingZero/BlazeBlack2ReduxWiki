@@ -1,0 +1,300 @@
+[
+    {
+        "Index": 475,
+        "Number": 476,
+        "Name": "Probopass",
+        "STATS": {
+            "HP": 70,
+            "ATK": 50,
+            "DEF": 135,
+            "SPA": 90,
+            "SPD": 140,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Rock",
+            "Electric"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Clear Body",
+            "Magnet Pull"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Snore",
+            "Pain Split",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Block"
+            },
+            {
+                "Level": 4,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 7,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 10,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 13,
+                "Move": "Spark"
+            },
+            {
+                "Level": 16,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 19,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 22,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 25,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 31,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 34,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 38,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 42,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 46,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 50,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 54,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 58,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 62,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Hard Stone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Flying"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Electric",
+                "Poison"
+            ],
+            "Neutral": [
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting"
+            ],
+            "4x Weak": [
+                "Ground"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 55,
+            "DEF": 145,
+            "SPA": 75,
+            "SPD": 150,
+            "SPE": 40
+        }
+    }
+]

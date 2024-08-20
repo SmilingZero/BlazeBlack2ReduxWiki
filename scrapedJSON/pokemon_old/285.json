@@ -1,0 +1,249 @@
+[
+    {
+        "Index": 284,
+        "Number": 285,
+        "Name": "Shroomish",
+        "STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Effect Spore",
+            "Poison Heal",
+            "Quick Feet"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Drain Punch",
+            "Worry Seed",
+            "Helping Hand",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 4,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 8,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 10,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 12,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 14,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 19,
+                "Move": "Counter"
+            },
+            {
+                "Level": 22,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 25,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 25,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 25,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 28,
+                "Move": "Counter"
+            },
+            {
+                "Level": 31,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 34,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 38,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 42,
+                "Move": "Giga Drain"
+            },
+            {
+                "Level": 46,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 50,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 54,
+                "Move": "Spore"
+            },
+            {
+                "Level": 58,
+                "Move": "Leaf Storm"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Breloom",
+                "Method": "Level 21"
+            }
+        ],
+        "Items": {
+            "5": "Kebia Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 35
+        }
+    }
+]

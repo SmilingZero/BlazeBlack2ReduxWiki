@@ -1,0 +1,368 @@
+[
+    {
+        "Index": 358,
+        "Number": 359,
+        "Name": "Absol",
+        "STATS": {
+            "HP": 65,
+            "ATK": 130,
+            "DEF": 60,
+            "SPA": 85,
+            "SPD": 60,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Justified",
+            "Super Luck",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Magic Coat",
+            "Foul Play",
+            "Superpower",
+            "Icy Wind",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Spite",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Feint"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 13,
+                "Move": "Taunt"
+            },
+            {
+                "Level": 16,
+                "Move": "Bite"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Team"
+            },
+            {
+                "Level": 22,
+                "Move": "Slash"
+            },
+            {
+                "Level": 22,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Swords Dance"
+            },
+            {
+                "Level": 28,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 31,
+                "Move": "Detect"
+            },
+            {
+                "Level": 34,
+                "Move": "Me First"
+            },
+            {
+                "Level": 37,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 40,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 44,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 48,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 52,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 56,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 60,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 130,
+            "DEF": 60,
+            "SPA": 75,
+            "SPD": 60,
+            "SPE": 75
+        }
+    }
+]

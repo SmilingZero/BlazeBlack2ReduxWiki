@@ -1,0 +1,297 @@
+[
+    {
+        "Index": 491,
+        "Number": 492,
+        "Name": "Shaymin - Land",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Natural Cure"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Earth Power",
+            "Last Resort",
+            "Zen Headbutt",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 6,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 10,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 14,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 18,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 22,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 26,
+                "Move": "Recover"
+            },
+            {
+                "Level": 30,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 34,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 38,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 42,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 46,
+                "Move": "Leaf Storm"
+            },
+            {
+                "Level": 50,
+                "Move": "Seed Flare"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [
+            689
+        ],
+        "Evolutions": [],
+        "Items": {
+            "50": "Starf Berry",
+            "5": "Starf Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        }
+    },
+    {
+        "Index": 689,
+        "Name": "Shaymin - Sky",
+        "STATS": {
+            "HP": 100,
+            "ATK": 103,
+            "DEF": 75,
+            "SPA": 120,
+            "SPD": 75,
+            "SPE": 127
+        },
+        "TYPE": [
+            "Grass",
+            "Flying"
+        ],
+        "Ability": [
+            "Serene Grace"
+        ],
+        "Tutor Moves": [
+            "Tailwind"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 14,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 38,
+                "Move": "Air Slash"
+            }
+        ],
+        "Other Form Index": [],
+        "Items": {
+            "50": "Lum Berry",
+            "5": "Lum Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Poison",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Ice"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 103,
+            "DEF": 75,
+            "SPA": 120,
+            "SPD": 75,
+            "SPE": 127
+        },
+        "Number": 492
+    }
+]

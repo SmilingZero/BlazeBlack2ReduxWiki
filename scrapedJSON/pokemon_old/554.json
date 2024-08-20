@@ -1,0 +1,272 @@
+[
+    {
+        "Index": 553,
+        "Number": 554,
+        "Name": "Darumaka",
+        "STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 45,
+            "SPA": 15,
+            "SPD": 45,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Sheer Force",
+            "Inner Focus"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Fire Punch",
+            "Superpower",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 6,
+                "Move": "Incinerate"
+            },
+            {
+                "Level": 9,
+                "Move": "Rage"
+            },
+            {
+                "Level": 11,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 14,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 17,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 19,
+                "Move": "Facade"
+            },
+            {
+                "Level": 22,
+                "Move": "Fire Punch"
+            },
+            {
+                "Level": 24,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 26,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 28,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 30,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 33,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 35,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 39,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 42,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 45,
+                "Move": "Focus Punch"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Darmanitan",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {
+            "50": "Rawst Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 45,
+            "SPA": 15,
+            "SPD": 45,
+            "SPE": 50
+        }
+    }
+]

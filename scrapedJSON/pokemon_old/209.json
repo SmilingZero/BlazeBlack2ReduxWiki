@@ -1,0 +1,325 @@
+[
+    {
+        "Index": 208,
+        "Number": 209,
+        "Name": "Snubbull",
+        "STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Fighting",
+            "Fairy"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Quick Feet",
+            "Rattled"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Last Resort",
+            "Superpower",
+            "Hyper Voice",
+            "Snore",
+            "Heal Bell",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 4,
+                "Move": "Detect"
+            },
+            {
+                "Level": 7,
+                "Move": "Bite"
+            },
+            {
+                "Level": 10,
+                "Move": "Lick"
+            },
+            {
+                "Level": 13,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Payback"
+            },
+            {
+                "Level": 16,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 22,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 25,
+                "Move": "Covet"
+            },
+            {
+                "Level": 28,
+                "Move": "Roar"
+            },
+            {
+                "Level": 31,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 34,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 37,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 40,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 43,
+                "Move": "Dynamic Punch"
+            },
+            {
+                "Level": 45,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 48,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 51,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 54,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Granbull",
+                "Method": "Level 23"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Bug",
+                "Dark"
+            ],
+            "0.5x Resist": [
+                "Fighting",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Ghost"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Steel",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 30
+        }
+    }
+]

@@ -1,0 +1,260 @@
+[
+    {
+        "Index": 108,
+        "Number": 109,
+        "Name": "Koffing",
+        "STATS": {
+            "HP": 40,
+            "ATK": 65,
+            "DEF": 95,
+            "SPA": 60,
+            "SPD": 45,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Dark Pulse",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Smog"
+            },
+            {
+                "Level": 4,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 7,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 9,
+                "Move": "Screech"
+            },
+            {
+                "Level": 12,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 15,
+                "Move": "Haze"
+            },
+            {
+                "Level": 17,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 19,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 22,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 25,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 28,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 31,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 34,
+                "Move": "Gyro Ball"
+            },
+            {
+                "Level": 37,
+                "Move": "Spite"
+            },
+            {
+                "Level": 40,
+                "Move": "Sludge Bomb"
+            },
+            {
+                "Level": 44,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 48,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 52,
+                "Move": "Memento"
+            },
+            {
+                "Level": 56,
+                "Move": "Grudge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Weezing",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {
+            "5": "Smoke Ball"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 65,
+            "DEF": 95,
+            "SPA": 60,
+            "SPD": 45,
+            "SPE": 35
+        }
+    }
+]

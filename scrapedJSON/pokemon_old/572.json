@@ -1,0 +1,265 @@
+[
+    {
+        "Index": 571,
+        "Number": 572,
+        "Name": "Minccino",
+        "STATS": {
+            "HP": 55,
+            "ATK": 50,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Skill Link",
+            "Technician",
+            "Cute Charm"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Gunk Shot",
+            "Uproar",
+            "Last Resort",
+            "Aqua Tail",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "After You",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 4,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 7,
+                "Move": "After You"
+            },
+            {
+                "Level": 10,
+                "Move": "Swift"
+            },
+            {
+                "Level": 13,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 19,
+                "Move": "Covet"
+            },
+            {
+                "Level": 22,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 25,
+                "Move": "Double Slap"
+            },
+            {
+                "Level": 28,
+                "Move": "Sing"
+            },
+            {
+                "Level": 31,
+                "Move": "Flail"
+            },
+            {
+                "Level": 34,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 37,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 40,
+                "Move": "Tail Slap"
+            },
+            {
+                "Level": 44,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 48,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 52,
+                "Move": "Triple Axel"
+            },
+            {
+                "Level": 56,
+                "Move": "Encore"
+            },
+            {
+                "Level": 60,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cinccino",
+                "Method": "Use Shiny Stone"
+            }
+        ],
+        "Items": {
+            "50": "Chesto Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 50,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 75
+        }
+    }
+]

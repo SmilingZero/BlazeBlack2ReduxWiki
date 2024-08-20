@@ -1,0 +1,301 @@
+[
+    {
+        "Index": 438,
+        "Number": 439,
+        "Name": "Mime Jr.",
+        "STATS": {
+            "HP": 20,
+            "ATK": 15,
+            "DEF": 45,
+            "SPA": 80,
+            "SPD": 90,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Psychic",
+            "Fairy"
+        ],
+        "Ability": [
+            "Technician",
+            "Filter",
+            "Soundproof"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Icy Wind",
+            "Snore",
+            "Role Play",
+            "Drain Punch",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Barrier"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 4,
+                "Move": "Meditate"
+            },
+            {
+                "Level": 7,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 13,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 16,
+                "Move": "Trick"
+            },
+            {
+                "Level": 19,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 25,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 28,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 31,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 34,
+                "Move": "Dazzling Gleam"
+            },
+            {
+                "Level": 38,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 42,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 46,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 46,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 50,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 54,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 58,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Mr. Mime",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Ghost",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 20,
+            "ATK": 25,
+            "DEF": 45,
+            "SPA": 70,
+            "SPD": 90,
+            "SPE": 60
+        }
+    }
+]

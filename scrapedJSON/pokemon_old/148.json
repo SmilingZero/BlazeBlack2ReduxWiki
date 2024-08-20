@@ -1,0 +1,273 @@
+[
+    {
+        "Index": 147,
+        "Number": 148,
+        "Name": "Dragonair",
+        "STATS": {
+            "HP": 61,
+            "ATK": 84,
+            "DEF": 65,
+            "SPA": 70,
+            "SPD": 70,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Dragon"
+        ],
+        "Ability": [
+            "Shed Skin",
+            "Marvel Scale",
+            "Marvel Scale"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Icy Wind",
+            "Aqua Tail",
+            "Dragon Pulse",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 1,
+                "Move": "Mist"
+            },
+            {
+                "Level": 4,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 7,
+                "Move": "Twister"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Dragon Tail"
+            },
+            {
+                "Level": 19,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 22,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 25,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 28,
+                "Move": "Agility"
+            },
+            {
+                "Level": 30,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 33,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 37,
+                "Move": "Coil"
+            },
+            {
+                "Level": 40,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 43,
+                "Move": "Haze"
+            },
+            {
+                "Level": 46,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 49,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 53,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 57,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 61,
+                "Move": "Outrage"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Dragonite",
+                "Method": "Level 55"
+            }
+        ],
+        "Items": {
+            "5": "Dragon Scale"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 61,
+            "ATK": 84,
+            "DEF": 65,
+            "SPA": 70,
+            "SPD": 70,
+            "SPE": 70
+        }
+    }
+]

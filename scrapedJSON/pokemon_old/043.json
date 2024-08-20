@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 42,
+        "Number": 43,
+        "Name": "Oddish",
+        "STATS": {
+            "HP": 45,
+            "ATK": 50,
+            "DEF": 55,
+            "SPA": 75,
+            "SPD": 65,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Grass",
+            "Poison"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Chlorophyll",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Acid"
+            },
+            {
+                "Level": 4,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 7,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 10,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 13,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 16,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 22,
+                "Move": "Charm"
+            },
+            {
+                "Level": 25,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 28,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 32,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 36,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 40,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 44,
+                "Move": "Teeter Dance"
+            },
+            {
+                "Level": 48,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 52,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 56,
+                "Move": "Petal Dance"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gloom",
+                "Method": "Level 21"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 50,
+            "DEF": 55,
+            "SPA": 75,
+            "SPD": 65,
+            "SPE": 30
+        }
+    }
+]

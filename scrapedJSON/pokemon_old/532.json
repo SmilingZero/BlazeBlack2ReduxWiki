@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 531,
+        "Number": 532,
+        "Name": "Timburr",
+        "STATS": {
+            "HP": 75,
+            "ATK": 80,
+            "DEF": 55,
+            "SPA": 25,
+            "SPD": 35,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Iron Fist",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Superpower",
+            "Snore",
+            "Knock Off",
+            "Drain Punch",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 4,
+                "Move": "Bide"
+            },
+            {
+                "Level": 7,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 10,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 13,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 16,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 19,
+                "Move": "Force Palm"
+            },
+            {
+                "Level": 22,
+                "Move": "Counter"
+            },
+            {
+                "Level": 25,
+                "Move": "Payback"
+            },
+            {
+                "Level": 28,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 31,
+                "Move": "Fling"
+            },
+            {
+                "Level": 34,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 37,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 40,
+                "Move": "Dynamic Punch"
+            },
+            {
+                "Level": 44,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 48,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 52,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 56,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 60,
+                "Move": "Mach Punch"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gurdurr",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 80,
+            "DEF": 55,
+            "SPA": 25,
+            "SPD": 35,
+            "SPE": 35
+        }
+    }
+]

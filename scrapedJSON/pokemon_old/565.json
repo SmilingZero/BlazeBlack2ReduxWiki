@@ -1,0 +1,292 @@
+[
+    {
+        "Index": 564,
+        "Number": 565,
+        "Name": "Carracosta",
+        "STATS": {
+            "HP": 74,
+            "ATK": 108,
+            "DEF": 133,
+            "SPA": 83,
+            "SPD": 65,
+            "SPE": 32
+        },
+        "TYPE": [
+            "Water",
+            "Rock"
+        ],
+        "Ability": [
+            "Solid Rock",
+            "Sturdy",
+            "Swift Swim"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Low Kick",
+            "Block",
+            "Earth Power",
+            "Iron Defense",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 1,
+                "Move": "Accelerock"
+            },
+            {
+                "Level": 1,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 1,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 9,
+                "Move": "Smack Down"
+            },
+            {
+                "Level": 12,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 15,
+                "Move": "Bite"
+            },
+            {
+                "Level": 18,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 21,
+                "Move": "Razor Shell"
+            },
+            {
+                "Level": 24,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 27,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 30,
+                "Move": "Curse"
+            },
+            {
+                "Level": 33,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 36,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 37,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 41,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 45,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 49,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 53,
+                "Move": "Shell Smash"
+            },
+            {
+                "Level": 58,
+                "Move": "Wave Crash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Water",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": [
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 74,
+            "ATK": 108,
+            "DEF": 133,
+            "SPA": 83,
+            "SPD": 65,
+            "SPE": 32
+        }
+    }
+]

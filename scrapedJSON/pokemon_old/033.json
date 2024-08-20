@@ -1,0 +1,264 @@
+[
+    {
+        "Index": 32,
+        "Number": 33,
+        "Name": "Nidorino",
+        "STATS": {
+            "HP": 61,
+            "ATK": 72,
+            "DEF": 57,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Hustle",
+            "Poison Point",
+            "Rivalry"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Drill Run",
+            "Iron Tail",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 4,
+                "Move": "Peck"
+            },
+            {
+                "Level": 7,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 10,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 16,
+                "Move": "Horn Attack"
+            },
+            {
+                "Level": 20,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 23,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 26,
+                "Move": "Poison Jab"
+            },
+            {
+                "Level": 29,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 32,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 40,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 44,
+                "Move": "Poison Tail"
+            },
+            {
+                "Level": 48,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 52,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 56,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 60,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Nidoking",
+                "Method": "Use Moon Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 61,
+            "ATK": 72,
+            "DEF": 57,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 65
+        }
+    }
+]

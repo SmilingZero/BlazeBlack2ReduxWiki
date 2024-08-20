@@ -1,0 +1,240 @@
+[
+    {
+        "Index": 99,
+        "Number": 100,
+        "Name": "Voltorb",
+        "STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Soundproof",
+            "Static",
+            "Aftermath"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Foul Play",
+            "Magnet Rise",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Charge"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Spark"
+            },
+            {
+                "Level": 4,
+                "Move": "Agility"
+            },
+            {
+                "Level": 7,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 10,
+                "Move": "Screech"
+            },
+            {
+                "Level": 13,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 16,
+                "Move": "Sonic Boom"
+            },
+            {
+                "Level": 19,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 25,
+                "Move": "Swift"
+            },
+            {
+                "Level": 28,
+                "Move": "Volt Switch"
+            },
+            {
+                "Level": 31,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 35,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 39,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 43,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 47,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 51,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 55,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 59,
+                "Move": "Explosion"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Electrode",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 100
+        }
+    }
+]

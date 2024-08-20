@@ -1,0 +1,326 @@
+[
+    {
+        "Index": 459,
+        "Number": 460,
+        "Name": "Abomasnow",
+        "STATS": {
+            "HP": 90,
+            "ATK": 92,
+            "DEF": 75,
+            "SPA": 92,
+            "SPD": 85,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Grass",
+            "Ice"
+        ],
+        "Ability": [
+            "Snow Warning",
+            "Soundproof",
+            "Soundproof"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Ice Punch",
+            "Block",
+            "Earth Power",
+            "Icy Wind",
+            "Iron Tail",
+            "Snore",
+            "Synthesis",
+            "Role Play",
+            "Giga Drain",
+            "Worry Seed",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 1,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 1,
+                "Move": "Mist"
+            },
+            {
+                "Level": 1,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 4,
+                "Move": "Growth"
+            },
+            {
+                "Level": 8,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 12,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 16,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 20,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 24,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 28,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 32,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 35,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 38,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 40,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 43,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 47,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 51,
+                "Move": "Wood Hammer"
+            },
+            {
+                "Level": 55,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 59,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 63,
+                "Move": "Blizzard"
+            },
+            {
+                "Level": 67,
+                "Move": "Sheer Cold"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "NeverMeltIce"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Ice",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Fire"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 92,
+            "DEF": 75,
+            "SPA": 92,
+            "SPD": 85,
+            "SPE": 60
+        }
+    }
+]

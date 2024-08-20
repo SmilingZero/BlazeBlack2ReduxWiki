@@ -1,0 +1,251 @@
+[
+    {
+        "Index": 549,
+        "Number": 550,
+        "Name": "Basculin - Red",
+        "STATS": {
+            "HP": 90,
+            "ATK": 102,
+            "DEF": 65,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 98
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Reckless",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Uproar",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 8,
+                "Move": "Flail"
+            },
+            {
+                "Level": 12,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 16,
+                "Move": "Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 24,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 28,
+                "Move": "Soak"
+            },
+            {
+                "Level": 32,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 35,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 41,
+                "Move": "Final Gambit"
+            },
+            {
+                "Level": 44,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 47,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 50,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 53,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 56,
+                "Move": "Wave Crash"
+            },
+            {
+                "Level": 60,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [
+            699
+        ],
+        "Evolutions": [],
+        "Items": {
+            "5": "DeepSeaTooth"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 92,
+            "DEF": 65,
+            "SPA": 80,
+            "SPD": 55,
+            "SPE": 98
+        }
+    },
+    {
+        "Index": 699,
+        "Name": "Basculin - Blue",
+        "Ability": [
+            "Rock Head",
+            "Adaptability",
+            "Mold Breaker"
+        ],
+        "Other Form Index": [],
+        "Items": {
+            "5": "DeepSeaScale"
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Number": 550
+    }
+]

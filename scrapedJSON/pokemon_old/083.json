@@ -1,0 +1,286 @@
+[
+    {
+        "Index": 82,
+        "Number": 83,
+        "Name": "Farfetch\u2019d",
+        "STATS": {
+            "HP": 55,
+            "ATK": 110,
+            "DEF": 65,
+            "SPA": 75,
+            "SPD": 65,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Fighting",
+            "Flying"
+        ],
+        "Ability": [
+            "Defeatist",
+            "Defeatist",
+            "Defeatist"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Uproar",
+            "Last Resort",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Feint"
+            },
+            {
+                "Level": 7,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 13,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 19,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 22,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 25,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 28,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 31,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 34,
+                "Move": "Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 40,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 44,
+                "Move": "Agility"
+            },
+            {
+                "Level": 48,
+                "Move": "Leaf Blade"
+            },
+            {
+                "Level": 52,
+                "Move": "Sky Attack"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 64,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 68,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Stick"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 52,
+            "ATK": 65,
+            "DEF": 55,
+            "SPA": 58,
+            "SPD": 62,
+            "SPE": 60
+        }
+    }
+]

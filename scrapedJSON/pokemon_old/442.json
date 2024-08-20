@@ -1,0 +1,266 @@
+[
+    {
+        "Index": 441,
+        "Number": 442,
+        "Name": "Spiritomb",
+        "STATS": {
+            "HP": 50,
+            "ATK": 92,
+            "DEF": 108,
+            "SPA": 92,
+            "SPD": 108,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Ghost",
+            "Dark"
+        ],
+        "Ability": [
+            "Pressure",
+            "Infiltrator",
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 1,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 1,
+                "Move": "Spite"
+            },
+            {
+                "Level": 1,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 7,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 13,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 16,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 19,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 22,
+                "Move": "Disable"
+            },
+            {
+                "Level": 25,
+                "Move": "Curse"
+            },
+            {
+                "Level": 28,
+                "Move": "Hex"
+            },
+            {
+                "Level": 31,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 34,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 37,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 40,
+                "Move": "Memento"
+            },
+            {
+                "Level": 43,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 46,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 50,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 54,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 58,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 62,
+                "Move": "Foul Play"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 92,
+            "DEF": 108,
+            "SPA": 92,
+            "SPD": 108,
+            "SPE": 35
+        }
+    }
+]

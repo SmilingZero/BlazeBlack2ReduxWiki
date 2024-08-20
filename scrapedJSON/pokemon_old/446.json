@@ -1,0 +1,295 @@
+[
+    {
+        "Index": 445,
+        "Number": 446,
+        "Name": "Munchlax",
+        "STATS": {
+            "HP": 135,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 85,
+            "SPE": 5
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Pickup",
+            "Thick Fat",
+            "Gluttony"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Gunk Shot",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Last Resort",
+            "Superpower",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "After You",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 7,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 10,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 14,
+                "Move": "Curse"
+            },
+            {
+                "Level": 18,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 22,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 26,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 30,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 33,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 36,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 39,
+                "Move": "Block"
+            },
+            {
+                "Level": 42,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 46,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 50,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 54,
+                "Move": "Heavy Slam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Snorlax",
+                "Method": "Happiness"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 135,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 85,
+            "SPE": 5
+        }
+    }
+]

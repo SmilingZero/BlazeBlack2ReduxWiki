@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 576,
+        "Number": 577,
+        "Name": "Solosis",
+        "STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 40,
+            "SPA": 105,
+            "SPD": 50,
+            "SPE": 20
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Regenerator",
+            "Magic Guard",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Gravity",
+            "Zen Headbutt",
+            "Snore",
+            "Role Play",
+            "Pain Split",
+            "After You",
+            "Trick",
+            "Wonder Room",
+            "Endeavor",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 4,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 7,
+                "Move": "Snatch"
+            },
+            {
+                "Level": 10,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 13,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 16,
+                "Move": "Charm"
+            },
+            {
+                "Level": 19,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 22,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 25,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 28,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 31,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 34,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 37,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 41,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 45,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 49,
+                "Move": "Skill Swap"
+            },
+            {
+                "Level": 53,
+                "Move": "Recover"
+            },
+            {
+                "Level": 57,
+                "Move": "Stored Power"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Duosion",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 40,
+            "SPA": 105,
+            "SPD": 50,
+            "SPE": 20
+        }
+    }
+]

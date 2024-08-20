@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 508,
+        "Number": 509,
+        "Name": "Purrloin",
+        "STATS": {
+            "HP": 41,
+            "ATK": 50,
+            "DEF": 37,
+            "SPA": 50,
+            "SPD": 37,
+            "SPE": 66
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Prankster",
+            "Unburden",
+            "Prankster"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Gunk Shot",
+            "Foul Play",
+            "Dark Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Spite",
+            "Trick",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 6,
+                "Move": "Pay Day"
+            },
+            {
+                "Level": 8,
+                "Move": "Assist"
+            },
+            {
+                "Level": 10,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 12,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 14,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 16,
+                "Move": "Torment"
+            },
+            {
+                "Level": 18,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 20,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 22,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 24,
+                "Move": "Trick"
+            },
+            {
+                "Level": 26,
+                "Move": "Quash"
+            },
+            {
+                "Level": 28,
+                "Move": "Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 31,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 34,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 37,
+                "Move": "Spite"
+            },
+            {
+                "Level": 41,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 45,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 49,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 53,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 57,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Liepard",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 41,
+            "ATK": 50,
+            "DEF": 37,
+            "SPA": 50,
+            "SPD": 37,
+            "SPE": 66
+        }
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "Index": 440,
+        "Number": 441,
+        "Name": "Chatot",
+        "STATS": {
+            "HP": 75,
+            "ATK": 65,
+            "DEF": 50,
+            "SPA": 105,
+            "SPD": 50,
+            "SPE": 96
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Soundproof",
+            "Tangled Feet",
+            "Big Pecks"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Hyper Voice",
+            "Snore",
+            "Heat Wave",
+            "Role Play",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Twister"
+            },
+            {
+                "Level": 4,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 10,
+                "Move": "Sing"
+            },
+            {
+                "Level": 13,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 16,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 19,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 22,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 25,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 28,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 32,
+                "Move": "Agility"
+            },
+            {
+                "Level": 36,
+                "Move": "Chatter"
+            },
+            {
+                "Level": 40,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 44,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 48,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 52,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 56,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 60,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 64,
+                "Move": "Sky Attack"
+            },
+            {
+                "Level": 68,
+                "Move": "Boomburst"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Metronome"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 76,
+            "ATK": 65,
+            "DEF": 45,
+            "SPA": 92,
+            "SPD": 42,
+            "SPE": 91
+        }
+    }
+]

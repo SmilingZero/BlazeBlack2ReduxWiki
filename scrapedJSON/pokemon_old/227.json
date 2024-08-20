@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 226,
+        "Number": 227,
+        "Name": "Skarmory",
+        "STATS": {
+            "HP": 65,
+            "ATK": 80,
+            "DEF": 140,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Steel",
+            "Flying"
+        ],
+        "Ability": [
+            "Keen Eye",
+            "Sturdy",
+            "Weak Armor"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Iron Defense",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Counter"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Curse"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 13,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 16,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 19,
+                "Move": "Autotomize"
+            },
+            {
+                "Level": 22,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 25,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 28,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 31,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 34,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 37,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 40,
+                "Move": "Slash"
+            },
+            {
+                "Level": 40,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 44,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 48,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 52,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 56,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 60,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 64,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 68,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison",
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Ice",
+                "Fighting",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 80,
+            "DEF": 140,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 70
+        }
+    }
+]

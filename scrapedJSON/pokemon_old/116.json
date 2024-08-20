@@ -1,0 +1,231 @@
+[
+    {
+        "Index": 115,
+        "Number": 116,
+        "Name": "Horsea",
+        "STATS": {
+            "HP": 30,
+            "ATK": 40,
+            "DEF": 70,
+            "SPA": 70,
+            "SPD": 25,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Sniper",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Icy Wind",
+            "Dragon Pulse",
+            "Snore",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 4,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 7,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 10,
+                "Move": "Flail"
+            },
+            {
+                "Level": 13,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 16,
+                "Move": "Twister"
+            },
+            {
+                "Level": 19,
+                "Move": "Brine"
+            },
+            {
+                "Level": 22,
+                "Move": "Disable"
+            },
+            {
+                "Level": 25,
+                "Move": "Dragon Rage"
+            },
+            {
+                "Level": 28,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 31,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 34,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 37,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 40,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 43,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 46,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 49,
+                "Move": "Agility"
+            },
+            {
+                "Level": 52,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Seadra",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {
+            "5": "Dragon Scale"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 40,
+            "DEF": 70,
+            "SPA": 70,
+            "SPD": 25,
+            "SPE": 60
+        }
+    }
+]

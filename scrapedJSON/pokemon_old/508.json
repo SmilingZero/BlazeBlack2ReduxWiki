@@ -1,0 +1,290 @@
+[
+    {
+        "Index": 507,
+        "Number": 508,
+        "Name": "Stoutland",
+        "STATS": {
+            "HP": 95,
+            "ATK": 110,
+            "DEF": 90,
+            "SPA": 45,
+            "SPD": 90,
+            "SPE": 80
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Sand Rush",
+            "Scrappy"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Iron Head",
+            "Uproar",
+            "Last Resort",
+            "Superpower",
+            "Hyper Voice",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Lick"
+            },
+            {
+                "Level": 6,
+                "Move": "Bite"
+            },
+            {
+                "Level": 8,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 10,
+                "Move": "Howl"
+            },
+            {
+                "Level": 12,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 14,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 20,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 23,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 26,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 31,
+                "Move": "Charm"
+            },
+            {
+                "Level": 32,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 32,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 32,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 36,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 40,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 44,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 48,
+                "Move": "After You"
+            },
+            {
+                "Level": 52,
+                "Move": "Giga Impact"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 64,
+                "Move": "Headlong Rush"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 85,
+            "ATK": 100,
+            "DEF": 90,
+            "SPA": 45,
+            "SPD": 90,
+            "SPE": 80
+        }
+    }
+]

@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 308,
+        "Number": 309,
+        "Name": "Electrike",
+        "STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 40,
+            "SPA": 65,
+            "SPD": 40,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Static",
+            "Lightningrod"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magnet Rise",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Howl"
+            },
+            {
+                "Level": 7,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 12,
+                "Move": "Spark"
+            },
+            {
+                "Level": 14,
+                "Move": "Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 18,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 20,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 22,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 25,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 28,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 32,
+                "Move": "Roar"
+            },
+            {
+                "Level": 36,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 40,
+                "Move": "Wild Charge"
+            },
+            {
+                "Level": 44,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 48,
+                "Move": "Charge"
+            },
+            {
+                "Level": 52,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 56,
+                "Move": "Discharge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Manectric",
+                "Method": "Level 26"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 40,
+            "SPA": 65,
+            "SPD": 40,
+            "SPE": 65
+        }
+    }
+]

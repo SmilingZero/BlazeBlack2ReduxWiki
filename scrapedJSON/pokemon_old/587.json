@@ -1,0 +1,272 @@
+[
+    {
+        "Index": 586,
+        "Number": 587,
+        "Name": "Emolga",
+        "STATS": {
+            "HP": 60,
+            "ATK": 75,
+            "DEF": 60,
+            "SPA": 90,
+            "SPD": 60,
+            "SPE": 105
+        },
+        "TYPE": [
+            "Electric",
+            "Flying"
+        ],
+        "Ability": [
+            "Static",
+            "Motor Drive",
+            "Motor Drive"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Last Resort",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Roost",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Charge"
+            },
+            {
+                "Level": 10,
+                "Move": "Spark"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 19,
+                "Move": "Covet"
+            },
+            {
+                "Level": 22,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 26,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 30,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 34,
+                "Move": "Agility"
+            },
+            {
+                "Level": 38,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 42,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 45,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 48,
+                "Move": "Iron Tail"
+            },
+            {
+                "Level": 51,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 54,
+                "Move": "Wild Charge"
+            },
+            {
+                "Level": 58,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 62,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 66,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Cheri Berry",
+            "5": "Cheri Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Flying",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 75,
+            "DEF": 60,
+            "SPA": 75,
+            "SPD": 60,
+            "SPE": 103
+        }
+    }
+]

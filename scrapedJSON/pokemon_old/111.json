@@ -1,0 +1,303 @@
+[
+    {
+        "Index": 110,
+        "Number": 111,
+        "Name": "Rhyhorn",
+        "STATS": {
+            "HP": 80,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Ground",
+            "Rock"
+        ],
+        "Ability": [
+            "Lightningrod",
+            "Rock Head",
+            "Reckless"
+        ],
+        "Tutor Moves": [
+            "Drill Run",
+            "Uproar",
+            "Earth Power",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Dragon Pulse",
+            "Iron Tail",
+            "Snore",
+            "Spite",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 7,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 10,
+                "Move": "Horn Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 16,
+                "Move": "Curse"
+            },
+            {
+                "Level": 19,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 22,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 25,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 28,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 31,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 31,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 31,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 34,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 38,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 42,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 46,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 50,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Rhydon",
+                "Method": "Level 36"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [
+                "Poison"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "Neutral": [
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Water",
+                "Grass"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 25
+        }
+    }
+]

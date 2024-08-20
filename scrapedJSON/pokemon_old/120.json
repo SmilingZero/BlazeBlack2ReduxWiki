@@ -1,0 +1,301 @@
+[
+    {
+        "Index": 119,
+        "Number": 120,
+        "Name": "Staryu",
+        "STATS": {
+            "HP": 30,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Analytic",
+            "Natural Cure",
+            "Analytic"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Gravity",
+            "Icy Wind",
+            "Snore",
+            "Pain Split",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 4,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 7,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 10,
+                "Move": "Camouflage"
+            },
+            {
+                "Level": 13,
+                "Move": "Swift"
+            },
+            {
+                "Level": 16,
+                "Move": "Gyro Ball"
+            },
+            {
+                "Level": 19,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 28,
+                "Move": "Trick"
+            },
+            {
+                "Level": 31,
+                "Move": "Brine"
+            },
+            {
+                "Level": 34,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 37,
+                "Move": "Reflect Type"
+            },
+            {
+                "Level": 40,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 43,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 46,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 49,
+                "Move": "Agility"
+            },
+            {
+                "Level": 52,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 55,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 58,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 62,
+                "Move": "Recover"
+            },
+            {
+                "Level": 66,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Starmie",
+                "Method": "Use Water Stone"
+            }
+        ],
+        "Items": {
+            "50": "Stardust",
+            "5": "Star Piece"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 70,
+            "SPD": 55,
+            "SPE": 85
+        }
+    }
+]

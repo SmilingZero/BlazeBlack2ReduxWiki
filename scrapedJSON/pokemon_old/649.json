@@ -1,0 +1,294 @@
+[
+    {
+        "Index": 648,
+        "Number": 649,
+        "Name": "Genesect",
+        "STATS": {
+            "HP": 71,
+            "ATK": 120,
+            "DEF": 95,
+            "SPA": 120,
+            "SPD": 95,
+            "SPE": 99
+        },
+        "TYPE": [
+            "Bug",
+            "Steel"
+        ],
+        "Ability": [
+            "Download"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Iron Head",
+            "Gunk Shot",
+            "Magic Coat",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Last Resort",
+            "Electroweb",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Snore",
+            "Giga Drain",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 1,
+                "Move": "Shift Gear"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Screech"
+            },
+            {
+                "Level": 17,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 20,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 23,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 26,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 29,
+                "Move": "X-Scissor"
+            },
+            {
+                "Level": 32,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 35,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 38,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 41,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 44,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 47,
+                "Move": "Techno Blast"
+            },
+            {
+                "Level": 50,
+                "Move": "Iron Head"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Fire"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 71,
+            "ATK": 120,
+            "DEF": 95,
+            "SPA": 120,
+            "SPD": 95,
+            "SPE": 99
+        }
+    }
+]

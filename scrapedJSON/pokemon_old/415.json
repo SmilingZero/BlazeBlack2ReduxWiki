@@ -1,0 +1,108 @@
+[
+    {
+        "Index": 414,
+        "Number": 415,
+        "Name": "Combee",
+        "STATS": {
+            "HP": 30,
+            "ATK": 30,
+            "DEF": 42,
+            "SPA": 30,
+            "SPD": 42,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Honey Gather",
+            "Hustle",
+            "Hustle"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Snore",
+            "Tailwind",
+            "Endeavor"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Sweet Scent"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 15,
+                "Move": "Bug Buzz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Vespiquen",
+                "Method": "Female, Level 21"
+            }
+        ],
+        "Items": {
+            "5": "Honey"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 30,
+            "DEF": 42,
+            "SPA": 30,
+            "SPD": 42,
+            "SPE": 70
+        }
+    }
+]

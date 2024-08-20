@@ -1,0 +1,356 @@
+[
+    {
+        "Index": 379,
+        "Number": 380,
+        "Name": "Latias",
+        "STATS": {
+            "HP": 80,
+            "ATK": 80,
+            "DEF": 90,
+            "SPA": 110,
+            "SPD": 130,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Dragon",
+            "Psychic"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Covet",
+            "Magic Coat",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Snore",
+            "Role Play",
+            "Tailwind",
+            "Roost",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 1,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 1,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 1,
+                "Move": "Trick"
+            },
+            {
+                "Level": 1,
+                "Move": "Memento"
+            },
+            {
+                "Level": 1,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 1,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 1,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 10,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 14,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 18,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 22,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 26,
+                "Move": "Psycho Shift"
+            },
+            {
+                "Level": 30,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 34,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 38,
+                "Move": "Recover"
+            },
+            {
+                "Level": 42,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 46,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 50,
+                "Move": "Aura Sphere"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Soul Dew",
+            "5": "Soul Dew",
+            "1": "Soul Dew"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 80,
+            "DEF": 90,
+            "SPA": 110,
+            "SPD": 130,
+            "SPE": 110
+        }
+    }
+]

@@ -1,0 +1,258 @@
+[
+    {
+        "Index": 144,
+        "Number": 145,
+        "Name": "Zapdos",
+        "STATS": {
+            "HP": 90,
+            "ATK": 90,
+            "DEF": 85,
+            "SPA": 125,
+            "SPD": 90,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Electric",
+            "Flying"
+        ],
+        "Ability": [
+            "Pressure",
+            "Static",
+            "Static"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 8,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 11,
+                "Move": "Detect"
+            },
+            {
+                "Level": 14,
+                "Move": "Pluck"
+            },
+            {
+                "Level": 19,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 23,
+                "Move": "Charge"
+            },
+            {
+                "Level": 27,
+                "Move": "Agility"
+            },
+            {
+                "Level": 30,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 33,
+                "Move": "Rain Dance"
+            },
+            {
+                "Level": 37,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 40,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 43,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 47,
+                "Move": "Roost"
+            },
+            {
+                "Level": 50,
+                "Move": "Zap Cannon"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Flying",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 90,
+            "DEF": 85,
+            "SPA": 125,
+            "SPD": 90,
+            "SPE": 100
+        }
+    }
+]

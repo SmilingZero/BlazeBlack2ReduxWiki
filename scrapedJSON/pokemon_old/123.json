@@ -1,0 +1,272 @@
+[
+    {
+        "Index": 122,
+        "Number": 123,
+        "Name": "Scyther",
+        "STATS": {
+            "HP": 70,
+            "ATK": 110,
+            "DEF": 80,
+            "SPA": 55,
+            "SPD": 80,
+            "SPE": 105
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Swarm",
+            "Technician",
+            "Steadfast"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "False Swipe"
+            },
+            {
+                "Level": 4,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 7,
+                "Move": "Detect"
+            },
+            {
+                "Level": 10,
+                "Move": "Vacuum Wave"
+            },
+            {
+                "Level": 13,
+                "Move": "Feint"
+            },
+            {
+                "Level": 16,
+                "Move": "Agility"
+            },
+            {
+                "Level": 19,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 22,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 25,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 28,
+                "Move": "Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 31,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 35,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 39,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 43,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 47,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 51,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 55,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 59,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 63,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 67,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Scizor",
+                "Method": "Use Metal Coat"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 110,
+            "DEF": 80,
+            "SPA": 55,
+            "SPD": 80,
+            "SPE": 105
+        }
+    }
+]

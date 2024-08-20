@@ -1,0 +1,236 @@
+[
+    {
+        "Index": 275,
+        "Number": 276,
+        "Name": "Taillow",
+        "STATS": {
+            "HP": 40,
+            "ATK": 55,
+            "DEF": 30,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Early Bird",
+            "Scrappy",
+            "Scrappy"
+        ],
+        "Tutor Moves": [
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Roost",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "After You"
+            },
+            {
+                "Level": 10,
+                "Move": "Swift"
+            },
+            {
+                "Level": 12,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 14,
+                "Move": "Twister"
+            },
+            {
+                "Level": 16,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 19,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 22,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 25,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 28,
+                "Move": "Mimic"
+            },
+            {
+                "Level": 31,
+                "Move": "Agility"
+            },
+            {
+                "Level": 34,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 42,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 46,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 50,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 54,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Swellow",
+                "Method": "Level 22"
+            }
+        ],
+        "Items": {
+            "5": "Charti Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 55,
+            "DEF": 30,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 85
+        }
+    }
+]

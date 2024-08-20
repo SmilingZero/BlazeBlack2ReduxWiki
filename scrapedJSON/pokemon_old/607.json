@@ -1,0 +1,272 @@
+[
+    {
+        "Index": 606,
+        "Number": 607,
+        "Name": "Litwick",
+        "STATS": {
+            "HP": 50,
+            "ATK": 30,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 20
+        },
+        "TYPE": [
+            "Ghost",
+            "Fire"
+        ],
+        "Ability": [
+            "Flash Fire",
+            "Flame Body",
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Dark Pulse",
+            "Snore",
+            "Heat Wave",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Acid"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 4,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 6,
+                "Move": "Spite"
+            },
+            {
+                "Level": 8,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 10,
+                "Move": "Smog"
+            },
+            {
+                "Level": 12,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 14,
+                "Move": "Haze"
+            },
+            {
+                "Level": 17,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 20,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 23,
+                "Move": "Trick"
+            },
+            {
+                "Level": 26,
+                "Move": "Hex"
+            },
+            {
+                "Level": 29,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 32,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 35,
+                "Move": "Curse"
+            },
+            {
+                "Level": 38,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 42,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 46,
+                "Move": "Shadow Ball"
+            },
+            {
+                "Level": 50,
+                "Move": "Overheat"
+            },
+            {
+                "Level": 54,
+                "Move": "Memento"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Lampent",
+                "Method": "Level 27"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Electric",
+                "Flying",
+                "Psychic",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 30,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 20
+        }
+    }
+]

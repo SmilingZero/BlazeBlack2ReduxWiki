@@ -1,0 +1,301 @@
+[
+    {
+        "Index": 127,
+        "Number": 128,
+        "Name": "Tauros",
+        "STATS": {
+            "HP": 75,
+            "ATK": 110,
+            "DEF": 95,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Sheer Force",
+            "Anger Point"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Uproar",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Spite",
+            "Helping Hand",
+            "Endeavor",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 5,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 9,
+                "Move": "Payback"
+            },
+            {
+                "Level": 13,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 17,
+                "Move": "Horn Attack"
+            },
+            {
+                "Level": 21,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 25,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 29,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 33,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 37,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 41,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 45,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 49,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 53,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 57,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 61,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 65,
+                "Move": "Giga Impact"
+            },
+            {
+                "Level": 69,
+                "Move": "Headlong Rush"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 100,
+            "DEF": 95,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 110
+        }
+    }
+]

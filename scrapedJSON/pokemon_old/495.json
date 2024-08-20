@@ -1,0 +1,250 @@
+[
+    {
+        "Index": 494,
+        "Number": 495,
+        "Name": "Snivy",
+        "STATS": {
+            "HP": 45,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 63
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Contrary",
+            "Overgrow",
+            "Contrary"
+        ],
+        "Tutor Moves": [
+            "Grass Pledge",
+            "Seed Bomb",
+            "Aqua Tail",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 5,
+                "Move": "Vine Whip"
+            },
+            {
+                "Level": 7,
+                "Move": "Twister"
+            },
+            {
+                "Level": 10,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 13,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 16,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 22,
+                "Move": "Glare"
+            },
+            {
+                "Level": 25,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 28,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 31,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 34,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 37,
+                "Move": "Leaf Blade"
+            },
+            {
+                "Level": 40,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 43,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 46,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 49,
+                "Move": "Wring Out"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Servine",
+                "Method": "Level 17"
+            }
+        ],
+        "Items": {
+            "5": "Xtransceiver",
+            "1": "Xtransceiver"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 63
+        }
+    }
+]

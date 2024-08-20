@@ -1,0 +1,283 @@
+[
+    {
+        "Index": 516,
+        "Number": 517,
+        "Name": "Munna",
+        "STATS": {
+            "HP": 76,
+            "ATK": 25,
+            "DEF": 45,
+            "SPA": 67,
+            "SPD": 55,
+            "SPE": 24
+        },
+        "TYPE": [
+            "Psychic",
+            "Fairy"
+        ],
+        "Ability": [
+            "Analytic",
+            "Synchronize",
+            "Telepathy"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Gravity",
+            "Zen Headbutt",
+            "Snore",
+            "Heal Bell",
+            "Pain Split",
+            "Worry Seed",
+            "After You",
+            "Helping Hand",
+            "Trick",
+            "Wonder Room",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Magic Room"
+            },
+            {
+                "Level": 1,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 4,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 7,
+                "Move": "Swift"
+            },
+            {
+                "Level": 10,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 12,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 14,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 17,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 20,
+                "Move": "Trick"
+            },
+            {
+                "Level": 23,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 26,
+                "Move": "Moonlight"
+            },
+            {
+                "Level": 29,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 32,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 36,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 40,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 44,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 48,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 52,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 56,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 60,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 64,
+                "Move": "Healing Wish"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Musharna",
+                "Method": "Use Moon Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Ghost",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 76,
+            "ATK": 25,
+            "DEF": 45,
+            "SPA": 67,
+            "SPD": 55,
+            "SPE": 24
+        }
+    }
+]

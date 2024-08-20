@@ -1,0 +1,299 @@
+[
+    {
+        "Index": 585,
+        "Number": 586,
+        "Name": "Sawsbuck",
+        "STATS": {
+            "HP": 85,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 70,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Normal",
+            "Grass"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Sap Sipper",
+            "Serene Grace"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Bounce",
+            "Last Resort",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 1,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 1,
+                "Move": "Camouflage"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Growl"
+            },
+            {
+                "Level": 7,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 13,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 16,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 20,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 23,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 26,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 29,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 32,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 34,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 35,
+                "Move": "Charm"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 40,
+                "Move": "Horn Leech"
+            },
+            {
+                "Level": 42,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 45,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 48,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 51,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 55,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 60,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 100,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 70,
+            "SPE": 95
+        }
+    }
+]

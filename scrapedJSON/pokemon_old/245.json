@@ -1,0 +1,287 @@
+[
+    {
+        "Index": 244,
+        "Number": 245,
+        "Name": "Suicune",
+        "STATS": {
+            "HP": 100,
+            "ATK": 75,
+            "DEF": 115,
+            "SPA": 90,
+            "SPD": 115,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Pressure",
+            "Water Absorb",
+            "Water Absorb"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Icy Wind",
+            "Iron Tail",
+            "Snore",
+            "Tailwind",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Sheer Cold"
+            },
+            {
+                "Level": 1,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 1,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 6,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 10,
+                "Move": "Gust"
+            },
+            {
+                "Level": 14,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 18,
+                "Move": "Mist"
+            },
+            {
+                "Level": 22,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 26,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 30,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 34,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 38,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 42,
+                "Move": "Calm Mind"
+            },
+            {
+                "Level": 46,
+                "Move": "Blizzard"
+            },
+            {
+                "Level": 50,
+                "Move": "Air Slash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Rowap Berry",
+            "5": "Rowap Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 75,
+            "DEF": 115,
+            "SPA": 90,
+            "SPD": 115,
+            "SPE": 85
+        }
+    }
+]

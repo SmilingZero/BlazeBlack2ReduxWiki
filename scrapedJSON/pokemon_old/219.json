@@ -1,0 +1,316 @@
+[
+    {
+        "Index": 218,
+        "Number": 219,
+        "Name": "Magcargo",
+        "STATS": {
+            "HP": 60,
+            "ATK": 50,
+            "DEF": 140,
+            "SPA": 120,
+            "SPD": 100,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Fire",
+            "Rock"
+        ],
+        "Ability": [
+            "Solid Rock",
+            "Flame Body",
+            "Weak Armor"
+        ],
+        "Tutor Moves": [
+            "Earth Power",
+            "Iron Defense",
+            "Snore",
+            "Heat Wave",
+            "Pain Split",
+            "After You",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Smog"
+            },
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 1,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 4,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 7,
+                "Move": "After You"
+            },
+            {
+                "Level": 10,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 12,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 14,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 16,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 18,
+                "Move": "Curse"
+            },
+            {
+                "Level": 20,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 23,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 26,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 29,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 30,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 38,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 42,
+                "Move": "Heat Wave"
+            },
+            {
+                "Level": 46,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 50,
+                "Move": "Recover"
+            },
+            {
+                "Level": 54,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 58,
+                "Move": "Memento"
+            },
+            {
+                "Level": 62,
+                "Move": "Magma Storm"
+            },
+            {
+                "Level": 66,
+                "Move": "Shell Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Electric",
+                "Grass",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Water",
+                "Ground"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 120,
+            "SPA": 80,
+            "SPD": 80,
+            "SPE": 30
+        }
+    }
+]

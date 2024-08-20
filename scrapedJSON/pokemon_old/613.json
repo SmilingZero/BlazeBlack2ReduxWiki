@@ -1,0 +1,275 @@
+[
+    {
+        "Index": 612,
+        "Number": 613,
+        "Name": "Cubchoo",
+        "STATS": {
+            "HP": 55,
+            "ATK": 70,
+            "DEF": 40,
+            "SPA": 60,
+            "SPD": 40,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Ice"
+        ],
+        "Ability": [
+            "Snow Cloak",
+            "Rattled",
+            "Rattled"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Low Kick",
+            "Ice Punch",
+            "Superpower",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 3,
+                "Move": "Endure"
+            },
+            {
+                "Level": 6,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 9,
+                "Move": "Rock Smash"
+            },
+            {
+                "Level": 11,
+                "Move": "Flail"
+            },
+            {
+                "Level": 14,
+                "Move": "Brine"
+            },
+            {
+                "Level": 17,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 20,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 24,
+                "Move": "Charm"
+            },
+            {
+                "Level": 27,
+                "Move": "Slash"
+            },
+            {
+                "Level": 27,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 30,
+                "Move": "Frost Breath"
+            },
+            {
+                "Level": 33,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 37,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 39,
+                "Move": "Rest"
+            },
+            {
+                "Level": 42,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 45,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 48,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 51,
+                "Move": "Blizzard"
+            },
+            {
+                "Level": 55,
+                "Move": "Sheer Cold"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Beartic",
+                "Method": "Level 37"
+            }
+        ],
+        "Items": {
+            "50": "Aspear Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 70,
+            "DEF": 40,
+            "SPA": 60,
+            "SPD": 40,
+            "SPE": 40
+        }
+    }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "Index": 529,
+        "Number": 530,
+        "Name": "Excadrill",
+        "STATS": {
+            "HP": 110,
+            "ATK": 135,
+            "DEF": 60,
+            "SPA": 50,
+            "SPD": 65,
+            "SPE": 88
+        },
+        "TYPE": [
+            "Ground",
+            "Steel"
+        ],
+        "Ability": [
+            "Sand Rush",
+            "Mold Breaker",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Drill Run",
+            "Earth Power",
+            "Magnet Rise",
+            "Iron Defense",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 10,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 13,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 19,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 22,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 28,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 31,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 35,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 39,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 43,
+                "Move": "Drill Run"
+            },
+            {
+                "Level": 47,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 51,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 55,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 59,
+                "Move": "Fissure"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric",
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Rock"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Grass",
+                "Ice",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 135,
+            "DEF": 60,
+            "SPA": 50,
+            "SPD": 65,
+            "SPE": 88
+        }
+    }
+]

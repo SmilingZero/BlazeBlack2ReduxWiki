@@ -1,0 +1,269 @@
+[
+    {
+        "Index": 569,
+        "Number": 570,
+        "Name": "Zorua",
+        "STATS": {
+            "HP": 40,
+            "ATK": 65,
+            "DEF": 40,
+            "SPA": 80,
+            "SPD": 40,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Illusion"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Bounce",
+            "Uproar",
+            "Foul Play",
+            "Dark Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Knock Off",
+            "Spite",
+            "Trick",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 4,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 7,
+                "Move": "Covet"
+            },
+            {
+                "Level": 10,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 13,
+                "Move": "Torment"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 19,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 22,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 25,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 28,
+                "Move": "Memento"
+            },
+            {
+                "Level": 31,
+                "Move": "Payback"
+            },
+            {
+                "Level": 34,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 38,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 42,
+                "Move": "Slash"
+            },
+            {
+                "Level": 42,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 46,
+                "Move": "Counter"
+            },
+            {
+                "Level": 50,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 54,
+                "Move": "Hex"
+            },
+            {
+                "Level": 58,
+                "Move": "Night Daze"
+            },
+            {
+                "Level": 62,
+                "Move": "Extrasensory"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Zoroark",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 65,
+            "DEF": 40,
+            "SPA": 80,
+            "SPD": 40,
+            "SPE": 65
+        }
+    }
+]

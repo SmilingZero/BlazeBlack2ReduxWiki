@@ -1,0 +1,263 @@
+[
+    {
+        "Index": 381,
+        "Number": 382,
+        "Name": "Kyogre",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 90,
+            "SPA": 150,
+            "SPD": 140,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Drizzle"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Uproar",
+            "Block",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 6,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 10,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 14,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 18,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 22,
+                "Move": "Ice Beam"
+            },
+            {
+                "Level": 26,
+                "Move": "Calm Mind"
+            },
+            {
+                "Level": 30,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 34,
+                "Move": "Wave Crash"
+            },
+            {
+                "Level": 38,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 42,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 46,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 50,
+                "Move": "Water Spout"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 90,
+            "SPA": 150,
+            "SPD": 140,
+            "SPE": 90
+        }
+    }
+]

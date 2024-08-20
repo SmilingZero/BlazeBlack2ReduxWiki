@@ -1,0 +1,481 @@
+[
+    {
+        "Index": 385,
+        "Number": 386,
+        "Name": "Deoxys - Normal",
+        "STATS": {
+            "HP": 50,
+            "ATK": 150,
+            "DEF": 50,
+            "SPA": 150,
+            "SPD": 50,
+            "SPE": 150
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Moody",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Gravity",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Drain Punch",
+            "Trick",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Meteor Mash"
+            },
+            {
+                "Level": 1,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 6,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Teleport"
+            },
+            {
+                "Level": 14,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 18,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 22,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 26,
+                "Move": "Snatch"
+            },
+            {
+                "Level": 30,
+                "Move": "Psycho Shift"
+            },
+            {
+                "Level": 34,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 38,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 42,
+                "Move": "Recover"
+            },
+            {
+                "Level": 46,
+                "Move": "Psycho Boost"
+            },
+            {
+                "Level": 50,
+                "Move": "Hyper Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [
+            684,
+            685,
+            686
+        ],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 150,
+            "DEF": 50,
+            "SPA": 150,
+            "SPD": 50,
+            "SPE": 150
+        }
+    },
+    {
+        "Index": 684,
+        "Name": "Deoxys - Attack",
+        "STATS": {
+            "HP": 50,
+            "ATK": 180,
+            "DEF": 20,
+            "SPA": 180,
+            "SPD": 20,
+            "SPE": 150
+        },
+        "Ability": [
+            "Download",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Superpower"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 42,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 26,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 14,
+                "Move": "Taunt"
+            }
+        ],
+        "Other Form Index": [],
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 180,
+            "DEF": 20,
+            "SPA": 180,
+            "SPD": 20,
+            "SPE": 150
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Number": 386
+    },
+    {
+        "Index": 685,
+        "Name": "Deoxys - Defense",
+        "STATS": {
+            "HP": 50,
+            "ATK": 70,
+            "DEF": 160,
+            "SPA": 70,
+            "SPD": 160,
+            "SPE": 90
+        },
+        "Ability": [
+            "Regenerator",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Iron Defense"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 50,
+                "Move": "Counter"
+            },
+            {
+                "Level": 50,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 38,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 38,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 18,
+                "Move": "Spikes"
+            }
+        ],
+        "Other Form Index": [],
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 70,
+            "DEF": 160,
+            "SPA": 70,
+            "SPD": 160,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Number": 386
+    },
+    {
+        "Index": 686,
+        "Name": "Deoxys - Speed",
+        "STATS": {
+            "HP": 50,
+            "ATK": 95,
+            "DEF": 90,
+            "SPA": 95,
+            "SPD": 90,
+            "SPE": 180
+        },
+        "Ability": [
+            "Inner Focus",
+            "Pressure"
+        ],
+        "Tutor Moves": [],
+        "Level Up Moves": [
+            {
+                "Level": 10,
+                "Move": "Double Team"
+            },
+            {
+                "Level": 50,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 26,
+                "Move": "Swift"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            }
+        ],
+        "Other Form Index": [],
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 95,
+            "DEF": 90,
+            "SPA": 95,
+            "SPD": 90,
+            "SPE": 180
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Number": 386
+    }
+]

@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 344,
+        "Number": 345,
+        "Name": "Lileep",
+        "STATS": {
+            "HP": 66,
+            "ATK": 41,
+            "DEF": 77,
+            "SPA": 61,
+            "SPD": 87,
+            "SPE": 23
+        },
+        "TYPE": [
+            "Rock",
+            "Grass"
+        ],
+        "Ability": [
+            "Suction Cups",
+            "Storm Drain",
+            "Storm Drain"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Earth Power",
+            "Bind",
+            "Snore",
+            "Synthesis",
+            "Pain Split",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 5,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 9,
+                "Move": "Infestation"
+            },
+            {
+                "Level": 13,
+                "Move": "Acid"
+            },
+            {
+                "Level": 17,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 21,
+                "Move": "Brine"
+            },
+            {
+                "Level": 25,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 28,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 31,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 34,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 37,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 40,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 43,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 46,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 46,
+                "Move": "Spit Up"
+            },
+            {
+                "Level": 46,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 49,
+                "Move": "Recover"
+            },
+            {
+                "Level": 52,
+                "Move": "Wring Out"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cradily",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "5": "Big Root"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Electric"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Grass",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 66,
+            "ATK": 41,
+            "DEF": 77,
+            "SPA": 61,
+            "SPD": 87,
+            "SPE": 23
+        }
+    }
+]

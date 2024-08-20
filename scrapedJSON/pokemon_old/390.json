@@ -1,0 +1,293 @@
+[
+    {
+        "Index": 389,
+        "Number": 390,
+        "Name": "Chimchar",
+        "STATS": {
+            "HP": 44,
+            "ATK": 58,
+            "DEF": 44,
+            "SPA": 58,
+            "SPD": 44,
+            "SPE": 61
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Iron Fist",
+            "Blaze",
+            "Iron Fist"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Covet",
+            "Low Kick",
+            "Gunk Shot",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Role Play",
+            "Helping Hand",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Torment"
+            },
+            {
+                "Level": 10,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 13,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 17,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 25,
+                "Move": "Covet"
+            },
+            {
+                "Level": 28,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 31,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 34,
+                "Move": "Feint"
+            },
+            {
+                "Level": 37,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 40,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 43,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 46,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 49,
+                "Move": "Inferno"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Monferno",
+                "Method": "Level 14"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 44,
+            "ATK": 58,
+            "DEF": 44,
+            "SPA": 58,
+            "SPD": 44,
+            "SPE": 61
+        }
+    }
+]

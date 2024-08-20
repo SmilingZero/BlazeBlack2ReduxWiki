@@ -1,0 +1,242 @@
+[
+    {
+        "Index": 369,
+        "Number": 370,
+        "Name": "Luvdisc",
+        "STATS": {
+            "HP": 53,
+            "ATK": 30,
+            "DEF": 65,
+            "SPA": 90,
+            "SPD": 65,
+            "SPE": 117
+        },
+        "TYPE": [
+            "Water",
+            "Fairy"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Hydration",
+            "Hydration"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 4,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Agility"
+            },
+            {
+                "Level": 10,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 13,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 16,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 19,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 22,
+                "Move": "Attract"
+            },
+            {
+                "Level": 25,
+                "Move": "Flail"
+            },
+            {
+                "Level": 28,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 31,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 37,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 40,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 43,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 46,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 50,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 55,
+                "Move": "Heart Swap"
+            },
+            {
+                "Level": 60,
+                "Move": "Lovely Kiss"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Heart Scale",
+            "5": "Heart Scale"
+        },
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Poison"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 43,
+            "ATK": 30,
+            "DEF": 55,
+            "SPA": 40,
+            "SPD": 65,
+            "SPE": 97
+        }
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 426,
+        "Number": 427,
+        "Name": "Buneary",
+        "STATS": {
+            "HP": 55,
+            "ATK": 66,
+            "DEF": 44,
+            "SPA": 44,
+            "SPD": 56,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Run Away",
+            "Limber",
+            "Klutz"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Bounce",
+            "Low Kick",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Last Resort",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heal Bell",
+            "Drain Punch",
+            "After You",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 4,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 7,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 13,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 16,
+                "Move": "Agility"
+            },
+            {
+                "Level": 19,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 25,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 28,
+                "Move": "After You"
+            },
+            {
+                "Level": 31,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 34,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 37,
+                "Move": "Circle Throw"
+            },
+            {
+                "Level": 40,
+                "Move": "Dizzy Punch"
+            },
+            {
+                "Level": 44,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 48,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 52,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 56,
+                "Move": "Healing Wish"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Lopunny",
+                "Method": "Happiness"
+            }
+        ],
+        "Items": {
+            "50": "Pecha Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 66,
+            "DEF": 44,
+            "SPA": 44,
+            "SPD": 56,
+            "SPE": 85
+        }
+    }
+]

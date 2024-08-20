@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 199,
+        "Number": 200,
+        "Name": "Misdreavus",
+        "STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 60,
+            "SPA": 85,
+            "SPD": 85,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Ghost",
+            "Fairy"
+        ],
+        "Ability": [
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Magic Coat",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Heal Bell",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Spite"
+            },
+            {
+                "Level": 9,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 12,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 15,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 18,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 21,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 24,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 27,
+                "Move": "Torment"
+            },
+            {
+                "Level": 30,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 33,
+                "Move": "Curse"
+            },
+            {
+                "Level": 36,
+                "Move": "Hex"
+            },
+            {
+                "Level": 39,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 42,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 45,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 48,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 51,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 54,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 57,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Mismagius",
+                "Method": "Use Dusk Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting",
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Bug"
+            ],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ghost",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 60,
+            "SPA": 85,
+            "SPD": 85,
+            "SPE": 85
+        }
+    }
+]

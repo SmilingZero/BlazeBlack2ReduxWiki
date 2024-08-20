@@ -1,0 +1,318 @@
+[
+    {
+        "Index": 233,
+        "Number": 234,
+        "Name": "Stantler",
+        "STATS": {
+            "HP": 73,
+            "ATK": 95,
+            "DEF": 62,
+            "SPA": 95,
+            "SPD": 75,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Sap Sipper",
+            "Frisk",
+            "Intimidate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Uproar",
+            "Gravity",
+            "Last Resort",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Spite",
+            "Magic Room",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 1,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 1,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 1,
+                "Move": "Me First"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 10,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 16,
+                "Move": "Me First"
+            },
+            {
+                "Level": 19,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 22,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 25,
+                "Move": "Spite"
+            },
+            {
+                "Level": 27,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 30,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 33,
+                "Move": "Detect"
+            },
+            {
+                "Level": 36,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 39,
+                "Move": "Disable"
+            },
+            {
+                "Level": 42,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 45,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 48,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 51,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 73,
+            "ATK": 95,
+            "DEF": 62,
+            "SPA": 85,
+            "SPD": 65,
+            "SPE": 85
+        }
+    }
+]

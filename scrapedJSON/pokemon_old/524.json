@@ -1,0 +1,244 @@
+[
+    {
+        "Index": 523,
+        "Number": 524,
+        "Name": "Roggenrola",
+        "STATS": {
+            "HP": 55,
+            "ATK": 75,
+            "DEF": 85,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
+        },
+        "TYPE": [
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Weak Armor",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Iron Defense",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 13,
+                "Move": "Curse"
+            },
+            {
+                "Level": 16,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 19,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 22,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 25,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 28,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 31,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 38,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 42,
+                "Move": "Autotomize"
+            },
+            {
+                "Level": 46,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 51,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 56,
+                "Move": "Wide Guard"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Boldore",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {
+            "50": "Everstone",
+            "5": "Hard Stone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 75,
+            "DEF": 85,
+            "SPA": 25,
+            "SPD": 25,
+            "SPE": 15
+        }
+    }
+]

@@ -82,7 +82,7 @@ Whilst exploring the postgame areas in Redux, you will bump into Morty on Route 
 ## The Johto Birds: Lugia and Ho-oh.
 
 
-Speak to/battle Lance at the end of Victory Road. (On Challenge Mode only, you are required to battle him.)
+Speak to/battle Lance at the end of Victory Road. (In Challenge Mode only, you are required to battle him.)
 
  - Upon listening to him/defeating him, Lance will give you the Rainbow Wing and the Silver Wing. 
  - However, you will also require the respective bells to make the Birds appear, like in HGSS.
@@ -325,8 +325,10 @@ Victini is one of the few legendary/mythical Pokémon which can be encountered i
  - This is insired by the event ticket to Liberty Island, given out in Black and White.
  - Victini is found in the sublevel of Liberty Island, in the lighthouse.
  - This is blocked by mysterious trainer, after beating them however you can move inside and catch Victini.
- - This trainer is quite strong for when you arrive in Castelia, but doesn't get stronger as you move through the game.
-    - Thus, if you want Victini for Burgh, prepare for a tough fight! Otherwise, you can return later in the game when you're at a higher level.
+	- Battle only required on Challenge Mode.
+ - This trainer is quite strong for when you arrive in Castelia, but will not let you pass after you've beaten Burgh.
+	- In the post-game, after you've traveled to Striaton City, the trainer will have disappeared and you may enter the Lighthouse again.
+	- This is true in all difficulty modes.
  - After obtaining Victini, if you have it in the first slot of your party, a special cutscene plays when entering Liberty Island again.
 
 | [Victini] |

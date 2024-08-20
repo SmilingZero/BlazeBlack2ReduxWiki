@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 432,
+        "Number": 433,
+        "Name": "Chingling",
+        "STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 80,
+            "SPD": 60,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Gravity",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Heal Bell",
+            "Helping Hand",
+            "Trick",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Telekinesis"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 6,
+                "Move": "Swift"
+            },
+            {
+                "Level": 8,
+                "Move": "Disable"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 12,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 14,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 16,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 18,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 20,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 22,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 25,
+                "Move": "Hypnosis"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Chimecho",
+                "Method": "Level Up with move Heal Bell"
+            }
+        ],
+        "Items": {
+            "5": "Colbur Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 65,
+            "SPD": 50,
+            "SPE": 45
+        }
+    }
+]

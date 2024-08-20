@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 151,
+        "Number": 152,
+        "Name": "Chikorita",
+        "STATS": {
+            "HP": 45,
+            "ATK": 49,
+            "DEF": 65,
+            "SPA": 49,
+            "SPD": 65,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Serene Grace",
+            "Overgrow",
+            "Leaf Guard"
+        ],
+        "Tutor Moves": [
+            "Grass Pledge",
+            "Seed Bomb",
+            "Magic Coat",
+            "Iron Tail",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 7,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 13,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 17,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 20,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 22,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 25,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 31,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 37,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 40,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 43,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 46,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 49,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Bayleef",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 49,
+            "DEF": 65,
+            "SPA": 49,
+            "SPD": 65,
+            "SPE": 45
+        }
+    }
+]

@@ -1,0 +1,310 @@
+[
+    {
+        "Index": 604,
+        "Number": 605,
+        "Name": "Elgyem",
+        "STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 55,
+            "SPA": 85,
+            "SPD": 55,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Analytic",
+            "Synchronize",
+            "Analytic"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Gravity",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Snore",
+            "Role Play",
+            "Pain Split",
+            "After You",
+            "Trick",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Trick Room"
+            },
+            {
+                "Level": 6,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 8,
+                "Move": "Teleport"
+            },
+            {
+                "Level": 11,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 14,
+                "Move": "Disable"
+            },
+            {
+                "Level": 17,
+                "Move": "Trick Room"
+            },
+            {
+                "Level": 21,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 24,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 27,
+                "Move": "Mystical Fire"
+            },
+            {
+                "Level": 30,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 33,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 36,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 40,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 43,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 46,
+                "Move": "Guard Split"
+            },
+            {
+                "Level": 46,
+                "Move": "Power Split"
+            },
+            {
+                "Level": 49,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 52,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 55,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 58,
+                "Move": "Recover"
+            },
+            {
+                "Level": 61,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 64,
+                "Move": "Psycho Boost"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Beheeyem",
+                "Method": "Level 37"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 55,
+            "DEF": 55,
+            "SPA": 85,
+            "SPD": 55,
+            "SPE": 30
+        }
+    }
+]

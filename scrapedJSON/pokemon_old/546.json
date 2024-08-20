@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 545,
+        "Number": 546,
+        "Name": "Cottonee",
+        "STATS": {
+            "HP": 40,
+            "ATK": 27,
+            "DEF": 60,
+            "SPA": 37,
+            "SPD": 50,
+            "SPE": 66
+        },
+        "TYPE": [
+            "Grass",
+            "Fairy"
+        ],
+        "Ability": [
+            "Prankster",
+            "Infiltrator",
+            "Chlorophyll"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Seed Bomb",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Giga Drain",
+            "Worry Seed",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 4,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 7,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 10,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 13,
+                "Move": "Growth"
+            },
+            {
+                "Level": 16,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 19,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 22,
+                "Move": "Cotton Spore"
+            },
+            {
+                "Level": 25,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 28,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 31,
+                "Move": "Charm"
+            },
+            {
+                "Level": 34,
+                "Move": "Dazzling Gleam"
+            },
+            {
+                "Level": 37,
+                "Move": "Cotton Guard"
+            },
+            {
+                "Level": 41,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 45,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 49,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 53,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 57,
+                "Move": "Memento"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Whimsicott",
+                "Method": "Use Sun Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Poison"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 27,
+            "DEF": 60,
+            "SPA": 37,
+            "SPD": 50,
+            "SPE": 66
+        }
+    }
+]

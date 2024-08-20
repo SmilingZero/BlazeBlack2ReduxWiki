@@ -71,7 +71,7 @@
 [Prinplup]: ../../pokemons/394/
 [188]: ../img/animated/188.gif
 [Skiploom]: ../../pokemons/188/
-[BackpackerBlossom]: ../img/Trainers/Backpacker_Male.gif
+[BackpackerBlossom]: ../img/Trainers/Backpacker_Female.gif
 [53]: ../img/animated/53.gif
 [Persian]: ../../pokemons/053/
 [425]: ../img/animated/425.gif

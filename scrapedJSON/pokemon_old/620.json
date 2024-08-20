@@ -1,0 +1,322 @@
+[
+    {
+        "Index": 619,
+        "Number": 620,
+        "Name": "Mienshao",
+        "STATS": {
+            "HP": 65,
+            "ATK": 125,
+            "DEF": 60,
+            "SPA": 95,
+            "SPD": 60,
+            "SPE": 105
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Reckless",
+            "Regenerator",
+            "Reckless"
+        ],
+        "Tutor Moves": [
+            "Dual Chop",
+            "Bounce",
+            "Low Kick",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Drain Punch",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 1,
+                "Move": "Double Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Meditate"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 4,
+                "Move": "Swift"
+            },
+            {
+                "Level": 7,
+                "Move": "Force Palm"
+            },
+            {
+                "Level": 10,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 13,
+                "Move": "Vital Throw"
+            },
+            {
+                "Level": 16,
+                "Move": "Feint"
+            },
+            {
+                "Level": 19,
+                "Move": "Me First"
+            },
+            {
+                "Level": 22,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 26,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 30,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 34,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 38,
+                "Move": "Payback"
+            },
+            {
+                "Level": 42,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 46,
+                "Move": "Aura Sphere"
+            },
+            {
+                "Level": 50,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 55,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 60,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 65,
+                "Move": "High Jump Kick"
+            },
+            {
+                "Level": 70,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 75,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 125,
+            "DEF": 60,
+            "SPA": 95,
+            "SPD": 60,
+            "SPE": 105
+        }
+    }
+]

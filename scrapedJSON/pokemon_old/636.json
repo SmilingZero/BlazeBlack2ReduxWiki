@@ -1,0 +1,253 @@
+[
+    {
+        "Index": 635,
+        "Number": 636,
+        "Name": "Larvesta",
+        "STATS": {
+            "HP": 55,
+            "ATK": 85,
+            "DEF": 55,
+            "SPA": 50,
+            "SPD": 55,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Bug",
+            "Fire"
+        ],
+        "Ability": [
+            "Flame Body",
+            "Swarm",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Magnet Rise",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 6,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 12,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 16,
+                "Move": "Sunny Day"
+            },
+            {
+                "Level": 20,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 24,
+                "Move": "Screech"
+            },
+            {
+                "Level": 28,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 32,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 36,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 40,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 44,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 48,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 51,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 56,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 60,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 64,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Volcarona",
+                "Method": "Level 44"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Ice",
+                "Fighting",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Electric",
+                "Poison",
+                "Ground",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 85,
+            "DEF": 55,
+            "SPA": 50,
+            "SPD": 55,
+            "SPE": 60
+        }
+    }
+]

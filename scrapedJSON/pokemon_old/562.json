@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 561,
+        "Number": 562,
+        "Name": "Yamask",
+        "STATS": {
+            "HP": 38,
+            "ATK": 30,
+            "DEF": 85,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Ghost"
+        ],
+        "Ability": [
+            "Mummy"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Block",
+            "Iron Defense",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Pain Split",
+            "Spite",
+            "After You",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Endure"
+            },
+            {
+                "Level": 1,
+                "Move": "Haze"
+            },
+            {
+                "Level": 1,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 4,
+                "Move": "Spite"
+            },
+            {
+                "Level": 7,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 10,
+                "Move": "Trick"
+            },
+            {
+                "Level": 13,
+                "Move": "Block"
+            },
+            {
+                "Level": 16,
+                "Move": "Disable"
+            },
+            {
+                "Level": 19,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 22,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 25,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 28,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 31,
+                "Move": "Curse"
+            },
+            {
+                "Level": 34,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 37,
+                "Move": "Hex"
+            },
+            {
+                "Level": 40,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 43,
+                "Move": "Wonder Room"
+            },
+            {
+                "Level": 46,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 49,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 52,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 55,
+                "Move": "Grudge"
+            },
+            {
+                "Level": 58,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 62,
+                "Move": "Destiny Bond"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cofagrigus",
+                "Method": "Level 34"
+            }
+        ],
+        "Items": {
+            "5": "Spell Tag"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 38,
+            "ATK": 30,
+            "DEF": 85,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 30
+        }
+    }
+]

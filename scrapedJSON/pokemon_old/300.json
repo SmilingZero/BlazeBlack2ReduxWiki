@@ -1,0 +1,303 @@
+[
+    {
+        "Index": 299,
+        "Number": 300,
+        "Name": "Skitty",
+        "STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Wonder Skin",
+            "Normalize",
+            "Wonder Skin"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Uproar",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heal Bell",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Assist"
+            },
+            {
+                "Level": 7,
+                "Move": "Sing"
+            },
+            {
+                "Level": 10,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 13,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 16,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 19,
+                "Move": "Wish"
+            },
+            {
+                "Level": 22,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 25,
+                "Move": "Slash"
+            },
+            {
+                "Level": 27,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 29,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 32,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 35,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 38,
+                "Move": "Charm"
+            },
+            {
+                "Level": 38,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 41,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 45,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 49,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 53,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 57,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 61,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Delcatty",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {
+            "50": "Pecha Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 45,
+            "DEF": 45,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 50
+        }
+    }
+]

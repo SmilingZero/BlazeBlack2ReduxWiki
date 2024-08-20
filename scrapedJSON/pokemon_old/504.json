@@ -1,0 +1,252 @@
+[
+    {
+        "Index": 503,
+        "Number": 504,
+        "Name": "Patrat",
+        "STATS": {
+            "HP": 50,
+            "ATK": 55,
+            "DEF": 40,
+            "SPA": 35,
+            "SPD": 40,
+            "SPE": 43
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Analytic",
+            "Keen Eye",
+            "Analytic"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Seed Bomb",
+            "Low Kick",
+            "Gunk Shot",
+            "Last Resort",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "After You",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Bide"
+            },
+            {
+                "Level": 7,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 9,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 11,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 13,
+                "Move": "Low Kick"
+            },
+            {
+                "Level": 15,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 17,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 19,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 21,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 24,
+                "Move": "Hyper Fang"
+            },
+            {
+                "Level": 27,
+                "Move": "Detect"
+            },
+            {
+                "Level": 30,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 33,
+                "Move": "Screech"
+            },
+            {
+                "Level": 37,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 41,
+                "Move": "Flail"
+            },
+            {
+                "Level": 45,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 49,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 53,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 57,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Watchog",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 55,
+            "DEF": 39,
+            "SPA": 35,
+            "SPD": 39,
+            "SPE": 42
+        }
+    }
+]

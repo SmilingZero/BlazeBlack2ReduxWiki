@@ -23,8 +23,9 @@ theme:
     favicon: img/items/poke-ball.png
     features:
       - content.tabs.link
-      - navigation.header
+      - navigation.footer
 
+extra_css: [extra.css]
 
 nav:
 - Home: index.md

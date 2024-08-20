@@ -1,0 +1,222 @@
+[
+    {
+        "Index": 539,
+        "Number": 540,
+        "Name": "Sewaddle",
+        "STATS": {
+            "HP": 45,
+            "ATK": 53,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 42
+        },
+        "TYPE": [
+            "Bug",
+            "Grass"
+        ],
+        "Ability": [
+            "Swarm",
+            "Chlorophyll",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Seed Bomb",
+            "Magic Coat",
+            "Iron Defense",
+            "Electroweb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 7,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 9,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 11,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 14,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 17,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 20,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 25,
+                "Move": "Endure"
+            },
+            {
+                "Level": 31,
+                "Move": "Agility"
+            },
+            {
+                "Level": 36,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 43,
+                "Move": "Flail"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Swadloon",
+                "Method": "Level 21"
+            }
+        ],
+        "Items": {
+            "5": "Mental Herb"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Ground"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Poison",
+                "Bug",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Fire",
+                "Flying"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 53,
+            "DEF": 70,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 42
+        }
+    }
+]

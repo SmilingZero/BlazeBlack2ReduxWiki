@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 89,
+        "Number": 90,
+        "Name": "Shellder",
+        "STATS": {
+            "HP": 30,
+            "ATK": 65,
+            "DEF": 100,
+            "SPA": 45,
+            "SPD": 25,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Water",
+            "Ice"
+        ],
+        "Ability": [
+            "Shell Armor",
+            "Skill Link",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Iron Defense",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 10,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 13,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 16,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 19,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 22,
+                "Move": "Screech"
+            },
+            {
+                "Level": 25,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 28,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 32,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 36,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 40,
+                "Move": "Razor Shell"
+            },
+            {
+                "Level": 44,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 48,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 52,
+                "Move": "Twineedle"
+            },
+            {
+                "Level": 56,
+                "Move": "Payback"
+            },
+            {
+                "Level": 60,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 64,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 68,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 73,
+                "Move": "Ice Shard"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cloyster",
+                "Method": "Use Water Stone"
+            }
+        ],
+        "Items": {
+            "50": "Pearl",
+            "5": "Big Pearl"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Ice"
+            ],
+            "0.5x Resist": [
+                "Water"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 65,
+            "DEF": 100,
+            "SPA": 45,
+            "SPD": 25,
+            "SPE": 40
+        }
+    }
+]

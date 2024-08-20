@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 126,
+        "Number": 127,
+        "Name": "Pinsir",
+        "STATS": {
+            "HP": 65,
+            "ATK": 125,
+            "DEF": 100,
+            "SPA": 55,
+            "SPD": 70,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Bug"
+        ],
+        "Ability": [
+            "Moxie",
+            "Mold Breaker",
+            "Moxie"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Defense",
+            "Superpower",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bind"
+            },
+            {
+                "Level": 4,
+                "Move": "Harden"
+            },
+            {
+                "Level": 7,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 19,
+                "Move": "Vital Throw"
+            },
+            {
+                "Level": 22,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 25,
+                "Move": "Brick Break"
+            },
+            {
+                "Level": 28,
+                "Move": "X-Scissor"
+            },
+            {
+                "Level": 31,
+                "Move": "Storm Throw"
+            },
+            {
+                "Level": 35,
+                "Move": "Swords Dance"
+            },
+            {
+                "Level": 38,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 42,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 46,
+                "Move": "Storm Throw"
+            },
+            {
+                "Level": 51,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 56,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 60,
+                "Move": "Guillotine"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 125,
+            "DEF": 100,
+            "SPA": 55,
+            "SPD": 70,
+            "SPE": 85
+        }
+    }
+]

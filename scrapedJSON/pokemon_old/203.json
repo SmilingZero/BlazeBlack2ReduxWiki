@@ -1,0 +1,326 @@
+[
+    {
+        "Index": 202,
+        "Number": 203,
+        "Name": "Girafarig",
+        "STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 65,
+            "SPA": 95,
+            "SPD": 65,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Normal",
+            "Psychic"
+        ],
+        "Ability": [
+            "Sap Sipper",
+            "Rattled",
+            "Sap Sipper"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Trick",
+            "Recycle",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Agility"
+            },
+            {
+                "Level": 1,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 1,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 7,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 10,
+                "Move": "Guard Swap"
+            },
+            {
+                "Level": 10,
+                "Move": "Power Swap"
+            },
+            {
+                "Level": 13,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 16,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 19,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 22,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 25,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 28,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 31,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 34,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 37,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 41,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 44,
+                "Move": "Wish"
+            },
+            {
+                "Level": 48,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 52,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Persim Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 80,
+            "DEF": 65,
+            "SPA": 90,
+            "SPD": 65,
+            "SPE": 85
+        }
+    }
+]

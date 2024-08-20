@@ -1,0 +1,276 @@
+[
+    {
+        "Index": 442,
+        "Number": 443,
+        "Name": "Gible",
+        "STATS": {
+            "HP": 58,
+            "ATK": 70,
+            "DEF": 45,
+            "SPA": 40,
+            "SPD": 45,
+            "SPE": 42
+        },
+        "TYPE": [
+            "Dragon",
+            "Ground"
+        ],
+        "Ability": [
+            "Sand Veil",
+            "Rough Skin",
+            "Rough Skin"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Iron Head",
+            "Earth Power",
+            "Dragon Pulse",
+            "Iron Tail",
+            "Snore",
+            "Outrage",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 10,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 13,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 16,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 19,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 22,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 25,
+                "Move": "Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 31,
+                "Move": "Dual Chop"
+            },
+            {
+                "Level": 34,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 37,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 40,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 43,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 46,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 50,
+                "Move": "Outrage"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gabite",
+                "Method": "Level 24"
+            }
+        ],
+        "Items": {
+            "5": "Haban Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Ice"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 58,
+            "ATK": 70,
+            "DEF": 45,
+            "SPA": 40,
+            "SPD": 45,
+            "SPE": 42
+        }
+    }
+]

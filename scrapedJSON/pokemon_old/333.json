@@ -1,0 +1,251 @@
+[
+    {
+        "Index": 332,
+        "Number": 333,
+        "Name": "Swablu",
+        "STATS": {
+            "HP": 65,
+            "ATK": 50,
+            "DEF": 60,
+            "SPA": 50,
+            "SPD": 75,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Flying",
+            "Fairy"
+        ],
+        "Ability": [
+            "Natural Cure",
+            "Cloud Nine",
+            "Cloud Nine"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Heat Wave",
+            "Heal Bell",
+            "Tailwind",
+            "Roost",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Mist"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 4,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 7,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 10,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 16,
+                "Move": "Haze"
+            },
+            {
+                "Level": 19,
+                "Move": "Twister"
+            },
+            {
+                "Level": 22,
+                "Move": "Agility"
+            },
+            {
+                "Level": 25,
+                "Move": "Sing"
+            },
+            {
+                "Level": 28,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 31,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 34,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 37,
+                "Move": "Cotton Guard"
+            },
+            {
+                "Level": 40,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 43,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 46,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 49,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 52,
+                "Move": "Dragon Rush"
+            },
+            {
+                "Level": 55,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 58,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Altaria",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Fighting",
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Poison",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 40,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 75,
+            "SPE": 50
+        }
+    }
+]

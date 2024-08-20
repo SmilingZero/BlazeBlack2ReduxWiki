@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 210,
+        "Number": 211,
+        "Name": "Qwilfish",
+        "STATS": {
+            "HP": 65,
+            "ATK": 95,
+            "DEF": 95,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Water",
+            "Poison"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Swift Swim",
+            "Poison Point"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Pain Split",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 10,
+                "Move": "Haze"
+            },
+            {
+                "Level": 13,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 16,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 19,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 19,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 22,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 25,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 28,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 31,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 34,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 37,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 40,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 44,
+                "Move": "Payback"
+            },
+            {
+                "Level": 48,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 52,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 56,
+                "Move": "Wave Crash"
+            },
+            {
+                "Level": 60,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 64,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 68,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Poison Barb"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 95,
+            "DEF": 75,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 85
+        }
+    }
+]

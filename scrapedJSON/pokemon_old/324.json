@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 323,
+        "Number": 324,
+        "Name": "Torkoal",
+        "STATS": {
+            "HP": 70,
+            "ATK": 85,
+            "DEF": 140,
+            "SPA": 85,
+            "SPD": 70,
+            "SPE": 20
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Drought",
+            "Shell Armor",
+            "White Smoke"
+        ],
+        "Tutor Moves": [
+            "Earth Power",
+            "Iron Defense",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "After You",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 1,
+                "Move": "Smog"
+            },
+            {
+                "Level": 1,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 7,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 13,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 16,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 19,
+                "Move": "Curse"
+            },
+            {
+                "Level": 22,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 25,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 28,
+                "Move": "Protect"
+            },
+            {
+                "Level": 31,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 34,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 34,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 37,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 41,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 45,
+                "Move": "Lava Plume"
+            },
+            {
+                "Level": 49,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 53,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 57,
+                "Move": "Shell Smash"
+            },
+            {
+                "Level": 61,
+                "Move": "Fissure"
+            },
+            {
+                "Level": 65,
+                "Move": "Eruption"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 85,
+            "DEF": 140,
+            "SPA": 85,
+            "SPD": 70,
+            "SPE": 20
+        }
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 57,
+        "Number": 58,
+        "Name": "Growlithe",
+        "STATS": {
+            "HP": 55,
+            "ATK": 70,
+            "DEF": 45,
+            "SPA": 70,
+            "SPD": 50,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Flash Fire",
+            "Justified"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Helping Hand",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 4,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 7,
+                "Move": "Howl"
+            },
+            {
+                "Level": 10,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 13,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 16,
+                "Move": "Covet"
+            },
+            {
+                "Level": 18,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 20,
+                "Move": "Bite"
+            },
+            {
+                "Level": 22,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 24,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 26,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 28,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 30,
+                "Move": "Agility"
+            },
+            {
+                "Level": 33,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 36,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 39,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 42,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 46,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 50,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 54,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 58,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 62,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Arcanine",
+                "Method": "Use Fire Stone"
+            }
+        ],
+        "Items": {
+            "50": "Rawst Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 70,
+            "DEF": 45,
+            "SPA": 70,
+            "SPD": 50,
+            "SPE": 60
+        }
+    }
+]

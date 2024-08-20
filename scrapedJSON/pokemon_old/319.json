@@ -1,0 +1,298 @@
+[
+    {
+        "Index": 318,
+        "Number": 319,
+        "Name": "Sharpedo",
+        "STATS": {
+            "HP": 70,
+            "ATK": 120,
+            "DEF": 40,
+            "SPA": 95,
+            "SPD": 40,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Water",
+            "Dark"
+        ],
+        "Ability": [
+            "Rough Skin",
+            "Speed Boost",
+            "Speed Boost"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Bounce",
+            "Uproar",
+            "Icy Wind",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Snore",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Endure"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 4,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 7,
+                "Move": "Swift"
+            },
+            {
+                "Level": 11,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 14,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 16,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 18,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 20,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 23,
+                "Move": "Brine"
+            },
+            {
+                "Level": 26,
+                "Move": "Slash"
+            },
+            {
+                "Level": 26,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 29,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 30,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 38,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 42,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 46,
+                "Move": "Agility"
+            },
+            {
+                "Level": 50,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 54,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 58,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 62,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 66,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 70,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "DeepSeaTooth"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 120,
+            "DEF": 40,
+            "SPA": 95,
+            "SPD": 40,
+            "SPE": 95
+        }
+    }
+]

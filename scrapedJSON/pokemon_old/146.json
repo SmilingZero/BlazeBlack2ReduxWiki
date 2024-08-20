@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 145,
+        "Number": 146,
+        "Name": "Moltres",
+        "STATS": {
+            "HP": 90,
+            "ATK": 100,
+            "DEF": 90,
+            "SPA": 125,
+            "SPD": 85,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Fire",
+            "Flying"
+        ],
+        "Ability": [
+            "Pressure",
+            "Flame Body",
+            "Flame Body"
+        ],
+        "Tutor Moves": [
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 1,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 8,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 11,
+                "Move": "Agility"
+            },
+            {
+                "Level": 14,
+                "Move": "Endure"
+            },
+            {
+                "Level": 19,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 23,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 27,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 30,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 33,
+                "Move": "Sunny Day"
+            },
+            {
+                "Level": 37,
+                "Move": "Heat Wave"
+            },
+            {
+                "Level": 40,
+                "Move": "Solar Beam"
+            },
+            {
+                "Level": 43,
+                "Move": "Sky Attack"
+            },
+            {
+                "Level": 47,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 50,
+                "Move": "Hurricane"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Fighting",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Electric"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 100,
+            "DEF": 90,
+            "SPA": 125,
+            "SPD": 85,
+            "SPE": 90
+        }
+    }
+]

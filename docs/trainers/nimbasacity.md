@@ -51,13 +51,13 @@
     
         | Trainer | &nbsp; | Pokémon | &nbsp; |
         |: --- :|: --- :|: --- :|: --- :|
-        | <br>![][Emmet]<br>__Emmet__<br> | ![][604] <br> __[Eelektross]__ <br>Levitate<br>Lv. 34<br>Magnet<br>• Thunderbolt<br>• Brick Break<br>• Protect<br>• Thunder Wave | ![][197] <br> __[Umbreon]__ <br>Synchronize<br>Lv. 34<br>Leftovers<br>• Helping Hand<br>• Foul Play<br>• Fake Tears<br>• Assurance | &nbsp; |
+        | <br>![][Emmet]<br>__Emmet__<br> | ![][604] <br> __[Eelektross]__ <br>Levitate<br>Lv. 32<br>Magnet<br>• Thunderbolt<br>• Brick Break<br>• Protect<br>• Thunder Wave | ![][197] <br> __[Umbreon]__ <br>Synchronize<br>Lv. 32<br>Leftovers<br>• Helping Hand<br>• Foul Play<br>• Fake Tears<br>• Assurance | &nbsp; |
         
     === "Right"
     
         | Trainer | &nbsp; | Pokémon | &nbsp; |
         |: --- :|: --- :|: --- :|: --- :|
-        | <br>![][Ingo]<br>__Ingo__<br> | ![][609] <br> __[Chandelure]__ <br>Flash Fire<br>Lv. 34<br>Charcoal<br>• Heat Wave<br>• Hex<br>• Protect<br>• Will-O-Wisp | ![][196] <br> __[Espeon]__ <br>Magic Bounce<br>Lv. 34<br>Psychic Gem<br>• Psychic<br>• Dazzling Gleam<br>• Power Gem<br>• Aura Sphere | &nbsp; |
+        | <br>![][Ingo]<br>__Ingo__<br> | ![][609] <br> __[Chandelure]__ <br>Flash Fire<br>Lv. 34<br>Charcoal<br>• Heat Wave<br>• Hex<br>• Protect<br>• Will-O-Wisp | ![][196] <br> __[Espeon]__ <br>Magic Bounce<br>Lv. 32<br>Psychic Gem<br>• Psychic<br>• Dazzling Gleam<br>• Power Gem<br>• Aura Sphere | &nbsp; |
         
     === "Partner"
     

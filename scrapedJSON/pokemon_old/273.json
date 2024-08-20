@@ -1,0 +1,246 @@
+[
+    {
+        "Index": 272,
+        "Number": 273,
+        "Name": "Seedot",
+        "STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Pickpocket",
+            "Early Bird"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Foul Play",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 6,
+                "Move": "Counter"
+            },
+            {
+                "Level": 8,
+                "Move": "Payback"
+            },
+            {
+                "Level": 10,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 12,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 15,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 18,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 25,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 28,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 31,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 34,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 38,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 42,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 46,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 50,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 54,
+                "Move": "Explosion"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Nuzleaf",
+                "Method": "Level 14"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 30,
+            "SPD": 30,
+            "SPE": 30
+        }
+    }
+]

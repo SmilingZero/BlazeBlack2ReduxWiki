@@ -1,0 +1,341 @@
+[
+    {
+        "Index": 383,
+        "Number": 384,
+        "Name": "Rayquaza",
+        "STATS": {
+            "HP": 105,
+            "ATK": 150,
+            "DEF": 90,
+            "SPA": 150,
+            "SPD": 90,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Dragon",
+            "Flying"
+        ],
+        "Ability": [
+            "Air Lock"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Iron Head",
+            "Uproar",
+            "Earth Power",
+            "Icy Wind",
+            "Aqua Tail",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Tailwind",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "V-create"
+            },
+            {
+                "Level": 6,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 10,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 14,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 18,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 22,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 26,
+                "Move": "Extreme Speed"
+            },
+            {
+                "Level": 30,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 34,
+                "Move": "Fly"
+            },
+            {
+                "Level": 38,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 42,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 46,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 50,
+                "Move": "Hyper Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Ice"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 105,
+            "ATK": 150,
+            "DEF": 90,
+            "SPA": 150,
+            "SPD": 90,
+            "SPE": 95
+        }
+    }
+]

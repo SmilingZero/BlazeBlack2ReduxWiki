@@ -1,0 +1,258 @@
+[
+    {
+        "Index": 520,
+        "Number": 521,
+        "Name": "Unfezant",
+        "STATS": {
+            "HP": 80,
+            "ATK": 65,
+            "DEF": 80,
+            "SPA": 110,
+            "SPD": 55,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Unaware",
+            "Super Luck",
+            "Rivalry"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 6,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 8,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 10,
+                "Move": "Swift"
+            },
+            {
+                "Level": 12,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 14,
+                "Move": "Taunt"
+            },
+            {
+                "Level": 16,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 18,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 21,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 22,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 25,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 28,
+                "Move": "Wish"
+            },
+            {
+                "Level": 32,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 33,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 41,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 45,
+                "Move": "Agility"
+            },
+            {
+                "Level": 49,
+                "Move": "Detect"
+            },
+            {
+                "Level": 53,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 58,
+                "Move": "Sky Attack"
+            },
+            {
+                "Level": 63,
+                "Move": "Boomburst"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 105,
+            "DEF": 80,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 93
+        }
+    }
+]

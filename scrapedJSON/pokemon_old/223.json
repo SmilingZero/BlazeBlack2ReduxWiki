@@ -1,0 +1,257 @@
+[
+    {
+        "Index": 222,
+        "Number": 223,
+        "Name": "Remoraid",
+        "STATS": {
+            "HP": 35,
+            "ATK": 65,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 35,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Hustle",
+            "Sniper",
+            "Moody"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Seed Bomb",
+            "Bounce",
+            "Gunk Shot",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 1,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 6,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 13,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 16,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 16,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Soak"
+            },
+            {
+                "Level": 28,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 31,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 34,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 37,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 40,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 43,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 46,
+                "Move": "Hyper Beam"
+            },
+            {
+                "Level": 50,
+                "Move": "Water Spout"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Octillery",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 65,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 35,
+            "SPE": 65
+        }
+    }
+]

@@ -1,0 +1,299 @@
+[
+    {
+        "Index": 280,
+        "Number": 281,
+        "Name": "Kirlia",
+        "STATS": {
+            "HP": 38,
+            "ATK": 35,
+            "DEF": 35,
+            "SPA": 85,
+            "SPD": 75,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Psychic",
+            "Fairy"
+        ],
+        "Ability": [
+            "Synchronize",
+            "Trace",
+            "Telepathy"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Pain Split",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Telekinesis"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Swift"
+            },
+            {
+                "Level": 6,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 8,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 10,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 12,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 14,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 16,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 19,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 20,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 23,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 26,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 29,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 31,
+                "Move": "Disable"
+            },
+            {
+                "Level": 35,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 39,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 43,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 47,
+                "Move": "Recover"
+            },
+            {
+                "Level": 51,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 55,
+                "Move": "Destiny Bond"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gardevoir",
+                "Method": "Level 30"
+            },
+            {
+                "To": "Gallade",
+                "Method": "Use Dawn Stoneon male"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Poison",
+                "Ghost",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 38,
+            "ATK": 35,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 50
+        }
+    }
+]

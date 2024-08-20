@@ -1,0 +1,271 @@
+[
+    {
+        "Index": 261,
+        "Number": 262,
+        "Name": "Mightyena",
+        "STATS": {
+            "HP": 70,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Moxie",
+            "Quick Feet"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Super Fang",
+            "Uproar",
+            "Foul Play",
+            "Dark Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Spite",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Howl"
+            },
+            {
+                "Level": 6,
+                "Move": "Bite"
+            },
+            {
+                "Level": 8,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Spite"
+            },
+            {
+                "Level": 12,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 14,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 14,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 14,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 16,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 18,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 22,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 25,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 29,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 33,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 37,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 41,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 45,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 49,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 53,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 57,
+                "Move": "Foul Play"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Pecha Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 70,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 70
+        }
+    }
+]

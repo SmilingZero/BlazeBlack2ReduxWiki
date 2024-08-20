@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 326,
+        "Number": 327,
+        "Name": "Spinda",
+        "STATS": {
+            "HP": 75,
+            "ATK": 75,
+            "DEF": 75,
+            "SPA": 75,
+            "SPD": 75,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Contrary",
+            "Tangled Feet",
+            "Contrary"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Low Kick",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Role Play",
+            "Drain Punch",
+            "Helping Hand",
+            "Trick",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Disable"
+            },
+            {
+                "Level": 1,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 7,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 13,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 16,
+                "Move": "Dizzy Punch"
+            },
+            {
+                "Level": 19,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 22,
+                "Move": "Teeter Dance"
+            },
+            {
+                "Level": 25,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 28,
+                "Move": "Flail"
+            },
+            {
+                "Level": 31,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 34,
+                "Move": "Psych Up"
+            },
+            {
+                "Level": 37,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 40,
+                "Move": "Trick Room"
+            },
+            {
+                "Level": 44,
+                "Move": "Wish"
+            },
+            {
+                "Level": 48,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 52,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 56,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 60,
+                "Move": "Boomburst"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Chesto Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 60,
+            "SPA": 60,
+            "SPD": 60,
+            "SPE": 60
+        }
+    }
+]

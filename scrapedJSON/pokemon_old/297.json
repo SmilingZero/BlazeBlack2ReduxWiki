@@ -1,0 +1,294 @@
+[
+    {
+        "Index": 296,
+        "Number": 297,
+        "Name": "Hariyama",
+        "STATS": {
+            "HP": 144,
+            "ATK": 120,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Guts",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Superpower",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bullet Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 4,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Arm Thrust"
+            },
+            {
+                "Level": 9,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 11,
+                "Move": "Force Palm"
+            },
+            {
+                "Level": 13,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 15,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 17,
+                "Move": "Vital Throw"
+            },
+            {
+                "Level": 19,
+                "Move": "Brine"
+            },
+            {
+                "Level": 21,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 25,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 29,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 33,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 37,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 41,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 45,
+                "Move": "Counter"
+            },
+            {
+                "Level": 49,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 53,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 59,
+                "Move": "Heavy Slam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "King's Rock"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 144,
+            "ATK": 120,
+            "DEF": 60,
+            "SPA": 40,
+            "SPD": 60,
+            "SPE": 50
+        }
+    }
+]

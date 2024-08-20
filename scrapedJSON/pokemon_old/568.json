@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 567,
+        "Number": 568,
+        "Name": "Trubbish",
+        "STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 62,
+            "SPA": 40,
+            "SPD": 62,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Aftermath",
+            "Stench",
+            "Sticky Hold"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Gunk Shot",
+            "Dark Pulse",
+            "Snore",
+            "Pain Split",
+            "Giga Drain",
+            "Drain Punch",
+            "Spite",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 7,
+                "Move": "Curse"
+            },
+            {
+                "Level": 10,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 13,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 16,
+                "Move": "Toxic"
+            },
+            {
+                "Level": 19,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 22,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 25,
+                "Move": "Fling"
+            },
+            {
+                "Level": 28,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 31,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 34,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 34,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 37,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 40,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 44,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 48,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 52,
+                "Move": "Payback"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Self-Destruct"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Garbodor",
+                "Method": "Level 36"
+            }
+        ],
+        "Items": {
+            "5": "Black Sludge",
+            "1": "Nugget"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 50,
+            "DEF": 62,
+            "SPA": 40,
+            "SPD": 62,
+            "SPE": 65
+        }
+    }
+]

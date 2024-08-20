@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 573,
+        "Number": 574,
+        "Name": "Gothita",
+        "STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Psychic",
+            "Dark"
+        ],
+        "Ability": [
+            "Shadow Tag",
+            "Frisk",
+            "Frisk"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Zen Headbutt",
+            "Snore",
+            "Role Play",
+            "Heal Bell",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 4,
+                "Move": "Torment"
+            },
+            {
+                "Level": 7,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 10,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 13,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 16,
+                "Move": "Charm"
+            },
+            {
+                "Level": 19,
+                "Move": "Payback"
+            },
+            {
+                "Level": 22,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 25,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 28,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 31,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 34,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 37,
+                "Move": "Magic Room"
+            },
+            {
+                "Level": 41,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 45,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 49,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 53,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 57,
+                "Move": "Night Daze"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gothorita",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 65,
+            "SPE": 45
+        }
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 47,
+        "Number": 48,
+        "Name": "Venonat",
+        "STATS": {
+            "HP": 70,
+            "ATK": 55,
+            "DEF": 55,
+            "SPA": 50,
+            "SPD": 60,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Compoundeyes",
+            "Tinted Lens",
+            "Run Away"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Zen Headbutt",
+            "Snore",
+            "Giga Drain",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 5,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 8,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 11,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 14,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 16,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 16,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 16,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 18,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 23,
+                "Move": "Disable"
+            },
+            {
+                "Level": 26,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 29,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 32,
+                "Move": "Skill Swap"
+            },
+            {
+                "Level": 35,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 38,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 41,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 44,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 47,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 50,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Venomoth",
+                "Method": "Level 28"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 55,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 55,
+            "SPE": 45
+        }
+    }
+]

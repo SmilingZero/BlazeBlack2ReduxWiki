@@ -1,0 +1,266 @@
+[
+    {
+        "Index": 254,
+        "Number": 255,
+        "Name": "Torchic",
+        "STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 40,
+            "SPA": 70,
+            "SPD": 50,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Quick Feet",
+            "Blaze",
+            "Quick Feet"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Bounce",
+            "Low Kick",
+            "Last Resort",
+            "Snore",
+            "Heat Wave",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Peck"
+            },
+            {
+                "Level": 13,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 17,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 20,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Incinerate"
+            },
+            {
+                "Level": 25,
+                "Move": "U-turn"
+            },
+            {
+                "Level": 28,
+                "Move": "Counter"
+            },
+            {
+                "Level": 31,
+                "Move": "Heat Crash"
+            },
+            {
+                "Level": 34,
+                "Move": "Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 40,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 43,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 46,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 49,
+                "Move": "Last Resort"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Combusken",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 40,
+            "SPA": 70,
+            "SPD": 50,
+            "SPE": 45
+        }
+    }
+]

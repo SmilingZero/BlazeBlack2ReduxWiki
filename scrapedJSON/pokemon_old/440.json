@@ -1,0 +1,239 @@
+[
+    {
+        "Index": 439,
+        "Number": 440,
+        "Name": "Happiny",
+        "STATS": {
+            "HP": 100,
+            "ATK": 5,
+            "DEF": 5,
+            "SPA": 15,
+            "SPD": 65,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Natural Cure",
+            "Serene Grace",
+            "Friend Guard"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Uproar",
+            "Gravity",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Heal Bell",
+            "Drain Punch",
+            "Helping Hand",
+            "Endeavor",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Metronome"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Copycat"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 3,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 6,
+                "Move": "Sing"
+            },
+            {
+                "Level": 8,
+                "Move": "Double Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Covet"
+            },
+            {
+                "Level": 12,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 14,
+                "Move": "Charm"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 18,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 20,
+                "Move": "Present"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Chansey",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "50": "Lucky Egg",
+            "5": "Lucky Egg"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 5,
+            "DEF": 5,
+            "SPA": 15,
+            "SPD": 65,
+            "SPE": 30
+        }
+    }
+]

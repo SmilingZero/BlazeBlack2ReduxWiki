@@ -14,7 +14,8 @@ def getint(name):
 docOutFolder = 'docs/pokemons/'
 os.makedirs(docOutFolder, exist_ok=True)
 pkmnDir = 'scrapedJSON/pokemon/'
-listOfPokemonFiles = os.listdir(pkmnDir)
+listOfPokemonFiles = [f for f in os.listdir(pkmnDir) if f.endswith('.json')]
+# listOfPokemonFiles = ['413.json']
 listOfPokemonFiles.sort(key=getint)
 moveList = 'scrapedJSON/ref/moves_with_descriptions.json'
 

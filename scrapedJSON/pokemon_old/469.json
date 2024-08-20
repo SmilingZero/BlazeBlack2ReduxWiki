@@ -1,0 +1,255 @@
+[
+    {
+        "Index": 468,
+        "Number": 469,
+        "Name": "Yanmega",
+        "STATS": {
+            "HP": 86,
+            "ATK": 76,
+            "DEF": 86,
+            "SPA": 116,
+            "SPD": 56,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Speed Boost",
+            "Tinted Lens",
+            "Frisk"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Uproar",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Screech"
+            },
+            {
+                "Level": 10,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Sonic Boom"
+            },
+            {
+                "Level": 19,
+                "Move": "Detect"
+            },
+            {
+                "Level": 22,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 25,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 28,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 31,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 34,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 38,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 42,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 46,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 50,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 54,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 58,
+                "Move": "Air Slash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Wide Lens"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 86,
+            "ATK": 76,
+            "DEF": 86,
+            "SPA": 116,
+            "SPD": 56,
+            "SPE": 95
+        }
+    }
+]

@@ -1,0 +1,237 @@
+[
+    {
+        "Index": 419,
+        "Number": 420,
+        "Name": "Cherubi",
+        "STATS": {
+            "HP": 55,
+            "ATK": 35,
+            "DEF": 60,
+            "SPA": 62,
+            "SPD": 53,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Chlorophyll"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 3,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 5,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 8,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 10,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 12,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 14,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 16,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 18,
+                "Move": "Sunny Day"
+            },
+            {
+                "Level": 21,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 24,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 27,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 30,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 34,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 38,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 42,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 46,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 50,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 55,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 60,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 65,
+                "Move": "Leaf Storm"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cherrim",
+                "Method": "Level 18"
+            }
+        ],
+        "Items": {
+            "5": "Miracle Seed"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 35,
+            "DEF": 45,
+            "SPA": 62,
+            "SPD": 53,
+            "SPE": 35
+        }
+    }
+]

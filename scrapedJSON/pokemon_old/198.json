@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 197,
+        "Number": 198,
+        "Name": "Murkrow",
+        "STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 42,
+            "SPA": 85,
+            "SPD": 42,
+            "SPE": 91
+        },
+        "TYPE": [
+            "Dark",
+            "Flying"
+        ],
+        "Ability": [
+            "Prankster",
+            "Super Luck",
+            "Prankster"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Spite",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 5,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 9,
+                "Move": "Haze"
+            },
+            {
+                "Level": 12,
+                "Move": "Screech"
+            },
+            {
+                "Level": 15,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 18,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 21,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 24,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 27,
+                "Move": "Torment"
+            },
+            {
+                "Level": 30,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 33,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 36,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 40,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 44,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 48,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 52,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 56,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 60,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 64,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Honchkrow",
+                "Method": "Use Dusk Stone"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 42,
+            "SPA": 85,
+            "SPD": 42,
+            "SPE": 91
+        }
+    }
+]

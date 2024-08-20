@@ -1,0 +1,286 @@
+[
+    {
+        "Index": 646,
+        "Number": 647,
+        "Name": "Keldeo - Ordinary",
+        "STATS": {
+            "HP": 91,
+            "ATK": 72,
+            "DEF": 90,
+            "SPA": 129,
+            "SPD": 90,
+            "SPE": 108
+        },
+        "TYPE": [
+            "Water",
+            "Fighting"
+        ],
+        "Ability": [
+            "Justified"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Bounce",
+            "Last Resort",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Secret Sword"
+            },
+            {
+                "Level": 1,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 1,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 7,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 14,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 21,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 28,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 33,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 38,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 41,
+                "Move": "Sacred Sword"
+            },
+            {
+                "Level": 44,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 47,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 50,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [
+            704
+        ],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Bug",
+                "Rock",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 91,
+            "ATK": 72,
+            "DEF": 90,
+            "SPA": 129,
+            "SPD": 90,
+            "SPE": 108
+        }
+    },
+    {
+        "Index": 704,
+        "Name": "Keldeo - Resolute",
+        "Other Form Index": [],
+        "TYPE": [
+            "Water",
+            "Fighting"
+        ],
+        "Number": 647
+    }
+]

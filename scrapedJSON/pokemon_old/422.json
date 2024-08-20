@@ -1,0 +1,235 @@
+[
+    {
+        "Index": 421,
+        "Number": 422,
+        "Name": "Shellos",
+        "STATS": {
+            "HP": 76,
+            "ATK": 48,
+            "DEF": 48,
+            "SPA": 57,
+            "SPD": 62,
+            "SPE": 34
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Sticky Hold",
+            "Storm Drain",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Earth Power",
+            "Icy Wind",
+            "Snore",
+            "Pain Split",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Harden"
+            },
+            {
+                "Level": 10,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 12,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 14,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 16,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 18,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 20,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 22,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 24,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 26,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 28,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 30,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 31,
+                "Move": "Curse"
+            },
+            {
+                "Level": 34,
+                "Move": "Brine"
+            },
+            {
+                "Level": 37,
+                "Move": "Counter"
+            },
+            {
+                "Level": 37,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 40,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 40,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 44,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 48,
+                "Move": "Recover"
+            },
+            {
+                "Level": 52,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Gastrodon",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 76,
+            "ATK": 48,
+            "DEF": 48,
+            "SPA": 57,
+            "SPD": 62,
+            "SPE": 34
+        }
+    }
+]

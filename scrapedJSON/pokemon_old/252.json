@@ -1,0 +1,266 @@
+[
+    {
+        "Index": 251,
+        "Number": 252,
+        "Name": "Treecko",
+        "STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Unburden",
+            "Overgrow",
+            "Unburden"
+        ],
+        "Tutor Moves": [
+            "Grass Pledge",
+            "Seed Bomb",
+            "Low Kick",
+            "ThunderPunch",
+            "Iron Tail",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Drain Punch",
+            "Worry Seed",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 5,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 7,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 13,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 16,
+                "Move": "Agility"
+            },
+            {
+                "Level": 19,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 25,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 28,
+                "Move": "Dragon Tail"
+            },
+            {
+                "Level": 31,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 34,
+                "Move": "Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 40,
+                "Move": "Screech"
+            },
+            {
+                "Level": 43,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 46,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 49,
+                "Move": "Leaf Blade"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Grovyle",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 35,
+            "SPA": 65,
+            "SPD": 55,
+            "SPE": 70
+        }
+    }
+]

@@ -1,0 +1,283 @@
+[
+    {
+        "Index": 629,
+        "Number": 630,
+        "Name": "Mandibuzz",
+        "STATS": {
+            "HP": 110,
+            "ATK": 65,
+            "DEF": 105,
+            "SPA": 55,
+            "SPD": 95,
+            "SPE": 80
+        },
+        "TYPE": [
+            "Dark",
+            "Flying"
+        ],
+        "Ability": [
+            "Overcoat",
+            "Weak Armor",
+            "Overcoat"
+        ],
+        "Tutor Moves": [
+            "Block",
+            "Foul Play",
+            "Iron Defense",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 6,
+                "Move": "Flatter"
+            },
+            {
+                "Level": 12,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 15,
+                "Move": "Pluck"
+            },
+            {
+                "Level": 18,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 21,
+                "Move": "Block"
+            },
+            {
+                "Level": 24,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 27,
+                "Move": "Payback"
+            },
+            {
+                "Level": 30,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 33,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 36,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 39,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 40,
+                "Move": "Dark Pulse"
+            },
+            {
+                "Level": 40,
+                "Move": "Bone Rush"
+            },
+            {
+                "Level": 44,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 47,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 51,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 55,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 58,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 62,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 66,
+                "Move": "Defog"
+            },
+            {
+                "Level": 70,
+                "Move": "Superpower"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 65,
+            "DEF": 105,
+            "SPA": 55,
+            "SPD": 95,
+            "SPE": 80
+        }
+    }
+]

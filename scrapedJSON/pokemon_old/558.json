@@ -1,0 +1,284 @@
+[
+    {
+        "Index": 557,
+        "Number": 558,
+        "Name": "Crustle",
+        "STATS": {
+            "HP": 70,
+            "ATK": 105,
+            "DEF": 125,
+            "SPA": 65,
+            "SPD": 75,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Bug",
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Shell Armor",
+            "Weak Armor"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Block",
+            "Iron Defense",
+            "Snore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Curse"
+            },
+            {
+                "Level": 1,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 8,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 12,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Flail"
+            },
+            {
+                "Level": 19,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 24,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 27,
+                "Move": "Slash"
+            },
+            {
+                "Level": 27,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 30,
+                "Move": "Rock Polish"
+            },
+            {
+                "Level": 34,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 38,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 42,
+                "Move": "X-Scissor"
+            },
+            {
+                "Level": 46,
+                "Move": "Stealth Rock"
+            },
+            {
+                "Level": 50,
+                "Move": "Shell Smash"
+            },
+            {
+                "Level": 54,
+                "Move": "Rock Wrecker"
+            },
+            {
+                "Level": 58,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 62,
+                "Move": "Accelerock"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Hard Stone",
+            "1": "Rare Bone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 95,
+            "DEF": 125,
+            "SPA": 65,
+            "SPD": 75,
+            "SPE": 45
+        }
+    }
+]

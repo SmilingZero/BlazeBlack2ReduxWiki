@@ -1,0 +1,247 @@
+[
+    {
+        "Index": 143,
+        "Number": 144,
+        "Name": "Articuno",
+        "STATS": {
+            "HP": 90,
+            "ATK": 85,
+            "DEF": 100,
+            "SPA": 95,
+            "SPD": 125,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Ice",
+            "Flying"
+        ],
+        "Ability": [
+            "Pressure",
+            "Snow Warning",
+            "Snow Cloak"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Icy Wind",
+            "Snore",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 8,
+                "Move": "Mist"
+            },
+            {
+                "Level": 11,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 14,
+                "Move": "Mind Reader"
+            },
+            {
+                "Level": 19,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 23,
+                "Move": "Agility"
+            },
+            {
+                "Level": 27,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 30,
+                "Move": "Reflect"
+            },
+            {
+                "Level": 33,
+                "Move": "Ice Beam"
+            },
+            {
+                "Level": 37,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 40,
+                "Move": "Blizzard"
+            },
+            {
+                "Level": 43,
+                "Move": "Roost"
+            },
+            {
+                "Level": 47,
+                "Move": "Sheer Cold"
+            },
+            {
+                "Level": 50,
+                "Move": "Hurricane"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 85,
+            "DEF": 100,
+            "SPA": 95,
+            "SPD": 125,
+            "SPE": 85
+        }
+    }
+]

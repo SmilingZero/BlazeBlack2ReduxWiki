@@ -1,0 +1,258 @@
+[
+    {
+        "Index": 600,
+        "Number": 601,
+        "Name": "Klinklang",
+        "STATS": {
+            "HP": 60,
+            "ATK": 100,
+            "DEF": 115,
+            "SPA": 70,
+            "SPD": 85,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Steel"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Bind",
+            "Snore",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 1,
+                "Move": "Gear Grind"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 4,
+                "Move": "Bind"
+            },
+            {
+                "Level": 8,
+                "Move": "Charge"
+            },
+            {
+                "Level": 12,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 15,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 18,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 21,
+                "Move": "Autotomize"
+            },
+            {
+                "Level": 24,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 27,
+                "Move": "Spark"
+            },
+            {
+                "Level": 30,
+                "Move": "Gear Grind"
+            },
+            {
+                "Level": 33,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 36,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 40,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 43,
+                "Move": "Shift Gear"
+            },
+            {
+                "Level": 46,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 49,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 52,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 55,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 59,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 62,
+                "Move": "Hyper Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 100,
+            "DEF": 115,
+            "SPA": 70,
+            "SPD": 85,
+            "SPE": 90
+        }
+    }
+]

@@ -1,0 +1,407 @@
+[
+    {
+        "Index": 149,
+        "Number": 150,
+        "Name": "Mewtwo",
+        "STATS": {
+            "HP": 106,
+            "ATK": 110,
+            "DEF": 90,
+            "SPA": 154,
+            "SPD": 90,
+            "SPE": 130
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Pressure",
+            "Unnerve",
+            "Unnerve"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Foul Play",
+            "Gravity",
+            "Icy Wind",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Drain Punch",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 1,
+                "Move": "Hurricane"
+            },
+            {
+                "Level": 1,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 1,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 1,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Disable"
+            },
+            {
+                "Level": 1,
+                "Move": "Barrier"
+            },
+            {
+                "Level": 5,
+                "Move": "Swift"
+            },
+            {
+                "Level": 10,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 15,
+                "Move": "Psych Up"
+            },
+            {
+                "Level": 20,
+                "Move": "Miracle Eye"
+            },
+            {
+                "Level": 25,
+                "Move": "Mist"
+            },
+            {
+                "Level": 30,
+                "Move": "Psycho Cut"
+            },
+            {
+                "Level": 35,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 40,
+                "Move": "Power Swap"
+            },
+            {
+                "Level": 40,
+                "Move": "Guard Swap"
+            },
+            {
+                "Level": 45,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 50,
+                "Move": "Me First"
+            },
+            {
+                "Level": 55,
+                "Move": "Recover"
+            },
+            {
+                "Level": 60,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 65,
+                "Move": "Aura Sphere"
+            },
+            {
+                "Level": 70,
+                "Move": "Psystrike"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 106,
+            "ATK": 110,
+            "DEF": 90,
+            "SPA": 154,
+            "SPD": 90,
+            "SPE": 130
+        }
+    }
+]

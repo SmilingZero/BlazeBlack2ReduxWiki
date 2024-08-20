@@ -1,0 +1,316 @@
+[
+    {
+        "Index": 341,
+        "Number": 342,
+        "Name": "Crawdaunt",
+        "STATS": {
+            "HP": 63,
+            "ATK": 120,
+            "DEF": 85,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Water",
+            "Dark"
+        ],
+        "Ability": [
+            "Adaptability",
+            "Hyper Cutter",
+            "Adaptability"
+        ],
+        "Tutor Moves": [
+            "Iron Defense",
+            "Superpower",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Spite",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 8,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 10,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 13,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 16,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 18,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 20,
+                "Move": "Razor Shell"
+            },
+            {
+                "Level": 23,
+                "Move": "Spite"
+            },
+            {
+                "Level": 26,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 29,
+                "Move": "Slash"
+            },
+            {
+                "Level": 29,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 30,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 33,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 37,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 41,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 45,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 49,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 53,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 57,
+                "Move": "Crabhammer"
+            },
+            {
+                "Level": 61,
+                "Move": "Trump Card"
+            },
+            {
+                "Level": 65,
+                "Move": "Guillotine"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 63,
+            "ATK": 120,
+            "DEF": 85,
+            "SPA": 90,
+            "SPD": 55,
+            "SPE": 55
+        }
+    }
+]

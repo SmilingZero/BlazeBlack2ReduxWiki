@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 457,
+        "Number": 458,
+        "Name": "Mantyke",
+        "STATS": {
+            "HP": 45,
+            "ATK": 20,
+            "DEF": 50,
+            "SPA": 60,
+            "SPD": 120,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Water",
+            "Flying"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Water Absorb",
+            "Water Veil"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Icy Wind",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 13,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 16,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 25,
+                "Move": "Twister"
+            },
+            {
+                "Level": 28,
+                "Move": "Agility"
+            },
+            {
+                "Level": 31,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 37,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 40,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 43,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 46,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 49,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 53,
+                "Move": "Haze"
+            },
+            {
+                "Level": 56,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Mantine",
+                "Method": "Level up with pokemon with Remoraid in party"
+            },
+            {
+                "To": "Mantine",
+                "Method": "Level 27"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Fighting",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Rock"
+            ],
+            "4x Weak": [
+                "Electric"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 20,
+            "DEF": 50,
+            "SPA": 60,
+            "SPD": 120,
+            "SPE": 50
+        }
+    }
+]

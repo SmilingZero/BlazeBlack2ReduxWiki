@@ -1,14 +1,5 @@
 # Item Changes (v1.4.1) 
 
-
-
-## EVless Mode Information
-
-In both the Complete EVless and Classic EVless versions of Redux, wild Pokémon do not carry any held items, except for the Latios, Latias and Giratina.
-
- - This is to double down on removing player advantages over the A.I.!
-
-
 ## Modified Items
 
  The following items have been replaced for new items:

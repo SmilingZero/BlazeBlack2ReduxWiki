@@ -1,0 +1,288 @@
+[
+    {
+        "Index": 538,
+        "Number": 539,
+        "Name": "Sawk",
+        "STATS": {
+            "HP": 75,
+            "ATK": 125,
+            "DEF": 75,
+            "SPA": 30,
+            "SPD": 75,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Mold Breaker",
+            "Mold Breaker"
+        ],
+        "Tutor Moves": [
+            "Dual Chop",
+            "Low Kick",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Superpower",
+            "Snore",
+            "Knock Off",
+            "Pain Split",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Dual Chop"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "Bind"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 11,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 15,
+                "Move": "Endure"
+            },
+            {
+                "Level": 19,
+                "Move": "Karate Chop"
+            },
+            {
+                "Level": 22,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 25,
+                "Move": "Brick Break"
+            },
+            {
+                "Level": 28,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 31,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 34,
+                "Move": "Payback"
+            },
+            {
+                "Level": 37,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 41,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 45,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 49,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 53,
+                "Move": "Block"
+            },
+            {
+                "Level": 57,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 61,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 65,
+                "Move": "Reversal"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Black Belt",
+            "1": "Expert Belt"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 75,
+            "ATK": 125,
+            "DEF": 75,
+            "SPA": 30,
+            "SPD": 75,
+            "SPE": 85
+        }
+    }
+]

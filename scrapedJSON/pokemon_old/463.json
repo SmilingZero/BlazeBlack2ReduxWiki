@@ -1,0 +1,355 @@
+[
+    {
+        "Index": 462,
+        "Number": 463,
+        "Name": "Lickilicky",
+        "STATS": {
+            "HP": 110,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 80,
+            "SPD": 95,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Normal"
+        ],
+        "Ability": [
+            "Cloud Nine",
+            "Gluttony",
+            "Cloud Nine"
+        ],
+        "Tutor Moves": [
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Block",
+            "Icy Wind",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 4,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 7,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 10,
+                "Move": "Screech"
+            },
+            {
+                "Level": 13,
+                "Move": "Me First"
+            },
+            {
+                "Level": 16,
+                "Move": "Curse"
+            },
+            {
+                "Level": 19,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 22,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 25,
+                "Move": "Disable"
+            },
+            {
+                "Level": 28,
+                "Move": "Screech"
+            },
+            {
+                "Level": 31,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 34,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 37,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 40,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 43,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 46,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 50,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 54,
+                "Move": "Power Whip"
+            },
+            {
+                "Level": 58,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 62,
+                "Move": "Belly Drum"
+            },
+            {
+                "Level": 66,
+                "Move": "Wring Out"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Lagging Tail"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 110,
+            "ATK": 85,
+            "DEF": 95,
+            "SPA": 80,
+            "SPD": 95,
+            "SPE": 50
+        }
+    }
+]

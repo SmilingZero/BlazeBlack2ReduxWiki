@@ -1,0 +1,283 @@
+[
+    {
+        "Index": 335,
+        "Number": 336,
+        "Name": "Seviper",
+        "STATS": {
+            "HP": 75,
+            "ATK": 115,
+            "DEF": 60,
+            "SPA": 80,
+            "SPD": 60,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Shed Skin",
+            "Infiltrator",
+            "Infiltrator"
+        ],
+        "Tutor Moves": [
+            "Aqua Tail",
+            "Dark Pulse",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Giga Drain",
+            "Gastro Acid",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 4,
+                "Move": "Screech"
+            },
+            {
+                "Level": 7,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 10,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 13,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 16,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 19,
+                "Move": "Slash"
+            },
+            {
+                "Level": 19,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 22,
+                "Move": "Glare"
+            },
+            {
+                "Level": 26,
+                "Move": "Haze"
+            },
+            {
+                "Level": 30,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 34,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 38,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 42,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 46,
+                "Move": "Coil"
+            },
+            {
+                "Level": 50,
+                "Move": "Poison Tail"
+            },
+            {
+                "Level": 54,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 58,
+                "Move": "Power Whip"
+            },
+            {
+                "Level": 62,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 66,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 73,
+            "ATK": 100,
+            "DEF": 60,
+            "SPA": 100,
+            "SPD": 60,
+            "SPE": 65
+        }
+    }
+]

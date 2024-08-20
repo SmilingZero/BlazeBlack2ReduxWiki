@@ -1,0 +1,324 @@
+[
+    {
+        "Index": 483,
+        "Number": 484,
+        "Name": "Palkia",
+        "STATS": {
+            "HP": 90,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 150,
+            "SPD": 120,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Water",
+            "Dragon"
+        ],
+        "Ability": [
+            "Pressure",
+            "Telepathy",
+            "Telepathy"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Earth Power",
+            "Gravity",
+            "Aqua Tail",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 1,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 6,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 10,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 14,
+                "Move": "Slash"
+            },
+            {
+                "Level": 18,
+                "Move": "Power Gem"
+            },
+            {
+                "Level": 22,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 26,
+                "Move": "Dragon Claw"
+            },
+            {
+                "Level": 30,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 38,
+                "Move": "Aura Sphere"
+            },
+            {
+                "Level": 42,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 46,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 50,
+                "Move": "Spacial Rend"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Fire",
+                "Water"
+            ],
+            "0.5x Resist": [
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 90,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 150,
+            "SPD": 120,
+            "SPE": 100
+        }
+    }
+]

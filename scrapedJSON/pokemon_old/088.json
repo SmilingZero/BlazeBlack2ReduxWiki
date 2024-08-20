@@ -1,0 +1,288 @@
+[
+    {
+        "Index": 87,
+        "Number": 88,
+        "Name": "Grimer",
+        "STATS": {
+            "HP": 80,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 70,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Poison Touch",
+            "Stench",
+            "Poison Touch"
+        ],
+        "Tutor Moves": [
+            "Gunk Shot",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Snore",
+            "Pain Split",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 4,
+                "Move": "Harden"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 10,
+                "Move": "Disable"
+            },
+            {
+                "Level": 13,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 15,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 17,
+                "Move": "Minimize"
+            },
+            {
+                "Level": 19,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 21,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 23,
+                "Move": "Haze"
+            },
+            {
+                "Level": 25,
+                "Move": "Poison Jab"
+            },
+            {
+                "Level": 27,
+                "Move": "Fling"
+            },
+            {
+                "Level": 29,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 32,
+                "Move": "Payback"
+            },
+            {
+                "Level": 35,
+                "Move": "Screech"
+            },
+            {
+                "Level": 38,
+                "Move": "Sludge Bomb"
+            },
+            {
+                "Level": 42,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 46,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 50,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 54,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 58,
+                "Move": "Memento"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Muk",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {
+            "5": "Black Sludge"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 80,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 25
+        }
+    }
+]

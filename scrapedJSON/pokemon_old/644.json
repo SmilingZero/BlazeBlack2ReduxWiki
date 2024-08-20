@@ -1,0 +1,306 @@
+[
+    {
+        "Index": 643,
+        "Number": 644,
+        "Name": "Zekrom",
+        "STATS": {
+            "HP": 100,
+            "ATK": 150,
+            "DEF": 120,
+            "SPA": 120,
+            "SPD": 100,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Dragon",
+            "Electric"
+        ],
+        "Ability": [
+            "Teravolt"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Signal Beam",
+            "ThunderPunch",
+            "Earth Power",
+            "Magnet Rise",
+            "Zen Headbutt",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Snore",
+            "Tailwind",
+            "Roost",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 1,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 8,
+                "Move": "Slash"
+            },
+            {
+                "Level": 12,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 16,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 22,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 26,
+                "Move": "Dragon Claw"
+            },
+            {
+                "Level": 30,
+                "Move": "Thunderbolt"
+            },
+            {
+                "Level": 34,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 38,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 42,
+                "Move": "Fusion Bolt"
+            },
+            {
+                "Level": 46,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 50,
+                "Move": "Outrage"
+            },
+            {
+                "Level": 88,
+                "Move": "Bolt Strike"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Electric"
+            ],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Grass",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Ground",
+                "Dragon",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 150,
+            "DEF": 120,
+            "SPA": 120,
+            "SPD": 100,
+            "SPE": 90
+        }
+    }
+]

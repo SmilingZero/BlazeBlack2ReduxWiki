@@ -1,0 +1,311 @@
+[
+    {
+        "Index": 141,
+        "Number": 142,
+        "Name": "Aerodactyl",
+        "STATS": {
+            "HP": 80,
+            "ATK": 105,
+            "DEF": 65,
+            "SPA": 60,
+            "SPD": 75,
+            "SPE": 130
+        },
+        "TYPE": [
+            "Rock",
+            "Flying"
+        ],
+        "Ability": [
+            "Rock Head",
+            "Pressure",
+            "Unnerve"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Earth Power",
+            "Aqua Tail",
+            "Dragon Pulse",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 1,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 9,
+                "Move": "Roar"
+            },
+            {
+                "Level": 13,
+                "Move": "Agility"
+            },
+            {
+                "Level": 17,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 21,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 25,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 29,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 33,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 37,
+                "Move": "Dragon Claw"
+            },
+            {
+                "Level": 41,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 45,
+                "Move": "Earthquake"
+            },
+            {
+                "Level": 49,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 53,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 57,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 61,
+                "Move": "Accelerock"
+            },
+            {
+                "Level": 65,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 70,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "Neutral": [
+                "Grass",
+                "Fighting",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Electric",
+                "Ice",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 80,
+            "ATK": 105,
+            "DEF": 65,
+            "SPA": 60,
+            "SPD": 75,
+            "SPE": 130
+        }
+    }
+]

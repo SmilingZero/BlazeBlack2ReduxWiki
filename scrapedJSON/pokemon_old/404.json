@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 403,
+        "Number": 404,
+        "Name": "Luxio",
+        "STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 49,
+            "SPA": 60,
+            "SPD": 49,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Rivalry",
+            "Intimidate",
+            "Guts"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magnet Rise",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 4,
+                "Move": "Charge"
+            },
+            {
+                "Level": 7,
+                "Move": "Howl"
+            },
+            {
+                "Level": 9,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 11,
+                "Move": "Spark"
+            },
+            {
+                "Level": 14,
+                "Move": "Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 18,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 21,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 21,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 21,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 23,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 26,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 29,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 32,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 35,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 38,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 42,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 46,
+                "Move": "Wild Charge"
+            },
+            {
+                "Level": 49,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 52,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 56,
+                "Move": "Volt Tackle"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Luxray",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 49,
+            "SPA": 60,
+            "SPD": 49,
+            "SPE": 60
+        }
+    }
+]

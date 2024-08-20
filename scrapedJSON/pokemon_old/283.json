@@ -1,0 +1,241 @@
+[
+    {
+        "Index": 282,
+        "Number": 283,
+        "Name": "Surskit",
+        "STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Bug",
+            "Water"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Rain Dish",
+            "Rain Dish"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Icy Wind",
+            "Snore",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mist"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 7,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 12,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 14,
+                "Move": "Haze"
+            },
+            {
+                "Level": 16,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 18,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 20,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 23,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 26,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 29,
+                "Move": "Attract"
+            },
+            {
+                "Level": 32,
+                "Move": "Agility"
+            },
+            {
+                "Level": 36,
+                "Move": "Soak"
+            },
+            {
+                "Level": 40,
+                "Move": "Power Split"
+            },
+            {
+                "Level": 44,
+                "Move": "Baton Pass"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Masquerain",
+                "Method": "Level 22"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Grass",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 30,
+            "DEF": 32,
+            "SPA": 50,
+            "SPD": 52,
+            "SPE": 65
+        }
+    }
+]

@@ -1,0 +1,263 @@
+[
+    {
+        "Index": 497,
+        "Number": 498,
+        "Name": "Tepig",
+        "STATS": {
+            "HP": 65,
+            "ATK": 63,
+            "DEF": 45,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Blaze",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "Covet",
+            "Superpower",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Helping Hand",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Smog"
+            },
+            {
+                "Level": 10,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 13,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 16,
+                "Move": "Curse"
+            },
+            {
+                "Level": 19,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 22,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 25,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 28,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 31,
+                "Move": "Heat Crash"
+            },
+            {
+                "Level": 34,
+                "Move": "Slack Off"
+            },
+            {
+                "Level": 37,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 40,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 43,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 46,
+                "Move": "Roar"
+            },
+            {
+                "Level": 49,
+                "Move": "Fire Blast"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Pignite",
+                "Method": "Level 17"
+            }
+        ],
+        "Items": {
+            "50": "Oran Berry",
+            "5": "Oran Berry",
+            "1": "Oran Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 63,
+            "DEF": 45,
+            "SPA": 45,
+            "SPD": 45,
+            "SPE": 45
+        }
+    }
+]

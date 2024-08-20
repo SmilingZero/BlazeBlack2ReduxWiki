@@ -1,0 +1,294 @@
+[
+    {
+        "Index": 3,
+        "Number": 4,
+        "Name": "Charmander",
+        "STATS": {
+            "HP": 39,
+            "ATK": 52,
+            "DEF": 43,
+            "SPA": 60,
+            "SPD": 50,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Defiant",
+            "Blaze",
+            "Solar Power"
+        ],
+        "Tutor Moves": [
+            "Fire Pledge",
+            "ThunderPunch",
+            "Fire Punch",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Block"
+            },
+            {
+                "Level": 1,
+                "Move": "Howl"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Ember"
+            },
+            {
+                "Level": 7,
+                "Move": "Twister"
+            },
+            {
+                "Level": 10,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 13,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 17,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 19,
+                "Move": "Dragon Breath"
+            },
+            {
+                "Level": 22,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 25,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 28,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 31,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 34,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 37,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 40,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 43,
+                "Move": "Heat Crash"
+            },
+            {
+                "Level": 46,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 49,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Charmeleon",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 39,
+            "ATK": 52,
+            "DEF": 43,
+            "SPA": 60,
+            "SPD": 50,
+            "SPE": 65
+        }
+    }
+]

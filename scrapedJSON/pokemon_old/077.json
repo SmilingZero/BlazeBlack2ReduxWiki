@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 76,
+        "Number": 77,
+        "Name": "Ponyta",
+        "STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Flame Body",
+            "Flame Body"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Low Kick",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 6,
+                "Move": "Ember"
+            },
+            {
+                "Level": 9,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 12,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 14,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 16,
+                "Move": "Flame Wheel"
+            },
+            {
+                "Level": 18,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 20,
+                "Move": "Charm"
+            },
+            {
+                "Level": 23,
+                "Move": "Flame Charge"
+            },
+            {
+                "Level": 26,
+                "Move": "Agility"
+            },
+            {
+                "Level": 29,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 32,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 35,
+                "Move": "Blaze Kick"
+            },
+            {
+                "Level": 38,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 41,
+                "Move": "Play Rough"
+            },
+            {
+                "Level": 44,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 47,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 50,
+                "Move": "Morning Sun"
+            },
+            {
+                "Level": 54,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 58,
+                "Move": "Flare Blitz"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Rapidash",
+                "Method": "Level 35"
+            }
+        ],
+        "Items": {
+            "5": "Shuca Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 55,
+            "SPA": 65,
+            "SPD": 65,
+            "SPE": 90
+        }
+    }
+]

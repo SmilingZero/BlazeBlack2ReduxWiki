@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 157,
+        "Number": 158,
+        "Name": "Totodile",
+        "STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 64,
+            "SPA": 44,
+            "SPD": 48,
+            "SPE": 43
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Sheer Force",
+            "Torrent",
+            "Sheer Force"
+        ],
+        "Tutor Moves": [
+            "Water Pledge",
+            "Low Kick",
+            "Uproar",
+            "Ice Punch",
+            "Block",
+            "Superpower",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 5,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Rage"
+            },
+            {
+                "Level": 10,
+                "Move": "Bite"
+            },
+            {
+                "Level": 13,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 16,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 20,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 22,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 25,
+                "Move": "Rock Tomb"
+            },
+            {
+                "Level": 28,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 31,
+                "Move": "Slash"
+            },
+            {
+                "Level": 31,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Hone Claws"
+            },
+            {
+                "Level": 37,
+                "Move": "Chip Away"
+            },
+            {
+                "Level": 40,
+                "Move": "Agility"
+            },
+            {
+                "Level": 43,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 46,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 49,
+                "Move": "Wave Crash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Croconaw",
+                "Method": "Level 18"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 65,
+            "DEF": 64,
+            "SPA": 44,
+            "SPD": 48,
+            "SPE": 43
+        }
+    }
+]

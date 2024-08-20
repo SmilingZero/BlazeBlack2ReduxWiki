@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 166,
+        "Number": 167,
+        "Name": "Spinarak",
+        "STATS": {
+            "HP": 40,
+            "ATK": 70,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Bug",
+            "Poison"
+        ],
+        "Ability": [
+            "Sniper",
+            "Insomnia",
+            "Sniper"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Bounce",
+            "Foul Play",
+            "Electroweb",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 4,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 7,
+                "Move": "Twineedle"
+            },
+            {
+                "Level": 10,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 13,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 16,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 19,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 22,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 24,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 26,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 28,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 30,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 32,
+                "Move": "Slash"
+            },
+            {
+                "Level": 32,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 35,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 38,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 42,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 46,
+                "Move": "Agility"
+            },
+            {
+                "Level": 50,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 54,
+                "Move": "Megahorn"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ariados",
+                "Method": "Level 22"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Flying",
+                "Psychic",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 60,
+            "DEF": 40,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 30
+        }
+    }
+]

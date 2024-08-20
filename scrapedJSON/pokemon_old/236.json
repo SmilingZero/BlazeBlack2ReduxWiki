@@ -1,0 +1,221 @@
+[
+    {
+        "Index": 235,
+        "Number": 236,
+        "Name": "Tyrogue",
+        "STATS": {
+            "HP": 35,
+            "ATK": 35,
+            "DEF": 35,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Fighting"
+        ],
+        "Ability": [
+            "Guts",
+            "Steadfast",
+            "Vital Spirit"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Low Kick",
+            "Uproar",
+            "Snore",
+            "Role Play",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 1,
+                "Move": "Focus Energy"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Vacuum Wave"
+            },
+            {
+                "Level": 4,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 6,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 8,
+                "Move": "Counter"
+            },
+            {
+                "Level": 10,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 12,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 14,
+                "Move": "Rock Smash"
+            },
+            {
+                "Level": 16,
+                "Move": "Covet"
+            },
+            {
+                "Level": 18,
+                "Move": "Detect"
+            },
+            {
+                "Level": 20,
+                "Move": "Seismic Toss"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Hitmonchan",
+                "Method": "Level 20, Attack < Defense"
+            },
+            {
+                "To": "Hitmonlee",
+                "Method": "Level 20, Attack > Defense"
+            },
+            {
+                "To": "Hitmontop",
+                "Method": "Level 20, Attack = Defense"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Ghost",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 35,
+            "DEF": 35,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 35
+        }
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "Index": 397,
+        "Number": 398,
+        "Name": "Staraptor",
+        "STATS": {
+            "HP": 85,
+            "ATK": 120,
+            "DEF": 70,
+            "SPA": 50,
+            "SPD": 60,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Reckless",
+            "Intimidate",
+            "Reckless"
+        ],
+        "Tutor Moves": [
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 5,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 8,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 12,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 14,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 17,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 20,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 23,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 26,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 29,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 32,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 34,
+                "Move": "Final Gambit"
+            },
+            {
+                "Level": 34,
+                "Move": "Sky Uppercut"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 42,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 47,
+                "Move": "Sky Attack"
+            },
+            {
+                "Level": 52,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 63,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Yache Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 85,
+            "ATK": 120,
+            "DEF": 70,
+            "SPA": 50,
+            "SPD": 50,
+            "SPE": 100
+        }
+    }
+]

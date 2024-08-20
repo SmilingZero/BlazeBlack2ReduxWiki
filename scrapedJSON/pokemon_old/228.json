@@ -1,0 +1,268 @@
+[
+    {
+        "Index": 227,
+        "Number": 228,
+        "Name": "Houndour",
+        "STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 30,
+            "SPA": 80,
+            "SPD": 50,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Dark",
+            "Fire"
+        ],
+        "Ability": [
+            "Flash Fire",
+            "Intimidate",
+            "Unnerve"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Uproar",
+            "Foul Play",
+            "Dark Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Role Play",
+            "Spite",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 4,
+                "Move": "Howl"
+            },
+            {
+                "Level": 7,
+                "Move": "Ember"
+            },
+            {
+                "Level": 9,
+                "Move": "Bite"
+            },
+            {
+                "Level": 11,
+                "Move": "Spite"
+            },
+            {
+                "Level": 13,
+                "Move": "Taunt"
+            },
+            {
+                "Level": 16,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 16,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 16,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 19,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 22,
+                "Move": "Snarl"
+            },
+            {
+                "Level": 25,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 28,
+                "Move": "Raging Fury"
+            },
+            {
+                "Level": 31,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 34,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 38,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 42,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 46,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 50,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 54,
+                "Move": "Inferno"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Houndoom",
+                "Method": "Level 24"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Fighting",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 60,
+            "DEF": 30,
+            "SPA": 80,
+            "SPD": 50,
+            "SPE": 65
+        }
+    }
+]

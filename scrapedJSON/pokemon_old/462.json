@@ -1,0 +1,289 @@
+[
+    {
+        "Index": 461,
+        "Number": 462,
+        "Name": "Magnezone",
+        "STATS": {
+            "HP": 70,
+            "ATK": 70,
+            "DEF": 115,
+            "SPA": 130,
+            "SPD": 90,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Electric",
+            "Steel"
+        ],
+        "Ability": [
+            "Analytic",
+            "Sturdy",
+            "Magnet Pull"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Magic Coat",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Electroweb",
+            "Snore",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 1,
+                "Move": "Barrier"
+            },
+            {
+                "Level": 1,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 4,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 7,
+                "Move": "Sonic Boom"
+            },
+            {
+                "Level": 10,
+                "Move": "Spark"
+            },
+            {
+                "Level": 13,
+                "Move": "Magnet Bomb"
+            },
+            {
+                "Level": 16,
+                "Move": "Screech"
+            },
+            {
+                "Level": 19,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 25,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 28,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 30,
+                "Move": "Tri Attack"
+            },
+            {
+                "Level": 32,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 36,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 40,
+                "Move": "Gyro Ball"
+            },
+            {
+                "Level": 44,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 48,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 53,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 57,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 61,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 66,
+                "Move": "Zap Cannon"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Metal Coat"
+        },
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Flying",
+                "Steel"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting"
+            ],
+            "4x Weak": [
+                "Ground"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 70,
+            "DEF": 115,
+            "SPA": 130,
+            "SPD": 90,
+            "SPE": 60
+        }
+    }
+]

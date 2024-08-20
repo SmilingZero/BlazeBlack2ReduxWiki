@@ -1,0 +1,267 @@
+[
+    {
+        "Index": 315,
+        "Number": 316,
+        "Name": "Gulpin",
+        "STATS": {
+            "HP": 70,
+            "ATK": 43,
+            "DEF": 53,
+            "SPA": 43,
+            "SPD": 53,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Liquid Ooze",
+            "Sticky Hold",
+            "Gluttony"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Gunk Shot",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Snore",
+            "Pain Split",
+            "Giga Drain",
+            "Gastro Acid",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Smog"
+            },
+            {
+                "Level": 4,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 7,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 10,
+                "Move": "Poison Gas"
+            },
+            {
+                "Level": 13,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 16,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 19,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 22,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 24,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 24,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 24,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 26,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 28,
+                "Move": "Sludge Bomb"
+            },
+            {
+                "Level": 31,
+                "Move": "Toxic"
+            },
+            {
+                "Level": 34,
+                "Move": "Curse"
+            },
+            {
+                "Level": 38,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 42,
+                "Move": "Encore"
+            },
+            {
+                "Level": 46,
+                "Move": "Gunk Shot"
+            },
+            {
+                "Level": 50,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Wring Out"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Swalot",
+                "Method": "Level 26"
+            }
+        ],
+        "Items": {
+            "5": "Big Pearl"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 43,
+            "DEF": 53,
+            "SPA": 43,
+            "SPD": 53,
+            "SPE": 40
+        }
+    }
+]

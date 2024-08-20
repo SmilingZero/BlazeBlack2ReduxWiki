@@ -1,0 +1,313 @@
+[
+    {
+        "Index": 641,
+        "Number": 642,
+        "Name": "Thundurus - Incarnate",
+        "STATS": {
+            "HP": 79,
+            "ATK": 115,
+            "DEF": 70,
+            "SPA": 125,
+            "SPD": 80,
+            "SPE": 111
+        },
+        "TYPE": [
+            "Electric",
+            "Flying"
+        ],
+        "Ability": [
+            "Prankster",
+            "Defiant",
+            "Defiant"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "ThunderPunch",
+            "Foul Play",
+            "Superpower",
+            "Dark Pulse",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 5,
+                "Move": "Leer"
+            },
+            {
+                "Level": 10,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 15,
+                "Move": "Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Shock Wave"
+            },
+            {
+                "Level": 23,
+                "Move": "Agility"
+            },
+            {
+                "Level": 26,
+                "Move": "Charge"
+            },
+            {
+                "Level": 29,
+                "Move": "Volt Switch"
+            },
+            {
+                "Level": 32,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 35,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 38,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 41,
+                "Move": "Hammer Arm"
+            },
+            {
+                "Level": 44,
+                "Move": "Rain Dance"
+            },
+            {
+                "Level": 47,
+                "Move": "Thunder"
+            },
+            {
+                "Level": 50,
+                "Move": "Smart Strike"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [
+            706
+        ],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Flying",
+                "Bug",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 79,
+            "ATK": 115,
+            "DEF": 70,
+            "SPA": 125,
+            "SPD": 80,
+            "SPE": 111
+        }
+    },
+    {
+        "Index": 706,
+        "Name": "Thundurus - Therian",
+        "STATS": {
+            "HP": 79,
+            "ATK": 105,
+            "DEF": 70,
+            "SPA": 145,
+            "SPD": 80,
+            "SPE": 101
+        },
+        "Ability": [
+            "Volt Absorb",
+            "Volt Absorb"
+        ],
+        "Other Form Index": [],
+        "VANILLA STATS": {
+            "HP": 79,
+            "ATK": 105,
+            "DEF": 70,
+            "SPA": 145,
+            "SPD": 80,
+            "SPE": 101
+        },
+        "TYPE": [
+            "Electric",
+            "Flying"
+        ],
+        "Number": 642
+    }
+]

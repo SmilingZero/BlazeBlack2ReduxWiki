@@ -1,0 +1,264 @@
+[
+    {
+        "Index": 354,
+        "Number": 355,
+        "Name": "Duskull",
+        "STATS": {
+            "HP": 20,
+            "ATK": 40,
+            "DEF": 90,
+            "SPA": 30,
+            "SPD": 90,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Ghost"
+        ],
+        "Ability": [
+            "Levitate",
+            "Levitate",
+            "Frisk"
+        ],
+        "Tutor Moves": [
+            "Gravity",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 4,
+                "Move": "Disable"
+            },
+            {
+                "Level": 7,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 10,
+                "Move": "Curse"
+            },
+            {
+                "Level": 13,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 16,
+                "Move": "Haze"
+            },
+            {
+                "Level": 19,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 22,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 25,
+                "Move": "Will-O-Wisp"
+            },
+            {
+                "Level": 28,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 31,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 34,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 37,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 40,
+                "Move": "Skill Swap"
+            },
+            {
+                "Level": 43,
+                "Move": "Hex"
+            },
+            {
+                "Level": 46,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 49,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 52,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 55,
+                "Move": "Memento"
+            },
+            {
+                "Level": 58,
+                "Move": "Grudge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Dusclops",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {
+            "5": "Kasib Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 20,
+            "ATK": 40,
+            "DEF": 90,
+            "SPA": 30,
+            "SPD": 90,
+            "SPE": 25
+        }
+    }
+]

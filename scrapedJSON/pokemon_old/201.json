@@ -1,0 +1,93 @@
+[
+    {
+        "Index": 200,
+        "Number": 201,
+        "Name": "Unown",
+        "STATS": {
+            "HP": 48,
+            "ATK": 72,
+            "DEF": 48,
+            "SPA": 102,
+            "SPD": 48,
+            "SPE": 78
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Hidden Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Secret Power"
+            },
+            {
+                "Level": 1,
+                "Move": "Stored Power"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 48,
+            "ATK": 72,
+            "DEF": 48,
+            "SPA": 72,
+            "SPD": 48,
+            "SPE": 48
+        }
+    }
+]

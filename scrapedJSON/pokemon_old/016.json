@@ -1,0 +1,242 @@
+[
+    {
+        "Index": 15,
+        "Number": 16,
+        "Name": "Pidgey",
+        "STATS": {
+            "HP": 40,
+            "ATK": 35,
+            "DEF": 35,
+            "SPA": 50,
+            "SPD": 35,
+            "SPE": 56
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Big Pecks",
+            "Tangled Feet",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 3,
+                "Move": "Gust"
+            },
+            {
+                "Level": 5,
+                "Move": "Echoed Voice"
+            },
+            {
+                "Level": 7,
+                "Move": "Twister"
+            },
+            {
+                "Level": 9,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 11,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 13,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 15,
+                "Move": "Swift"
+            },
+            {
+                "Level": 17,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 19,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 21,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 24,
+                "Move": "Steel Wing"
+            },
+            {
+                "Level": 27,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 30,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 34,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 42,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 46,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 50,
+                "Move": "Brave Bird"
+            },
+            {
+                "Level": 54,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Pidgeotto",
+                "Method": "Level 18"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 45,
+            "DEF": 40,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 56
+        }
+    }
+]

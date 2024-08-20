@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 356,
+        "Number": 357,
+        "Name": "Tropius",
+        "STATS": {
+            "HP": 99,
+            "ATK": 98,
+            "DEF": 83,
+            "SPA": 82,
+            "SPD": 87,
+            "SPE": 51
+        },
+        "TYPE": [
+            "Grass",
+            "Flying"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Solar Power",
+            "Harvest"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Dragon Pulse",
+            "Snore",
+            "Synthesis",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Worry Seed",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 4,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 7,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 10,
+                "Move": "Stomp"
+            },
+            {
+                "Level": 14,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 18,
+                "Move": "Curse"
+            },
+            {
+                "Level": 22,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 26,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 30,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 34,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 38,
+                "Move": "Dragon Dance"
+            },
+            {
+                "Level": 42,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 46,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 50,
+                "Move": "Leaf Blade"
+            },
+            {
+                "Level": 54,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 58,
+                "Move": "Solar Beam"
+            },
+            {
+                "Level": 62,
+                "Move": "Leaf Storm"
+            },
+            {
+                "Level": 66,
+                "Move": "Dual Wingbeat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Poison",
+                "Flying",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Ice"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 99,
+            "ATK": 68,
+            "DEF": 83,
+            "SPA": 72,
+            "SPD": 87,
+            "SPE": 51
+        }
+    }
+]

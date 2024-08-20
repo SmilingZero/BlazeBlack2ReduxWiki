@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 298,
+        "Number": 299,
+        "Name": "Nosepass",
+        "STATS": {
+            "HP": 30,
+            "ATK": 35,
+            "DEF": 135,
+            "SPA": 55,
+            "SPD": 90,
+            "SPE": 30
+        },
+        "TYPE": [
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Sand Force",
+            "Magnet Pull"
+        ],
+        "Tutor Moves": [
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Snore",
+            "Pain Split",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Block"
+            },
+            {
+                "Level": 4,
+                "Move": "Explosion"
+            },
+            {
+                "Level": 7,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 10,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 13,
+                "Move": "Spark"
+            },
+            {
+                "Level": 16,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 19,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 22,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 25,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 31,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 34,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 38,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 42,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 46,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 50,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 54,
+                "Move": "Lock-On"
+            },
+            {
+                "Level": 58,
+                "Move": "Zap Cannon"
+            },
+            {
+                "Level": 62,
+                "Move": "Head Smash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Probopass",
+                "Method": "Level up at Electric Rock in Chargestone cave"
+            }
+        ],
+        "Items": {
+            "5": "Hard Stone"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Flying"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 30,
+            "ATK": 45,
+            "DEF": 135,
+            "SPA": 45,
+            "SPD": 90,
+            "SPE": 30
+        }
+    }
+]

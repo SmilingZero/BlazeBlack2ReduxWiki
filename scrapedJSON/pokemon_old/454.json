@@ -1,0 +1,332 @@
+[
+    {
+        "Index": 453,
+        "Number": 454,
+        "Name": "Toxicroak",
+        "STATS": {
+            "HP": 83,
+            "ATK": 106,
+            "DEF": 65,
+            "SPA": 86,
+            "SPD": 65,
+            "SPE": 85
+        },
+        "TYPE": [
+            "Poison",
+            "Fighting"
+        ],
+        "Ability": [
+            "Poison Touch",
+            "Dry Skin",
+            "Poison Touch"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Dual Chop",
+            "Bounce",
+            "Low Kick",
+            "Gunk Shot",
+            "ThunderPunch",
+            "Ice Punch",
+            "Foul Play",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Drain Punch",
+            "Spite",
+            "Helping Hand",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 4,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 7,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 10,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 13,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 16,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 19,
+                "Move": "Bullet Punch"
+            },
+            {
+                "Level": 22,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 25,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 28,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 31,
+                "Move": "Counter"
+            },
+            {
+                "Level": 33,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 37,
+                "Move": "Payback"
+            },
+            {
+                "Level": 41,
+                "Move": "Vacuum Wave"
+            },
+            {
+                "Level": 45,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 49,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 53,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 57,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 61,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM8",
+                "Name": "Bulk Up"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Black Sludge"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Bug"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Ghost",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Psychic"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 83,
+            "ATK": 106,
+            "DEF": 65,
+            "SPA": 86,
+            "SPD": 65,
+            "SPE": 85
+        }
+    }
+]

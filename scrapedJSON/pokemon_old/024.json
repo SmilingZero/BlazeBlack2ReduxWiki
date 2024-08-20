@@ -1,0 +1,285 @@
+[
+    {
+        "Index": 23,
+        "Number": 24,
+        "Name": "Arbok",
+        "STATS": {
+            "HP": 60,
+            "ATK": 110,
+            "DEF": 70,
+            "SPA": 55,
+            "SPD": 80,
+            "SPE": 80
+        },
+        "TYPE": [
+            "Poison"
+        ],
+        "Ability": [
+            "Intimidate",
+            "Shed Skin",
+            "Unnerve"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Gunk Shot",
+            "Aqua Tail",
+            "Dark Pulse",
+            "Iron Tail",
+            "Bind",
+            "Snore",
+            "Giga Drain",
+            "Gastro Acid",
+            "Spite",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 4,
+                "Move": "Bite"
+            },
+            {
+                "Level": 7,
+                "Move": "Acid"
+            },
+            {
+                "Level": 10,
+                "Move": "Glare"
+            },
+            {
+                "Level": 13,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 16,
+                "Move": "Screech"
+            },
+            {
+                "Level": 18,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 20,
+                "Move": "Coil"
+            },
+            {
+                "Level": 22,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 23,
+                "Move": "Fire Fang"
+            },
+            {
+                "Level": 23,
+                "Move": "Ice Fang"
+            },
+            {
+                "Level": 23,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 26,
+                "Move": "Disable"
+            },
+            {
+                "Level": 29,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 32,
+                "Move": "Poison Tail"
+            },
+            {
+                "Level": 35,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 39,
+                "Move": "Spite"
+            },
+            {
+                "Level": 42,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 45,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 48,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 52,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 56,
+                "Move": "Haze"
+            },
+            {
+                "Level": 60,
+                "Move": "Gunk Shot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 69,
+            "SPA": 65,
+            "SPD": 79,
+            "SPE": 80
+        }
+    }
+]

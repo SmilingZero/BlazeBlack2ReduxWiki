@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 456,
+        "Number": 457,
+        "Name": "Lumineon",
+        "STATS": {
+            "HP": 70,
+            "ATK": 43,
+            "DEF": 75,
+            "SPA": 105,
+            "SPD": 90,
+            "SPE": 102
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Swift Swim",
+            "Storm Drain",
+            "Water Veil"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Bounce",
+            "Icy Wind",
+            "Aqua Tail",
+            "Snore",
+            "Tailwind",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 6,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 8,
+                "Move": "Attract"
+            },
+            {
+                "Level": 10,
+                "Move": "Gust"
+            },
+            {
+                "Level": 12,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 14,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 16,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 18,
+                "Move": "Roost"
+            },
+            {
+                "Level": 20,
+                "Move": "Brine"
+            },
+            {
+                "Level": 21,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 24,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 27,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 30,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 31,
+                "Move": "Agility"
+            },
+            {
+                "Level": 34,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 39,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 43,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 47,
+                "Move": "U-turn"
+            },
+            {
+                "Level": 51,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 55,
+                "Move": "Soak"
+            },
+            {
+                "Level": 59,
+                "Move": "Quiver Dance"
+            },
+            {
+                "Level": 63,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "Rindo Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 69,
+            "ATK": 69,
+            "DEF": 76,
+            "SPA": 69,
+            "SPD": 86,
+            "SPE": 91
+        }
+    }
+]

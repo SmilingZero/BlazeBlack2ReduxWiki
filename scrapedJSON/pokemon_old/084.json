@@ -1,0 +1,240 @@
+[
+    {
+        "Index": 83,
+        "Number": 84,
+        "Name": "Doduo",
+        "STATS": {
+            "HP": 35,
+            "ATK": 85,
+            "DEF": 45,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Normal",
+            "Flying"
+        ],
+        "Ability": [
+            "Tangled Feet",
+            "Early Bird",
+            "Tangled Feet"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Snore",
+            "Knock Off",
+            "Roost",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Rage"
+            },
+            {
+                "Level": 4,
+                "Move": "Leer"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 13,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 16,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 19,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 22,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 25,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 28,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 31,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 34,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 37,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 40,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 43,
+                "Move": "Haze"
+            },
+            {
+                "Level": 46,
+                "Move": "Flail"
+            },
+            {
+                "Level": 49,
+                "Move": "Agility"
+            },
+            {
+                "Level": 52,
+                "Move": "High Jump Kick"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Brave Bird"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Dodrio",
+                "Method": "Level 31"
+            }
+        ],
+        "Items": {
+            "5": "Sharp Beak"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground",
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 85,
+            "DEF": 45,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 75
+        }
+    }
+]

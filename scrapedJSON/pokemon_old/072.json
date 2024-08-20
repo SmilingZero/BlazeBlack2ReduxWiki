@@ -1,0 +1,268 @@
+[
+    {
+        "Index": 71,
+        "Number": 72,
+        "Name": "Tentacool",
+        "STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 35,
+            "SPA": 50,
+            "SPD": 100,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Water",
+            "Poison"
+        ],
+        "Ability": [
+            "Clear Body",
+            "Rain Dish",
+            "Liquid Ooze"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Icy Wind",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Giga Drain",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Supersonic"
+            },
+            {
+                "Level": 1,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 4,
+                "Move": "Screech"
+            },
+            {
+                "Level": 7,
+                "Move": "Acid"
+            },
+            {
+                "Level": 10,
+                "Move": "Toxic Spikes"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 19,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Barrier"
+            },
+            {
+                "Level": 28,
+                "Move": "Hex"
+            },
+            {
+                "Level": 31,
+                "Move": "Muddy Water"
+            },
+            {
+                "Level": 34,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 37,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 40,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 43,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 46,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 49,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 52,
+                "Move": "Hydro Pump"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Tentacruel",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "5": "Poison Barb"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Grass",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ground",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 40,
+            "DEF": 35,
+            "SPA": 50,
+            "SPD": 100,
+            "SPE": 70
+        }
+    }
+]

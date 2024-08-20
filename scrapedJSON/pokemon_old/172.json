@@ -1,0 +1,218 @@
+[
+    {
+        "Index": 171,
+        "Number": 172,
+        "Name": "Pichu",
+        "STATS": {
+            "HP": 20,
+            "ATK": 40,
+            "DEF": 15,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Static",
+            "Lightningrod",
+            "Lightningrod"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Uproar",
+            "Magnet Rise",
+            "Iron Tail",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Double Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 3,
+                "Move": "Charge"
+            },
+            {
+                "Level": 6,
+                "Move": "Sing"
+            },
+            {
+                "Level": 8,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 10,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 12,
+                "Move": "Spark"
+            },
+            {
+                "Level": 14,
+                "Move": "Wish"
+            },
+            {
+                "Level": 16,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 18,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 20,
+                "Move": "Present"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Pikachu",
+                "Method": "Happiness"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 20,
+            "ATK": 40,
+            "DEF": 15,
+            "SPA": 35,
+            "SPD": 35,
+            "SPE": 60
+        }
+    }
+]

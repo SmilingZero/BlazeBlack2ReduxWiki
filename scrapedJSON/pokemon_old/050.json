@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 49,
+        "Number": 50,
+        "Name": "Diglett",
+        "STATS": {
+            "HP": 10,
+            "ATK": 55,
+            "DEF": 25,
+            "SPA": 35,
+            "SPD": 45,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Ground"
+        ],
+        "Ability": [
+            "Sand Force",
+            "Arena Trap",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Earth Power",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 4,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Mud Bomb"
+            },
+            {
+                "Level": 10,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 13,
+                "Move": "Magnitude"
+            },
+            {
+                "Level": 16,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 19,
+                "Move": "Bulldoze"
+            },
+            {
+                "Level": 22,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 25,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 28,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 31,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 34,
+                "Move": "Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 40,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 44,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 48,
+                "Move": "Memento"
+            },
+            {
+                "Level": 52,
+                "Move": "Fissure"
+            },
+            {
+                "Level": 56,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Dugtrio",
+                "Method": "Level 26"
+            }
+        ],
+        "Items": {
+            "5": "Soft Sand"
+        },
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 10,
+            "ATK": 55,
+            "DEF": 25,
+            "SPA": 35,
+            "SPD": 45,
+            "SPE": 95
+        }
+    }
+]

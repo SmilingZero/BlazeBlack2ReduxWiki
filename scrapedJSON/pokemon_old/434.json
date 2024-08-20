@@ -1,0 +1,276 @@
+[
+    {
+        "Index": 433,
+        "Number": 434,
+        "Name": "Stunky",
+        "STATS": {
+            "HP": 65,
+            "ATK": 65,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 40,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Poison",
+            "Dark"
+        ],
+        "Ability": [
+            "Stench",
+            "Aftermath",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Foul Play",
+            "Dark Pulse",
+            "Iron Tail",
+            "Snore",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Gas"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Smokescreen"
+            },
+            {
+                "Level": 4,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 10,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 13,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 16,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 19,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 22,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Poison Jab"
+            },
+            {
+                "Level": 28,
+                "Move": "Flamethrower"
+            },
+            {
+                "Level": 31,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 34,
+                "Move": "Memento"
+            },
+            {
+                "Level": 38,
+                "Move": "Haze"
+            },
+            {
+                "Level": 42,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 46,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 50,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 54,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 58,
+                "Move": "Gunk Shot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Skuntank",
+                "Method": "Level 26"
+            }
+        ],
+        "Items": {
+            "5": "Pecha Berry"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Grass",
+                "Poison",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Ice",
+                "Fighting",
+                "Flying",
+                "Bug",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 63,
+            "ATK": 63,
+            "DEF": 47,
+            "SPA": 41,
+            "SPD": 41,
+            "SPE": 74
+        }
+    }
+]

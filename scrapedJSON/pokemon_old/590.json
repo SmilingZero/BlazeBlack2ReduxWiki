@@ -1,0 +1,241 @@
+[
+    {
+        "Index": 589,
+        "Number": 590,
+        "Name": "Foongus",
+        "STATS": {
+            "HP": 69,
+            "ATK": 55,
+            "DEF": 45,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 15
+        },
+        "TYPE": [
+            "Grass",
+            "Poison"
+        ],
+        "Ability": [
+            "Effect Spore",
+            "Regenerator",
+            "Regenerator"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Foul Play",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 4,
+                "Move": "Growth"
+            },
+            {
+                "Level": 7,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 10,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 13,
+                "Move": "After You"
+            },
+            {
+                "Level": 16,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 19,
+                "Move": "Sludge"
+            },
+            {
+                "Level": 22,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 25,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 28,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 31,
+                "Move": "Clear Smog"
+            },
+            {
+                "Level": 34,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 37,
+                "Move": "Worry Seed"
+            },
+            {
+                "Level": 40,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 44,
+                "Move": "Rage Powder"
+            },
+            {
+                "Level": 48,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 52,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 56,
+                "Move": "Spore"
+            },
+            {
+                "Level": 60,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Amoonguss",
+                "Method": "Level 39"
+            }
+        ],
+        "Items": {
+            "50": "TinyMushroom",
+            "5": "Big Mushroom",
+            "1": "BalmMushroom"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Poison",
+                "Ground",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 69,
+            "ATK": 55,
+            "DEF": 45,
+            "SPA": 55,
+            "SPD": 55,
+            "SPE": 15
+        }
+    }
+]

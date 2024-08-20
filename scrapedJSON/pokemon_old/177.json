@@ -1,0 +1,278 @@
+[
+    {
+        "Index": 176,
+        "Number": 177,
+        "Name": "Natu",
+        "STATS": {
+            "HP": 40,
+            "ATK": 50,
+            "DEF": 45,
+            "SPA": 70,
+            "SPD": 45,
+            "SPE": 70
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Synchronize",
+            "Magic Bounce",
+            "Magic Bounce"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Zen Headbutt",
+            "Snore",
+            "Heat Wave",
+            "Tailwind",
+            "Pain Split",
+            "Giga Drain",
+            "Roost",
+            "Trick",
+            "Magic Room",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 7,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 10,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 13,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 16,
+                "Move": "Wish"
+            },
+            {
+                "Level": 19,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 22,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 25,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 28,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 31,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 34,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 37,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 40,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 44,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 48,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 52,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 56,
+                "Move": "Cosmic Power"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Xatu",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 50,
+            "DEF": 45,
+            "SPA": 70,
+            "SPD": 45,
+            "SPE": 70
+        }
+    }
+]

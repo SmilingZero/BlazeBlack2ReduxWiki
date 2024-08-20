@@ -1,0 +1,279 @@
+[
+    {
+        "Index": 631,
+        "Number": 632,
+        "Name": "Durant",
+        "STATS": {
+            "HP": 58,
+            "ATK": 109,
+            "DEF": 112,
+            "SPA": 48,
+            "SPD": 48,
+            "SPE": 109
+        },
+        "TYPE": [
+            "Bug",
+            "Steel"
+        ],
+        "Ability": [
+            "Heatproof",
+            "Hustle",
+            "Truant"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Iron Head",
+            "Iron Defense",
+            "Superpower",
+            "Snore",
+            "Endeavor",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 5,
+                "Move": "Infestation"
+            },
+            {
+                "Level": 11,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 14,
+                "Move": "Beat Up"
+            },
+            {
+                "Level": 17,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Bite"
+            },
+            {
+                "Level": 25,
+                "Move": "Agility"
+            },
+            {
+                "Level": 28,
+                "Move": "Flail"
+            },
+            {
+                "Level": 32,
+                "Move": "X-Scissor"
+            },
+            {
+                "Level": 36,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 40,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 44,
+                "Move": "Thunder Fang"
+            },
+            {
+                "Level": 47,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 50,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 54,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 58,
+                "Move": "Metal Burst"
+            },
+            {
+                "Level": 62,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 66,
+                "Move": "Guillotine"
+            },
+            {
+                "Level": 70,
+                "Move": "Superpower"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Ice",
+                "Psychic",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [],
+            "4x Weak": [
+                "Fire"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 58,
+            "ATK": 109,
+            "DEF": 112,
+            "SPA": 48,
+            "SPD": 48,
+            "SPE": 109
+        }
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 392,
+        "Number": 393,
+        "Name": "Piplup",
+        "STATS": {
+            "HP": 53,
+            "ATK": 51,
+            "DEF": 53,
+            "SPA": 61,
+            "SPD": 56,
+            "SPE": 40
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Defiant",
+            "Torrent",
+            "Defiant"
+        ],
+        "Tutor Moves": [
+            "Water Pledge",
+            "Covet",
+            "Signal Beam",
+            "Icy Wind",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 7,
+                "Move": "Peck"
+            },
+            {
+                "Level": 10,
+                "Move": "Charm"
+            },
+            {
+                "Level": 13,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 17,
+                "Move": "Double Hit"
+            },
+            {
+                "Level": 19,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 22,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 28,
+                "Move": "Fury Attack"
+            },
+            {
+                "Level": 31,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 34,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 37,
+                "Move": "Sing"
+            },
+            {
+                "Level": 40,
+                "Move": "Drill Peck"
+            },
+            {
+                "Level": 43,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 46,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 49,
+                "Move": "Captivate"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Prinplup",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 53,
+            "ATK": 51,
+            "DEF": 53,
+            "SPA": 61,
+            "SPD": 56,
+            "SPE": 40
+        }
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "Index": 384,
+        "Number": 385,
+        "Name": "Jirachi",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Steel",
+            "Psychic"
+        ],
+        "Ability": [
+            "Serene Grace",
+            "Magic Guard",
+            "Magic Bounce"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Iron Head",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Gravity",
+            "Iron Defense",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Snore",
+            "Drain Punch",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Recycle",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Draco Meteor"
+            },
+            {
+                "Level": 1,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 1,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 1,
+                "Move": "Meteor Mash"
+            },
+            {
+                "Level": 1,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 1,
+                "Move": "Wish"
+            },
+            {
+                "Level": 1,
+                "Move": "Psyshield Bash"
+            },
+            {
+                "Level": 1,
+                "Move": "Rest"
+            },
+            {
+                "Level": 1,
+                "Move": "Swift"
+            },
+            {
+                "Level": 6,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 10,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 14,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 18,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 22,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 26,
+                "Move": "Cosmic Power"
+            },
+            {
+                "Level": 30,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 34,
+                "Move": "Iron Head"
+            },
+            {
+                "Level": 38,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 42,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 46,
+                "Move": "Last Resort"
+            },
+            {
+                "Level": 50,
+                "Move": "Doom Desire"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Star Piece",
+            "5": "Star Piece"
+        },
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Psychic"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Grass",
+                "Ice",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Water",
+                "Electric",
+                "Fighting",
+                "Bug"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ground",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        }
+    }
+]

@@ -1,0 +1,259 @@
+[
+    {
+        "Index": 362,
+        "Number": 363,
+        "Name": "Spheal",
+        "STATS": {
+            "HP": 70,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 50,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Ice",
+            "Water"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Ice Body",
+            "Oblivious"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Signal Beam",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 7,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 10,
+                "Move": "Super Fang"
+            },
+            {
+                "Level": 13,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 16,
+                "Move": "Yawn"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 25,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 28,
+                "Move": "Slack Off"
+            },
+            {
+                "Level": 31,
+                "Move": "Brine"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 38,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 42,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 46,
+                "Move": "Block"
+            },
+            {
+                "Level": 50,
+                "Move": "Curse"
+            },
+            {
+                "Level": 54,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 58,
+                "Move": "Fissure"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Sealeo",
+                "Method": "Level 16"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Ice"
+            ],
+            "0.5x Resist": [
+                "Water"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 55,
+            "SPD": 50,
+            "SPE": 25
+        }
+    }
+]

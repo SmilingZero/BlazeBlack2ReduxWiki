@@ -1,0 +1,262 @@
+[
+    {
+        "Index": 152,
+        "Number": 153,
+        "Name": "Bayleef",
+        "STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 80,
+            "SPA": 63,
+            "SPD": 80,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Grass",
+            "Fairy"
+        ],
+        "Ability": [
+            "Serene Grace",
+            "Overgrow",
+            "Leaf Guard"
+        ],
+        "Tutor Moves": [
+            "Grass Pledge",
+            "Seed Bomb",
+            "Magic Coat",
+            "Iron Tail",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 5,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 7,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 13,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 16,
+                "Move": "Grass Whistle"
+            },
+            {
+                "Level": 17,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 20,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 22,
+                "Move": "Mega Drain"
+            },
+            {
+                "Level": 25,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Heal Pulse"
+            },
+            {
+                "Level": 31,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 34,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 37,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 40,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 43,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 46,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 49,
+                "Move": "Solar Beam"
+            },
+            {
+                "Level": 52,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 55,
+                "Move": "Moonblast"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Meganium",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Steel"
+            ],
+            "4x Weak": [
+                "Poison"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 62,
+            "DEF": 80,
+            "SPA": 63,
+            "SPD": 80,
+            "SPE": 60
+        }
+    }
+]

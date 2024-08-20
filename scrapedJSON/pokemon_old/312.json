@@ -1,0 +1,250 @@
+[
+    {
+        "Index": 311,
+        "Number": 312,
+        "Name": "Minun",
+        "STATS": {
+            "HP": 60,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 85,
+            "SPD": 95,
+            "SPE": 110
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Minus",
+            "Volt Absorb",
+            "Volt Absorb"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "ThunderPunch",
+            "Magnet Rise",
+            "Last Resort",
+            "Iron Tail",
+            "Snore",
+            "Helping Hand",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Covet"
+            },
+            {
+                "Level": 4,
+                "Move": "Charm"
+            },
+            {
+                "Level": 7,
+                "Move": "Spark"
+            },
+            {
+                "Level": 10,
+                "Move": "Bestow"
+            },
+            {
+                "Level": 13,
+                "Move": "Swift"
+            },
+            {
+                "Level": 16,
+                "Move": "Sing"
+            },
+            {
+                "Level": 19,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 22,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 25,
+                "Move": "Charge"
+            },
+            {
+                "Level": 28,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 31,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 33,
+                "Move": "Wish"
+            },
+            {
+                "Level": 36,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 39,
+                "Move": "Magnet Rise"
+            },
+            {
+                "Level": 42,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 45,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 48,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 51,
+                "Move": "Switcheroo"
+            },
+            {
+                "Level": 54,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 57,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 60,
+                "Move": "Trump Card"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM72",
+                "Name": "Volt Switch"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 40,
+            "DEF": 50,
+            "SPA": 75,
+            "SPD": 85,
+            "SPE": 95
+        }
+    }
+]

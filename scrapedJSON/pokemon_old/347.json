@@ -1,0 +1,258 @@
+[
+    {
+        "Index": 346,
+        "Number": 347,
+        "Name": "Anorith",
+        "STATS": {
+            "HP": 45,
+            "ATK": 95,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Rock",
+            "Bug"
+        ],
+        "Ability": [
+            "Battle Armor",
+            "Swift Swim",
+            "Swift Swim"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Earth Power",
+            "Iron Defense",
+            "Snore",
+            "Knock Off",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 5,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 9,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 13,
+                "Move": "Brine"
+            },
+            {
+                "Level": 17,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 21,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 25,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 28,
+                "Move": "Slash"
+            },
+            {
+                "Level": 28,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 31,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 34,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 37,
+                "Move": "Curse"
+            },
+            {
+                "Level": 40,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 43,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 46,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 49,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 52,
+                "Move": "Stone Edge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Armaldo",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 95,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 75
+        }
+    }
+]

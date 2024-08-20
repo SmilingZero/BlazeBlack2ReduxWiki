@@ -1,0 +1,248 @@
+[
+    {
+        "Index": 584,
+        "Number": 585,
+        "Name": "Deerling",
+        "STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 75
+        },
+        "TYPE": [
+            "Normal",
+            "Grass"
+        ],
+        "Ability": [
+            "Chlorophyll",
+            "Sap Sipper",
+            "Serene Grace"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Bounce",
+            "Last Resort",
+            "Snore",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 1,
+                "Move": "Camouflage"
+            },
+            {
+                "Level": 4,
+                "Move": "Growl"
+            },
+            {
+                "Level": 7,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 13,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 16,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 20,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 23,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 26,
+                "Move": "Jump Kick"
+            },
+            {
+                "Level": 29,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 32,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 35,
+                "Move": "Charm"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 41,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 44,
+                "Move": "Nature Power"
+            },
+            {
+                "Level": 48,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 52,
+                "Move": "Solar Beam"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Sawsbuck",
+                "Method": "Level 34"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 60,
+            "DEF": 50,
+            "SPA": 40,
+            "SPD": 50,
+            "SPE": 75
+        }
+    }
+]

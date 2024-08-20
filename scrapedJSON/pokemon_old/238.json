@@ -1,0 +1,270 @@
+[
+    {
+        "Index": 237,
+        "Number": 238,
+        "Name": "Smoochum",
+        "STATS": {
+            "HP": 50,
+            "ATK": 37,
+            "DEF": 37,
+            "SPA": 90,
+            "SPD": 65,
+            "SPE": 80
+        },
+        "TYPE": [
+            "Ice",
+            "Psychic"
+        ],
+        "Ability": [
+            "Dry Skin",
+            "Forewarn",
+            "Oblivious"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Uproar",
+            "Ice Punch",
+            "Magic Coat",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Snore",
+            "Role Play",
+            "Heal Bell",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Recycle",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Pound"
+            },
+            {
+                "Level": 1,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 5,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 8,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 10,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 12,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 14,
+                "Move": "Avalanche"
+            },
+            {
+                "Level": 16,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 18,
+                "Move": "Draining Kiss"
+            },
+            {
+                "Level": 21,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 24,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 27,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 30,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 33,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 36,
+                "Move": "Wish"
+            },
+            {
+                "Level": 39,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 42,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 45,
+                "Move": "Nightmare"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Jynx",
+                "Method": "Level 30"
+            }
+        ],
+        "Items": {
+            "50": "Aspear Berry",
+            "5": "Aspear Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Dragon",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dark",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 45,
+            "ATK": 30,
+            "DEF": 15,
+            "SPA": 85,
+            "SPD": 65,
+            "SPE": 65
+        }
+    }
+]

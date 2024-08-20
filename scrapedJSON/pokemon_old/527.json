@@ -1,0 +1,294 @@
+[
+    {
+        "Index": 526,
+        "Number": 527,
+        "Name": "Woobat",
+        "STATS": {
+            "HP": 65,
+            "ATK": 45,
+            "DEF": 43,
+            "SPA": 65,
+            "SPD": 43,
+            "SPE": 72
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Unaware",
+            "Simple",
+            "Simple"
+        ],
+        "Tutor Moves": [
+            "Super Fang",
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Zen Headbutt",
+            "Snore",
+            "Knock Off",
+            "Heat Wave",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "After You",
+            "Helping Hand",
+            "Trick",
+            "Endeavor",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 1,
+                "Move": "Fake Tears"
+            },
+            {
+                "Level": 1,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 4,
+                "Move": "Superpower"
+            },
+            {
+                "Level": 7,
+                "Move": "Swift"
+            },
+            {
+                "Level": 10,
+                "Move": "Gust"
+            },
+            {
+                "Level": 13,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 16,
+                "Move": "After You"
+            },
+            {
+                "Level": 19,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 22,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 25,
+                "Move": "Heart Stamp"
+            },
+            {
+                "Level": 28,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 31,
+                "Move": "Psychic Fangs"
+            },
+            {
+                "Level": 34,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 37,
+                "Move": "Dual Wingbeat"
+            },
+            {
+                "Level": 40,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 44,
+                "Move": "Trick"
+            },
+            {
+                "Level": 48,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 52,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 56,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 60,
+                "Move": "Nasty Plot"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Swoobat",
+                "Method": "Level 25"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 45,
+            "DEF": 43,
+            "SPA": 55,
+            "SPD": 43,
+            "SPE": 72
+        }
+    }
+]

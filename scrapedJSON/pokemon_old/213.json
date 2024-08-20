@@ -1,0 +1,271 @@
+[
+    {
+        "Index": 212,
+        "Number": 213,
+        "Name": "Shuckle",
+        "STATS": {
+            "HP": 20,
+            "ATK": 10,
+            "DEF": 230,
+            "SPA": 10,
+            "SPD": 230,
+            "SPE": 5
+        },
+        "TYPE": [
+            "Bug",
+            "Rock"
+        ],
+        "Ability": [
+            "Sturdy",
+            "Contrary",
+            "Gluttony"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Earth Power",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Gastro Acid",
+            "After You",
+            "Helping Hand",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Withdraw"
+            },
+            {
+                "Level": 1,
+                "Move": "Infestation"
+            },
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 6,
+                "Move": "Acid"
+            },
+            {
+                "Level": 9,
+                "Move": "Wrap"
+            },
+            {
+                "Level": 13,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 17,
+                "Move": "Rock Throw"
+            },
+            {
+                "Level": 21,
+                "Move": "Rest"
+            },
+            {
+                "Level": 24,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 27,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 30,
+                "Move": "Power Trick"
+            },
+            {
+                "Level": 33,
+                "Move": "Gastro Acid"
+            },
+            {
+                "Level": 36,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 39,
+                "Move": "Stealth Rock"
+            },
+            {
+                "Level": 42,
+                "Move": "Accelerock"
+            },
+            {
+                "Level": 46,
+                "Move": "Acupressure"
+            },
+            {
+                "Level": 50,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 54,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 58,
+                "Move": "Shell Smash"
+            },
+            {
+                "Level": 62,
+                "Move": "Final Gambit"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM34",
+                "Name": "Sludge Wave"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Berry Juice",
+            "5": "Berry Juice"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Poison"
+            ],
+            "Neutral": [
+                "Fire",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 20,
+            "ATK": 10,
+            "DEF": 230,
+            "SPA": 10,
+            "SPD": 230,
+            "SPE": 5
+        }
+    }
+]

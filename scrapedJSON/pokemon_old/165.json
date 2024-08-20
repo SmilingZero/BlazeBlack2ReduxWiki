@@ -1,0 +1,277 @@
+[
+    {
+        "Index": 164,
+        "Number": 165,
+        "Name": "Ledyba",
+        "STATS": {
+            "HP": 40,
+            "ATK": 60,
+            "DEF": 30,
+            "SPA": 45,
+            "SPD": 80,
+            "SPE": 55
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Rattled",
+            "Iron Fist",
+            "Swarm"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Uproar",
+            "ThunderPunch",
+            "Ice Punch",
+            "Snore",
+            "Knock Off",
+            "Tailwind",
+            "Giga Drain",
+            "Drain Punch",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 1,
+                "Move": "Swift"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 5,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 7,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 9,
+                "Move": "Mach Punch"
+            },
+            {
+                "Level": 12,
+                "Move": "Counter"
+            },
+            {
+                "Level": 14,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 16,
+                "Move": "Aerial Ace"
+            },
+            {
+                "Level": 18,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 20,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 22,
+                "Move": "Reflect"
+            },
+            {
+                "Level": 22,
+                "Move": "Light Screen"
+            },
+            {
+                "Level": 24,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 26,
+                "Move": "Fling"
+            },
+            {
+                "Level": 28,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 31,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 34,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 37,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 40,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 44,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 48,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 52,
+                "Move": "Encore"
+            },
+            {
+                "Level": 56,
+                "Move": "Dual Wingbeat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ledian",
+                "Method": "Level 18"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 40,
+            "ATK": 20,
+            "DEF": 30,
+            "SPA": 40,
+            "SPD": 80,
+            "SPE": 55
+        }
+    }
+]

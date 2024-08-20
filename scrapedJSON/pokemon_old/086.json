@@ -1,0 +1,233 @@
+[
+    {
+        "Index": 85,
+        "Number": 86,
+        "Name": "Seel",
+        "STATS": {
+            "HP": 65,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 70,
+            "SPE": 45
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Hydration",
+            "Ice Body"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Drill Run",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bide"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 4,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 7,
+                "Move": "Headbutt"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 13,
+                "Move": "Disable"
+            },
+            {
+                "Level": 16,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 19,
+                "Move": "Bubble Beam"
+            },
+            {
+                "Level": 22,
+                "Move": "Fake Out"
+            },
+            {
+                "Level": 25,
+                "Move": "Entrainment"
+            },
+            {
+                "Level": 28,
+                "Move": "Brine"
+            },
+            {
+                "Level": 31,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Jet"
+            },
+            {
+                "Level": 37,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 40,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 44,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 48,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 52,
+                "Move": "Icicle Crash"
+            },
+            {
+                "Level": 56,
+                "Move": "Perish Song"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM51",
+                "Name": "Wave Crash"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Dewgong",
+                "Method": "Level 34"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 45,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 70,
+            "SPE": 45
+        }
+    }
+]

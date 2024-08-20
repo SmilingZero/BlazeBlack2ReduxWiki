@@ -1,0 +1,274 @@
+[
+    {
+        "Index": 163,
+        "Number": 164,
+        "Name": "Noctowl",
+        "STATS": {
+            "HP": 100,
+            "ATK": 40,
+            "DEF": 40,
+            "SPA": 106,
+            "SPD": 116,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Tinted Lens",
+            "Insomnia",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Magic Coat",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 1,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Mean Look"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Peck"
+            },
+            {
+                "Level": 7,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 10,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 13,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 16,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 19,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 20,
+                "Move": "Stored Power"
+            },
+            {
+                "Level": 23,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 26,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 29,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 32,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 35,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 38,
+                "Move": "Agility"
+            },
+            {
+                "Level": 42,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 46,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 50,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 54,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 58,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 62,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 76,
+            "SPD": 96,
+            "SPE": 70
+        }
+    }
+]

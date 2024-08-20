@@ -1,0 +1,276 @@
+[
+    {
+        "Index": 330,
+        "Number": 331,
+        "Name": "Cacnea",
+        "STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 85,
+            "SPD": 40,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Grass",
+            "Dark"
+        ],
+        "Ability": [
+            "Unnerve",
+            "Water Absorb",
+            "Water Absorb"
+        ],
+        "Tutor Moves": [
+            "Seed Bomb",
+            "Low Kick",
+            "ThunderPunch",
+            "Block",
+            "Dark Pulse",
+            "Snore",
+            "Synthesis",
+            "Role Play",
+            "Giga Drain",
+            "Drain Punch",
+            "Worry Seed",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Poison Sting"
+            },
+            {
+                "Level": 1,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 4,
+                "Move": "Cotton Spore"
+            },
+            {
+                "Level": 7,
+                "Move": "Growth"
+            },
+            {
+                "Level": 10,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 13,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 16,
+                "Move": "Disable"
+            },
+            {
+                "Level": 18,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 20,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 22,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 24,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 26,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 28,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 31,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 34,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 37,
+                "Move": "Drain Punch"
+            },
+            {
+                "Level": 41,
+                "Move": "Needle Arm"
+            },
+            {
+                "Level": 45,
+                "Move": "Synthesis"
+            },
+            {
+                "Level": 49,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 53,
+                "Move": "Foul Play"
+            },
+            {
+                "Level": 57,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 61,
+                "Move": "Focus Punch"
+            },
+            {
+                "Level": 65,
+                "Move": "Switcheroo"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Cacturne",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {
+            "5": "Sticky Barb"
+        },
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground",
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Fairy"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 85,
+            "SPD": 40,
+            "SPE": 35
+        }
+    }
+]

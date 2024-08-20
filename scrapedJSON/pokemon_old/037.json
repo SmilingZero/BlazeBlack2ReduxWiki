@@ -1,0 +1,268 @@
+[
+    {
+        "Index": 36,
+        "Number": 37,
+        "Name": "Vulpix",
+        "STATS": {
+            "HP": 38,
+            "ATK": 41,
+            "DEF": 40,
+            "SPA": 50,
+            "SPD": 65,
+            "SPE": 65
+        },
+        "TYPE": [
+            "Fire"
+        ],
+        "Ability": [
+            "Drought",
+            "Flash Fire",
+            "Drought"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Foul Play",
+            "Dark Pulse",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Heat Wave",
+            "Role Play",
+            "Pain Split",
+            "Spite",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Ember"
+            },
+            {
+                "Level": 1,
+                "Move": "Spite"
+            },
+            {
+                "Level": 1,
+                "Move": "Tail Whip"
+            },
+            {
+                "Level": 4,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 7,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 10,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 13,
+                "Move": "Captivate"
+            },
+            {
+                "Level": 16,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 19,
+                "Move": "Fire Spin"
+            },
+            {
+                "Level": 22,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 25,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 28,
+                "Move": "Hex"
+            },
+            {
+                "Level": 31,
+                "Move": "Flame Burst"
+            },
+            {
+                "Level": 34,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 37,
+                "Move": "Pain Split"
+            },
+            {
+                "Level": 40,
+                "Move": "Imprison"
+            },
+            {
+                "Level": 44,
+                "Move": "Inferno"
+            },
+            {
+                "Level": 48,
+                "Move": "Memento"
+            },
+            {
+                "Level": 52,
+                "Move": "Flare Blitz"
+            },
+            {
+                "Level": 56,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 60,
+                "Move": "Grudge"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM20",
+                "Name": "Tri Attack"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM35",
+                "Name": "Flamethrower"
+            },
+            {
+                "Machine": "TM38",
+                "Name": "Fire Blast"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM43",
+                "Name": "Flame Charge"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM48",
+                "Name": "Mystical Fire"
+            },
+            {
+                "Machine": "TM50",
+                "Name": "Overheat"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ninetales",
+                "Method": "Use Fire Stone"
+            }
+        ],
+        "Items": {
+            "50": "Rawst Berry",
+            "5": "Rawst Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Grass",
+                "Ice",
+                "Bug",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Normal",
+                "Electric",
+                "Fighting",
+                "Poison",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Ground",
+                "Rock"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 38,
+            "ATK": 41,
+            "DEF": 40,
+            "SPA": 50,
+            "SPD": 65,
+            "SPE": 65
+        }
+    }
+]

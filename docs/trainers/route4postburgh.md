@@ -192,7 +192,7 @@
 [Servine]: ../../pokemons/496/
 [301]: ../img/animated/301.gif
 [Delcatty]: ../../pokemons/301/
-[BackpackerRachel]: ../img/Trainers/Backpacker_Male.gif
+[BackpackerRachel]: ../img/Trainers/Backpacker_Female.gif
 [556]: ../img/animated/556.gif
 [Maractus]: ../../pokemons/556/
 [Pokéfan♀Sachiko]: ../img/Trainers/Pokéfan_Female.gif

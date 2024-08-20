@@ -1,0 +1,95 @@
+[
+    {
+        "Index": 201,
+        "Number": 202,
+        "Name": "Wobbuffet",
+        "STATS": {
+            "HP": 190,
+            "ATK": 33,
+            "DEF": 58,
+            "SPA": 33,
+            "SPD": 58,
+            "SPE": 33
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Shadow Tag",
+            "Telepathy",
+            "Telepathy"
+        ],
+        "Tutor Moves": [],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Counter"
+            },
+            {
+                "Level": 1,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 1,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 1,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            }
+        ],
+        "TM Moves": [],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 190,
+            "ATK": 33,
+            "DEF": 58,
+            "SPA": 33,
+            "SPD": 58,
+            "SPE": 33
+        }
+    }
+]

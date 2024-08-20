@@ -1,0 +1,257 @@
+[
+    {
+        "Index": 528,
+        "Number": 529,
+        "Name": "Drilbur",
+        "STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 30,
+            "SPD": 45,
+            "SPE": 68
+        },
+        "TYPE": [
+            "Ground"
+        ],
+        "Ability": [
+            "Sand Rush",
+            "Mold Breaker",
+            "Sand Force"
+        ],
+        "Tutor Moves": [
+            "Drill Run",
+            "Earth Power",
+            "Iron Defense",
+            "Snore",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Mud-Slap"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 7,
+                "Move": "Fury Swipes"
+            },
+            {
+                "Level": 10,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 13,
+                "Move": "Mud Shot"
+            },
+            {
+                "Level": 16,
+                "Move": "Fury Cutter"
+            },
+            {
+                "Level": 19,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 22,
+                "Move": "Slash"
+            },
+            {
+                "Level": 25,
+                "Move": "Rock Blast"
+            },
+            {
+                "Level": 28,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 31,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 34,
+                "Move": "Scorching Sands"
+            },
+            {
+                "Level": 38,
+                "Move": "Crush Claw"
+            },
+            {
+                "Level": 42,
+                "Move": "Drill Run"
+            },
+            {
+                "Level": 46,
+                "Move": "Sandstorm"
+            },
+            {
+                "Level": 50,
+                "Move": "Skull Bash"
+            },
+            {
+                "Level": 54,
+                "Move": "Mega Kick"
+            },
+            {
+                "Level": 58,
+                "Move": "Fissure"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Excadrill",
+                "Method": "Level 31"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Electric"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Poison",
+                "Rock"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Ice"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 85,
+            "DEF": 40,
+            "SPA": 30,
+            "SPD": 45,
+            "SPE": 68
+        }
+    }
+]

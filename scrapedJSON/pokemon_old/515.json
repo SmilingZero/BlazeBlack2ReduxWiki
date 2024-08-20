@@ -1,0 +1,314 @@
+[
+    {
+        "Index": 514,
+        "Number": 515,
+        "Name": "Panpour",
+        "STATS": {
+            "HP": 50,
+            "ATK": 53,
+            "DEF": 48,
+            "SPA": 53,
+            "SPD": 48,
+            "SPE": 64
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Gluttony",
+            "Torrent",
+            "Torrent"
+        ],
+        "Tutor Moves": [
+            "Water Pledge",
+            "Hydro Cannon",
+            "Covet",
+            "Low Kick",
+            "Gunk Shot",
+            "Uproar",
+            "Ice Punch",
+            "Icy Wind",
+            "Aqua Tail",
+            "Iron Tail",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Helping Hand",
+            "Endeavor",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Water Pledge"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "Lick"
+            },
+            {
+                "Level": 1,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 5,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 8,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 12,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 14,
+                "Move": "Brine"
+            },
+            {
+                "Level": 16,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 18,
+                "Move": "Bite"
+            },
+            {
+                "Level": 20,
+                "Move": "Scald"
+            },
+            {
+                "Level": 22,
+                "Move": "Taunt"
+            },
+            {
+                "Level": 24,
+                "Move": "Endeavor"
+            },
+            {
+                "Level": 26,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 28,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 31,
+                "Move": "Acrobatics"
+            },
+            {
+                "Level": 34,
+                "Move": "Aqua Tail"
+            },
+            {
+                "Level": 38,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 42,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 46,
+                "Move": "Glare"
+            },
+            {
+                "Level": 50,
+                "Move": "Recycle"
+            },
+            {
+                "Level": 54,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 58,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 62,
+                "Move": "Slack Off"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM85",
+                "Name": "Play Rough"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Simipour",
+                "Method": "Use Water Stone"
+            }
+        ],
+        "Items": {
+            "50": "Oran Berry",
+            "5": "Rindo Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 50,
+            "ATK": 53,
+            "DEF": 48,
+            "SPA": 53,
+            "SPD": 48,
+            "SPE": 64
+        }
+    }
+]

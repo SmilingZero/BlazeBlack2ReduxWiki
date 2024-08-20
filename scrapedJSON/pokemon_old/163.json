@@ -1,0 +1,255 @@
+[
+    {
+        "Index": 162,
+        "Number": 163,
+        "Name": "Hoothoot",
+        "STATS": {
+            "HP": 60,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 36,
+            "SPD": 56,
+            "SPE": 50
+        },
+        "TYPE": [
+            "Psychic",
+            "Flying"
+        ],
+        "Ability": [
+            "Tinted Lens",
+            "Insomnia",
+            "Keen Eye"
+        ],
+        "Tutor Moves": [
+            "Uproar",
+            "Magic Coat",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Heat Wave",
+            "Tailwind",
+            "Sky Attack",
+            "Roost",
+            "Recycle",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Peck"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Peck"
+            },
+            {
+                "Level": 7,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 10,
+                "Move": "Mirror Move"
+            },
+            {
+                "Level": 13,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 16,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 19,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 22,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 25,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 28,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 31,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 34,
+                "Move": "Feather Dance"
+            },
+            {
+                "Level": 37,
+                "Move": "Agility"
+            },
+            {
+                "Level": 40,
+                "Move": "Synchronoise"
+            },
+            {
+                "Level": 43,
+                "Move": "Tailwind"
+            },
+            {
+                "Level": 46,
+                "Move": "Moonblast"
+            },
+            {
+                "Level": 50,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 54,
+                "Move": "Esper Wing"
+            },
+            {
+                "Level": 58,
+                "Move": "Sky Attack"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM88",
+                "Name": "Pluck"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Noctowl",
+                "Method": "Level 20"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Grass",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Poison",
+                "Flying",
+                "Bug",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Ice",
+                "Rock",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 30,
+            "DEF": 30,
+            "SPA": 36,
+            "SPD": 56,
+            "SPE": 50
+        }
+    }
+]

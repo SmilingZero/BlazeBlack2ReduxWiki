@@ -1,0 +1,241 @@
+[
+    {
+        "Index": 454,
+        "Number": 455,
+        "Name": "Carnivine",
+        "STATS": {
+            "HP": 74,
+            "ATK": 110,
+            "DEF": 72,
+            "SPA": 100,
+            "SPD": 72,
+            "SPE": 36
+        },
+        "TYPE": [
+            "Grass"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Seed Bomb",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Giga Drain",
+            "Gastro Acid",
+            "Worry Seed",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Bind"
+            },
+            {
+                "Level": 1,
+                "Move": "Growth"
+            },
+            {
+                "Level": 1,
+                "Move": "Bite"
+            },
+            {
+                "Level": 6,
+                "Move": "Vine Whip"
+            },
+            {
+                "Level": 9,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 14,
+                "Move": "Razor Leaf"
+            },
+            {
+                "Level": 18,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 21,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 24,
+                "Move": "Sleep Powder"
+            },
+            {
+                "Level": 24,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 27,
+                "Move": "Poison Fang"
+            },
+            {
+                "Level": 30,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 33,
+                "Move": "Stockpile"
+            },
+            {
+                "Level": 33,
+                "Move": "Swallow"
+            },
+            {
+                "Level": 33,
+                "Move": "Spit Up"
+            },
+            {
+                "Level": 36,
+                "Move": "Crunch"
+            },
+            {
+                "Level": 39,
+                "Move": "Energy Ball"
+            },
+            {
+                "Level": 42,
+                "Move": "Wring Out"
+            },
+            {
+                "Level": 45,
+                "Move": "Leaf Tornado"
+            },
+            {
+                "Level": 49,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 54,
+                "Move": "Power Whip"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM60",
+                "Name": "Quash"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Ground"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Psychic",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Bug"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 74,
+            "ATK": 100,
+            "DEF": 72,
+            "SPA": 90,
+            "SPD": 72,
+            "SPE": 46
+        }
+    }
+]

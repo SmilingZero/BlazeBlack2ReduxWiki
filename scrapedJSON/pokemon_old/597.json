@@ -1,0 +1,261 @@
+[
+    {
+        "Index": 596,
+        "Number": 597,
+        "Name": "Ferroseed",
+        "STATS": {
+            "HP": 44,
+            "ATK": 50,
+            "DEF": 91,
+            "SPA": 24,
+            "SPD": 86,
+            "SPE": 10
+        },
+        "TYPE": [
+            "Grass",
+            "Steel"
+        ],
+        "Ability": [
+            "Iron Barbs"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Seed Bomb",
+            "Gravity",
+            "Magnet Rise",
+            "Iron Defense",
+            "Snore",
+            "Giga Drain",
+            "Worry Seed",
+            "Endeavor",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Endure"
+            },
+            {
+                "Level": 7,
+                "Move": "Acid Spray"
+            },
+            {
+                "Level": 10,
+                "Move": "Curse"
+            },
+            {
+                "Level": 13,
+                "Move": "Payback"
+            },
+            {
+                "Level": 16,
+                "Move": "Pin Missile"
+            },
+            {
+                "Level": 19,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 22,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 25,
+                "Move": "Iron Defense"
+            },
+            {
+                "Level": 28,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 31,
+                "Move": "Assurance"
+            },
+            {
+                "Level": 34,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 37,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 40,
+                "Move": "Spikes"
+            },
+            {
+                "Level": 44,
+                "Move": "Revenge"
+            },
+            {
+                "Level": 48,
+                "Move": "Ingrain"
+            },
+            {
+                "Level": 52,
+                "Move": "Gravity"
+            },
+            {
+                "Level": 56,
+                "Move": "Stealth Rock"
+            },
+            {
+                "Level": 60,
+                "Move": "Self-Destruct"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM74",
+                "Name": "Gyro Ball"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Ferrothorn",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {
+            "5": "Sticky Barb"
+        },
+        "Defenses": {
+            "Immune": [
+                "Poison"
+            ],
+            "0.25x Resist": [
+                "Grass"
+            ],
+            "0.5x Resist": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Psychic",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "Neutral": [
+                "Ice",
+                "Ground",
+                "Flying",
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "2x Weak ": [
+                "Fighting"
+            ],
+            "4x Weak": [
+                "Fire"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 44,
+            "ATK": 50,
+            "DEF": 91,
+            "SPA": 24,
+            "SPD": 86,
+            "SPE": 10
+        }
+    }
+]

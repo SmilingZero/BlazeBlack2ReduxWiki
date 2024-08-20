@@ -1,0 +1,263 @@
+[
+    {
+        "Index": 324,
+        "Number": 325,
+        "Name": "Spoink",
+        "STATS": {
+            "HP": 60,
+            "ATK": 25,
+            "DEF": 35,
+            "SPA": 70,
+            "SPD": 80,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Psychic"
+        ],
+        "Ability": [
+            "Thick Fat",
+            "Own Tempo",
+            "Gluttony"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Signal Beam",
+            "Bounce",
+            "Magic Coat",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Role Play",
+            "Heal Bell",
+            "Trick",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Psywave"
+            },
+            {
+                "Level": 7,
+                "Move": "Odor Sleuth"
+            },
+            {
+                "Level": 10,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 13,
+                "Move": "Psych Up"
+            },
+            {
+                "Level": 16,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 19,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 22,
+                "Move": "Mirror Coat"
+            },
+            {
+                "Level": 22,
+                "Move": "Magic Coat"
+            },
+            {
+                "Level": 25,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 28,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 31,
+                "Move": "Lucky Chant"
+            },
+            {
+                "Level": 34,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 37,
+                "Move": "Simple Beam"
+            },
+            {
+                "Level": 40,
+                "Move": "Bounce"
+            },
+            {
+                "Level": 43,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 46,
+                "Move": "Trick"
+            },
+            {
+                "Level": 49,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 52,
+                "Move": "Bounce"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Grumpig",
+                "Method": "Level 32"
+            }
+        ],
+        "Items": {
+            "50": "Persim Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fighting",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 60,
+            "ATK": 25,
+            "DEF": 35,
+            "SPA": 70,
+            "SPD": 80,
+            "SPE": 60
+        }
+    }
+]

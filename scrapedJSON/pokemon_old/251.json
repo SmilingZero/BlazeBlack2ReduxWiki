@@ -1,0 +1,293 @@
+[
+    {
+        "Index": 250,
+        "Number": 251,
+        "Name": "Celebi",
+        "STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        },
+        "TYPE": [
+            "Psychic",
+            "Grass"
+        ],
+        "Ability": [
+            "Natural Cure",
+            "Magic Bounce",
+            "Magic Guard"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Seed Bomb",
+            "Uproar",
+            "Magic Coat",
+            "Earth Power",
+            "Last Resort",
+            "Zen Headbutt",
+            "Snore",
+            "Synthesis",
+            "Heal Bell",
+            "Giga Drain",
+            "Worry Seed",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Stealth Rock",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 1,
+                "Move": "Recover"
+            },
+            {
+                "Level": 1,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 6,
+                "Move": "Safeguard"
+            },
+            {
+                "Level": 10,
+                "Move": "Magical Leaf"
+            },
+            {
+                "Level": 14,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 18,
+                "Move": "Baton Pass"
+            },
+            {
+                "Level": 22,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 26,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 30,
+                "Move": "Healing Wish"
+            },
+            {
+                "Level": 34,
+                "Move": "Future Sight"
+            },
+            {
+                "Level": 38,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 42,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 46,
+                "Move": "Heal Block"
+            },
+            {
+                "Level": 50,
+                "Move": "Leaf Storm"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "50": "Jaboca Berry",
+            "5": "Jaboca Berry"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Ghost",
+                "Dark"
+            ],
+            "4x Weak": [
+                "Bug"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 100,
+            "DEF": 100,
+            "SPA": 100,
+            "SPD": 100,
+            "SPE": 100
+        }
+    }
+]

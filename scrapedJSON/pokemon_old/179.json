@@ -1,0 +1,245 @@
+[
+    {
+        "Index": 178,
+        "Number": 179,
+        "Name": "Mareep",
+        "STATS": {
+            "HP": 55,
+            "ATK": 40,
+            "DEF": 45,
+            "SPA": 65,
+            "SPD": 45,
+            "SPE": 35
+        },
+        "TYPE": [
+            "Electric"
+        ],
+        "Ability": [
+            "Static",
+            "Overcoat",
+            "Plus"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magnet Rise",
+            "Iron Tail",
+            "Snore",
+            "Heal Bell",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Charge"
+            },
+            {
+                "Level": 1,
+                "Move": "Cotton Spore"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 4,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 6,
+                "Move": "Thunder Shock"
+            },
+            {
+                "Level": 8,
+                "Move": "Sand Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Swift"
+            },
+            {
+                "Level": 12,
+                "Move": "Thunder Wave"
+            },
+            {
+                "Level": 14,
+                "Move": "Electroweb"
+            },
+            {
+                "Level": 16,
+                "Move": "Seismic Toss"
+            },
+            {
+                "Level": 18,
+                "Move": "Electro Ball"
+            },
+            {
+                "Level": 20,
+                "Move": "Signal Beam"
+            },
+            {
+                "Level": 23,
+                "Move": "Heal Bell"
+            },
+            {
+                "Level": 26,
+                "Move": "Discharge"
+            },
+            {
+                "Level": 29,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 32,
+                "Move": "Agility"
+            },
+            {
+                "Level": 36,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 40,
+                "Move": "Charge Beam"
+            },
+            {
+                "Level": 44,
+                "Move": "Screech"
+            },
+            {
+                "Level": 48,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 52,
+                "Move": "Nuzzle"
+            },
+            {
+                "Level": 56,
+                "Move": "Double-Edge"
+            },
+            {
+                "Level": 60,
+                "Move": "Zap Cannon"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM93",
+                "Name": "Wild Charge"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Flaaffy",
+                "Method": "Level 15"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Electric",
+                "Flying",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ground"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 55,
+            "ATK": 40,
+            "DEF": 40,
+            "SPA": 65,
+            "SPD": 45,
+            "SPE": 35
+        }
+    }
+]

@@ -759,7 +759,7 @@ Liepard [Unburden], lv.25: Fake Out, Faint Attack, Torment, Trick
 Servine [Contrary], lv.25: Dragon Breath, Leaf Tornado, Dragon Rage, Leech Seed
 Delcatty [Wonder Skin], lv.25: Fake Out, Slash, Wish, Sing
 $$$
-○ Backpacker Rachel: 
+○ Backpacker♀ Rachel: 
 Vullaby [Overcoat], lv.25: Wing Attack, Tailwind, Iron Defense, Payback
 Rufflet [Sheer Force], lv.25: Aerial Ace, Esper Wing, Hone Claws, Slash 
 Maractus [Water Absorb], lv.25: Giga Drain, Pin Missile, Sucker Punch, Leech Seed
@@ -811,7 +811,7 @@ Chimecho [Levitate], lv.27: Stored Power, Future Sight, Yawn, Cosmic Power
 Tympole [Water Abosrb], lv.27: Echoed Voice, Mud Shot, Bubble Beam, Mist
 Barboach [Simple*], lv.27: Dragon Dance, Bulldoze, Spark, Headbutt
 
-○ Backpacker Clara: 
+○ Backpacker♀ Clara: 
 Cubchoo [Rattled], lv.27: Brine, Icy Wind, Aqua Jet, Charm
 Swinub [Snow Cloak], lv.27: Ice Shard, Icicle Spear, Bulldoze, Knock Off
 Delibird [Technician], lv.27: Icy Wind, Quick Attack, Crabhammer, Ice Shard
@@ -821,7 +821,7 @@ Chimchar [Iron Fist], lv.27: Flame Wheel, Double Kick, Fire Spin, Covet
 Machop [Steadfast*], lv.27: Tickle, Bullet Punch, Vital Throw, Helping Hand
 Buneary [Limber], lv.27: Jump Kick, Fake Out, Baton Pass, Dizzy Punch
 
-○ Backpacker Tami: 
+○ Backpacker♀ Tami: 
 Tirtouga [Sturdy], lv.27: Rock Slide, Razor Shell, Crunch, Aqua Jet
 Archen [Defeatist], lv.27: Pluck, Rock Tomb, Dragon Breath, Quick Attack
 
@@ -880,13 +880,13 @@ Unfezant [Unaware], lv.31 @Normal Gem: Hyper Voice, Hurricane, Heat Wave, Tailwi
 ○♕ SUBWAY BOSSES INGO AND EMMET - (Tag):
 <left>
 Emmet
-Eelektross [Levitate], lv.34 @Magnet: Thunderbolt, Brick Break, Protect, Thunder Wave
-Umbreon [Synchronize], lv.34 @Leftovers: Helping Hand, Foul Play, Fake Tears, Assurance
+Eelektross [Levitate], lv.32 @Magnet: Thunderbolt, Brick Break, Protect, Thunder Wave
+Umbreon [Synchronize], lv.32 @Leftovers: Helping Hand, Foul Play, Fake Tears, Assurance
 </left>
 <right>
 Ingo
-Chandelure [Flash Fire], lv.34 @Charcoal: Heat Wave, Hex, Protect, Will-O-Wisp
-Espeon [Magic Bounce], lv.34 @Psychic Gem: Psychic, Dazzling Gleam, Power Gem, Aura Sphere
+Chandelure [Flash Fire], lv.32 @Charcoal: Heat Wave, Hex, Protect, Will-O-Wisp
+Espeon [Magic Bounce], lv.32 @Psychic Gem: Psychic, Dazzling Gleam, Power Gem, Aura Sphere
 </right>
 <partner> 
 <tepig>
@@ -965,7 +965,7 @@ Watchog [Analytic], lv.30: Hyper Fang, Retaliate, Detect, Hypnosis
 Prinplup [Torrent], lv.30: Yawn, Bubble Beam, Aqua Ring, Fury Attack
 Skiploom [Prankster], lv.30: Acrobatics, Confusion, Leech Seed, Aromatherapy
 
-○ Backpacker Blossom: 
+○ Backpacker♀ Blossom: 
 Persian [Unnerve], lv.31: Slash, Night Slash, Power Gem, Charm
 Drifloon [Aftermath], lv.31: Minimize, Hex, Ominous Wind, Air Cutter
 
@@ -1230,6 +1230,7 @@ Flygon [Levitate], lv.47 @Life Orb: Scorching Sands, Dragon Claw, Lunge, Dragon 
 Lilligant [Own Tempo], lv.46 @Focus Sash: Petal Dance, Extrasensory, Sleep Powder, Quiver Dance
 Samurott [Shell Armor], lv.47 @Leftovers: Air Slash, Waterfall, Megahorn, Close Combat
 </tepig>
+
 <oshawott>
 ●♕ Hugh:
 Swellow [Scrappy], lv.46 @Metronome: Boomburst, Quick Attack, Hurricane, U-Turn
@@ -1238,6 +1239,7 @@ Flygon [Levitate], lv.47 @Life Orb: Scorching Sands, Dragon Claw, Lunge, Dragon 
 Camerupt [Simple], lv.46 @Passho Berry: Flamethrower, Rock Climb, Earthquake, Rock Polish
 Serperior [Contrary], lv.47 @Leftovers: Glare, Leaf Blade, Dragon Pulse, Aqua Tail
 </oshawott>
+
 <snivy>
 ●♕ Hugh:
 Swellow [Scrappy], lv.46 @Metronome: Boomburst, Quick Attack, Hurricane, U-Turn

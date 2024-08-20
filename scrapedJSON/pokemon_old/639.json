@@ -1,0 +1,305 @@
+[
+    {
+        "Index": 638,
+        "Number": 639,
+        "Name": "Terrakion",
+        "STATS": {
+            "HP": 91,
+            "ATK": 129,
+            "DEF": 90,
+            "SPA": 72,
+            "SPD": 90,
+            "SPE": 108
+        },
+        "TYPE": [
+            "Rock",
+            "Fighting"
+        ],
+        "Ability": [
+            "Justified"
+        ],
+        "Tutor Moves": [
+            "Iron Head",
+            "Block",
+            "Earth Power",
+            "Superpower",
+            "Zen Headbutt",
+            "Snore",
+            "Helping Hand",
+            "Stealth Rock",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Helping Hand"
+            },
+            {
+                "Level": 1,
+                "Move": "Leer"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Smack Down"
+            },
+            {
+                "Level": 14,
+                "Move": "Quick Guard"
+            },
+            {
+                "Level": 18,
+                "Move": "Double Kick"
+            },
+            {
+                "Level": 22,
+                "Move": "Swords Dance"
+            },
+            {
+                "Level": 26,
+                "Move": "Retaliate"
+            },
+            {
+                "Level": 30,
+                "Move": "Work Up"
+            },
+            {
+                "Level": 34,
+                "Move": "Take Down"
+            },
+            {
+                "Level": 38,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 42,
+                "Move": "Calm Mind"
+            },
+            {
+                "Level": 46,
+                "Move": "Block"
+            },
+            {
+                "Level": 50,
+                "Move": "Rock Slide"
+            },
+            {
+                "Level": 55,
+                "Move": "Air Slash"
+            },
+            {
+                "Level": 60,
+                "Move": "Sacred Sword"
+            },
+            {
+                "Level": 65,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 70,
+                "Move": "Smart Strike"
+            },
+            {
+                "Level": 80,
+                "Move": "Stone Edge"
+            },
+            {
+                "Level": 85,
+                "Move": "Megahorn"
+            },
+            {
+                "Level": 90,
+                "Move": "Close Combat"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM23",
+                "Name": "Smack Down"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM37",
+                "Name": "Sandstorm"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM69",
+                "Name": "Rock Polish"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Normal",
+                "Fire",
+                "Poison",
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Electric",
+                "Ice",
+                "Flying",
+                "Ghost",
+                "Dragon"
+            ],
+            "2x Weak ": [
+                "Water",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Psychic",
+                "Steel",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 91,
+            "ATK": 129,
+            "DEF": 90,
+            "SPA": 72,
+            "SPD": 90,
+            "SPE": 108
+        }
+    }
+]

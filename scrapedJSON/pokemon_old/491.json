@@ -1,0 +1,320 @@
+[
+    {
+        "Index": 490,
+        "Number": 491,
+        "Name": "Darkrai",
+        "STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 90,
+            "SPA": 135,
+            "SPD": 90,
+            "SPE": 125
+        },
+        "TYPE": [
+            "Dark"
+        ],
+        "Ability": [
+            "Bad Dreams"
+        ],
+        "Tutor Moves": [
+            "Foul Play",
+            "Last Resort",
+            "Icy Wind",
+            "Dark Pulse",
+            "Snore",
+            "Knock Off",
+            "Drain Punch",
+            "Spite",
+            "Trick",
+            "Wonder Room",
+            "Snatch",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Roar of Time"
+            },
+            {
+                "Level": 1,
+                "Move": "Spacial Rend"
+            },
+            {
+                "Level": 1,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 1,
+                "Move": "Disable"
+            },
+            {
+                "Level": 1,
+                "Move": "Knock Off"
+            },
+            {
+                "Level": 6,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 10,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 14,
+                "Move": "Feint Attack"
+            },
+            {
+                "Level": 18,
+                "Move": "Nightmare"
+            },
+            {
+                "Level": 22,
+                "Move": "Double Team"
+            },
+            {
+                "Level": 26,
+                "Move": "Haze"
+            },
+            {
+                "Level": 30,
+                "Move": "Night Shade"
+            },
+            {
+                "Level": 34,
+                "Move": "Sucker Punch"
+            },
+            {
+                "Level": 38,
+                "Move": "Dark Void"
+            },
+            {
+                "Level": 42,
+                "Move": "Nasty Plot"
+            },
+            {
+                "Level": 46,
+                "Move": "Dream Eater"
+            },
+            {
+                "Level": 50,
+                "Move": "Dark Pulse"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM59",
+                "Name": "Incinerate"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM80",
+                "Name": "Rock Slide"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "TM95",
+                "Name": "Snarl"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Psychic"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ghost",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Bug",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 90,
+            "DEF": 90,
+            "SPA": 135,
+            "SPD": 90,
+            "SPE": 125
+        }
+    }
+]

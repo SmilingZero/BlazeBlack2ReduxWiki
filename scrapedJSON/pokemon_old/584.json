@@ -1,0 +1,268 @@
+[
+    {
+        "Index": 583,
+        "Number": 584,
+        "Name": "Vanilluxe",
+        "STATS": {
+            "HP": 71,
+            "ATK": 95,
+            "DEF": 85,
+            "SPA": 110,
+            "SPD": 95,
+            "SPE": 79
+        },
+        "TYPE": [
+            "Ice",
+            "Fairy"
+        ],
+        "Ability": [
+            "Snow Warning",
+            "Ice Body",
+            "Weak Armor"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Uproar",
+            "Magic Coat",
+            "Magnet Rise",
+            "Iron Defense",
+            "Icy Wind",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Astonish"
+            },
+            {
+                "Level": 1,
+                "Move": "Charm"
+            },
+            {
+                "Level": 1,
+                "Move": "Harden"
+            },
+            {
+                "Level": 1,
+                "Move": "Hail"
+            },
+            {
+                "Level": 4,
+                "Move": "Icicle Spear"
+            },
+            {
+                "Level": 7,
+                "Move": "Swift"
+            },
+            {
+                "Level": 10,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 12,
+                "Move": "Powder Snow"
+            },
+            {
+                "Level": 14,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 17,
+                "Move": "Mirror Shot"
+            },
+            {
+                "Level": 20,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 23,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 26,
+                "Move": "Ally Switch"
+            },
+            {
+                "Level": 29,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 32,
+                "Move": "Uproar"
+            },
+            {
+                "Level": 36,
+                "Move": "Natural Gift"
+            },
+            {
+                "Level": 40,
+                "Move": "Refresh"
+            },
+            {
+                "Level": 44,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 48,
+                "Move": "Frost Breath"
+            },
+            {
+                "Level": 52,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 56,
+                "Move": "Extrasensory"
+            },
+            {
+                "Level": 61,
+                "Move": "Haze"
+            },
+            {
+                "Level": 66,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 71,
+                "Move": "Autotomize"
+            },
+            {
+                "Level": 76,
+                "Move": "Sheer Cold"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM12",
+                "Name": "Taunt"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM56",
+                "Name": "Weather Ball"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM66",
+                "Name": "Power Gem"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {},
+        "Defenses": {
+            "Immune": [
+                "Dragon"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice",
+                "Bug",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Fighting",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Ghost",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Poison",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Steel"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 71,
+            "ATK": 95,
+            "DEF": 85,
+            "SPA": 110,
+            "SPD": 95,
+            "SPE": 79
+        }
+    }
+]

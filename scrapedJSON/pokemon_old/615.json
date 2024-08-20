@@ -1,0 +1,237 @@
+[
+    {
+        "Index": 614,
+        "Number": 615,
+        "Name": "Cryogonal",
+        "STATS": {
+            "HP": 80,
+            "ATK": 50,
+            "DEF": 50,
+            "SPA": 95,
+            "SPD": 135,
+            "SPE": 105
+        },
+        "TYPE": [
+            "Ice"
+        ],
+        "Ability": [
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Signal Beam",
+            "Magic Coat",
+            "Iron Defense",
+            "Icy Wind",
+            "Bind",
+            "Snore",
+            "Knock Off",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Triple Axel"
+            },
+            {
+                "Level": 1,
+                "Move": "Ice Shard"
+            },
+            {
+                "Level": 4,
+                "Move": "Confuse Ray"
+            },
+            {
+                "Level": 8,
+                "Move": "Rapid Spin"
+            },
+            {
+                "Level": 15,
+                "Move": "Icy Wind"
+            },
+            {
+                "Level": 20,
+                "Move": "Haze"
+            },
+            {
+                "Level": 20,
+                "Move": "Mist"
+            },
+            {
+                "Level": 24,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 28,
+                "Move": "Aurora Beam"
+            },
+            {
+                "Level": 32,
+                "Move": "Night Slash"
+            },
+            {
+                "Level": 32,
+                "Move": "Slash"
+            },
+            {
+                "Level": 36,
+                "Move": "Frost Breath"
+            },
+            {
+                "Level": 40,
+                "Move": "Light Screen"
+            },
+            {
+                "Level": 40,
+                "Move": "Reflect"
+            },
+            {
+                "Level": 44,
+                "Move": "Recover"
+            },
+            {
+                "Level": 48,
+                "Move": "Ice Beam"
+            },
+            {
+                "Level": 52,
+                "Move": "Acid Armor"
+            },
+            {
+                "Level": 56,
+                "Move": "Solar Beam"
+            },
+            {
+                "Level": 60,
+                "Move": "Sheer Cold"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM33",
+                "Name": "Reflect"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM64",
+                "Name": "Explosion"
+            },
+            {
+                "Machine": "TM79",
+                "Name": "Frost Breath"
+            },
+            {
+                "Machine": "TM84",
+                "Name": "Poison Jab"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM91",
+                "Name": "Flash Cannon"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [],
+        "Items": {
+            "5": "NeverMeltIce"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Ice"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Electric",
+                "Grass",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Fighting",
+                "Rock",
+                "Steel"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 70,
+            "ATK": 50,
+            "DEF": 30,
+            "SPA": 95,
+            "SPD": 135,
+            "SPE": 105
+        }
+    }
+]

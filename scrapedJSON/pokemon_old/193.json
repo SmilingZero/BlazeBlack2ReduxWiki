@@ -1,0 +1,240 @@
+[
+    {
+        "Index": 192,
+        "Number": 193,
+        "Name": "Yanma",
+        "STATS": {
+            "HP": 65,
+            "ATK": 65,
+            "DEF": 45,
+            "SPA": 75,
+            "SPD": 45,
+            "SPE": 95
+        },
+        "TYPE": [
+            "Bug",
+            "Flying"
+        ],
+        "Ability": [
+            "Speed Boost",
+            "Compoundeyes",
+            "Frisk"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Signal Beam",
+            "Uproar",
+            "Snore",
+            "Tailwind",
+            "Giga Drain",
+            "Roost",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Foresight"
+            },
+            {
+                "Level": 1,
+                "Move": "Gust"
+            },
+            {
+                "Level": 1,
+                "Move": "Tackle"
+            },
+            {
+                "Level": 4,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 7,
+                "Move": "Screech"
+            },
+            {
+                "Level": 10,
+                "Move": "Silver Wind"
+            },
+            {
+                "Level": 13,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 16,
+                "Move": "Sonic Boom"
+            },
+            {
+                "Level": 19,
+                "Move": "Detect"
+            },
+            {
+                "Level": 22,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 25,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 28,
+                "Move": "Wing Attack"
+            },
+            {
+                "Level": 31,
+                "Move": "Air Cutter"
+            },
+            {
+                "Level": 34,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 37,
+                "Move": "Whirlwind"
+            },
+            {
+                "Level": 40,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 44,
+                "Move": "Reversal"
+            },
+            {
+                "Level": 48,
+                "Move": "Hypnosis"
+            },
+            {
+                "Level": 52,
+                "Move": "Bug Buzz"
+            },
+            {
+                "Level": 56,
+                "Move": "Air Slash"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM58",
+                "Name": "Hurricane"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Yanmega",
+                "Method": "Level Up with move Ancient Power"
+            }
+        ],
+        "Items": {
+            "5": "Wide Lens"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ground"
+            ],
+            "0.25x Resist": [
+                "Grass",
+                "Fighting"
+            ],
+            "0.5x Resist": [
+                "Bug"
+            ],
+            "Neutral": [
+                "Normal",
+                "Water",
+                "Poison",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Fire",
+                "Electric",
+                "Ice",
+                "Flying"
+            ],
+            "4x Weak": [
+                "Rock"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 65,
+            "ATK": 65,
+            "DEF": 45,
+            "SPA": 75,
+            "SPD": 45,
+            "SPE": 95
+        }
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "Index": 486,
+        "Number": 487,
+        "Name": "Giratina - Altered",
+        "STATS": {
+            "HP": 150,
+            "ATK": 100,
+            "DEF": 120,
+            "SPA": 100,
+            "SPD": 120,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Ghost",
+            "Dragon"
+        ],
+        "Ability": [
+            "Pressure",
+            "Telepathy",
+            "Telepathy"
+        ],
+        "Tutor Moves": [
+            "Draco Meteor",
+            "Iron Head",
+            "Earth Power",
+            "Gravity",
+            "Icy Wind",
+            "Aqua Tail",
+            "Dark Pulse",
+            "Dragon Pulse",
+            "Hyper Voice",
+            "Iron Tail",
+            "Snore",
+            "Pain Split",
+            "Spite",
+            "Outrage",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Breaking Swipe"
+            },
+            {
+                "Level": 1,
+                "Move": "Scary Face"
+            },
+            {
+                "Level": 6,
+                "Move": "Ominous Wind"
+            },
+            {
+                "Level": 10,
+                "Move": "Ancient Power"
+            },
+            {
+                "Level": 14,
+                "Move": "Slash"
+            },
+            {
+                "Level": 18,
+                "Move": "Shadow Sneak"
+            },
+            {
+                "Level": 22,
+                "Move": "Destiny Bond"
+            },
+            {
+                "Level": 26,
+                "Move": "Dragon Claw"
+            },
+            {
+                "Level": 30,
+                "Move": "Hex"
+            },
+            {
+                "Level": 34,
+                "Move": "Shadow Claw"
+            },
+            {
+                "Level": 38,
+                "Move": "Aura Sphere"
+            },
+            {
+                "Level": 42,
+                "Move": "Earth Power"
+            },
+            {
+                "Level": 46,
+                "Move": "Dragon Pulse"
+            },
+            {
+                "Level": 50,
+                "Move": "Shadow Force"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM2",
+                "Name": "Dragon Claw"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM46",
+                "Name": "Aura Sphere"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM61",
+                "Name": "Will-O-Wisp"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM82",
+                "Name": "Dragon Tail"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM87",
+                "Name": "Rock Climb"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            },
+            {
+                "Machine": "HM2",
+                "Name": "Fly"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [
+            690
+        ],
+        "Evolutions": [],
+        "Items": {
+            "50": "Griseous Orb",
+            "5": "Griseous Orb",
+            "1": "Griseous Orb"
+        },
+        "Defenses": {
+            "Immune": [
+                "Normal",
+                "Fighting"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Poison",
+                "Bug"
+            ],
+            "Neutral": [
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Rock",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 150,
+            "ATK": 100,
+            "DEF": 120,
+            "SPA": 100,
+            "SPD": 120,
+            "SPE": 90
+        }
+    },
+    {
+        "Index": 690,
+        "Name": "Giratina - Origin",
+        "STATS": {
+            "HP": 150,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 120,
+            "SPD": 100,
+            "SPE": 90
+        },
+        "Ability": [
+            "Levitate",
+            "Levitate"
+        ],
+        "Tutor Moves": [
+            "Magic Coat",
+            "Tailwind"
+        ],
+        "Other Form Index": [],
+        "VANILLA STATS": {
+            "HP": 150,
+            "ATK": 120,
+            "DEF": 100,
+            "SPA": 120,
+            "SPD": 100,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Ghost",
+            "Dragon"
+        ],
+        "Number": 487
+    }
+]

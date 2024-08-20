@@ -1,0 +1,256 @@
+[
+    {
+        "Index": 319,
+        "Number": 320,
+        "Name": "Wailmer",
+        "STATS": {
+            "HP": 130,
+            "ATK": 70,
+            "DEF": 35,
+            "SPA": 70,
+            "SPD": 35,
+            "SPE": 60
+        },
+        "TYPE": [
+            "Water"
+        ],
+        "Ability": [
+            "Water Veil",
+            "Pressure",
+            "Pressure"
+        ],
+        "Tutor Moves": [
+            "Bounce",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Aqua Ring"
+            },
+            {
+                "Level": 1,
+                "Move": "Growl"
+            },
+            {
+                "Level": 1,
+                "Move": "Splash"
+            },
+            {
+                "Level": 1,
+                "Move": "Water Gun"
+            },
+            {
+                "Level": 4,
+                "Move": "Mist"
+            },
+            {
+                "Level": 7,
+                "Move": "Defense Curl"
+            },
+            {
+                "Level": 10,
+                "Move": "Rollout"
+            },
+            {
+                "Level": 13,
+                "Move": "Whirlpool"
+            },
+            {
+                "Level": 16,
+                "Move": "Tickle"
+            },
+            {
+                "Level": 19,
+                "Move": "Amnesia"
+            },
+            {
+                "Level": 22,
+                "Move": "Water Pulse"
+            },
+            {
+                "Level": 25,
+                "Move": "Zen Headbutt"
+            },
+            {
+                "Level": 28,
+                "Move": "Body Slam"
+            },
+            {
+                "Level": 32,
+                "Move": "Heavy Slam"
+            },
+            {
+                "Level": 36,
+                "Move": "Brine"
+            },
+            {
+                "Level": 40,
+                "Move": "Final Gambit"
+            },
+            {
+                "Level": 44,
+                "Move": "Curse"
+            },
+            {
+                "Level": 48,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 52,
+                "Move": "Soak"
+            },
+            {
+                "Level": 56,
+                "Move": "Hydro Pump"
+            },
+            {
+                "Level": 60,
+                "Move": "Follow Me"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM5",
+                "Name": "Roar"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM7",
+                "Name": "Hail"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM13",
+                "Name": "Ice Beam"
+            },
+            {
+                "Machine": "TM14",
+                "Name": "Blizzard"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM26",
+                "Name": "Earthquake"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM39",
+                "Name": "Rock Tomb"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM55",
+                "Name": "Scald"
+            },
+            {
+                "Machine": "TM78",
+                "Name": "Bulldoze"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM3",
+                "Name": "Surf"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            },
+            {
+                "Machine": "HM5",
+                "Name": "Waterfall"
+            },
+            {
+                "Machine": "HM6",
+                "Name": "Dive"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Wailord",
+                "Method": "Level 40"
+            }
+        ],
+        "Items": {},
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Fire",
+                "Water",
+                "Ice",
+                "Steel"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Psychic",
+                "Bug",
+                "Rock",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Electric",
+                "Grass"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 130,
+            "ATK": 70,
+            "DEF": 35,
+            "SPA": 70,
+            "SPD": 35,
+            "SPE": 60
+        }
+    }
+]

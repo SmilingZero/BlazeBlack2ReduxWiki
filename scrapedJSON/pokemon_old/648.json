@@ -1,0 +1,396 @@
+[
+    {
+        "Index": 647,
+        "Number": 648,
+        "Name": "Meloetta - Aria",
+        "STATS": {
+            "HP": 100,
+            "ATK": 77,
+            "DEF": 77,
+            "SPA": 128,
+            "SPD": 128,
+            "SPE": 90
+        },
+        "TYPE": [
+            "Normal",
+            "Psychic"
+        ],
+        "Ability": [
+            "Serene Grace"
+        ],
+        "Tutor Moves": [
+            "Covet",
+            "Dual Chop",
+            "Signal Beam",
+            "Low Kick",
+            "Uproar",
+            "ThunderPunch",
+            "Fire Punch",
+            "Ice Punch",
+            "Magic Coat",
+            "Gravity",
+            "Last Resort",
+            "Zen Headbutt",
+            "Hyper Voice",
+            "Snore",
+            "Knock Off",
+            "Role Play",
+            "Heal Bell",
+            "Drain Punch",
+            "Helping Hand",
+            "Trick",
+            "Magic Room",
+            "Wonder Room",
+            "Recycle",
+            "Snatch",
+            "Sleep Talk",
+            "Skill Swap"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Perish Song"
+            },
+            {
+                "Level": 1,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 1,
+                "Move": "Disarming Voice"
+            },
+            {
+                "Level": 1,
+                "Move": "Sing"
+            },
+            {
+                "Level": 6,
+                "Move": "Quick Attack"
+            },
+            {
+                "Level": 14,
+                "Move": "Confusion"
+            },
+            {
+                "Level": 17,
+                "Move": "Sing"
+            },
+            {
+                "Level": 20,
+                "Move": "Teeter Dance"
+            },
+            {
+                "Level": 23,
+                "Move": "Acrobatics"
+            },
+            {
+                "Level": 26,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 29,
+                "Move": "Echoed Voice"
+            },
+            {
+                "Level": 32,
+                "Move": "U-turn"
+            },
+            {
+                "Level": 35,
+                "Move": "Wake-Up Slap"
+            },
+            {
+                "Level": 38,
+                "Move": "Psychic"
+            },
+            {
+                "Level": 41,
+                "Move": "Hyper Voice"
+            },
+            {
+                "Level": 44,
+                "Move": "Role Play"
+            },
+            {
+                "Level": 47,
+                "Move": "Close Combat"
+            },
+            {
+                "Level": 50,
+                "Move": "Relic Song"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM3",
+                "Name": "Psyshock"
+            },
+            {
+                "Machine": "TM4",
+                "Name": "Calm Mind"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM15",
+                "Name": "Hyper Beam"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM18",
+                "Name": "Rain Dance"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM24",
+                "Name": "Thunderbolt"
+            },
+            {
+                "Machine": "TM25",
+                "Name": "Thunder"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM29",
+                "Name": "Psychic"
+            },
+            {
+                "Machine": "TM30",
+                "Name": "Shadow Ball"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM32",
+                "Name": "Dazzling Gleam"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM45",
+                "Name": "Power-Up Punch"
+            },
+            {
+                "Machine": "TM47",
+                "Name": "Low Sweep"
+            },
+            {
+                "Machine": "TM49",
+                "Name": "Echoed Voice"
+            },
+            {
+                "Machine": "TM52",
+                "Name": "Focus Blast"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM57",
+                "Name": "Charge Beam"
+            },
+            {
+                "Machine": "TM62",
+                "Name": "Acrobatics"
+            },
+            {
+                "Machine": "TM63",
+                "Name": "Brutal Swing"
+            },
+            {
+                "Machine": "TM65",
+                "Name": "Shadow Claw"
+            },
+            {
+                "Machine": "TM67",
+                "Name": "Retaliate"
+            },
+            {
+                "Machine": "TM68",
+                "Name": "Giga Impact"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM71",
+                "Name": "Stone Edge"
+            },
+            {
+                "Machine": "TM73",
+                "Name": "Thunder Wave"
+            },
+            {
+                "Machine": "TM77",
+                "Name": "Psych Up"
+            },
+            {
+                "Machine": "TM83",
+                "Name": "Work Up"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM89",
+                "Name": "U-Turn"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM92",
+                "Name": "Trick Room"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM4",
+                "Name": "Strength"
+            }
+        ],
+        "Other Form Index": [
+            701
+        ],
+        "Evolutions": [],
+        "Items": {
+            "50": "Star Piece",
+            "5": "Star Piece"
+        },
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Psychic"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Fighting",
+                "Poison",
+                "Ground",
+                "Flying",
+                "Rock",
+                "Dragon",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Bug",
+                "Dark"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 77,
+            "DEF": 77,
+            "SPA": 128,
+            "SPD": 128,
+            "SPE": 90
+        }
+    },
+    {
+        "Index": 701,
+        "Name": "Meloetta - Pirouette",
+        "STATS": {
+            "HP": 100,
+            "ATK": 128,
+            "DEF": 90,
+            "SPA": 77,
+            "SPD": 77,
+            "SPE": 128
+        },
+        "TYPE": [
+            "Normal",
+            "Fighting"
+        ],
+        "Other Form Index": [],
+        "Defenses": {
+            "Immune": [
+                "Ghost"
+            ],
+            "0.25x Resist": [],
+            "0.5x Resist": [
+                "Bug",
+                "Rock",
+                "Dark"
+            ],
+            "Neutral": [
+                "Normal",
+                "Fire",
+                "Water",
+                "Electric",
+                "Grass",
+                "Ice",
+                "Poison",
+                "Ground",
+                "Dragon",
+                "Steel"
+            ],
+            "2x Weak ": [
+                "Fighting",
+                "Flying",
+                "Psychic",
+                "Fairy"
+            ],
+            "4x Weak": []
+        },
+        "VANILLA STATS": {
+            "HP": 100,
+            "ATK": 128,
+            "DEF": 90,
+            "SPA": 77,
+            "SPD": 77,
+            "SPE": 128
+        },
+        "Number": 648
+    }
+]

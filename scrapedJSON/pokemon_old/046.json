@@ -1,0 +1,294 @@
+[
+    {
+        "Index": 45,
+        "Number": 46,
+        "Name": "Paras",
+        "STATS": {
+            "HP": 35,
+            "ATK": 70,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 25
+        },
+        "TYPE": [
+            "Bug",
+            "Grass"
+        ],
+        "Ability": [
+            "Effect Spore",
+            "Dry Skin",
+            "Damp"
+        ],
+        "Tutor Moves": [
+            "Bug Bite",
+            "Seed Bomb",
+            "Snore",
+            "Knock Off",
+            "Synthesis",
+            "Giga Drain",
+            "Worry Seed",
+            "After You",
+            "Sleep Talk"
+        ],
+        "Level Up Moves": [
+            {
+                "Level": 1,
+                "Move": "Absorb"
+            },
+            {
+                "Level": 1,
+                "Move": "Scratch"
+            },
+            {
+                "Level": 1,
+                "Move": "String Shot"
+            },
+            {
+                "Level": 4,
+                "Move": "Pursuit"
+            },
+            {
+                "Level": 7,
+                "Move": "Stun Spore"
+            },
+            {
+                "Level": 7,
+                "Move": "Poison Powder"
+            },
+            {
+                "Level": 10,
+                "Move": "Metal Claw"
+            },
+            {
+                "Level": 13,
+                "Move": "Bug Bite"
+            },
+            {
+                "Level": 16,
+                "Move": "Bullet Seed"
+            },
+            {
+                "Level": 19,
+                "Move": "Spore"
+            },
+            {
+                "Level": 21,
+                "Move": "Struggle Bug"
+            },
+            {
+                "Level": 23,
+                "Move": "Wide Guard"
+            },
+            {
+                "Level": 25,
+                "Move": "Leech Life"
+            },
+            {
+                "Level": 27,
+                "Move": "Leech Seed"
+            },
+            {
+                "Level": 29,
+                "Move": "Aromatherapy"
+            },
+            {
+                "Level": 31,
+                "Move": "Psybeam"
+            },
+            {
+                "Level": 34,
+                "Move": "Seed Bomb"
+            },
+            {
+                "Level": 37,
+                "Move": "Cross Poison"
+            },
+            {
+                "Level": 40,
+                "Move": "Cross Chop"
+            },
+            {
+                "Level": 44,
+                "Move": "Agility"
+            },
+            {
+                "Level": 48,
+                "Move": "Growth"
+            },
+            {
+                "Level": 52,
+                "Move": "Lunge"
+            },
+            {
+                "Level": 56,
+                "Move": "Synthesis"
+            }
+        ],
+        "TM Moves": [
+            {
+                "Machine": "TM1",
+                "Name": "Hone Claws"
+            },
+            {
+                "Machine": "TM6",
+                "Name": "Toxic"
+            },
+            {
+                "Machine": "TM9",
+                "Name": "Venoshock"
+            },
+            {
+                "Machine": "TM10",
+                "Name": "Hidden Power"
+            },
+            {
+                "Machine": "TM11",
+                "Name": "Sunny Day"
+            },
+            {
+                "Machine": "TM16",
+                "Name": "Light Screen"
+            },
+            {
+                "Machine": "TM17",
+                "Name": "Protect"
+            },
+            {
+                "Machine": "TM19",
+                "Name": "Giga Drain"
+            },
+            {
+                "Machine": "TM21",
+                "Name": "Frustration"
+            },
+            {
+                "Machine": "TM22",
+                "Name": "SolarBeam"
+            },
+            {
+                "Machine": "TM27",
+                "Name": "Return"
+            },
+            {
+                "Machine": "TM28",
+                "Name": "Dig"
+            },
+            {
+                "Machine": "TM31",
+                "Name": "Brick Break"
+            },
+            {
+                "Machine": "TM36",
+                "Name": "Sludge Bomb"
+            },
+            {
+                "Machine": "TM40",
+                "Name": "Aerial Ace"
+            },
+            {
+                "Machine": "TM41",
+                "Name": "Infestation"
+            },
+            {
+                "Machine": "TM42",
+                "Name": "Facade"
+            },
+            {
+                "Machine": "TM44",
+                "Name": "Rest"
+            },
+            {
+                "Machine": "TM53",
+                "Name": "Energy Ball"
+            },
+            {
+                "Machine": "TM54",
+                "Name": "False Swipe"
+            },
+            {
+                "Machine": "TM70",
+                "Name": "Flash"
+            },
+            {
+                "Machine": "TM75",
+                "Name": "Swords Dance"
+            },
+            {
+                "Machine": "TM76",
+                "Name": "Bug Buzz"
+            },
+            {
+                "Machine": "TM81",
+                "Name": "X-Scissor"
+            },
+            {
+                "Machine": "TM86",
+                "Name": "Grass Knot"
+            },
+            {
+                "Machine": "TM90",
+                "Name": "Substitute"
+            },
+            {
+                "Machine": "TM94",
+                "Name": "Rock Smash"
+            },
+            {
+                "Machine": "HM1",
+                "Name": "Cut"
+            }
+        ],
+        "Other Form Index": [],
+        "Evolutions": [
+            {
+                "To": "Parasect",
+                "Method": "Level 24"
+            }
+        ],
+        "Items": {
+            "50": "TinyMushroom",
+            "5": "Big Mushroom",
+            "1": "BalmMushroom"
+        },
+        "Defenses": {
+            "Immune": [],
+            "0.25x Resist": [
+                "Grass",
+                "Ground"
+            ],
+            "0.5x Resist": [
+                "Water",
+                "Electric",
+                "Fighting"
+            ],
+            "Neutral": [
+                "Normal",
+                "Psychic",
+                "Ghost",
+                "Dragon",
+                "Dark",
+                "Steel",
+                "Fairy"
+            ],
+            "2x Weak ": [
+                "Ice",
+                "Poison",
+                "Bug",
+                "Rock"
+            ],
+            "4x Weak": [
+                "Fire",
+                "Flying"
+            ]
+        },
+        "VANILLA STATS": {
+            "HP": 35,
+            "ATK": 70,
+            "DEF": 55,
+            "SPA": 45,
+            "SPD": 55,
+            "SPE": 25
+        }
+    }
+]
