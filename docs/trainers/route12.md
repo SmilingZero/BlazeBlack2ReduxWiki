@@ -38,8 +38,8 @@
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][BENGA]<br>__BENGA__<br>:exclamation::warning:  | ![][445] <br> __[Garchomp]__ <br>Rough Skin<br>Lv. 55<br>Rocky Helmet<br>• Stealth Rock<br>• Breaking Swipe<br>• Roar<br>• Stealth Rock | ![][376] <br> __[Metagross]__ <br>Iron Fist*<br>Lv. 55<br>Focus Sash<br>• Bullet Punch<br>• Agility<br>• Meteor Mash<br>• Zen Headbutt | ![][500] <br> __[Emboar]__ <br>Mold Breaker*<br>Lv. 55<br>Passho Berry<br>• Flame Charge<br>• Earthquake<br>• Sucker Punch<br>• Wild Charge |
-    | &nbsp; | ![][534] <br> __[Conkeldurr]__ <br>Guts<br>Lv. 56<br>Flame Orb<br>• Focus Punch<br>• Substitute<br>• Mach Punch<br>• Payback | &nbsp; | &nbsp; |
+    | <br>![][BENGA]<br>__BENGA__<br>:exclamation::warning:  | ![][445] <br> __[Garchomp]__ <br>Sand Veil<br>Lv. 55<br>Rocky Helmet<br>• Stealth Rock<br>• Breaking Swipe<br>• Roar<br>• Stealth Rock | ![][376] <br> __[Metagross]__ <br>Iron Fist*<br>Lv. 55<br>Shuca Berry<br>• Bullet Punch<br>• Agility<br>• Meteor Mash<br>• Zen Headbutt | ![][500] <br> __[Emboar]__ <br>Mold Breaker*<br>Lv. 55<br>Passho Berry<br>• Flame Charge<br>• Earthquake<br>• Sucker Punch<br>• Wild Charge |
+    | &nbsp; | ![][534] <br> __[Conkeldurr]__ <br>Guts<br>Lv. 56<br>Leftovers<br>• Focus Punch<br>• Substitute<br>• Mach Punch<br>• Payback | &nbsp; | &nbsp; |
     
 === "Challenge Mode"
 

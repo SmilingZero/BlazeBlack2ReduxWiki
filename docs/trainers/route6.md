@@ -62,22 +62,22 @@
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 46<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 46<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 47<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
-    | &nbsp; | ![][549] <br> __[Lilligant]__ <br>Own Tempo<br>Lv. 46<br>Focus Sash<br>• Petal Dance<br>• Extrasensory<br>• Sleep Powder<br>• Quiver Dance | ![][503] <br> __[Samurott]__ <br>Shell Armor<br>Lv. 47<br>Leftovers<br>• Air Slash<br>• Waterfall<br>• Megahorn<br>• Close Combat | &nbsp; |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 43<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 43<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 44<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
+    | &nbsp; | ![][549] <br> __[Lilligant]__ <br>Own Tempo<br>Lv. 43<br>Focus Sash<br>• Petal Dance<br>• Extrasensory<br>• Sleep Powder<br>• Quiver Dance | ![][503] <br> __[Samurott]__ <br>Shell Armor<br>Lv. 44<br>Leftovers<br>• Air Slash<br>• Waterfall<br>• Megahorn<br>• Close Combat | &nbsp; |
     
 === "Oshawott"
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 46<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 46<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 47<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
-    | &nbsp; | ![][323] <br> __[Camerupt]__ <br>Simple<br>Lv. 46<br>Passho Berry<br>• Flamethrower<br>• Rock Climb<br>• Earthquake<br>• Rock Polish | ![][497] <br> __[Serperior]__ <br>Contrary<br>Lv. 47<br>Leftovers<br>• Glare<br>• Leaf Blade<br>• Dragon Pulse<br>• Aqua Tail | &nbsp; |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 43<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 43<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 44<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
+    | &nbsp; | ![][323] <br> __[Camerupt]__ <br>Simple<br>Lv. 43<br>Passho Berry<br>• Flamethrower<br>• Rock Climb<br>• Earthquake<br>• Rock Polish | ![][497] <br> __[Serperior]__ <br>Contrary<br>Lv. 44<br>Leftovers<br>• Glare<br>• Leaf Blade<br>• Dragon Pulse<br>• Aqua Tail | &nbsp; |
     
 === "Snivy"
 
     | Trainer | &nbsp; | Pokémon | &nbsp; |
     |: --- :|: --- :|: --- :|: --- :|
-    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 46<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 46<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 47<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
-    | &nbsp; | ![][121] <br> __[Starmie]__ <br>Regenerator<br>Lv. 46<br>Red Card<br>• Scald<br>• Psyshock<br>• Signal Beam<br>• Tri Attack | ![][500] <br> __[Emboar]__ <br>Mold Breaker<br>Lv. 47<br>Leftovers<br>• Body Slam<br>• Flame Charge<br>• Earthquake<br>• Cross Chop | &nbsp; |
+    | <br>![][Hugh]<br>__Hugh__<br>:exclamation::warning:  | ![][277] <br> __[Swellow]__ <br>Scrappy<br>Lv. 43<br>Metronome<br>• Boomburst<br>• Quick Attack<br>• Hurricane<br>• U-Turn | ![][603] <br> __[Eelektrik]__ <br>Levitate<br>Lv. 43<br>Leftovers<br>• Wild Charge<br>• Aqua Tail<br>• Giga Drain<br>• Drain Punch | ![][330] <br> __[Flygon]__ <br>Levitate<br>Lv. 44<br>Life Orb<br>• Scorching Sands<br>• Dragon Claw<br>• Lunge<br>• Dragon Dance |
+    | &nbsp; | ![][121] <br> __[Starmie]__ <br>Regenerator<br>Lv. 43<br>Red Card<br>• Scald<br>• Psyshock<br>• Signal Beam<br>• Tri Attack | ![][500] <br> __[Emboar]__ <br>Mold Breaker<br>Lv. 44<br>Leftovers<br>• Body Slam<br>• Flame Charge<br>• Earthquake<br>• Cross Chop | &nbsp; |
     
 &nbsp;
 

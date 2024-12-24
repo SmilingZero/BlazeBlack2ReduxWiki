@@ -519,20 +519,22 @@ def getSpeciesTypeStringHTML(typeList):
     return '<br>'.join(['<img src=\"../../img/type/{type}.png\">'.format(type = s.lower()) for s in typeList])
 
 def getDefenseRow(v):
-    max_per_row = 4
+    max_per_row = 16
     all_elem = ['<img src=\"../../img/type/{type}.png\" width=\"48\">'.format(type=tt.lower()) for tt in v]
     split_elem = [''.join(all_elem[n:n+max_per_row]) for n in range(0,len(all_elem), max_per_row)]
     return '<br>'.join(split_elem)
 
+
 def getCompositeSpriteTable(name, type, ability, defense):
     species, form = getSpecies(name)
     imString = getPokemonImageHTML(species,form)
-    formHeader = getSubsectionHeader(name).replace('#','').replace('\n', '').strip()
+    formHeader = getSubsectionHeader(name)\
+        .replace('#','')\
+        .replace('\n', '').strip()
     header_text = ['', 'Type']
     col_span = [1, 1]
     if form != 'base':
         header_text[0] = formHeader
-    row_span = 1
     if len(ability) > 0:
         header_text.append('Ability')
         col_span.append(1)
@@ -540,29 +542,22 @@ def getCompositeSpriteTable(name, type, ability, defense):
         abi_strings = [prefix[i]+ability[i] for i in range(0, len(ability))]
         join_abi_string = ' <br> '.join(abi_strings)
     if len(defense) > 0:
-        row_span = 6
-        header_text.append('Defenses')
-        col_span.append(2)
-        def_content = ["<td>{t}:</td><td>{c}</td>".format(t=k.strip(), c = getDefenseRow(v))
+        def_content = ["<tr><td align=\"right\">{t}:</td><td colspan=\"{cs}\">{c}</td></tr>".format(t=k.strip(), c = getDefenseRow(v), cs = sum(col_span)-1)
              for k,v in defense.items()]
-
-    body_head = '<table cellspacing=\"0\" cellpadding=\"0\"><tr>' + ''.join(['<th colspan=\"{cs}\" align=\"center\">{h}</th>'.format(h = h, cs = col_span[i]) for i,h in enumerate(header_text)]) + '</tr>'
+    body_head = '<table cellspacing=\"0\" cellpadding=\"0\"><tr>' +\
+        ''.join(['<th colspan=\"{cs}\" align=\"center\">{h}</th>'.format(h = h, cs = col_span[i]) for i,h in enumerate(header_text)]) + '</tr>'
     body_foot = '</table>'
-
-    im_col = '<td rowspan=\"{rs}\">{im}</td>'.format(rs = row_span, im = imString)
-    type_col = '<td rowspan=\"{rs}\">{c}</td>'.format(rs = row_span, c = getSpeciesTypeStringHTML(type))
+    im_col = '<td align="center";rowspan=\"{rs}\">{im}</td>'.format(rs = 1, im = imString)
+    type_col = '<td align="center";rowspan=\"{rs}\">{c}</td>'.format(rs = 1, c = getSpeciesTypeStringHTML(type))
 
     cell_content = [im_col, type_col]
     if len(ability)>0:
-        abi_col = '<td rowspan=\"{rs}\">{c}</td>'.format(rs = row_span, c = join_abi_string)
+        abi_col = '<td rowspan=\"{rs}\">{c}</td>'.format(rs = 1, c = join_abi_string)
         cell_content.append(abi_col)
-    if len(defense)>0:
-        def_col = '<td rowspan=\"{rs}\">{c}</td>'.format(rs = "1", c=def_content[0])
-        cell_content.append(def_col)
     body_content = '<tr>{c}</tr>'.format(c=''.join(cell_content))
-    if len(defense)>0:
-        body_content += ''.join(['<tr><td rowspan=\"{rs}\">{c}</td></tr>'.format(rs="1", c=cell) for cell in def_content[1:]])
-    
+    if len(defense) > 0:
+        body_content += '<tr><th colspan=\"{cs}\" align=\"center\">Defenses</th></tr>'.format(cs = sum(col_span))
+        body_content += ''.join(def_content)
     return body_head+body_content+body_foot
 
 def inline_remove(o_set, c):
